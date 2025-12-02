@@ -155,6 +155,8 @@ export const loadPaintKits = () => {
     state.paintKits = Object.entries(state.itemsGame.paint_kits).reduce((acc, [key, item]) => {
         if (item.description_tag !== undefined) {
             acc[item.name.toLowerCase()] = {
+                code: item.name,
+                description_string: item.description_string,
                 description_tag: item.description_tag,
                 wear_remap_min: item.wear_remap_min ?? 0.06,
                 wear_remap_max: item.wear_remap_max ?? 0.8,

@@ -19,6 +19,9 @@ import { getSkinsNotGrouped } from "./services/skinsNotGrouped.js";
 import { getTools } from "./services/tools.js";
 import { getBaseWeapons } from "./services/baseWeapons.js";
 import { getHighlights } from "./services/highlights.js";
+import { getPaintKits } from "./services/paintKits.js";
+import { getPaintKitStyles } from "./services/paintKitStyles.js";
+import { getCrateTypes } from "./services/crateTypes.js";
 
 const args = process.argv.slice(2);
 const isForce = args.includes("--force");
@@ -72,6 +75,9 @@ await Promise.all(
             getTools();
             getBaseWeapons();
             getHighlights();
+            getPaintKits();
+            getPaintKitStyles();
+            getCrateTypes();
         } catch (error) {
             console.log(error);
         }
