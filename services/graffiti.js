@@ -110,6 +110,12 @@ const parseItemSealedGraffiti = item => {
         original: {
             name: item.name,
             image_inventory: `econ/stickers/${item.sticker_material}`,
+        },  
+
+        // Language translation keys
+        i18n: {
+            name: item.item_name,
+            description: item.item_description,
         },
     };
 };

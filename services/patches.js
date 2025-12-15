@@ -30,7 +30,7 @@ const parseItem = item => {
     return {
         id: `patch-${item.object_id}`,
         name: `${$t("csgo_tool_patch")} | ${$t(item.item_name)}`,
-        description: getDescription(item),
+        description: $t(item.description_string),
         def_index: item.object_id,
         rarity: {
             id: `rarity_${item.item_rarity}`,
@@ -44,6 +44,12 @@ const parseItem = item => {
         original: {
             name: item.name,
             image_inventory: `econ/patches/${item.patch_material}`,
+        },
+
+        // Language translation keys
+        i18n: {
+            name: item.item_name,
+            description: item.description_string
         },
     };
 };

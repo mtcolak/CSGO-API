@@ -7,6 +7,10 @@
   "def_index": "1200",
   "original": {
    "image_inventory": "econ/tools/tag"
+  },
+  "i18n": {
+   "name": "csgo_tool_name_tag",
+   "description": "csgo_tool_name_tag_desc"
   }
  },
  {
@@ -17,6 +21,10 @@
   "def_index": "1201",
   "original": {
    "image_inventory": "econ/tools/casket"
+  },
+  "i18n": {
+   "name": "csgo_tool_casket_tag",
+   "description": "csgo_tool_casket_tag_desc"
   }
  },
  {
@@ -27,6 +35,10 @@
   "def_index": "1324",
   "original": {
    "image_inventory": "econ/tools/stattrak_swap_tool"
+  },
+  "i18n": {
+   "name": "csgo_tool_stattrak_swap",
+   "description": "csgo_tool_stattrak_swap_desc"
   }
  },
  {
@@ -37,6 +49,10 @@
   "def_index": "65",
   "original": {
    "image_inventory": "econ/tools/keychain_remove_tool"
+  },
+  "i18n": {
+   "name": "csgo_removekeychainTool_title",
+   "description": "csgo_removekeychaintool_desc"
   }
  }
 ]

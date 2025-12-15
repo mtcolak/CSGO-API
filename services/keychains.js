@@ -48,6 +48,12 @@ const parseItem = item => {
             loc_name: item.loc_name,
             image_inventory: item.image_inventory.toLowerCase(),
         },
+
+        // Language translation keys
+        i18n: {
+            name: item.loc_name,
+            description: "csgo_tool_keychain_desc",
+        },
     };
 };
 

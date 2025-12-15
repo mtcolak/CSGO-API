@@ -179,6 +179,12 @@ const parseItem = (item, prefabs) => {
             item_name: item.item_name,
             image_inventory: item.image_inventory.toLowerCase(),
         },
+
+        // Language translation keys
+        i18n: {
+            name: item.item_name,
+            description: item.item_description,
+        },
     };
 
     // Souvenir Highlight Package

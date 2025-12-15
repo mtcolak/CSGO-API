@@ -21,6 +21,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_ava",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_ava"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_ava",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -45,6 +49,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_banana",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_banana"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_banana",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -69,6 +77,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_cat",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_cat"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_cat",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -93,6 +105,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_catbeach",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_catbeach"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_catbeach",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -117,6 +133,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_chicken",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_chicken"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_chicken",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -141,6 +161,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_guerilla",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_guerilla"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_guerilla",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -165,6 +189,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_howl",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_howl"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_howl",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -189,6 +217,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_kev",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_kev"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_kev",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -213,6 +245,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_monster",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_monster"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_monster",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -237,6 +273,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_catchup",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_catchup"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_sam_catchup",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -261,6 +301,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_diamond",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_diamond"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_sam_diamond",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -285,6 +329,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_salty",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_salty"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_sam_salty",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -309,6 +357,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_shape",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_shape"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_sam_shape",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -333,6 +385,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_toile",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_toile"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_sam_toile",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -357,6 +413,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sas",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sas"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_sas",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -381,6 +441,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_wurst",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_wurst"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_wurst",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -405,6 +469,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_ak_base",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_ak_base"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_ak_base",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -429,6 +497,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_ak_jelly",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_ak_jelly"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_ak_jelly",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -453,6 +525,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_awp_plastic",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_awp_plastic"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_awp_plastic",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -477,6 +553,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_awp_spoon",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_awp_spoon"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_awp_spoon",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -501,6 +581,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_ctknife_gold",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_ctknife_gold"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_ctknife_gold",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -525,6 +609,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_ctknife_wood",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_ctknife_wood"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_ctknife_wood",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -549,6 +637,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_m4a1s_comic",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_m4a1s_comic"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_m4a1s_comic",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -573,6 +665,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_m4a1s_ss",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_m4a1s_ss"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_m4a1s_ss",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -597,6 +693,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_mac10_glitter",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_mac10_glitter"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_mac10_glitter",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -621,6 +721,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_mac10_tile",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_mac10_tile"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_mac10_tile",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -645,6 +749,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_tec9_cap",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_tec9_cap"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_tec9_cap",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -669,6 +777,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_tec9_magma",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_tec9_magma"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_tec9_magma",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -693,6 +805,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_tknife_crystal",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_tknife_crystal"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_tknife_crystal",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -717,6 +833,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_tknife_gold",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_tknife_gold"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_tknife_gold",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -741,6 +861,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_usp_jewel",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_usp_jewel"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_usp_jewel",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -765,6 +889,10 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_usp_yarn",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_usp_yarn"
+  },
+  "i18n": {
+   "name": "#keychain_kc_wpn_usp_yarn",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -789,6 +917,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_bigfoot",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_bigfoot"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_bigfoot",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -813,6 +945,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_ancientcurse",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_ancientcurse"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_ancientcurse",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -837,6 +973,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_babyserpent",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_babyserpent"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_babyserpent",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -861,6 +1001,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_basketball",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_basketball"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_basketball",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -885,6 +1029,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_bodybag",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_bodybag"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_bodybag",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -909,6 +1057,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_cactus",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_cactus"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_cactus",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -933,6 +1085,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_charmburger",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_charmburger"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_charmburger",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -957,6 +1113,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_cigar",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_cigar"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_cigar",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -981,6 +1141,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_cthulhu",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_cthulhu"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_cthulhu",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1005,6 +1169,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_happy",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_happy"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_happy",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1029,6 +1197,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_lilhothead",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_lilhothead"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_lilhothead",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1053,6 +1225,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_lillol",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_lillol"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_lillol",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1077,6 +1253,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_melted",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_melted"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_melted",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1101,6 +1281,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_pencil",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_pencil"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_pencil",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1125,6 +1309,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_pinata",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_pinata"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_pinata",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1149,6 +1337,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_popsicle",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_popsicle"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_popsicle",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1173,6 +1365,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sentai",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_sentai"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_sentai",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1197,6 +1393,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sillyelephant",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_sillyelephant"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_sillyelephant",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1221,6 +1421,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_slime",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_slime"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_slime",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1245,6 +1449,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_surfsup",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_surfsup"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_surfsup",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1269,6 +1477,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_winemaker",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_winemaker"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_winemaker",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1293,6 +1505,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_retrovision",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_retrovision"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_retrovision",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1317,6 +1533,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_muteghost",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_muteghost"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_muteghost",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1341,6 +1561,10 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_lilhatchling",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_lilhatchling"
+  },
+  "i18n": {
+   "name": "#keychain_kc_missinglink_lilhatchling",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1365,6 +1589,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_200iq",
    "image_inventory": "econ/keychains/drboom/kc_db_200iq"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_200iq",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1389,6 +1617,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_biomech",
    "image_inventory": "econ/keychains/drboom/kc_db_biomech"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_biomech",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1413,6 +1645,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_hellcat",
    "image_inventory": "econ/keychains/drboom/kc_db_hellcat"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_hellcat",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1437,6 +1673,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_terror",
    "image_inventory": "econ/keychains/drboom/kc_db_terror"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_terror",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1461,6 +1701,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_ugly",
    "image_inventory": "econ/keychains/drboom/kc_db_ugly"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_ugly",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1485,6 +1729,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_wood",
    "image_inventory": "econ/keychains/drboom/kc_db_wood"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_wood",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1509,6 +1757,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_yinyang",
    "image_inventory": "econ/keychains/drboom/kc_db_yinyang"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_yinyang",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1533,6 +1785,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_aztec",
    "image_inventory": "econ/keychains/drboom/kc_db_aztec"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_aztec",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1557,6 +1813,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_bombacat",
    "image_inventory": "econ/keychains/drboom/kc_db_bombacat"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_bombacat",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1581,6 +1841,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_clown",
    "image_inventory": "econ/keychains/drboom/kc_db_clown"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_clown",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1605,6 +1869,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_dimsum",
    "image_inventory": "econ/keychains/drboom/kc_db_dimsum"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_dimsum",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1629,6 +1897,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_eviscerate",
    "image_inventory": "econ/keychains/drboom/kc_db_eviscerate"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_eviscerate",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1653,6 +1925,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_dripfade",
    "image_inventory": "econ/keychains/drboom/kc_db_dripfade"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_dripfade",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1677,6 +1953,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_eco",
    "image_inventory": "econ/keychains/drboom/kc_db_eco"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_eco",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1701,6 +1981,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_eyecritter",
    "image_inventory": "econ/keychains/drboom/kc_db_eyecritter"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_eyecritter",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1725,6 +2009,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_occult",
    "image_inventory": "econ/keychains/drboom/kc_db_occult"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_occult",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1749,6 +2037,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_yeti",
    "image_inventory": "econ/keychains/drboom/kc_db_yeti"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_yeti",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1773,6 +2065,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_8ball",
    "image_inventory": "econ/keychains/drboom/kc_db_8ball"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_8ball",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1797,6 +2093,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_flash",
    "image_inventory": "econ/keychains/drboom/kc_db_flash"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_flash",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1821,6 +2121,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_incendiary",
    "image_inventory": "econ/keychains/drboom/kc_db_incendiary"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_incendiary",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1845,6 +2149,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_lighter",
    "image_inventory": "econ/keychains/drboom/kc_db_lighter"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_lighter",
+   "description": "csgo_tool_keychain_desc"
   }
  },
  {
@@ -1869,6 +2177,10 @@
   "original": {
    "loc_name": "#keychain_kc_db_drbrian",
    "image_inventory": "econ/keychains/drboom/kc_db_drbrian"
+  },
+  "i18n": {
+   "name": "#keychain_kc_db_drbrian",
+   "description": "csgo_tool_keychain_desc"
   }
  }
 ]

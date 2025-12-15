@@ -1,0 +1,49 @@
+import { saveDataJson } from "../utils/saveDataJson.js";
+import { $t, languageData } from "./translations.js";
+import { state } from "./main.js";
+
+export const getPaintKits = async () => {
+    const { paintKits } = state;
+    const { folder } = languageData;
+
+    const paintKitsList = Object.values(paintKits).map(paintKit => {
+        const {
+            paint_index,
+            description_tag,
+            wear_remap_min,
+            wear_remap_max,
+            style_id,
+            style_name,
+        } = paintKit;
+
+        const nameTag = description_tag
+            .replace("#", "");
+
+        const descriptionTag = description_tag
+            .replace("#", "")
+            .replace("_Tag", "");
+
+        return {
+            paintIndex: paint_index,
+            name: $t(nameTag),
+            description: $t(descriptionTag),
+            wear: {
+                wearReMapMin: wear_remap_min,
+                wearReMapMax: wear_remap_max,
+            },
+            style: {
+                id: style_id,
+                name: $t(style_name),
+            },
+
+            // Language translation keys
+            i18n: {
+                name: nameTag,
+                description: descriptionTag,
+            },
+        };
+    })
+    .filter(item => item.name); // Filter out items without a name (if any translation fails or is missing)
+
+    await saveDataJson(`./public/api/${folder}/paint_kits.json`, paintKitsList);
+};

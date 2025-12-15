@@ -34,6 +34,12 @@ const parseItem = item => {
         original: {
             image_inventory: item.image_inventory,
         },
+
+        // Language translation keys
+        i18n: {
+            name: item.item_name,
+            description: item.item_description,
+        },
     };
 };
 

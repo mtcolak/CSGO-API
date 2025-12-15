@@ -13,6 +13,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VvmTxz_n9ixpXoPuKX3bPY-JKGXWzaVwL8v4OdrS3vnl0QhsWiEzdz4d3zGOw9yFNIuEqy62DQg",
   "original": {
    "name": "patch_banana",
+   "item_name": "#PatchKit_patch_banana",
    "image_inventory": "econ/patches/case01/patch_banana"
   }
  },
@@ -30,6 +31,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VvoUg6_yJXlq3Jfvfb3OfVpdvORWzSUmb4vsbA-Tiyxw0l34G3cy9r8cHqQaRhgVMVdMdWYIg",
   "original": {
    "name": "patch_boss",
+   "item_name": "#PatchKit_patch_boss",
    "image_inventory": "econ/patches/case01/patch_boss"
   }
  },
@@ -47,6 +49,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VrvSB76m5js8jRe_bz6aqBoIfTFXjfIwL5w4rNtHirhwk0itz7Rz434d3ufZwJ1A5UiRuUIrFDmxeUcGzvT",
   "original": {
    "name": "patch_chickenlover",
+   "item_name": "#PatchKit_patch_chickenlover",
    "image_inventory": "econ/patches/case01/patch_chickenlover"
   }
  },
@@ -64,6 +67,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VrrVAnylti5ryNZ6ar2Oqc4IqDGXTWVxb4ksbMxHnnmzUh3smiHnI78cnzCbgB0FNIuErNFzBiT",
   "original": {
    "name": "patch_clutch",
+   "item_name": "#PatchKit_patch_clutch",
    "image_inventory": "econ/patches/case01/patch_clutch"
   }
  },
@@ -81,6 +85,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81V31QBr-kNi2rCRatvasP6VvJqOXXWHDxL8ktudqGX7gxkQk4G-Dn9-tJ3-XbAZ1FNIuEm5aAWC5",
   "original": {
    "name": "patch_dragon",
+   "item_name": "#PatchKit_patch_dragon",
    "image_inventory": "econ/patches/case01/patch_dragon"
   }
  },
@@ -98,6 +103,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VzmUgThm5fz5GwOuvb4aqU-I6fKXDWVkOojsbk7GXjqxxkj5GvSm9r7IHPEPVVxC5RwW6dU5RExNI85",
   "original": {
    "name": "patch_easypeasy",
+   "item_name": "#PatchKit_patch_easypeasy",
    "image_inventory": "econ/patches/case01/patch_easypeasy"
   }
  },
@@ -115,6 +121,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81V_yUwS_z5ez-HcPuaL9Mac5c6PDWWSUmOh34rQ9F33kzBshtzzTmdj9dXvEbxhgVMUYWXsW3A",
   "original": {
    "name": "patch_fury",
+   "item_name": "#PatchKit_patch_fury",
    "image_inventory": "econ/patches/case01/patch_fury"
   }
  },
@@ -132,6 +139,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VHoVhG_n8ezrnQJuKP2a_JoefHKWmOTlepysbM4TiznkB4m4WrVyd6oInjCOxhgVMU-QQsahQ",
   "original": {
    "name": "patch_howl",
+   "item_name": "#PatchKit_patch_howl",
    "image_inventory": "econ/patches/case01/patch_howl"
   }
  },
@@ -149,6 +157,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VLoSFOmzs-4pHRa6aKvPfA0eKfGDWPEw78m5Oc-GHvilk4k6j6HyN3_eXuTcEZ-Xb3AnW5j",
   "original": {
    "name": "patch_koi",
+   "item_name": "#PatchKit_patch_koi",
    "image_inventory": "econ/patches/case01/patch_koi"
   }
  },
@@ -166,6 +175,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VXoTxr0iJ_05GwJtqGtOfA9ePbFXjCSmL5y6Oc7HSjnk0p2sTvdztv6JX2SZgQoCJdzW6dU5dfsORGo",
   "original": {
    "name": "patch_longevity",
+   "item_name": "#PatchKit_patch_longevity",
    "image_inventory": "econ/patches/case01/patch_longevity"
   }
  },
@@ -183,6 +193,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81U7uTRn3l4Tls3QCtqqrPfw5eabBDWbJlu0l6bE7Hi-2zBh-sjndmNn9dHqVPVJ0CJNuBbldVZUXflY",
   "original": {
    "name": "patch_wildfire",
+   "item_name": "#PatchKit_patch_wildfire",
    "image_inventory": "econ/patches/case01/patch_wildfire"
   }
  },
@@ -200,6 +211,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81U_uRhT9n5jj-GwM66f-bPxod6OVWGGVw7Yv4blsTHHlzUol5W2Hyt2pJCiWbwB0WJF0W6dU5RxiNRHw",
   "original": {
    "name": "patch_vigilance",
+   "item_name": "#PatchKit_patch_vigilance",
    "image_inventory": "econ/patches/case01/patch_vigilance"
   }
  },
@@ -217,6 +229,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VvrThL1lpn18yYVtqH4P_drcaXLVzWUk-p05rBtTHHqzBl-5zjWzIusdXOWbQcjApd0RPlK7EcjJZsQqQ",
   "original": {
    "name": "patch_bloodhound",
+   "item_name": "#PatchKit_patch_bloodhound",
    "image_inventory": "econ/patches/case01/patch_bloodhound"
   }
  },
@@ -234,6 +247,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81Vv1QAv-0MG5_CRatqL9Pv09dPLDWWHHlusg4uI8GXqywUt_4ziHmYysJSiQZwM-SswnHOUMTFo",
   "original": {
    "name": "patch_bravo",
+   "item_name": "#PatchKit_patch_bravo",
    "image_inventory": "econ/patches/case01/patch_bravo"
   }
  },
@@ -251,6 +265,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81Vv1RBz6kYP0sycN6_asP_Y8eKLGXT7Clrwn5bBrHX22wRsm52jVnNepIn7CZgZzX5puBbldbqdgS9s",
   "original": {
    "name": "patch_breakout",
+   "item_name": "#PatchKit_patch_breakout",
    "image_inventory": "econ/patches/case01/patch_breakout"
   }
  },
@@ -268,6 +283,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81V3mTxr0jIzv8ycVvaT_PqJvI6fEWGPJlrsn4uNvGH2wkRkk4WrXwo2pI3vEa1AnDZpwEflK7EfVzBVKyw",
   "original": {
    "name": "patch_dangerzone",
+   "item_name": "#PatchKit_patch_dangerzone",
    "image_inventory": "econ/patches/case01/patch_dangerzone"
   }
  },
@@ -285,6 +301,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VH-RQ_w0JKwpCBdu_P3OqY6JvHKV2XIlLcjtOcwTHvgwkx-5zvWzYr9JXKUagM-SswnBsU963w",
   "original": {
    "name": "patch_hydra",
+   "item_name": "#PatchKit_patch_hydra",
    "image_inventory": "econ/patches/case01/patch_hydra"
   }
  },
@@ -302,6 +319,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81UnmWB_wnZ2urCcMvvarOKY_dqKWCDDFk-sl5bk9SS-3wkkl5G7Xwt2pJ3rDPwFxCYwwG7Ccb2moTA",
   "original": {
    "name": "patch_payback",
+   "item_name": "#PatchKit_patch_payback",
    "image_inventory": "econ/patches/case01/patch_payback"
   }
  },
@@ -319,6 +337,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81UnvThj_l46urnYK7qGvOfY5cqjEWWTHwrty6ORoGnzjl0VytT6By9n_cnOQPAUoAowwG7C8k9YQ6w",
   "original": {
    "name": "patch_phoenix",
+   "item_name": "#PatchKit_patch_phoenix",
    "image_inventory": "econ/patches/case01/patch_phoenix"
   }
  },
@@ -336,6 +355,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81UrvQAnlm4Tl-TVe7byraqE5dPKWWDWSw-8v4LM7SX7klh52sjvQz4yqc37Bb1AjCsR1FOIOrFDmxTcxy8-I",
   "original": {
    "name": "patch_shatteredweb",
+   "item_name": "#PatchKit_patch_shatteredweb",
    "image_inventory": "econ/patches/case01/patch_shatteredweb"
   }
  },
@@ -353,6 +373,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81U_mTxrkn4Tks3FdvKKtO_I6efOSV2TIw7hw4eAwGXHqwR4j5GWGn46sdnvBO1coCsBuBbldD_DO2RU",
   "original": {
    "name": "patch_vanguard",
+   "item_name": "#PatchKit_patch_vanguard",
    "image_inventory": "econ/patches/case01/patch_vanguard"
   }
  },
@@ -370,6 +391,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1I5v64bbYjc_bLDWORmb0h6OQ5SSviwhx04GSBzon_Jy3EbgNzDcdyQOBcs0Kwwcqnab3fxfXCfA",
   "original": {
    "name": "patch_silver",
+   "item_name": "#PatchKit_patch_silver",
    "image_inventory": "econ/patches/case_skillgroups/patch_silver"
   }
  },
@@ -387,6 +409,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1c4P6qZqt7IaHdWmTCwr905rI8GXCwk0x24j_RytqtICmWOwQoW5tzQrNbshTpx9e2PvSiuVJgbtDEaQ",
   "original": {
    "name": "patch_goldnova1",
+   "item_name": "#PatchKit_patch_goldnova1",
    "image_inventory": "econ/patches/case_skillgroups/patch_goldnova1"
   }
  },
@@ -404,6 +427,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1c4P6qZqt7If2SHXOV06Aj4uMwFn_gw0x1t2zSmN76d3-Waw8nD5V3TOALsxO6ltPnNOix7gTelcsbmhVplCMW",
   "original": {
    "name": "patch_goldnovamaster",
+   "item_name": "#PatchKit_patch_goldnovamaster",
    "image_inventory": "econ/patches/case_skillgroups/patch_goldnovamaster"
   }
  },
@@ -421,6 +445,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1W7uG6bbZqNfGBCm6Rz784tbA_HnrnwBx2sWrVw9z_dn3FPwAlXpZ2TONfu0a6m9fuNbvr5Qbb3ZUFk3sHmpsRiw",
   "original": {
    "name": "patch_masterguardian1",
+   "item_name": "#PatchKit_patch_masterguardian1",
    "image_inventory": "econ/patches/case_skillgroups/patch_masterguardian1"
   }
  },
@@ -438,6 +463,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1W7uG6bbZqNfGBCm6Rz-t6ufVsAS3hxU4l4m3czNn_dHyVawIjWMQkFLVbtES4ldPlZOK041fdg4gUyi7gznQeOYOZIq4",
   "original": {
    "name": "patch_masterguardianelite",
+   "item_name": "#PatchKit_patch_masterguardianelite",
    "image_inventory": "econ/patches/case_skillgroups/patch_masterguardianelite"
   }
  },
@@ -455,6 +481,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1f4vXgO6JpcKHLD2PJwLt0teA8GyvlzElz4jiHyY3_cS7FPFcjCpAmF-5ftQ74zINXl2BmzQ",
   "original": {
    "name": "patch_dmg",
+   "item_name": "#PatchKit_patch_dmg",
    "image_inventory": "econ/patches/case_skillgroups/patch_dmg"
   }
  },
@@ -472,6 +499,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1X6vWrZqBsMumWD2CcxON3o_VsXWe1xkx1sm3Rzt6gd3zGalMiDMYkQLFbs0O6m9ThM-7r5wfeiYkRnyj9kGoXuYZUHYQE",
   "original": {
    "name": "patch_legendaryeaglemaster",
+   "item_name": "#PatchKit_patch_legendaryeaglemaster",
    "image_inventory": "econ/patches/case_skillgroups/patch_legendaryeaglemaster"
   }
  },
@@ -489,6 +517,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1I-uK8balobvSQCjWUxb5ztuA4H3GyzR9x52XXm9v9JynBZ1QnCJUhTLMK5hO6w4f5d7S18KYemJo",
   "original": {
    "name": "patch_supreme",
+   "item_name": "#PatchKit_patch_supreme",
    "image_inventory": "econ/patches/case_skillgroups/patch_supreme"
   }
  },
@@ -506,6 +535,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1c4_2saahoLPmHCymUluol4eU6Hn23lkkmsW3TyoyucS_FbANzD8Z4R7NZtRG5m9SzMeLl-UWA3FRqEhOi",
   "original": {
    "name": "patch_globalelite",
+   "item_name": "#PatchKit_patch_globalelite",
    "image_inventory": "econ/patches/case_skillgroups/patch_globalelite"
   }
  },
@@ -523,6 +553,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1f4vX8JqdpdvPDWT7Gmesis-A8Ti_lkRgitWncyNv_dX_DbAYgXsN1F-ZctUGm0oqwU0igiTw",
   "original": {
    "name": "patch_dmg2",
+   "item_name": "#PatchKit_patch_dmg1",
    "image_inventory": "econ/patches/case_skillgroups/patch_dmg2"
   }
  },
@@ -540,6 +571,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1X6vWrZqBsMumWD2CcxLw46Oc6Hiiyxk126z7Rztf_IniTPwIoDJMkQuVYtkTtmobhZrmxtQfZ3ZUFk3sJGZSG8Q",
   "original": {
    "name": "patch_legendaryeagle2",
+   "item_name": "#PatchKit_patch_legendaryeagle",
    "image_inventory": "econ/patches/case_skillgroups/patch_legendaryeagle2"
   }
  },
@@ -557,6 +589,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1X6vWrZqBsMumWD2CcxON3o_VsXXv9xB5z52yDmNr7Ii7DOwAnWZIkRLUIsBK_kYXkY7vm4AHY2INMxC332DQJsHg-8A9cWA",
   "original": {
    "name": "patch_legendaryeaglemaster2",
+   "item_name": "#PatchKit_patch_legendaryeaglemaster1",
    "image_inventory": "econ/patches/case_skillgroups/patch_legendaryeaglemaster2"
   }
  },
@@ -574,6 +607,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1I5v64bbZSJPWeAWnekr51s-U-H3i3kE8h4DiBmYr6IyrEbQEoA8BwQbZe4UXsx9SxMuPl5hue1dwfmtuzGA",
   "original": {
    "name": "patch_silver_demon",
+   "item_name": "#PatchKit_patch_silver_demon",
    "image_inventory": "econ/patches/case_skillgroups/patch_silver_demon"
   }
  },
@@ -591,6 +625,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1I-uK8baloLfGAGmKCj-0j5LlrG3Dnxkpz5WnRmdirdnuSaVMlA5R5Q-MOukG4xILgMbvm4lPAy9USsZqlN38",
   "original": {
    "name": "patch_suprememaster",
+   "item_name": "#PatchKit_patch_suprememaster",
    "image_inventory": "econ/patches/case_skillgroups/patch_suprememaster"
   }
  },
@@ -608,6 +643,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7v63cOo9IafKCz_ImO1y6eQ6HyjhxEx-4D7Qy9yodC3FP1ByCJQiF7Zc4Bi6jJS5YMq2p9Gg",
   "original": {
    "name": "patch_hlalyx_alyx",
+   "item_name": "#PatchKit_patch_hlalyx_alyx",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_alyx"
   }
  },
@@ -625,6 +661,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk5_evbKd_IfKsCXWVxOA4tLlqFijlzRkksW-EzourdnuROFAoA8YmFLYD4Be-wYXlYbi3sVOPiZUFk3uqfkegrA",
   "original": {
    "name": "patch_hlalyx_headcrab_green",
+   "item_name": "#PatchKit_patch_hlalyx_headcrab_green",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_headcrab_green"
   }
  },
@@ -642,6 +679,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk-f28fOo6dKnHDzfDw-wmtbgwSyvjzU5z4miHyNascXuQPAQnXsB3R-Jf4RTpjJS5YChkLk42",
   "original": {
    "name": "patch_hlalyx_vort",
+   "item_name": "#PatchKit_patch_hlalyx_vort",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_vort"
   }
  },
@@ -659,6 +697,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk5_evbKd_IfKsGmKRzaAk4edtGHvgwxgk4TmBydb6cS3EPFB1DpElEOACtRnsldzlNezm5APWlcsbmoVHyQYA",
   "original": {
    "name": "patch_hlalyx_headcrab_teal",
+   "item_name": "#PatchKit_patch_hlalyx_headcrab_teal",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_headcrab_teal"
   }
  },
@@ -676,6 +715,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk4_OjaqBsH_OcHneV06Ahs7BtF3CwlB8m5mnSmYuhIniWOAJ0DcN4RrNc4RLpl9axNbuz5FaKlcsbmtzt-Ahg",
   "original": {
    "name": "patch_hlalyx_lambda_copper",
+   "item_name": "#PatchKit_patch_hlalyx_lambda_copper",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_lambda_copper"
   }
  },
@@ -693,6 +733,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk5_everB-bqGRWDWRxLgh4uVtHn-wwkkmsG_RwtuvdXjEaAJ1Ccd2Qe5c50a-wdX5d7S1dTB33K0",
   "original": {
    "name": "patch_hlalyx_hearts",
+   "item_name": "#PatchKit_patch_hlalyx_hearts",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_hearts"
   }
  },
@@ -710,6 +751,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7P2jaq1jJc-VHGie1aBzsbRqGCrkxksj527Xzdb7dnzCPVJ0WZYiQ-ZbtkaxkIfgY7-z4ATalcsbmnCm9C27",
   "original": {
    "name": "patch_hlalyx_combine_front",
+   "item_name": "#PatchKit_patch_hlalyx_combine_front",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_combine_front"
   }
  },
@@ -727,6 +769,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7f6va69gJeOSQDbJlu8jsrY-GnzrkBhysm_Wz4n4cnuUaFAjCcMhTOBeuhCxx9PjML_8p1uJz6ZAS7w",
   "original": {
    "name": "patch_hlalyx_blackmesa",
+   "item_name": "#PatchKit_patch_hlalyx_blackmesa",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_blackmesa"
   }
  },
@@ -744,6 +787,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7P-sJvRpd_aRCzDFlbYn5eNsHnC2wh9xtWjSwt6gJ33EbQQiCMAlR7QJtUam0oqw7KIRemc",
   "original": {
    "name": "patch_hlalyx_cmb",
+   "item_name": "#PatchKit_patch_hlalyx_cmb",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_cmb"
   }
  },
@@ -761,6 +805,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk4_OjaqBsH_-BD2mXxKAn4bM7GyrkzBt24j-DzNf9cH3BbldxCZYmQORcuxTqlNLvNeO25ATdlcsbmhK3ee7M",
   "original": {
    "name": "patch_hlalyx_lambda_orange",
+   "item_name": "#PatchKit_patch_hlalyx_lambda_orange",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_lambda_orange"
   }
  },
@@ -778,6 +823,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7KP5JvY4IfaXXGXJwLku5eI4F3Drwh52sjiHnIuheXyUagcmXJV5Q-IOuxem0oqwmQWNv24",
   "original": {
    "name": "patch_hlalyx_c17",
+   "item_name": "#PatchKit_patch_hlalyx_c17",
    "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_c17"
   }
  },
@@ -795,6 +841,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1c4_2saahoLPmHCzXewOgj4OdtHnvllx9z62vdzdivcnKWb1MkCJZ4EOZetxi6l4W2MunjtBue1dzqB6mDjg",
   "original": {
    "name": "patch_globalelite2",
+   "item_name": "#PatchKit_patch_globalelite1",
    "image_inventory": "econ/patches/case_skillgroups/patch_globalelite2"
   }
  },
@@ -812,6 +859,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1W7uG6bbZqNfGBCm6Rz704suI9Tn_jw0gjsT-HzteqIH-ROlRxXJV5Q-5euxC-moLnNLnq41Hc35UFk3vYqynrYQ",
   "original": {
    "name": "patch_masterguardian3",
+   "item_name": "#PatchKit_patch_masterguardian",
    "image_inventory": "econ/patches/case_skillgroups/patch_masterguardian3"
   }
  },
@@ -829,6 +877,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1c4P6qZqt7IaTdVmXBlesu5OBtHSq3zEhw4WmBwtmvd3rBaFUmX5F0QrJb4BHuloXnNfSiuVIYcCN0tg",
   "original": {
    "name": "patch_goldnova4",
+   "item_name": "#PatchKit_patch_goldnova",
    "image_inventory": "econ/patches/case_skillgroups/patch_goldnova4"
   }
  },
@@ -846,6 +895,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff_CBa4fahZptlL-CWQDTCkeom4OBsGnvhwhh_4jvTyNmpdH3DbgIjXsF5QLEDsxC6xNfuMen8p1uJiUkB4-0",
   "original": {
    "name": "patch_op11_abandon_hope",
+   "item_name": "#PatchKit_patch_op11_abandon_hope",
    "image_inventory": "econ/patches/case_op11/patch_op11_abandon_hope"
   }
  },
@@ -863,6 +913,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff_CxY5_28JvRveanCVmGVkL0h4eA9FnjnkUh34D6Aztf6cirCaFMgX5NwF-IKuhCm0oqwCL20S6I",
   "original": {
    "name": "patch_op11_anchor",
+   "item_name": "#PatchKit_patch_op11_anchor",
    "image_inventory": "econ/patches/case_op11/patch_op11_anchor"
   }
  },
@@ -880,6 +931,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff_jBO5uGnZqMjdfWQXDCWw7514LA8Gnrml0p2sGvQmd74dXLFblciCcR4EOIK5Bawl8qnab1NUpWw_Q",
   "original": {
    "name": "patch_op11_cruising",
+   "item_name": "#PatchKit_patch_op11_cruising",
    "image_inventory": "econ/patches/case_op11/patch_op11_cruising"
   }
  },
@@ -897,6 +949,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff-zBU6M29Y6FhJeScACnBwrl357ltH37ilk1ysW_Sn46rd3vBaVMkXsAhRuELsEO_mtHhN7jr-UWA3NmFk7rK",
   "original": {
    "name": "patch_op11_frog_skeleton",
+   "item_name": "#PatchKit_patch_op11_frog_skeleton",
    "image_inventory": "econ/patches/case_op11/patch_op11_frog_skeleton"
   }
  },
@@ -914,6 +967,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff8CNf0OG7e6xkbvbFXzXJl78jsbQ6Si3nzEoitWyEyY79cC-SPQ50DMAkRLEN5Ba7l9D5d7S1nW7YD7s",
   "original": {
    "name": "patch_op11_mad_sushi",
+   "item_name": "#PatchKit_patch_op11_mad_sushi",
    "image_inventory": "econ/patches/case_op11/patch_op11_mad_sushi"
   }
  },
@@ -931,6 +985,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff7StV5M29ebFkJL7BXGGVmL9y4bJrHX_qwE104myDno37JHOVbwEnXJVwF7QLuhKxk4G0Kaq8sL2nTPeE",
   "original": {
    "name": "patch_op11_pink_squid",
+   "item_name": "#PatchKit_patch_op11_pink_squid",
    "image_inventory": "econ/patches/case_op11/patch_op11_pink_squid"
   }
  },
@@ -948,6 +1003,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff7StJ7vymaeo6cPbCD2OVlO0v5LltFiiwwht-sjjUztiteCmRZwYkWZYmEeED5xW8jJS5YFAwfPjP",
   "original": {
    "name": "patch_op11_piranha",
+   "item_name": "#PatchKit_patch_op11_piranha",
    "image_inventory": "econ/patches/case_op11/patch_op11_piranha"
   }
  },
@@ -965,6 +1021,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff7itJ6vzgafU7daHGWDbIlLcn5OA4F3y1lhl26mrRzN-scnyUbQ92A5t5RuQKsQ74zIPkVdYXyQ",
   "original": {
    "name": "patch_op11_siren",
+   "item_name": "#PatchKit_patch_op11_siren",
    "image_inventory": "econ/patches/case_op11/patch_op11_siren"
   }
  },
@@ -982,6 +1039,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff7ilO4_6Ra7ZiM-OAGWiCxf04s7cxHn7qxxgit2_Tyov9dH3BOA8jWZIhTeEL4RXrloLmP77n4lbe3pUFk3txAwrM5g",
   "original": {
    "name": "patch_op11_skull_crossswords",
+   "item_name": "#PatchKit_patch_op11_skull_crossswords",
    "image_inventory": "econ/patches/case_op11/patch_op11_skull_crossswords"
   }
  },
@@ -999,6 +1057,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff7jdV_Pe6V7NsNvXdVmXCl7ku4OJvG33jw012sG3Ty9f8cHifaQMkC5AhQ7UJtRbskoDhZPSiuVLgrX2oow",
   "original": {
    "name": "patch_op11_sunset_wave",
+   "item_name": "#PatchKit_patch_op11_sunset_wave",
    "image_inventory": "econ/patches/case_op11/patch_op11_sunset_wave"
   }
  },
@@ -1016,6 +1075,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff-ytI582pZ-o1dabFDTLGx7ok4LIxSX7ll04itWTXz9uqJX-XZgAnApVxE-APsEXpjJS5YCx9RrN3",
   "original": {
    "name": "patch_op11_fish_go",
+   "item_name": "#PatchKit_patch_op11_fish_go",
    "image_inventory": "econ/patches/case_op11/patch_op11_fish_go"
   }
  },
@@ -1033,6 +1093,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff_jZT-v6mfepvc6jLW2bIlblysuJvHnq3xxgksDvUw9qqdX2QawMjXMAjFLQItBCxjJS5YJvHw0W8",
   "original": {
    "name": "patch_op11_cthulhu",
+   "item_name": "#PatchKit_patch_op11_cthulhu",
    "image_inventory": "econ/patches/case_op11/patch_op11_cthulhu"
   }
  },
@@ -1050,6 +1111,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff8Cda4826YalobqCRWWbDx7cms-JvHivnwUlw5DzRz47_c3PDa1UkWJIkQ7YJ4Bm6x935d7S1gepkPKk",
   "original": {
    "name": "patch_op11_meal_time",
+   "item_name": "#PatchKit_patch_op11_meal_time",
    "image_inventory": "econ/patches/case_op11/patch_op11_meal_time"
   }
  },
@@ -1067,6 +1129,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL_l4aurScI7fT3bPdud_OSDD-Ww7Yg4rI6FnDhl0sh5zzQzNapdnrFZw8pCIwwG7DvyWcnQA",
   "original": {
    "name": "stockh2021_teampatch_nip",
+   "item_name": "#StickerKit_stockh2021_team_nip",
    "image_inventory": "econ/patches/stockh2021/patch_nip"
   }
  },
@@ -1084,6 +1147,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL_l4bf-i1X67z-PKBsdKKWXGKWxLh14uU7H3ywzRh-4GrVy4mqeC2RaAcoA8N0E7UOrFDmxQJtO4ls",
   "original": {
    "name": "stockh2021_teampatch_nip_gold",
+   "item_name": "#StickerKit_stockh2021_team_nip_gold",
    "image_inventory": "econ/patches/stockh2021/patch_nip_gold"
   }
  },
@@ -1101,6 +1165,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL3i4TpsycJt_H3OfJud6KXXjDCmOxw5eA4Ti_glBh2t2zdmY3_cCnBPA90A5BuBbldNogRk78",
   "original": {
    "name": "stockh2021_teampatch_furi",
+   "item_name": "#StickerKit_stockh2021_team_furi",
    "image_inventory": "econ/patches/stockh2021/patch_furi"
   }
  },
@@ -1118,6 +1183,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL3i4TpwiVU4_bgbadrePbEV2LAkbol57M7HyuxwEgl4T6DytqpJ3mSaAQnXpAiR-AMsA74zIPNcyT0ug",
   "original": {
    "name": "stockh2021_teampatch_furi_gold",
+   "item_name": "#StickerKit_stockh2021_team_furi_gold",
    "image_inventory": "econ/patches/stockh2021/patch_furi_gold"
   }
  },
@@ -1135,6 +1201,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL_n4Dps3YPuaqravM_JqPCXmTHkb5y57Q7TCiykx5x42iHw4ygd3jEalIiXpVuBbldGhcflIY",
   "original": {
    "name": "stockh2021_teampatch_navi",
+   "item_name": "#StickerKit_stockh2021_team_navi",
    "image_inventory": "econ/patches/stockh2021/patch_navi"
   }
  },
@@ -1152,6 +1219,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL_n4DpwiVU4_bgaf1veKLHXTbAxb90tLQ8F3jrxBt25TvRmdyhd3-QaQUkWZYjQuMItw74zIMRBpLkHw",
   "original": {
    "name": "stockh2021_teampatch_navi_gold",
+   "item_name": "#StickerKit_stockh2021_team_navi_gold",
    "image_inventory": "econ/patches/stockh2021/patch_navi_gold"
   }
  },
@@ -1169,6 +1237,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLnl4LhsyYJv6v6OfBrcaSXXTGUxOsv5OM_TCrnzU9w6j_WzditdSqfbw90AsFuBbldgoQSbaY",
   "original": {
    "name": "stockh2021_teampatch_vita",
+   "item_name": "#StickerKit_stockh2021_team_vita",
    "image_inventory": "econ/patches/stockh2021/patch_vita"
   }
  },
@@ -1186,6 +1255,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLnl4LhwiVU4_bgOfw4dfXLXDeVkLkvtrE9Gn7hwhsmsGvXyIn9cCiebVNxDcN4F7EOug74zIMrxPtu3w",
   "original": {
    "name": "stockh2021_teampatch_vita_gold",
+   "item_name": "#StickerKit_stockh2021_team_vita_gold",
    "image_inventory": "econ/patches/stockh2021/patch_vita_gold"
   }
  },
@@ -1203,6 +1273,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL9l4euq3QDv6b2afdvdamVWjCTw70n5-I6G3zkw0py4WSEytehdS7BbQ4nDYwwG7Di3eEuiA",
   "original": {
    "name": "stockh2021_teampatch_liq",
+   "item_name": "#StickerKit_stockh2021_team_liq",
    "image_inventory": "econ/patches/stockh2021/patch_liq"
   }
  },
@@ -1220,6 +1291,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL9l4ff-i1X67z6afZreaKRWjTBkux1trgxHXzmxE50sW_UyYyhI3KTZwcjX5AkRLUIrFDmxZtoVW-C",
   "original": {
    "name": "stockh2021_teampatch_liq_gold",
+   "item_name": "#StickerKit_stockh2021_team_liq_gold",
    "image_inventory": "econ/patches/stockh2021/patch_liq_gold"
   }
  },
@@ -1237,6 +1309,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2n5vis3IOtqL-OaFucqWXWmHGxLki4rM9HyiwwkkisW6Bwtr8eX3FOFQkDsduBbldHPSJ-ys",
   "original": {
    "name": "stockh2021_teampatch_gamb",
+   "item_name": "#StickerKit_stockh2021_team_gamb",
    "image_inventory": "econ/patches/stockh2021/patch_gamb"
   }
  },
@@ -1254,6 +1327,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2n5viwiVU4_bgaqZrdaSQXGKVwrp34OBvF3ngxEx_5WTTydyhd36VOw9yApR4F7IPuw74zIOcnsryQw",
   "original": {
    "name": "stockh2021_teampatch_gamb_gold",
+   "item_name": "#StickerKit_stockh2021_team_gamb_gold",
    "image_inventory": "econ/patches/stockh2021/patch_gamb_gold"
   }
  },
@@ -1271,6 +1345,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2zNjlqXMPuab8bKZocqaSDTXDxL0us7EwHyq3kER15jzcn9j6JHyXO1UjFNIuEm7Z1Zb4",
   "original": {
    "name": "stockh2021_teampatch_g2",
+   "item_name": "#StickerKit_stockh2021_team_g2",
    "image_inventory": "econ/patches/stockh2021/patch_g2"
   }
  },
@@ -1288,6 +1363,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2zKnn8i5foaarP_A8dqOXXTbEw7sl6bMwSXDrxUR2sGXUw47_ICmWO1QlWJclFrIU8k7vhwpRCOc",
   "original": {
    "name": "stockh2021_teampatch_g2_gold",
+   "item_name": "#StickerKit_stockh2021_team_g2_gold",
    "image_inventory": "econ/patches/stockh2021/patch_g2_gold"
   }
  },
@@ -1305,6 +1381,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0iJqu_yZetqH8Pv0-cqLHWTTDkrdw4rBqSn21wEwmt2SEw9_9cimXPQ5zAowwG7DvZvWQhQ",
   "original": {
    "name": "stockh2021_teampatch_evl",
+   "item_name": "#StickerKit_stockh2021_team_evl",
    "image_inventory": "econ/patches/stockh2021/patch_evl"
   }
  },
@@ -1322,6 +1399,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0iJrf-i1X67z4MKVuIabKD2WWk-0n5bBvS33nlkxytT6Dnt6pJC7GPAJyWcElEORcrFDmxYQdl7dV",
   "original": {
    "name": "stockh2021_teampatch_evl_gold",
+   "item_name": "#StickerKit_stockh2021_team_evl_gold",
    "image_inventory": "econ/patches/stockh2021/patch_evl_gold"
   }
  },
@@ -1339,6 +1417,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLijp_ys3oDtvH9a_I5JPWVCjLClL4h5-BqFivkkUV1tzvXntqgICnFPAMjCpBuBbldr2R2d1M",
   "original": {
    "name": "stockh2021_teampatch_spir",
+   "item_name": "#StickerKit_stockh2021_team_spir",
    "image_inventory": "econ/patches/stockh2021/patch_spir"
   }
  },
@@ -1356,6 +1435,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLijp_ywiVU4_bgMaBsIfSVWGSVx-gl5bA_TX_ql0ki4zyDmIqsd3PEbwMkC8R4ReBctQ74zIORz4w_CQ",
   "original": {
    "name": "stockh2021_teampatch_spir_gold",
+   "item_name": "#StickerKit_stockh2021_team_spir_gold",
    "image_inventory": "econ/patches/stockh2021/patch_spir_gold"
   }
  },
@@ -1373,6 +1453,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLwjYLysyMLtqP-OqI6c_XGVzORx70nsuVvTirnwUwlsW_WzIz4JS2XPFIiW8FuBbld3_hfrUA",
   "original": {
    "name": "stockh2021_teampatch_astr",
+   "item_name": "#StickerKit_stockh2021_team_astr",
    "image_inventory": "econ/patches/stockh2021/patch_astr"
   }
  },
@@ -1390,6 +1471,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLwjYLywiVU4_bgPfNpJabDDDbHlLpw6LFqHH3mkRkj4znXm46sIHKQbg4lX8R3RbEC5w74zIPq8fQiLQ",
   "original": {
    "name": "stockh2021_teampatch_astr_gold",
+   "item_name": "#StickerKit_stockh2021_team_astr_gold",
    "image_inventory": "econ/patches/stockh2021/patch_astr_gold"
   }
  },
@@ -1407,6 +1489,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLhn5_us3YOuqqsPvQ_dPPDWWORkb4nsbVvFnG1wxxy6m6HnImtdn3EPQ4pXMNuBbld4NXHA5o",
   "original": {
    "name": "stockh2021_teampatch_pain",
+   "item_name": "#StickerKit_stockh2021_team_pain",
    "image_inventory": "econ/patches/stockh2021/patch_pain"
   }
  },
@@ -1424,6 +1507,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLhn5_uwiVU4_bgaaJpcKaXD2WRk7sntLk8HHvjxR9-sGyEytetJy7Cbw90CZR1RecMtg74zIM9QXiDXw",
   "original": {
    "name": "stockh2021_teampatch_pain_gold",
+   "item_name": "#StickerKit_stockh2021_team_pain_gold",
    "image_inventory": "econ/patches/stockh2021/patch_pain_gold"
   }
  },
@@ -1441,6 +1525,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0kJXls3YC6ab3OvM8dfPFXDWWx7kvsbE6H3-xxUl0tjnQytn9IC-VP1IiCMFuBbldC5lyLX4",
   "original": {
    "name": "stockh2021_teampatch_ence",
+   "item_name": "#StickerKit_stockh2021_team_ence",
    "image_inventory": "econ/patches/stockh2021/patch_ence"
   }
  },
@@ -1458,6 +1543,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0kJXlwiVU4_bgafZsdKbKXTWWxb8jteQ4Hy3gxRsl4GTdzIqpci6WagR0CcN2FrFfug74zINXChyBjg",
   "original": {
    "name": "stockh2021_teampatch_ence_gold",
+   "item_name": "#StickerKit_stockh2021_team_ence_gold",
    "image_inventory": "econ/patches/stockh2021/patch_ence_gold"
   }
  },
@@ -1475,6 +1561,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLzl5Guq3UN6qGrbP05efLFWjLJx-9w5-c7HnG3xx506zzcy9b_cXrFZgZzC4wwG7Cn-IC3tw",
   "original": {
    "name": "stockh2021_teampatch_big",
+   "item_name": "#StickerKit_stockh2021_team_big",
    "image_inventory": "econ/patches/stockh2021/patch_big"
   }
  },
@@ -1492,6 +1579,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLzl5Hf-i1X67z8PvxsIvHCWTSRlrYu5LI7SyjkzB4msDjXntapJX6ebgUhCZp3TeULrFDmxa0sX-2F",
   "original": {
    "name": "stockh2021_teampatch_big_gold",
+   "item_name": "#StickerKit_stockh2021_team_big_gold",
    "image_inventory": "econ/patches/stockh2021/patch_big_gold"
   }
  },
@@ -1509,6 +1597,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLjl5LlsyRY66f3PfY0c_GRWTORx7935bloGnCywxt2tmWAnNr6InrCbAApApduBbldmfUTFdQ",
   "original": {
    "name": "stockh2021_teampatch_ride",
+   "item_name": "#StickerKit_stockh2021_team_ride",
    "image_inventory": "econ/patches/stockh2021/patch_ride"
   }
  },
@@ -1526,6 +1615,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLjl5LlwiVU4_bgOfc9dqnLWj7Gkrhz47JqGnjjxkhy5zvXntv9dX-ROlN0ApZzEO8DsQ74zINR3-HELA",
   "original": {
    "name": "stockh2021_teampatch_ride_gold",
+   "item_name": "#StickerKit_stockh2021_team_ride_gold",
    "image_inventory": "econ/patches/stockh2021/patch_ride_gold"
   }
  },
@@ -1543,6 +1633,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL5m4Tvs3ADt6eoOfw8daLHV2KTxLp14rJtTHnrwRgh5Tzdw92sdCqXaFMjWMduBbld3UTbDwQ",
   "original": {
    "name": "stockh2021_teampatch_hero",
+   "item_name": "#StickerKit_stockh2021_team_hero",
    "image_inventory": "econ/patches/stockh2021/patch_hero"
   }
  },
@@ -1560,6 +1651,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL5m4TvwiVU4_bgaqZsJPLADTWRkOp1srA9TXy1lBwh42rUm92pJHPGbgJ1D5MhR7MMtA74zIPbIJgQTw",
   "original": {
    "name": "stockh2021_teampatch_hero_gold",
+   "item_name": "#StickerKit_stockh2021_team_hero_gold",
    "image_inventory": "econ/patches/stockh2021/patch_hero_gold"
   }
  },
@@ -1577,6 +1669,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL8kYP6sycD7fD7a_Q4cKiSCzTGlbgh4OU5F3-wxhwi4j-Aydahcy3Cb1N0WZJuBbld0Pe4EaI",
   "original": {
    "name": "stockh2021_teampatch_mouz",
+   "item_name": "#StickerKit_stockh2021_team_mouz",
    "image_inventory": "econ/patches/stockh2021/patch_mouz"
   }
  },
@@ -1594,6 +1687,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL8kYP6wiVU4_bgMKc4I6HCXjGVlrd3srM_TH62xU4j4GWBnIv4InnEO1RyD5MiQOAJsw74zINpR0ucPQ",
   "original": {
    "name": "stockh2021_teampatch_mouz_gold",
+   "item_name": "#StickerKit_stockh2021_team_mouz_gold",
    "image_inventory": "econ/patches/stockh2021/patch_mouz_gold"
   }
  },
@@ -1611,6 +1705,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLiloTrs3NY7aX8PfQ-ePTHXWKTxb90tbI9GSrjx0p1t2uDmd2qeSmQagAoX5FuBbldFAV6kdY",
   "original": {
    "name": "stockh2021_teampatch_shrk",
+   "item_name": "#StickerKit_stockh2021_team_shrk",
    "image_inventory": "econ/patches/stockh2021/patch_shrk"
   }
  },
@@ -1628,6 +1723,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLiloTrwiVU4_bgaqJscKTDWjbEw-xzseA4SnzlzUx16m3WnN2qcH2TPFciC8QjROMIsg74zIMtmGyjOQ",
   "original": {
    "name": "stockh2021_teampatch_shrk_gold",
+   "item_name": "#StickerKit_stockh2021_team_shrk_gold",
    "image_inventory": "econ/patches/stockh2021/patch_shrk_gold"
   }
  },
@@ -1645,6 +1741,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLlh5qupXANvKSqaaE9c6LDDDHHkLx147YwGnnrxEhw6j7cm9qscX3DZwIjWIwwG7BQ9OShqQ",
   "original": {
    "name": "stockh2021_teampatch_tyl",
+   "item_name": "#StickerKit_stockh2021_team_tyl",
    "image_inventory": "econ/patches/stockh2021/patch_tyl"
   }
  },
@@ -1662,6 +1759,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLlh5rf-i1X67yqOvRvJfTLXjXIx74h47ZtH3-1l05_sDndmNitdCjBOgQiCMZzROMNrFDmxTDvNXJj",
   "original": {
    "name": "stockh2021_teampatch_tyl_gold",
+   "item_name": "#StickerKit_stockh2021_team_tyl_gold",
    "image_inventory": "econ/patches/stockh2021/patch_tyl_gold"
   }
  },
@@ -1679,6 +1777,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLjm5iuqHQOvfH8bfBueabGXTaRkrd16LY6SXCyxEx3tziAm9-sJ3-QaFQgWIwwG7Bdztlibg",
   "original": {
    "name": "stockh2021_teampatch_ren",
+   "item_name": "#StickerKit_stockh2021_team_ren",
    "image_inventory": "econ/patches/stockh2021/patch_ren"
   }
  },
@@ -1696,6 +1795,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLjm5jf-i1X67yqPfc8cqLAV2PBkOov5bIwGi-1kx8j4jjTytmrJXyUaVUlApohROUIrFDmxTARhLT8",
   "original": {
    "name": "stockh2021_teampatch_ren_gold",
+   "item_name": "#StickerKit_stockh2021_team_ren_gold",
    "image_inventory": "econ/patches/stockh2021/patch_ren_gold"
   }
  },
@@ -1713,6 +1813,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0kIKu-CELvqb7a6FocKHCWGHGmbd157cxGS_iw01w62vdzo38c37DPAMhC4wwG7D6jwTPag",
   "original": {
    "name": "stockh2021_teampatch_ent",
+   "item_name": "#StickerKit_stockh2021_team_ent",
    "image_inventory": "econ/patches/stockh2021/patch_ent"
   }
  },
@@ -1730,6 +1831,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0kILf-i1X67yoaaE7JaPHDDbDmeghtrI9Hy-wlEgk62vVm9qhdS_FOlNxWMZwRe4OrFDmxaGTJkbA",
   "original": {
    "name": "stockh2021_teampatch_ent_gold",
+   "item_name": "#StickerKit_stockh2021_team_ent_gold",
    "image_inventory": "econ/patches/stockh2021/patch_ent_gold"
   }
  },
@@ -1747,6 +1849,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2kZKuryQKu6WqaqBsdfHLDTLFwrci6LUxSyrgxkwjtmWEzo6oInmeaw8mXowwG7DUZbS00A",
   "original": {
    "name": "stockh2021_teampatch_god",
+   "item_name": "#StickerKit_stockh2021_team_god",
    "image_inventory": "econ/patches/stockh2021/patch_god"
   }
  },
@@ -1764,6 +1867,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2kZLf-i1X67z-MfE8JPSRXjHIk7Yg6OAxHS3ixEl-sj-Ew437JHLBbgYgWcR2TLIIrFDmxbgUuf9f",
   "original": {
    "name": "stockh2021_teampatch_god_gold",
+   "item_name": "#StickerKit_stockh2021_team_god_gold",
    "image_inventory": "econ/patches/stockh2021/patch_god_gold"
   }
  },
@@ -1781,6 +1885,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLnjti0_3QMuvT3bKI5I6TFXzaVxO8vsbRvH36ywxlxsm7Vm9__eC2SaAQiFNIuEkJTKxEc",
   "original": {
    "name": "stockh2021_teampatch_vp",
+   "item_name": "#StickerKit_stockh2021_team_vp",
    "image_inventory": "econ/patches/stockh2021/patch_vp"
   }
  },
@@ -1798,6 +1903,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLnjqnn8i5fofarOPM1eKKRVz7Gwrcu5OA4Si_hxkl_sDvSydr7J3jFOwIjDpIjQbUU8k7vJC0VIFo",
   "original": {
    "name": "stockh2021_teampatch_vp_gold",
+   "item_name": "#StickerKit_stockh2021_team_vp_gold",
    "image_inventory": "econ/patches/stockh2021/patch_vp_gold"
   }
  },
@@ -1815,6 +1921,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLykYblsyNYt_P5PvBuJaHBXmbCx7gn4rM6TH6ww0R_52nUytqhIC2SPQQlXJJuBbldUoP1g7g",
   "original": {
    "name": "stockh2021_teampatch_cope",
+   "item_name": "#StickerKit_stockh2021_team_cope",
    "image_inventory": "econ/patches/stockh2021/patch_cope"
   }
  },
@@ -1832,6 +1939,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLykYblwiVU4_bgOfA7cvGSCDXDlOxw6OQ-GXjrkxgj6m7VnNytIyiWZw8kDMMhEeIJsw74zIM8ma-DMw",
   "original": {
    "name": "stockh2021_teampatch_cope_gold",
+   "item_name": "#StickerKit_stockh2021_team_cope_gold",
    "image_inventory": "econ/patches/stockh2021/patch_cope_gold"
   }
  },
@@ -1849,6 +1957,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL3n4zls3cKu6r3bKFod_HHX2GWk7Z36LYwTH3kw04l4zmGm9b7dS3GalchDZduBbldtOacHsM",
   "original": {
    "name": "stockh2021_teampatch_faze",
+   "item_name": "#StickerKit_stockh2021_team_faze",
    "image_inventory": "econ/patches/stockh2021/patch_faze"
   }
  },
@@ -1866,6 +1975,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL3n4zlwiVU4_bgPfVrd_aWXWXFkbYjs7BqGyjll0V-t23WzN2oI3ifaFAiC8EhF-IDtA74zIOliW6gRg",
   "original": {
    "name": "stockh2021_teampatch_faze_gold",
+   "item_name": "#StickerKit_stockh2021_team_faze_gold",
    "image_inventory": "econ/patches/stockh2021/patch_faze_gold"
   }
  },
@@ -1883,6 +1993,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLhmZquqicPuKb6afZud6aSVzeSmewl5-doGSzmwxlw4D_Szdv7IHzDaVQoW4wwG7Ctmd9RZA",
   "original": {
    "name": "stockh2021_teampatch_pgl",
+   "item_name": "#StickerKit_stockh2021_team_pgl",
    "image_inventory": "econ/patches/stockh2021/patch_pgl"
   }
  },
@@ -1900,6 +2011,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLhmZrf-i1X67z-bqY7cfHADT_CkOhy5rdrHX-1kxwj4GSDnoqtdHLGPQcmD5ojReAKrFDmxWgB79_n",
   "original": {
    "name": "stockh2021_teampatch_pgl_gold",
+   "item_name": "#StickerKit_stockh2021_team_pgl_gold",
    "image_inventory": "econ/patches/stockh2021/patch_pgl_gold"
   }
  }

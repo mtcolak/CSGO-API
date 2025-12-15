@@ -16,6 +16,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_FiveYearService",
    "image_inventory": "econ/status_icons/5yearcoin"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_FiveYearService",
+   "description": "#CSGO_CollectibleCoin_FiveYearService_Desc"
   }
  },
  {
@@ -35,6 +39,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DH2013_Champion",
    "image_inventory": "econ/status_icons/dreamhack_2013_champion"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DH2013_Champion",
+   "description": "#CSGO_CollectibleCoin_DH2013_Champion_Desc"
   }
  },
  {
@@ -54,6 +62,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DH2013_Finalist",
    "image_inventory": "econ/status_icons/dreamhack_2013_finalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DH2013_Finalist",
+   "description": "#CSGO_CollectibleCoin_DH2013_Finalist_Desc"
   }
  },
  {
@@ -73,6 +85,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
    "image_inventory": "econ/status_icons/dreamhack_2013_semifinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
+   "description": "#CSGO_CollectibleCoin_DH2013_SemiFinalist_Desc"
   }
  },
  {
@@ -92,6 +108,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
    "image_inventory": "econ/status_icons/dreamhack_2013_quarterfinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
+   "description": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist_Desc"
   }
  },
  {
@@ -111,6 +131,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2014_Champion",
    "image_inventory": "econ/status_icons/katowice_2014_champion"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2014_Champion",
+   "description": "#CSGO_CollectibleCoin_Kat2014_Champion_Desc"
   }
  },
  {
@@ -130,6 +154,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2014_Finalist",
    "image_inventory": "econ/status_icons/katowice_2014_finalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2014_Finalist",
+   "description": "#CSGO_CollectibleCoin_Kat2014_Finalist_Desc"
   }
  },
  {
@@ -149,6 +177,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
    "image_inventory": "econ/status_icons/katowice_2014_semifinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
+   "description": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist_Desc"
   }
  },
  {
@@ -168,6 +200,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
    "image_inventory": "econ/status_icons/katowice_2014_quarterfinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
+   "description": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist_Desc"
   }
  },
  {
@@ -187,6 +223,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_Champion",
    "image_inventory": "econ/status_icons/cologne_trophy_champion"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2014_Champion",
+   "description": "#CSGO_CollectibleCoin_Cologne2014_Champion_Desc"
   }
  },
  {
@@ -206,6 +246,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
    "image_inventory": "econ/status_icons/cologne_trophy_finalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
+   "description": "#CSGO_CollectibleCoin_Cologne2014_Finalist_Desc"
   }
  },
  {
@@ -225,6 +269,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
    "image_inventory": "econ/status_icons/cologne_trophy_semifinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
+   "description": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist_Desc"
   }
  },
  {
@@ -244,6 +292,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
    "image_inventory": "econ/status_icons/cologne_trophy_quarterfinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
+   "description": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist_Desc"
   }
  },
  {
@@ -263,6 +315,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
    "image_inventory": "econ/status_icons/cologne_prediction_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze_Desc"
   }
  },
  {
@@ -282,6 +338,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
    "image_inventory": "econ/status_icons/cologne_prediction_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver_Desc"
   }
  },
  {
@@ -301,6 +361,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
    "image_inventory": "econ/status_icons/cologne_prediction_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold_Desc"
   }
  },
  {
@@ -320,6 +384,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_Champion",
    "image_inventory": "econ/status_icons/dhw_2014_champion"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DHW2014_Champion",
+   "description": "#CSGO_CollectibleCoin_DHW2014_Champion_Desc"
   }
  },
  {
@@ -339,6 +407,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_Finalist",
    "image_inventory": "econ/status_icons/dhw_2014_finalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DHW2014_Finalist",
+   "description": "#CSGO_CollectibleCoin_DHW2014_Finalist_Desc"
   }
  },
  {
@@ -358,6 +430,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
    "image_inventory": "econ/status_icons/dhw_2014_semifinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
+   "description": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist_Desc"
   }
  },
  {
@@ -377,6 +453,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
    "image_inventory": "econ/status_icons/dhw_2014_quarterfinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
+   "description": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist_Desc"
   }
  },
  {
@@ -396,6 +476,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
    "image_inventory": "econ/status_icons/dhw14_prediction_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze_Desc"
   }
  },
  {
@@ -415,6 +499,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
    "image_inventory": "econ/status_icons/dhw14_prediction_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver_Desc"
   }
  },
  {
@@ -434,6 +522,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
    "image_inventory": "econ/status_icons/dhw14_prediction_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_DHW2014_PickEmGold_Desc"
   }
  },
  {
@@ -453,6 +545,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_Champion",
    "image_inventory": "econ/status_icons/kat_2015_champion"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2015_Champion",
+   "description": "#CSGO_CollectibleCoin_Kat2015_Champion_Desc"
   }
  },
  {
@@ -472,6 +568,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_Finalist",
    "image_inventory": "econ/status_icons/kat_2015_finalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2015_Finalist",
+   "description": "#CSGO_CollectibleCoin_Kat2015_Finalist_Desc"
   }
  },
  {
@@ -491,6 +591,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
    "image_inventory": "econ/status_icons/kat_2015_semifinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
+   "description": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist_Desc"
   }
  },
  {
@@ -510,6 +614,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
    "image_inventory": "econ/status_icons/kat_2015_quarterfinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
+   "description": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist_Desc"
   }
  },
  {
@@ -529,6 +637,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
    "image_inventory": "econ/status_icons/kat_2015_prediction_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze_Desc"
   }
  },
  {
@@ -548,6 +660,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
    "image_inventory": "econ/status_icons/kat_2015_prediction_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver_Desc"
   }
  },
  {
@@ -567,6 +683,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
    "image_inventory": "econ/status_icons/kat_2015_prediction_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_Kat2015_PickEmGold_Desc"
   }
  },
  {
@@ -586,6 +706,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_Champion",
    "image_inventory": "econ/status_icons/col_2015_champion"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2015_Champion",
+   "description": "#CSGO_CollectibleCoin_Cologne2015_Champion_Desc"
   }
  },
  {
@@ -605,6 +729,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
    "image_inventory": "econ/status_icons/col_2015_finalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
+   "description": "#CSGO_CollectibleCoin_Cologne2015_Finalist_Desc"
   }
  },
  {
@@ -624,6 +752,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
    "image_inventory": "econ/status_icons/col_2015_semifinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
+   "description": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist_Desc"
   }
  },
  {
@@ -643,6 +775,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
    "image_inventory": "econ/status_icons/col_2015_quarterfinalist"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
+   "description": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist_Desc"
   }
  },
  {
@@ -662,6 +798,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
    "image_inventory": "econ/status_icons/col_2015_prediction_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze_Desc"
   }
  },
  {
@@ -681,6 +821,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
    "image_inventory": "econ/status_icons/col_2015_prediction_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver_Desc"
   }
  },
  {
@@ -700,6 +844,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
    "image_inventory": "econ/status_icons/col_2015_prediction_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold_Desc"
   }
  },
  {
@@ -719,6 +867,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
    "image_inventory": "econ/status_icons/cluj_2015_prediction_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze_Desc"
   }
  },
  {
@@ -738,6 +890,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
    "image_inventory": "econ/status_icons/cluj_2015_prediction_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver_Desc"
   }
  },
  {
@@ -757,6 +913,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
    "image_inventory": "econ/status_icons/cluj_2015_prediction_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold_Desc"
   }
  },
  {
@@ -776,6 +936,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
    "image_inventory": "econ/status_icons/cluj_2015_fantasy_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze_Desc"
   }
  },
  {
@@ -795,6 +959,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
    "image_inventory": "econ/status_icons/cluj_2015_fantasy_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver_Desc"
   }
  },
  {
@@ -814,6 +982,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
    "image_inventory": "econ/status_icons/cluj_2015_fantasy_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold_Desc"
   }
  },
  {
@@ -833,6 +1005,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_Champion",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_Champion_Desc"
   }
  },
  {
@@ -852,6 +1028,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_Finalist_Desc"
   }
  },
  {
@@ -871,6 +1051,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist_Desc"
   }
  },
  {
@@ -890,6 +1074,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist_Desc"
   }
  },
  {
@@ -909,6 +1097,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
    "image_inventory": "econ/status_icons/mlg_2016_pickem_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze_Desc"
   }
  },
  {
@@ -928,6 +1120,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
    "image_inventory": "econ/status_icons/mlg_2016_pickem_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver_Desc"
   }
  },
  {
@@ -947,6 +1143,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
    "image_inventory": "econ/status_icons/mlg_2016_pickem_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold_Desc"
   }
  },
  {
@@ -966,6 +1166,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
    "image_inventory": "econ/status_icons/mlg_2016_fantasy_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze_Desc"
   }
  },
  {
@@ -985,6 +1189,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
    "image_inventory": "econ/status_icons/mlg_2016_fantasy_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver_Desc"
   }
  },
  {
@@ -1004,6 +1212,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
    "image_inventory": "econ/status_icons/mlg_2016_fantasy_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold_Desc"
   }
  },
  {
@@ -1023,6 +1235,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_Champion",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_Champion_Desc"
   }
  },
  {
@@ -1042,6 +1258,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_Finalist_Desc"
   }
  },
  {
@@ -1061,6 +1281,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist_Desc"
   }
  },
  {
@@ -1080,6 +1304,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist_Desc"
   }
  },
  {
@@ -1099,6 +1327,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_Champion",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_Champion_Desc"
   }
  },
  {
@@ -1118,6 +1350,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_Finalist_Desc"
   }
  },
  {
@@ -1137,6 +1373,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist_Desc"
   }
  },
  {
@@ -1156,6 +1396,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist_Desc"
   }
  },
  {
@@ -1175,6 +1419,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
    "image_inventory": "econ/status_icons/cologne_pickem_2016_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze_Desc"
   }
  },
  {
@@ -1194,6 +1442,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
    "image_inventory": "econ/status_icons/cologne_pickem_2016_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver_Desc"
   }
  },
  {
@@ -1213,6 +1465,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
    "image_inventory": "econ/status_icons/cologne_pickem_2016_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold_Desc"
   }
  },
  {
@@ -1232,6 +1488,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
    "image_inventory": "econ/status_icons/cologne_fantasy_2016_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze_Desc"
   }
  },
  {
@@ -1251,6 +1511,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
    "image_inventory": "econ/status_icons/cologne_fantasy_2016_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver_Desc"
   }
  },
  {
@@ -1270,6 +1534,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
    "image_inventory": "econ/status_icons/cologne_fantasy_2016_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
+   "description": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold_Desc"
   }
  },
  {
@@ -1289,6 +1557,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
+   "description": "#CSGO_CollectibleCoin_Atlanta2017_Champion_Desc"
   }
  },
  {
@@ -1308,6 +1580,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
+   "description": "#CSGO_CollectibleCoin_Atlanta2017_Finalist_Desc"
   }
  },
  {
@@ -1327,6 +1603,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist_Desc"
   }
  },
  {
@@ -1346,6 +1626,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist_Desc"
   }
  },
  {
@@ -1365,6 +1649,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
    "image_inventory": "econ/status_icons/atlanta_pickem_2017_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze_Desc"
   }
  },
  {
@@ -1384,6 +1672,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
    "image_inventory": "econ/status_icons/atlanta_pickem_2017_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver_Desc"
   }
  },
  {
@@ -1403,6 +1695,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
    "image_inventory": "econ/status_icons/atlanta_pickem_2017_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold_Desc"
   }
  },
  {
@@ -1422,6 +1718,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Krakow2017_Champion",
+   "description": "#CSGO_CollectibleCoin_Krakow2017_Champion_Desc"
   }
  },
  {
@@ -1441,6 +1741,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
+   "description": "#CSGO_CollectibleCoin_Krakow2017_Finalist_Desc"
   }
  },
  {
@@ -1460,6 +1764,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist_Desc"
   }
  },
  {
@@ -1479,6 +1787,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist_Desc"
   }
  },
  {
@@ -1498,6 +1810,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
    "image_inventory": "econ/status_icons/krakow_pickem_2017_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze_Desc"
   }
  },
  {
@@ -1517,6 +1833,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
    "image_inventory": "econ/status_icons/krakow_pickem_2017_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver_Desc"
   }
  },
  {
@@ -1536,6 +1856,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
    "image_inventory": "econ/status_icons/krakow_pickem_2017_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold_Desc"
   }
  },
  {
@@ -1555,6 +1879,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Boston2018_Champion",
+   "description": "#CSGO_CollectibleCoin_Boston2018_Champion_Desc"
   }
  },
  {
@@ -1574,6 +1902,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Boston2018_Finalist",
+   "description": "#CSGO_CollectibleCoin_Boston2018_Finalist_Desc"
   }
  },
  {
@@ -1593,6 +1925,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Boston2018_Semifinalist_Desc"
   }
  },
  {
@@ -1612,6 +1948,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist_Desc"
   }
  },
  {
@@ -1631,6 +1971,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
    "image_inventory": "econ/status_icons/boston_pickem_2018_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze_Desc"
   }
  },
  {
@@ -1650,6 +1994,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
    "image_inventory": "econ/status_icons/boston_pickem_2018_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver_Desc"
   }
  },
  {
@@ -1669,6 +2017,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
    "image_inventory": "econ/status_icons/boston_pickem_2018_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_Boston2018_PickEmGold_Desc"
   }
  },
  {
@@ -1688,6 +2040,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_London2018_Champion",
+   "description": "#CSGO_CollectibleCoin_London2018_Champion_Desc"
   }
  },
  {
@@ -1707,6 +2063,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_London2018_Finalist",
+   "description": "#CSGO_CollectibleCoin_London2018_Finalist_Desc"
   }
  },
  {
@@ -1726,6 +2086,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_London2018_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_London2018_Semifinalist_Desc"
   }
  },
  {
@@ -1745,6 +2109,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_London2018_Quarterfinalist_Desc"
   }
  },
  {
@@ -1764,6 +2132,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
    "image_inventory": "econ/status_icons/london_pickem_2018_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
+   "description": "#CSGO_CollectibleCoin_London2018_PickEmBronze_Desc"
   }
  },
  {
@@ -1783,6 +2155,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
    "image_inventory": "econ/status_icons/london_pickem_2018_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
+   "description": "#CSGO_CollectibleCoin_London2018_PickEmSilver_Desc"
   }
  },
  {
@@ -1802,6 +2178,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_PickEmGold",
    "image_inventory": "econ/status_icons/london_pickem_2018_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_London2018_PickEmGold",
+   "description": "#CSGO_CollectibleCoin_London2018_PickEmGold_Desc"
   }
  },
  {
@@ -1821,6 +2201,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_TenYearService",
    "image_inventory": "econ/status_icons/10yearcoin"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_TenYearService",
+   "description": "#CSGO_CollectibleCoin_TenYearService_Desc"
   }
  },
  {
@@ -1840,6 +2224,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
    "image_inventory": "econ/status_icons/prime_badge"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
+   "description": "#CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"
   }
  },
  {
@@ -1859,6 +2247,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Katowice2019_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Katowice2019_Champion",
+   "description": "#CSGO_CollectibleCoin_Katowice2019_Champion_Desc"
   }
  },
  {
@@ -1878,6 +2270,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
+   "description": "#CSGO_CollectibleCoin_Katowice2019_Finalist_Desc"
   }
  },
  {
@@ -1897,6 +2293,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist_Desc"
   }
  },
  {
@@ -1916,6 +2316,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist_Desc"
   }
  },
  {
@@ -1935,6 +2339,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Berlin2019_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Berlin2019_Champion",
+   "description": "#CSGO_CollectibleCoin_Berlin2019_Champion_Desc"
   }
  },
  {
@@ -1954,6 +2362,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
+   "description": "#CSGO_CollectibleCoin_Berlin2019_Finalist_Desc"
   }
  },
  {
@@ -1973,6 +2385,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist_Desc"
   }
  },
  {
@@ -1992,6 +2408,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist_Desc"
   }
  },
  {
@@ -2011,6 +2431,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Stockh2021_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Stockh2021_Champion",
+   "description": "#CSGO_CollectibleCoin_Stockh2021_Champion_Desc"
   }
  },
  {
@@ -2030,6 +2454,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
+   "description": "#CSGO_CollectibleCoin_Stockh2021_Finalist_Desc"
   }
  },
  {
@@ -2049,6 +2477,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist_Desc"
   }
  },
  {
@@ -2068,6 +2500,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist_Desc"
   }
  },
  {
@@ -2087,6 +2523,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
+   "description": "#CSGO_CollectibleCoin_Antwerp2022_Champion_Desc"
   }
  },
  {
@@ -2106,6 +2546,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
+   "description": "#CSGO_CollectibleCoin_Antwerp2022_Finalist_Desc"
   }
  },
  {
@@ -2125,6 +2569,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist_Desc"
   }
  },
  {
@@ -2144,6 +2592,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist_Desc"
   }
  },
  {
@@ -2163,6 +2615,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
    "image_inventory": "econ/status_icons/cupcake_10_year"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
+   "description": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia_Desc"
   }
  },
  {
@@ -2182,6 +2638,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Rio2022_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Rio2022_Champion",
+   "description": "#CSGO_CollectibleCoin_Rio2022_Champion_Desc"
   }
  },
  {
@@ -2201,6 +2661,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Rio2022_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Rio2022_Finalist",
+   "description": "#CSGO_CollectibleCoin_Rio2022_Finalist_Desc"
   }
  },
  {
@@ -2220,6 +2684,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Rio2022_Semifinalist_Desc"
   }
  },
  {
@@ -2239,6 +2707,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist_Desc"
   }
  },
  {
@@ -2258,6 +2730,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Paris2023_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Paris2023_Champion",
+   "description": "#CSGO_CollectibleCoin_Paris2023_Champion_Desc"
   }
  },
  {
@@ -2277,6 +2753,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Paris2023_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Paris2023_Finalist",
+   "description": "#CSGO_CollectibleCoin_Paris2023_Finalist_Desc"
   }
  },
  {
@@ -2296,6 +2776,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_Paris2023_Semifinalist_Desc"
   }
  },
  {
@@ -2315,6 +2799,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist_Desc"
   }
  },
  {
@@ -2334,6 +2822,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_CoinCsgo",
    "image_inventory": "econ/status_icons/coin_csgo"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_CoinCsgo",
+   "description": "#CSGO_CollectibleCoin_CoinCsgo_Desc"
   }
  },
  {
@@ -2353,6 +2845,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
    "image_inventory": "econ/status_icons/community_support_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
+   "description": "#CSGO_Ticket_CommunitySeasonOneSpring2013_Desc"
   }
  },
  {
@@ -2372,6 +2868,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
    "image_inventory": "econ/status_icons/community_support_pass_coin1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1_Desc"
   }
  },
  {
@@ -2391,6 +2891,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
    "image_inventory": "econ/status_icons/community_support_pass_coin2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2_Desc"
   }
  },
  {
@@ -2410,6 +2914,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
    "image_inventory": "econ/status_icons/community_support_pass_coin3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3_Desc"
   }
  },
  {
@@ -2429,6 +2937,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMuseum",
    "image_inventory": "econ/status_icons/maptoken_museum"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMuseum",
+   "description": "#CSGO_Collectible_MapTokenMuseum_Desc"
   }
  },
  {
@@ -2448,6 +2960,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenDowntown",
    "image_inventory": "econ/status_icons/maptoken_downtown"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenDowntown",
+   "description": "#CSGO_Collectible_MapTokenDowntown_Desc"
   }
  },
  {
@@ -2467,6 +2983,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenThunder",
    "image_inventory": "econ/status_icons/maptoken_thunder"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenThunder",
+   "description": "#CSGO_Collectible_MapTokenThunder_Desc"
   }
  },
  {
@@ -2486,6 +3006,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenFavela",
    "image_inventory": "econ/status_icons/maptoken_favela"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenFavela",
+   "description": "#CSGO_Collectible_MapTokenFavela_Desc"
   }
  },
  {
@@ -2505,6 +3029,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMotel",
    "image_inventory": "econ/status_icons/maptoken_motel"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMotel",
+   "description": "#CSGO_Collectible_MapTokenMotel_Desc"
   }
  },
  {
@@ -2524,6 +3052,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSeaside",
    "image_inventory": "econ/status_icons/maptoken_seaside"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenSeaside",
+   "description": "#CSGO_Collectible_MapTokenSeaside_Desc"
   }
  },
  {
@@ -2543,6 +3075,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenLibrary",
    "image_inventory": "econ/status_icons/maptoken_library"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenLibrary",
+   "description": "#CSGO_Collectible_MapTokenLibrary_Desc"
   }
  },
  {
@@ -2562,6 +3098,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
    "image_inventory": "econ/status_icons/operation_bravo_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
+   "description": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013_Desc"
   }
  },
  {
@@ -2581,6 +3121,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
    "image_inventory": "econ/status_icons/operation_bravo_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1_Desc"
   }
  },
  {
@@ -2600,6 +3144,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
    "image_inventory": "econ/status_icons/operation_bravo_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2_Desc"
   }
  },
  {
@@ -2619,6 +3167,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
    "image_inventory": "econ/status_icons/operation_bravo_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3_Desc"
   }
  },
  {
@@ -2638,6 +3190,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAgency",
    "image_inventory": "econ/status_icons/maptoken_agency"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenAgency",
+   "description": "#CSGO_Collectible_MapTokenAgency_Desc"
   }
  },
  {
@@ -2657,6 +3213,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAli",
    "image_inventory": "econ/status_icons/maptoken_ali"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenAli",
+   "description": "#CSGO_Collectible_MapTokenAli_Desc"
   }
  },
  {
@@ -2676,6 +3236,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCache",
    "image_inventory": "econ/status_icons/maptoken_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenCache",
+   "description": "#CSGO_Collectible_MapTokenCache_Desc"
   }
  },
  {
@@ -2695,6 +3259,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenChinatown",
    "image_inventory": "econ/status_icons/maptoken_chinatown"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenChinatown",
+   "description": "#CSGO_Collectible_MapTokenChinatown_Desc"
   }
  },
  {
@@ -2714,6 +3282,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGwalior",
    "image_inventory": "econ/status_icons/maptoken_gwalior"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenGwalior",
+   "description": "#CSGO_Collectible_MapTokenGwalior_Desc"
   }
  },
  {
@@ -2733,6 +3305,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRuins",
    "image_inventory": "econ/status_icons/maptoken_ruins"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenRuins",
+   "description": "#CSGO_Collectible_MapTokenRuins_Desc"
   }
  },
  {
@@ -2752,6 +3328,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSiege",
    "image_inventory": "econ/status_icons/maptoken_siege"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenSiege",
+   "description": "#CSGO_Collectible_MapTokenSiege_Desc"
   }
  },
  {
@@ -2771,6 +3351,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
    "image_inventory": "econ/status_icons/operation_phoenix_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
+   "description": "#CSGO_Ticket_CommunitySeasonThreeSpring2014_Desc"
   }
  },
  {
@@ -2790,6 +3374,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
    "image_inventory": "econ/status_icons/operation_phoenix_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1_Desc"
   }
  },
  {
@@ -2809,6 +3397,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
    "image_inventory": "econ/status_icons/operation_phoenix_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2_Desc"
   }
  },
  {
@@ -2828,6 +3420,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
    "image_inventory": "econ/status_icons/operation_phoenix_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3_Desc"
   }
  },
  {
@@ -2847,6 +3443,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
    "image_inventory": "econ/status_icons/operation_breakout_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
+   "description": "#CSGO_Ticket_CommunitySeasonFourSummer2014_Desc"
   }
  },
  {
@@ -2866,6 +3466,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
    "image_inventory": "econ/status_icons/operation_breakout_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1_Desc"
   }
  },
  {
@@ -2885,6 +3489,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
    "image_inventory": "econ/status_icons/operation_breakout_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2_Desc"
   }
  },
  {
@@ -2904,6 +3512,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
    "image_inventory": "econ/status_icons/operation_breakout_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3_Desc"
   }
  },
  {
@@ -2923,6 +3535,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCastle",
    "image_inventory": "econ/status_icons/maptoken_castle"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenCastle",
+   "description": "#CSGO_Collectible_MapTokenCastle_Desc"
   }
  },
  {
@@ -2942,6 +3558,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBlackGold",
    "image_inventory": "econ/status_icons/maptoken_blackgold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBlackGold",
+   "description": "#CSGO_Collectible_MapTokenBlackGold_Desc"
   }
  },
  {
@@ -2961,6 +3581,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRush",
    "image_inventory": "econ/status_icons/maptoken_rush"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenRush",
+   "description": "#CSGO_Collectible_MapTokenRush_Desc"
   }
  },
  {
@@ -2980,6 +3604,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMist",
    "image_inventory": "econ/status_icons/maptoken_mist"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMist",
+   "description": "#CSGO_Collectible_MapTokenMist_Desc"
   }
  },
  {
@@ -2999,6 +3627,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenInsertion",
    "image_inventory": "econ/status_icons/maptoken_insertion"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenInsertion",
+   "description": "#CSGO_Collectible_MapTokenInsertion_Desc"
   }
  },
  {
@@ -3018,6 +3650,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenOvergrown",
    "image_inventory": "econ/status_icons/maptoken_overgrown"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenOvergrown",
+   "description": "#CSGO_Collectible_MapTokenOvergrown_Desc"
   }
  },
  {
@@ -3037,6 +3673,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMarquis",
    "image_inventory": "econ/status_icons/maptoken_marquis"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMarquis",
+   "description": "#CSGO_Collectible_MapTokenMarquis_Desc"
   }
  },
  {
@@ -3056,6 +3696,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenWorkout",
    "image_inventory": "econ/status_icons/maptoken_workout"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenWorkout",
+   "description": "#CSGO_Collectible_MapTokenWorkout_Desc"
   }
  },
  {
@@ -3075,6 +3719,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBackalley",
    "image_inventory": "econ/status_icons/maptoken_backalley"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBackalley",
+   "description": "#CSGO_Collectible_MapTokenBackalley_Desc"
   }
  },
  {
@@ -3094,6 +3742,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSeason",
    "image_inventory": "econ/status_icons/maptoken_season"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenSeason",
+   "description": "#CSGO_Collectible_MapTokenSeason_Desc"
   }
  },
  {
@@ -3113,6 +3765,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBazaar",
    "image_inventory": "econ/status_icons/maptoken_bazaar"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBazaar",
+   "description": "#CSGO_Collectible_MapTokenBazaar_Desc"
   }
  },
  {
@@ -3132,6 +3788,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenFacade",
    "image_inventory": "econ/status_icons/maptoken_facade"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenFacade",
+   "description": "#CSGO_Collectible_MapTokenFacade_Desc"
   }
  },
  {
@@ -3151,6 +3811,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenLog",
    "image_inventory": "econ/status_icons/maptoken_log"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenLog",
+   "description": "#CSGO_Collectible_MapTokenLog_Desc"
   }
  },
  {
@@ -3170,6 +3834,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRails",
    "image_inventory": "econ/status_icons/maptoken_rails"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenRails",
+   "description": "#CSGO_Collectible_MapTokenRails_Desc"
   }
  },
  {
@@ -3189,6 +3857,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenResort",
    "image_inventory": "econ/status_icons/maptoken_resort"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenResort",
+   "description": "#CSGO_Collectible_MapTokenResort_Desc"
   }
  },
  {
@@ -3208,6 +3880,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenZoo",
    "image_inventory": "econ/status_icons/maptoken_zoo"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenZoo",
+   "description": "#CSGO_Collectible_MapTokenZoo_Desc"
   }
  },
  {
@@ -3227,6 +3903,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSantorini",
    "image_inventory": "econ/status_icons/maptoken_santorini"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenSantorini",
+   "description": "#CSGO_Collectible_MapTokenSantorini_Desc"
   }
  },
  {
@@ -3246,6 +3926,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCoast",
    "image_inventory": "econ/status_icons/maptoken_coast"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenCoast",
+   "description": "#CSGO_Collectible_MapTokenCoast_Desc"
   }
  },
  {
@@ -3265,6 +3949,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMikla",
    "image_inventory": "econ/status_icons/maptoken_mikla"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMikla",
+   "description": "#CSGO_Collectible_MapTokenMikla_Desc"
   }
  },
  {
@@ -3284,6 +3972,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRoyal",
    "image_inventory": "econ/status_icons/maptoken_royal"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenRoyal",
+   "description": "#CSGO_Collectible_MapTokenRoyal_Desc"
   }
  },
  {
@@ -3303,6 +3995,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenEmpire",
    "image_inventory": "econ/status_icons/maptoken_empire"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenEmpire",
+   "description": "#CSGO_Collectible_MapTokenEmpire_Desc"
   }
  },
  {
@@ -3322,6 +4018,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenTulip",
    "image_inventory": "econ/status_icons/maptoken_tulip"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenTulip",
+   "description": "#CSGO_Collectible_MapTokenTulip_Desc"
   }
  },
  {
@@ -3341,6 +4041,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCruise",
    "image_inventory": "econ/status_icons/maptoken_cruise"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenCruise",
+   "description": "#CSGO_Collectible_MapTokenCruise_Desc"
   }
  },
  {
@@ -3360,6 +4064,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSubzero",
    "image_inventory": "econ/status_icons/maptoken_subzero"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenSubzero",
+   "description": "#CSGO_Collectible_MapTokenSubzero_Desc"
   }
  },
  {
@@ -3379,6 +4087,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBiome",
    "image_inventory": "econ/status_icons/maptoken_biome"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBiome",
+   "description": "#CSGO_Collectible_MapTokenBiome_Desc"
   }
  },
  {
@@ -3398,6 +4110,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAbbey",
    "image_inventory": "econ/status_icons/maptoken_abbey"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenAbbey",
+   "description": "#CSGO_Collectible_MapTokenAbbey_Desc"
   }
  },
  {
@@ -3417,6 +4133,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRuby",
    "image_inventory": "econ/status_icons/maptoken_ruby"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenRuby",
+   "description": "#CSGO_Collectible_MapTokenRuby_Desc"
   }
  },
  {
@@ -3436,6 +4156,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBreach",
    "image_inventory": "econ/status_icons/maptoken_breach"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBreach",
+   "description": "#CSGO_Collectible_MapTokenBreach_Desc"
   }
  },
  {
@@ -3455,6 +4179,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenStudio",
    "image_inventory": "econ/status_icons/maptoken_studio"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenStudio",
+   "description": "#CSGO_Collectible_MapTokenStudio_Desc"
   }
  },
  {
@@ -3474,6 +4202,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenJungle",
    "image_inventory": "econ/status_icons/maptoken_jungle"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenJungle",
+   "description": "#CSGO_Collectible_MapTokenJungle_Desc"
   }
  },
  {
@@ -3493,6 +4225,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAnubis",
    "image_inventory": "econ/status_icons/maptoken_anubis"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenAnubis",
+   "description": "#CSGO_Collectible_MapTokenAnubis_Desc"
   }
  },
  {
@@ -3512,6 +4248,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenChlorine",
    "image_inventory": "econ/status_icons/maptoken_chlorine"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenChlorine",
+   "description": "#CSGO_Collectible_MapTokenChlorine_Desc"
   }
  },
  {
@@ -3531,6 +4271,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMutiny",
    "image_inventory": "econ/status_icons/maptoken_mutiny"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMutiny",
+   "description": "#CSGO_Collectible_MapTokenMutiny_Desc"
   }
  },
  {
@@ -3550,6 +4294,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSwamp",
    "image_inventory": "econ/status_icons/maptoken_swamp"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenSwamp",
+   "description": "#CSGO_Collectible_MapTokenSwamp_Desc"
   }
  },
  {
@@ -3569,6 +4317,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenFrostbite",
    "image_inventory": "econ/status_icons/maptoken_frostbite"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenFrostbite",
+   "description": "#CSGO_Collectible_MapTokenFrostbite_Desc"
   }
  },
  {
@@ -3588,6 +4340,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenEngage",
    "image_inventory": "econ/status_icons/maptoken_engage"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenEngage",
+   "description": "#CSGO_Collectible_MapTokenEngage_Desc"
   }
  },
  {
@@ -3607,6 +4363,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenApollo",
    "image_inventory": "econ/status_icons/maptoken_apollo"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenApollo",
+   "description": "#CSGO_Collectible_MapTokenApollo_Desc"
   }
  },
  {
@@ -3626,6 +4386,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGuard",
    "image_inventory": "econ/status_icons/maptoken_guard"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenGuard",
+   "description": "#CSGO_Collectible_MapTokenGuard_Desc"
   }
  },
  {
@@ -3645,6 +4409,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenElysion",
    "image_inventory": "econ/status_icons/maptoken_elysion"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenElysion",
+   "description": "#CSGO_Collectible_MapTokenElysion_Desc"
   }
  },
  {
@@ -3664,6 +4432,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGrind",
    "image_inventory": "econ/status_icons/maptoken_grind"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenGrind",
+   "description": "#CSGO_Collectible_MapTokenGrind_Desc"
   }
  },
  {
@@ -3683,6 +4455,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMocha",
    "image_inventory": "econ/status_icons/maptoken_mocha"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMocha",
+   "description": "#CSGO_Collectible_MapTokenMocha_Desc"
   }
  },
  {
@@ -3702,6 +4478,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCalavera",
    "image_inventory": "econ/status_icons/maptoken_calavera"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenCalavera",
+   "description": "#CSGO_Collectible_MapTokenCalavera_Desc"
   }
  },
  {
@@ -3721,6 +4501,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPitstop",
    "image_inventory": "econ/status_icons/maptoken_pitstop"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenPitstop",
+   "description": "#CSGO_Collectible_MapTokenPitstop_Desc"
   }
  },
  {
@@ -3740,6 +4524,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBasalt",
    "image_inventory": "econ/status_icons/maptoken_basalt"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBasalt",
+   "description": "#CSGO_Collectible_MapTokenBasalt_Desc"
   }
  },
  {
@@ -3759,6 +4547,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenInsertion2",
    "image_inventory": "econ/status_icons/maptoken_insertion2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenInsertion2",
+   "description": "#CSGO_Collectible_MapTokenInsertion2_Desc"
   }
  },
  {
@@ -3778,6 +4570,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRavine",
    "image_inventory": "econ/status_icons/maptoken_ravine"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenRavine",
+   "description": "#CSGO_Collectible_MapTokenRavine_Desc"
   }
  },
  {
@@ -3797,6 +4593,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenExtraction",
    "image_inventory": "econ/status_icons/maptoken_extraction"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenExtraction",
+   "description": "#CSGO_Collectible_MapTokenExtraction_Desc"
   }
  },
  {
@@ -3816,6 +4616,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCounty",
    "image_inventory": "econ/status_icons/maptoken_county"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenCounty",
+   "description": "#CSGO_Collectible_MapTokenCounty_Desc"
   }
  },
  {
@@ -3835,6 +4639,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenIris",
    "image_inventory": "econ/status_icons/maptoken_iris"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenIris",
+   "description": "#CSGO_Collectible_MapTokenIris_Desc"
   }
  },
  {
@@ -3854,6 +4662,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenClimb",
    "image_inventory": "econ/status_icons/maptoken_climb"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenClimb",
+   "description": "#CSGO_Collectible_MapTokenClimb_Desc"
   }
  },
  {
@@ -3873,6 +4685,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCrete",
    "image_inventory": "econ/status_icons/maptoken_crete"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenCrete",
+   "description": "#CSGO_Collectible_MapTokenCrete_Desc"
   }
  },
  {
@@ -3892,6 +4708,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenHive",
    "image_inventory": "econ/status_icons/maptoken_hive"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenHive",
+   "description": "#CSGO_Collectible_MapTokenHive_Desc"
   }
  },
  {
@@ -3911,6 +4731,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenVineyard",
    "image_inventory": "econ/status_icons/maptoken_vineyard"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenVineyard",
+   "description": "#CSGO_Collectible_MapTokenVineyard_Desc"
   }
  },
  {
@@ -3930,6 +4754,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenEmber",
    "image_inventory": "econ/status_icons/maptoken_ember"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenEmber",
+   "description": "#CSGO_Collectible_MapTokenEmber_Desc"
   }
  },
  {
@@ -3949,6 +4777,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenTuscan",
    "image_inventory": "econ/status_icons/maptoken_tuscan"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenTuscan",
+   "description": "#CSGO_Collectible_MapTokenTuscan_Desc"
   }
  },
  {
@@ -3968,6 +4800,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPrime",
    "image_inventory": "econ/status_icons/maptoken_prime"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenPrime",
+   "description": "#CSGO_Collectible_MapTokenPrime_Desc"
   }
  },
  {
@@ -3987,6 +4823,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBlagai",
    "image_inventory": "econ/status_icons/maptoken_blagai"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBlagai",
+   "description": "#CSGO_Collectible_MapTokenBlagai_Desc"
   }
  },
  {
@@ -4006,6 +4846,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBoyard",
    "image_inventory": "econ/status_icons/maptoken_boyard"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBoyard",
+   "description": "#CSGO_Collectible_MapTokenBoyard_Desc"
   }
  },
  {
@@ -4025,6 +4869,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenChalice",
    "image_inventory": "econ/status_icons/maptoken_chalice"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenChalice",
+   "description": "#CSGO_Collectible_MapTokenChalice_Desc"
   }
  },
  {
@@ -4044,6 +4892,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
    "image_inventory": "econ/status_icons/operation_vanguard_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
+   "description": "#CSGO_Ticket_CommunitySeasonFiveSummer2014_Desc"
   }
  },
  {
@@ -4063,6 +4915,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
    "image_inventory": "econ/status_icons/operation_vanguard_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1_Desc"
   }
  },
  {
@@ -4082,6 +4938,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
    "image_inventory": "econ/status_icons/operation_vanguard_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2_Desc"
   }
  },
  {
@@ -4101,6 +4961,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
    "image_inventory": "econ/status_icons/operation_vanguard_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3_Desc"
   }
  },
  {
@@ -4120,6 +4984,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonSix2015",
    "image_inventory": "econ/status_icons/operation_6_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonSix2015",
+   "description": "#CSGO_Ticket_CommunitySeasonSix2015_Desc"
   }
  },
  {
@@ -4139,6 +5007,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
    "image_inventory": "econ/status_icons/operation_6_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1_Desc"
   }
  },
  {
@@ -4158,6 +5030,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
    "image_inventory": "econ/status_icons/operation_6_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2_Desc"
   }
  },
  {
@@ -4177,6 +5053,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
    "image_inventory": "econ/status_icons/operation_6_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3_Desc"
   }
  },
  {
@@ -4196,6 +5076,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2015",
    "image_inventory": "econ/status_icons/service_medal_2015"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2015",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2015"
   }
  },
  {
@@ -4215,6 +5099,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2015",
    "image_inventory": "econ/status_icons/service_medal_2015_2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2015",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2015"
   }
  },
  {
@@ -4234,6 +5122,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonSeven2016",
    "image_inventory": "econ/status_icons/operation_7_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonSeven2016",
+   "description": "#CSGO_Ticket_CommunitySeasonSeven2016_Desc"
   }
  },
  {
@@ -4253,6 +5145,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
    "image_inventory": "econ/status_icons/operation_7_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1_Desc"
   }
  },
  {
@@ -4272,6 +5168,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
    "image_inventory": "econ/status_icons/operation_7_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2_Desc"
   }
  },
  {
@@ -4291,6 +5191,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
    "image_inventory": "econ/status_icons/operation_7_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3_Desc"
   }
  },
  {
@@ -4310,6 +5214,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2016",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2016"
   }
  },
  {
@@ -4329,6 +5237,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2016",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2016"
   }
  },
  {
@@ -4348,6 +5260,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2016",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2016"
   }
  },
  {
@@ -4367,6 +5283,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2016",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2016"
   }
  },
  {
@@ -4386,6 +5306,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2016",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2016"
   }
  },
  {
@@ -4405,6 +5329,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2016",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2016"
   }
  },
  {
@@ -4424,6 +5352,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonEight2017",
    "image_inventory": "econ/status_icons/operation_8_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonEight2017",
+   "description": "#CSGO_Ticket_CommunitySeasonEight2017_Desc"
   }
  },
  {
@@ -4443,6 +5375,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2017",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2017"
   }
  },
  {
@@ -4462,6 +5398,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2017",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2017"
   }
  },
  {
@@ -4481,6 +5421,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2017",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2017"
   }
  },
  {
@@ -4500,6 +5444,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2017",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2017"
   }
  },
  {
@@ -4519,6 +5467,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2017",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2017"
   }
  },
  {
@@ -4538,6 +5490,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2017",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2017"
   }
  },
  {
@@ -4557,6 +5513,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl7"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2017",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2017"
   }
  },
  {
@@ -4576,6 +5536,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2018",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2018"
   }
  },
  {
@@ -4595,6 +5559,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2018",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2018"
   }
  },
  {
@@ -4614,6 +5582,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2018",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2018"
   }
  },
  {
@@ -4633,6 +5605,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2018",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2018"
   }
  },
  {
@@ -4652,6 +5628,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2018",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2018"
   }
  },
  {
@@ -4671,6 +5651,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2018",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2018"
   }
  },
  {
@@ -4690,6 +5674,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2019",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2019"
   }
  },
  {
@@ -4709,6 +5697,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2019",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2019"
   }
  },
  {
@@ -4728,6 +5720,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2019",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2019"
   }
  },
  {
@@ -4747,6 +5743,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2019",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2019"
   }
  },
  {
@@ -4766,6 +5766,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2019",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2019"
   }
  },
  {
@@ -4785,6 +5789,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2019",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2019"
   }
  },
  {
@@ -4804,6 +5812,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
    "image_inventory": "econ/status_icons/operation_8_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1_Desc"
   }
  },
  {
@@ -4823,6 +5835,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
    "image_inventory": "econ/status_icons/operation_8_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2_Desc"
   }
  },
  {
@@ -4842,6 +5858,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
    "image_inventory": "econ/status_icons/operation_8_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3_Desc"
   }
  },
  {
@@ -4861,6 +5881,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
    "image_inventory": "econ/status_icons/operation_8_platinum"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
+   "description": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4_Desc"
   }
  },
  {
@@ -4880,6 +5904,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonNine2019",
    "image_inventory": "econ/status_icons/operation_9_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonNine2019",
+   "description": "#CSGO_Ticket_CommunitySeasonNine2019_Desc"
   }
  },
  {
@@ -4899,6 +5927,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
    "image_inventory": "econ/status_icons/operation_9_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1_Desc"
   }
  },
  {
@@ -4918,6 +5950,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
    "image_inventory": "econ/status_icons/operation_9_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2_Desc"
   }
  },
  {
@@ -4937,6 +5973,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
    "image_inventory": "econ/status_icons/operation_9_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3_Desc"
   }
  },
  {
@@ -4956,6 +5996,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
    "image_inventory": "econ/status_icons/operation_9_platinum"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4_Desc"
   }
  },
  {
@@ -4975,6 +6019,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_katowice2019",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_katowice2019",
+   "description": "#CSGO_TournamentPass_katowice2019_Desc"
   }
  },
  {
@@ -4994,6 +6042,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_katowice2019",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_katowice2019"
   }
  },
  {
@@ -5013,6 +6064,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_katowice2019_Silver",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_katowice2019_Silver"
   }
  },
  {
@@ -5032,6 +6086,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_katowice2019_Gold",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_katowice2019_Gold"
   }
  },
  {
@@ -5051,6 +6108,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_katowice2019_Crystal",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_katowice2019_Crystal"
   }
  },
  {
@@ -5070,6 +6130,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_berlin2019",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_berlin2019",
+   "description": "#CSGO_TournamentPass_berlin2019_Desc"
   }
  },
  {
@@ -5089,6 +6153,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_berlin2019",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_berlin2019"
   }
  },
  {
@@ -5108,6 +6175,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_berlin2019_Silver",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_berlin2019_Silver"
   }
  },
  {
@@ -5127,6 +6197,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_berlin2019_Gold",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_berlin2019_Gold"
   }
  },
  {
@@ -5146,6 +6219,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_berlin2019_Crystal",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_berlin2019_Crystal"
   }
  },
  {
@@ -5165,6 +6241,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_berlin2019_pack",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_pass_pack"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_berlin2019_pack",
+   "description": "#CSGO_TournamentPass_berlin2019_pack_Desc"
   }
  },
  {
@@ -5184,6 +6264,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_berlin2019_charge",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_pass_charge"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_berlin2019_charge",
+   "description": "#CSGO_TournamentPass_berlin2019_charge_Desc"
   }
  },
  {
@@ -5203,6 +6287,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
    "image_inventory": "econ/status_icons/operation_9_plusstars1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1_Desc"
   }
  },
  {
@@ -5222,6 +6310,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
    "image_inventory": "econ/status_icons/operation_9_plusstars10"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10_Desc"
   }
  },
  {
@@ -5241,6 +6333,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
    "image_inventory": "econ/status_icons/operation_9_plusstars100"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100_Desc"
   }
  },
  {
@@ -5260,6 +6356,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2020",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2020"
   }
  },
  {
@@ -5279,6 +6379,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2020",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2020"
   }
  },
  {
@@ -5298,6 +6402,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2020",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2020"
   }
  },
  {
@@ -5317,6 +6425,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2020",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2020"
   }
  },
  {
@@ -5336,6 +6448,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2020",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2020"
   }
  },
  {
@@ -5355,6 +6471,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2020",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2020"
   }
  },
  {
@@ -5374,6 +6494,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_04",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_04"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_04",
+   "description": "#CSGO_Collectible_Pin_alyx_04_desc"
   }
  },
  {
@@ -5393,6 +6517,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_07",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_07"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_07",
+   "description": "#CSGO_Collectible_Pin_alyx_07_desc"
   }
  },
  {
@@ -5412,6 +6540,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_09",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_09"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_09",
+   "description": "#CSGO_Collectible_Pin_alyx_09_desc"
   }
  },
  {
@@ -5431,6 +6563,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_05",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_05"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_05",
+   "description": "#CSGO_Collectible_Pin_alyx_05_desc"
   }
  },
  {
@@ -5450,6 +6586,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_12",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_12"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_12",
+   "description": "#CSGO_Collectible_Pin_alyx_12_desc"
   }
  },
  {
@@ -5469,6 +6609,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_01",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_01"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_01",
+   "description": "#CSGO_Collectible_Pin_alyx_01_desc"
   }
  },
  {
@@ -5488,6 +6632,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_02",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_02"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_02",
+   "description": "#CSGO_Collectible_Pin_alyx_02_desc"
   }
  },
  {
@@ -5507,6 +6655,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_03",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_03"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_03",
+   "description": "#CSGO_Collectible_Pin_alyx_03_desc"
   }
  },
  {
@@ -5526,6 +6678,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_06",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_06"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_06",
+   "description": "#CSGO_Collectible_Pin_alyx_06_desc"
   }
  },
  {
@@ -5545,6 +6701,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_08",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_08"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_08",
+   "description": "#CSGO_Collectible_Pin_alyx_08_desc"
   }
  },
  {
@@ -5564,6 +6724,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_11",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_11"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_11",
+   "description": "#CSGO_Collectible_Pin_alyx_11_desc"
   }
  },
  {
@@ -5583,6 +6747,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonTen2020",
    "image_inventory": "econ/status_icons/operation_10_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonTen2020",
+   "description": "#CSGO_Ticket_CommunitySeasonTen2020_Desc"
   }
  },
  {
@@ -5602,6 +6770,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
    "image_inventory": "econ/status_icons/operation_10_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1_Desc"
   }
  },
  {
@@ -5621,6 +6793,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
    "image_inventory": "econ/status_icons/operation_10_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2_Desc"
   }
  },
  {
@@ -5640,6 +6816,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
    "image_inventory": "econ/status_icons/operation_10_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3_Desc"
   }
  },
  {
@@ -5659,6 +6839,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
    "image_inventory": "econ/status_icons/operation_10_platinum"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
+   "description": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4_Desc"
   }
  },
  {
@@ -5678,6 +6862,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
    "image_inventory": "econ/status_icons/operation_10_plusstars1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
+   "description": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1_Desc"
   }
  },
  {
@@ -5697,6 +6885,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
    "image_inventory": "econ/status_icons/operation_10_plusstars10"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
+   "description": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10_Desc"
   }
  },
  {
@@ -5716,6 +6908,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
    "image_inventory": "econ/status_icons/operation_10_plusstars100"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
+   "description": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100_Desc"
   }
  },
  {
@@ -5735,6 +6931,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2021",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2021"
   }
  },
  {
@@ -5754,6 +6954,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2021",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2021"
   }
  },
  {
@@ -5773,6 +6977,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2021",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2021"
   }
  },
  {
@@ -5792,6 +7000,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2021",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2021"
   }
  },
  {
@@ -5811,6 +7023,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2021",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2021"
   }
  },
  {
@@ -5830,6 +7046,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2021",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2021"
   }
  },
  {
@@ -5849,6 +7069,10 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonEleven2021",
    "image_inventory": "econ/status_icons/operation_11_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonEleven2021",
+   "description": "#CSGO_Ticket_CommunitySeasonEleven2021_Desc"
   }
  },
  {
@@ -5868,6 +7092,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
    "image_inventory": "econ/status_icons/operation_11_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1_Desc"
   }
  },
  {
@@ -5887,6 +7115,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
    "image_inventory": "econ/status_icons/operation_11_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2_Desc"
   }
  },
  {
@@ -5906,6 +7138,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
    "image_inventory": "econ/status_icons/operation_11_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3_Desc"
   }
  },
  {
@@ -5925,6 +7161,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
    "image_inventory": "econ/status_icons/operation_11_platinum"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
+   "description": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4_Desc"
   }
  },
  {
@@ -5944,6 +7184,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
    "image_inventory": "econ/status_icons/operation_11_plusstars1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
+   "description": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1_Desc"
   }
  },
  {
@@ -5963,6 +7207,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
    "image_inventory": "econ/status_icons/operation_11_plusstars10"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
+   "description": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10_Desc"
   }
  },
  {
@@ -5982,6 +7230,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
    "image_inventory": "econ/status_icons/operation_11_plusstars100"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
+   "description": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100_Desc"
   }
  },
  {
@@ -6001,6 +7253,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_stockh2021",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_stockh2021",
+   "description": "#CSGO_TournamentPass_stockh2021_Desc"
   }
  },
  {
@@ -6020,6 +7276,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_stockh2021",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_stockh2021"
   }
  },
  {
@@ -6039,6 +7298,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_stockh2021_Silver",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_stockh2021_Silver"
   }
  },
  {
@@ -6058,6 +7320,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_stockh2021_Gold",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_stockh2021_Gold"
   }
  },
  {
@@ -6077,6 +7342,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_stockh2021_Crystal",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_stockh2021_Crystal"
   }
  },
  {
@@ -6096,6 +7364,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_stockh2021_pack",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_pass_pack"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_stockh2021_pack",
+   "description": "#CSGO_TournamentPass_stockh2021_pack_Desc"
   }
  },
  {
@@ -6115,6 +7387,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_stockh2021_charge",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_pass_charge"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_stockh2021_charge",
+   "description": "#CSGO_TournamentPass_stockh2021_charge_Desc"
   }
  },
  {
@@ -6134,6 +7410,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2022",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2022"
   }
  },
  {
@@ -6153,6 +7433,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2022",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2022"
   }
  },
  {
@@ -6172,6 +7456,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2022",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2022"
   }
  },
  {
@@ -6191,6 +7479,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2022",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2022"
   }
  },
  {
@@ -6210,6 +7502,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2022",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2022"
   }
  },
  {
@@ -6229,6 +7525,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2022",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2022"
   }
  },
  {
@@ -6248,6 +7548,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_antwerp2022",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_antwerp2022",
+   "description": "#CSGO_TournamentPass_antwerp2022_Desc"
   }
  },
  {
@@ -6267,6 +7571,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_antwerp2022",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_antwerp2022"
   }
  },
  {
@@ -6286,6 +7593,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_antwerp2022_Silver",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_antwerp2022_Silver"
   }
  },
  {
@@ -6305,6 +7615,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_antwerp2022_Gold",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_antwerp2022_Gold"
   }
  },
  {
@@ -6324,6 +7637,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_antwerp2022_Crystal",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_antwerp2022_Crystal"
   }
  },
  {
@@ -6343,6 +7659,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_antwerp2022_pack",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_pass_pack"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_antwerp2022_pack",
+   "description": "#CSGO_TournamentPass_antwerp2022_pack_Desc"
   }
  },
  {
@@ -6362,6 +7682,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_antwerp2022_charge",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_pass_charge"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_antwerp2022_charge",
+   "description": "#CSGO_TournamentPass_antwerp2022_charge_Desc"
   }
  },
  {
@@ -6381,6 +7705,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_rio2022",
    "image_inventory": "econ/status_icons/iem_pickem_2022_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_rio2022",
+   "description": "#CSGO_TournamentPass_rio2022_Desc"
   }
  },
  {
@@ -6400,6 +7728,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_rio2022",
    "image_inventory": "econ/status_icons/iem_pickem_2022_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_rio2022"
   }
  },
  {
@@ -6419,6 +7750,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_rio2022_Silver",
    "image_inventory": "econ/status_icons/iem_pickem_2022_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_rio2022_Silver"
   }
  },
  {
@@ -6438,6 +7772,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_rio2022_Gold",
    "image_inventory": "econ/status_icons/iem_pickem_2022_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_rio2022_Gold"
   }
  },
  {
@@ -6457,6 +7794,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_rio2022_Crystal",
    "image_inventory": "econ/status_icons/iem_pickem_2022_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_rio2022_Crystal"
   }
  },
  {
@@ -6476,6 +7816,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_rio2022_pack",
    "image_inventory": "econ/status_icons/iem_pickem_2022_pass_pack"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_rio2022_pack",
+   "description": "#CSGO_TournamentPass_rio2022_pack_Desc"
   }
  },
  {
@@ -6495,6 +7839,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_rio2022_charge",
    "image_inventory": "econ/status_icons/iem_pickem_2022_pass_charge"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_rio2022_charge",
+   "description": "#CSGO_TournamentPass_rio2022_charge_Desc"
   }
  },
  {
@@ -6514,6 +7862,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2023",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2023"
   }
  },
  {
@@ -6533,6 +7885,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2023",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2023"
   }
  },
  {
@@ -6552,6 +7908,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2023",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2023"
   }
  },
  {
@@ -6571,6 +7931,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2023",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2023"
   }
  },
  {
@@ -6590,6 +7954,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2023",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2023"
   }
  },
  {
@@ -6609,6 +7977,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2023",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2023"
   }
  },
  {
@@ -6628,6 +8000,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_paris2023",
    "image_inventory": "econ/status_icons/blast_pickem_2023_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_paris2023",
+   "description": "#CSGO_TournamentPass_paris2023_Desc"
   }
  },
  {
@@ -6647,6 +8023,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_paris2023",
    "image_inventory": "econ/status_icons/blast_pickem_2023_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_paris2023"
   }
  },
  {
@@ -6666,6 +8045,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_paris2023_Silver",
    "image_inventory": "econ/status_icons/blast_pickem_2023_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_paris2023_Silver"
   }
  },
  {
@@ -6685,6 +8067,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_paris2023_Gold",
    "image_inventory": "econ/status_icons/blast_pickem_2023_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_paris2023_Gold"
   }
  },
  {
@@ -6704,6 +8089,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_paris2023_Crystal",
    "image_inventory": "econ/status_icons/blast_pickem_2023_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_paris2023_Crystal"
   }
  },
  {
@@ -6723,6 +8111,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_paris2023_pack",
    "image_inventory": "econ/status_icons/blast_pickem_2023_pass_pack"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_paris2023_pack",
+   "description": "#CSGO_TournamentPass_paris2023_pack_Desc"
   }
  },
  {
@@ -6742,6 +8134,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_paris2023_charge",
    "image_inventory": "econ/status_icons/blast_pickem_2023_pass_charge"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_paris2023_charge",
+   "description": "#CSGO_TournamentPass_paris2023_charge_Desc"
   }
  },
  {
@@ -6761,6 +8157,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2024",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2024"
   }
  },
  {
@@ -6780,6 +8180,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2024",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2024"
   }
  },
  {
@@ -6799,6 +8203,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2024",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2024"
   }
  },
  {
@@ -6818,6 +8226,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2024",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2024"
   }
  },
  {
@@ -6837,6 +8249,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2024",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2024"
   }
  },
  {
@@ -6856,6 +8272,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2024",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2024"
   }
  },
  {
@@ -6875,6 +8295,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_cph2024",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_cph2024",
+   "description": "#CSGO_TournamentPass_cph2024_Desc"
   }
  },
  {
@@ -6894,6 +8318,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cph2024",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_cph2024"
   }
  },
  {
@@ -6913,6 +8340,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cph2024_Silver",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_cph2024_Silver"
   }
  },
  {
@@ -6932,6 +8362,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cph2024_Gold",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_cph2024_Gold"
   }
  },
  {
@@ -6951,6 +8384,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cph2024_Crystal",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_cph2024_Crystal"
   }
  },
  {
@@ -6970,6 +8406,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_cph2024_pack",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_pass_pack"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_cph2024_pack",
+   "description": "#CSGO_TournamentPass_cph2024_pack_Desc"
   }
  },
  {
@@ -6989,6 +8429,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_cph2024_charge",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_pass_charge"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_cph2024_charge",
+   "description": "#CSGO_TournamentPass_cph2024_charge_Desc"
   }
  },
  {
@@ -7008,6 +8452,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cph2024_Champion",
    "image_inventory": "econ/status_icons/trophy_cs2_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_cph2024_Champion",
+   "description": "#CSGO_CollectibleCoin_cph2024_Champion_Desc"
   }
  },
  {
@@ -7027,6 +8475,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cph2024_Finalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_cph2024_Finalist",
+   "description": "#CSGO_CollectibleCoin_cph2024_Finalist_Desc"
   }
  },
  {
@@ -7046,6 +8498,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_cph2024_Semifinalist_Desc"
   }
  },
  {
@@ -7065,6 +8521,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist_Desc"
   }
  },
  {
@@ -7084,6 +8544,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenThera",
    "image_inventory": "econ/status_icons/maptoken_thera"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenThera",
+   "description": "#CSGO_Collectible_MapTokenThera_Desc"
   }
  },
  {
@@ -7103,6 +8567,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMills",
    "image_inventory": "econ/status_icons/maptoken_mills"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMills",
+   "description": "#CSGO_Collectible_MapTokenMills_Desc"
   }
  },
  {
@@ -7122,6 +8590,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAssembly",
    "image_inventory": "econ/status_icons/maptoken_assembly"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenAssembly",
+   "description": "#CSGO_Collectible_MapTokenAssembly_Desc"
   }
  },
  {
@@ -7141,6 +8613,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMemento",
    "image_inventory": "econ/status_icons/maptoken_memento"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMemento",
+   "description": "#CSGO_Collectible_MapTokenMemento_Desc"
   }
  },
  {
@@ -7160,6 +8636,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPoolDay",
    "image_inventory": "econ/status_icons/maptoken_poolday"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenPoolDay",
+   "description": "#CSGO_Collectible_MapTokenPoolDay_Desc"
   }
  },
  {
@@ -7179,6 +8659,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl1"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2025",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2025"
   }
  },
  {
@@ -7198,6 +8682,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2025",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2025"
   }
  },
  {
@@ -7217,6 +8705,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2025",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2025"
   }
  },
  {
@@ -7236,6 +8728,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl4"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2025",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2025"
   }
  },
  {
@@ -7255,6 +8751,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl5"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2025",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2025"
   }
  },
  {
@@ -7274,6 +8774,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl6"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_GlobalGeneral2025",
+   "description": "#CSGO_Collectible_Desc_GlobalGeneral2025"
   }
  },
  {
@@ -7293,6 +8797,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_sha2024",
    "image_inventory": "econ/status_icons/pw_pickem_2024_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_sha2024",
+   "description": "#CSGO_TournamentPass_sha2024_Desc"
   }
  },
  {
@@ -7312,6 +8820,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_sha2024",
    "image_inventory": "econ/status_icons/pw_pickem_2024_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_sha2024"
   }
  },
  {
@@ -7331,6 +8842,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_sha2024_Silver",
    "image_inventory": "econ/status_icons/pw_pickem_2024_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_sha2024_Silver"
   }
  },
  {
@@ -7350,6 +8864,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_sha2024_Gold",
    "image_inventory": "econ/status_icons/pw_pickem_2024_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_sha2024_Gold"
   }
  },
  {
@@ -7369,6 +8886,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_sha2024_Crystal",
    "image_inventory": "econ/status_icons/pw_pickem_2024_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_sha2024_Crystal"
   }
  },
  {
@@ -7388,6 +8908,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_sha2024_pack",
    "image_inventory": "econ/status_icons/pw_pickem_2024_pass_pack"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_sha2024_pack",
+   "description": "#CSGO_TournamentPass_sha2024_pack_Desc"
   }
  },
  {
@@ -7407,6 +8931,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_sha2024_charge",
    "image_inventory": "econ/status_icons/pw_pickem_2024_pass_charge"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_sha2024_charge",
+   "description": "#CSGO_TournamentPass_sha2024_charge_Desc"
   }
  },
  {
@@ -7426,6 +8954,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_sha2024_Champion",
    "image_inventory": "econ/status_icons/trophy_cs2_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_sha2024_Champion",
+   "description": "#CSGO_CollectibleCoin_sha2024_Champion_Desc"
   }
  },
  {
@@ -7445,6 +8977,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_sha2024_Finalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_sha2024_Finalist",
+   "description": "#CSGO_CollectibleCoin_sha2024_Finalist_Desc"
   }
  },
  {
@@ -7464,6 +9000,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_sha2024_Semifinalist_Desc"
   }
  },
  {
@@ -7483,6 +9023,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist_Desc"
   }
  },
  {
@@ -7502,6 +9046,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenWhistle",
    "image_inventory": "econ/status_icons/maptoken_whistle"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenWhistle",
+   "description": "#CSGO_Collectible_MapTokenWhistle_Desc"
   }
  },
  {
@@ -7521,6 +9069,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPalais",
    "image_inventory": "econ/status_icons/maptoken_palais"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenPalais",
+   "description": "#CSGO_Collectible_MapTokenPalais_Desc"
   }
  },
  {
@@ -7540,6 +9092,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenEdin",
    "image_inventory": "econ/status_icons/maptoken_edin"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenEdin",
+   "description": "#CSGO_Collectible_MapTokenEdin_Desc"
   }
  },
  {
@@ -7559,6 +9115,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBasaltCS2",
    "image_inventory": "econ/status_icons/maptoken_basaltcs2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBasaltCS2",
+   "description": "#CSGO_Collectible_MapTokenBasaltCS2_Desc"
   }
  },
  {
@@ -7579,6 +9139,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason1Coin",
    "image_inventory": "econ/premier_seasons/premier_season_1_coin_eg"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason1Coin",
+   "description": "#CSGO_Collectible_PremierSeason1Coin_Desc"
   }
  },
  {
@@ -7599,6 +9163,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_eg"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7619,6 +9187,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_11"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7639,6 +9211,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_12"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7659,6 +9235,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_13"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7679,6 +9259,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_14"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7699,6 +9283,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_15"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7719,6 +9307,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_21"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7739,6 +9331,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_22"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7759,6 +9355,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_23"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7779,6 +9379,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_24"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7799,6 +9403,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_25"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7819,6 +9427,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_31"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7839,6 +9451,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_32"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7859,6 +9475,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_33"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7879,6 +9499,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_34"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7899,6 +9523,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_35"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7919,6 +9547,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_41"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7939,6 +9571,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_42"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7959,6 +9595,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_43"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7979,6 +9619,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_44"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -7999,6 +9643,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_45"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8019,6 +9667,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_51"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8039,6 +9691,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_52"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8059,6 +9715,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_53"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8079,6 +9739,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_54"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8099,6 +9763,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_55"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8119,6 +9787,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_61"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8139,6 +9811,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_62"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8159,6 +9835,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_63"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8179,6 +9859,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_64"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8199,6 +9883,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_65"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8219,6 +9907,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_71"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8239,6 +9931,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_72"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8259,6 +9955,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_73"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8279,6 +9979,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_74"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8299,6 +10003,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_75"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason2Coin",
+   "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
   }
  },
  {
@@ -8318,6 +10026,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_aus2025",
    "image_inventory": "econ/tournaments/aus2025/aus2025_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_aus2025",
+   "description": "#CSGO_TournamentPass_aus2025_Desc"
   }
  },
  {
@@ -8337,6 +10049,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_aus2025",
    "image_inventory": "econ/tournaments/aus2025/aus2025_coin_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_aus2025"
   }
  },
  {
@@ -8356,6 +10071,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_aus2025_Silver",
    "image_inventory": "econ/tournaments/aus2025/aus2025_coin_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_aus2025_Silver"
   }
  },
  {
@@ -8375,6 +10093,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_aus2025_Gold",
    "image_inventory": "econ/tournaments/aus2025/aus2025_coin_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_aus2025_Gold"
   }
  },
  {
@@ -8394,6 +10115,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_aus2025_Crystal",
    "image_inventory": "econ/tournaments/aus2025/aus2025_coin_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_aus2025_Crystal"
   }
  },
  {
@@ -8413,6 +10137,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_aus2025_pack",
    "image_inventory": "econ/tournaments/aus2025/aus2025_pass_pack"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_aus2025_pack",
+   "description": "#CSGO_TournamentPass_aus2025_pack_Desc"
   }
  },
  {
@@ -8432,6 +10160,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_aus2025_charge",
    "image_inventory": "econ/tournaments/aus2025/aus2025_pass_charge"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_aus2025_charge",
+   "description": "#CSGO_TournamentPass_aus2025_charge_Desc"
   }
  },
  {
@@ -8451,6 +10183,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_aus2025_Champion",
    "image_inventory": "econ/status_icons/trophy_cs2_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_aus2025_Champion",
+   "description": "#CSGO_CollectibleCoin_aus2025_Champion_Desc"
   }
  },
  {
@@ -8470,6 +10206,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_aus2025_Finalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_aus2025_Finalist",
+   "description": "#CSGO_CollectibleCoin_aus2025_Finalist_Desc"
   }
  },
  {
@@ -8489,6 +10229,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_aus2025_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_aus2025_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_aus2025_Semifinalist_Desc"
   }
  },
  {
@@ -8508,6 +10252,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist_Desc"
   }
  },
  {
@@ -8527,6 +10275,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAgencyCS2",
    "image_inventory": "econ/status_icons/maptoken_agencycs2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenAgencyCS2",
+   "description": "#CSGO_Collectible_MapTokenAgencyCS2_Desc"
   }
  },
  {
@@ -8546,6 +10298,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenJura",
    "image_inventory": "econ/status_icons/maptoken_jura"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenJura",
+   "description": "#CSGO_Collectible_MapTokenJura_Desc"
   }
  },
  {
@@ -8565,6 +10321,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGrail",
    "image_inventory": "econ/status_icons/maptoken_grail"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenGrail",
+   "description": "#CSGO_Collectible_MapTokenGrail_Desc"
   }
  },
  {
@@ -8584,6 +10344,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenDogtown",
    "image_inventory": "econ/status_icons/maptoken_dogtown"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenDogtown",
+   "description": "#CSGO_Collectible_MapTokenDogtown_Desc"
   }
  },
  {
@@ -8603,6 +10367,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBrewery",
    "image_inventory": "econ/status_icons/maptoken_brewery"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenBrewery",
+   "description": "#CSGO_Collectible_MapTokenBrewery_Desc"
   }
  },
  {
@@ -8623,6 +10391,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_eg"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8643,6 +10415,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_11"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8663,6 +10439,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_12"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8683,6 +10463,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_13"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8703,6 +10487,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_14"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8723,6 +10511,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_15"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8743,6 +10535,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_21"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8763,6 +10559,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_22"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8783,6 +10583,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_23"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8803,6 +10607,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_24"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8823,6 +10631,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_25"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8843,6 +10655,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_31"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8863,6 +10679,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_32"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8883,6 +10703,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_33"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8903,6 +10727,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_34"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8923,6 +10751,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_35"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8943,6 +10775,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_41"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8963,6 +10799,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_42"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -8983,6 +10823,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_43"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9003,6 +10847,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_44"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9023,6 +10871,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_45"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9043,6 +10895,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_51"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9063,6 +10919,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_52"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9083,6 +10943,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_53"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9103,6 +10967,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_54"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9123,6 +10991,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_55"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9143,6 +11015,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_61"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9163,6 +11039,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_62"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9183,6 +11063,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_63"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9203,6 +11087,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_64"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9223,6 +11111,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_65"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9243,6 +11135,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_71"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9263,6 +11159,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_72"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9283,6 +11183,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_73"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9303,6 +11207,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_74"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9323,6 +11231,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_75"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_PremierSeason3Coin",
+   "description": "#CSGO_Collectible_PremierSeason3Coin_Desc"
   }
  },
  {
@@ -9342,6 +11254,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGolden",
    "image_inventory": "econ/status_icons/maptoken_golden"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenGolden",
+   "description": "#CSGO_Collectible_MapTokenGolden_Desc"
   }
  },
  {
@@ -9361,6 +11277,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRooftop",
    "image_inventory": "econ/status_icons/maptoken_rooftop"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenRooftop",
+   "description": "#CSGO_Collectible_MapTokenRooftop_Desc"
   }
  },
  {
@@ -9380,6 +11300,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPalacio",
    "image_inventory": "econ/status_icons/maptoken_palacio"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenPalacio",
+   "description": "#CSGO_Collectible_MapTokenPalacio_Desc"
   }
  },
  {
@@ -9399,6 +11323,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenTransit",
    "image_inventory": "econ/status_icons/maptoken_transit"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenTransit",
+   "description": "#CSGO_Collectible_MapTokenTransit_Desc"
   }
  },
  {
@@ -9418,6 +11346,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_bud2025",
    "image_inventory": "econ/tournaments/bud2025/bud2025_pass"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_bud2025",
+   "description": "#CSGO_TournamentPass_bud2025_Desc"
   }
  },
  {
@@ -9437,6 +11369,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_bud2025",
    "image_inventory": "econ/tournaments/bud2025/bud2025_coin_bronze"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_bud2025"
   }
  },
  {
@@ -9452,10 +11387,13 @@
   "type": "Pick'Em Coin",
   "genuine": false,
   "market_hash_name": null,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_silver_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76EzjE02jy6nj8itV0OGnZLJoMr6WVzLCkOggsrk6Gi-yzB8l4jzQydiqJXrGaA8jXMF0QeBY5kSwxNTnKaq8sA6TtQQG",
   "original": {
    "item_name": "#CSGO_TournamentJournal_bud2025_Silver",
    "image_inventory": "econ/tournaments/bud2025/bud2025_coin_silver"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_bud2025_Silver"
   }
  },
  {
@@ -9471,10 +11409,13 @@
   "type": "Pick'Em Coin",
   "genuine": false,
   "market_hash_name": null,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/bud2025_coin_gold_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76EzjE02jy6nj8itV0PWhZKAjJaHBWzXJlLoutLE7FnznkR93sWrWyYqqIH6Xb1ciX8N0TOYJtEHtmsqnab0xa6DL8Q",
   "original": {
    "item_name": "#CSGO_TournamentJournal_bud2025_Gold",
    "image_inventory": "econ/tournaments/bud2025/bud2025_coin_gold"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_bud2025_Gold"
   }
  },
  {
@@ -9494,6 +11435,9 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_bud2025_Crystal",
    "image_inventory": "econ/tournaments/bud2025/bud2025_coin_crystal"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_bud2025_Crystal"
   }
  },
  {
@@ -9513,6 +11457,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_bud2025_pack",
    "image_inventory": "econ/tournaments/bud2025/bud2025_pass_pack"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_bud2025_pack",
+   "description": "#CSGO_TournamentPass_bud2025_pack_Desc"
   }
  },
  {
@@ -9532,6 +11480,10 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_bud2025_charge",
    "image_inventory": "econ/tournaments/bud2025/bud2025_pass_charge"
+  },
+  "i18n": {
+   "name": "#CSGO_TournamentPass_bud2025_charge",
+   "description": "#CSGO_TournamentPass_bud2025_charge_Desc"
   }
  },
  {
@@ -9551,6 +11503,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_bud2025_Champion",
    "image_inventory": "econ/status_icons/trophy_cs2_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_bud2025_Champion",
+   "description": "#CSGO_CollectibleCoin_bud2025_Champion_Desc"
   }
  },
  {
@@ -9570,6 +11526,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_bud2025_Finalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_bud2025_Finalist",
+   "description": "#CSGO_CollectibleCoin_bud2025_Finalist_Desc"
   }
  },
  {
@@ -9589,6 +11549,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_bud2025_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_bud2025_Semifinalist",
+   "description": "#CSGO_CollectibleCoin_bud2025_Semifinalist_Desc"
   }
  },
  {
@@ -9608,6 +11572,10 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_bud2025_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_bud2025_Quarterfinalist",
+   "description": "#CSGO_CollectibleCoin_bud2025_Quarterfinalist_Desc"
   }
  },
  {
@@ -9627,6 +11595,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_DustII",
    "image_inventory": "econ/status_icons/collectible_pin_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_DustII",
+   "description": "#CSGO_Collectible_Pin_DustII_Desc"
   }
  },
  {
@@ -9646,6 +11618,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_GuardianElite",
    "image_inventory": "econ/status_icons/collectible_pin_guardianelite"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_GuardianElite",
+   "description": "#CSGO_Collectible_Pin_GuardianElite_Desc"
   }
  },
  {
@@ -9665,6 +11641,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Mirage",
    "image_inventory": "econ/status_icons/collectible_pin_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Mirage",
+   "description": "#CSGO_Collectible_Pin_Mirage_Desc"
   }
  },
  {
@@ -9684,6 +11664,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Inferno",
    "image_inventory": "econ/status_icons/collectible_pin_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Inferno",
+   "description": "#CSGO_Collectible_Pin_Inferno_Desc"
   }
  },
  {
@@ -9703,6 +11687,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Italy",
    "image_inventory": "econ/status_icons/collectible_pin_italy"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Italy",
+   "description": "#CSGO_Collectible_Pin_Italy_Desc"
   }
  },
  {
@@ -9722,6 +11710,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Victory",
    "image_inventory": "econ/status_icons/collectible_pin_victory"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Victory",
+   "description": "#CSGO_Collectible_Pin_Victory_Desc"
   }
  },
  {
@@ -9741,6 +11733,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Militia",
    "image_inventory": "econ/status_icons/collectible_pin_militia"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Militia",
+   "description": "#CSGO_Collectible_Pin_Militia_Desc"
   }
  },
  {
@@ -9760,6 +11756,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Nuke",
    "image_inventory": "econ/status_icons/collectible_pin_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Nuke",
+   "description": "#CSGO_Collectible_Pin_Nuke_Desc"
   }
  },
  {
@@ -9779,6 +11779,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Train",
    "image_inventory": "econ/status_icons/collectible_pin_train"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Train",
+   "description": "#CSGO_Collectible_Pin_Train_Desc"
   }
  },
  {
@@ -9798,6 +11802,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Guardian",
    "image_inventory": "econ/status_icons/collectible_pin_guardian"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Guardian",
+   "description": "#CSGO_Collectible_Pin_Guardian_Desc"
   }
  },
  {
@@ -9817,6 +11825,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Tactics",
    "image_inventory": "econ/status_icons/collectible_pin_tactics"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Tactics",
+   "description": "#CSGO_Collectible_Pin_Tactics_Desc"
   }
  },
  {
@@ -9836,6 +11848,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_guardian_2",
    "image_inventory": "econ/status_icons/collectible_pin_guardian_2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_guardian_2",
+   "description": "#CSGO_Collectible_Pin_guardian_2_desc"
   }
  },
  {
@@ -9855,6 +11871,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_bravo",
    "image_inventory": "econ/status_icons/collectible_pin_bravo"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_bravo",
+   "description": "#CSGO_Collectible_Pin_bravo_desc"
   }
  },
  {
@@ -9874,6 +11894,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_baggage",
    "image_inventory": "econ/status_icons/collectible_pin_baggage"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_baggage",
+   "description": "#CSGO_Collectible_Pin_baggage_desc"
   }
  },
  {
@@ -9893,6 +11917,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_phoenix",
    "image_inventory": "econ/status_icons/collectible_pin_phoenix"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_phoenix",
+   "description": "#CSGO_Collectible_Pin_phoenix_desc"
   }
  },
  {
@@ -9912,6 +11940,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_office",
    "image_inventory": "econ/status_icons/collectible_pin_office"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_office",
+   "description": "#CSGO_Collectible_Pin_office_desc"
   }
  },
  {
@@ -9931,6 +11963,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_cobblestone",
    "image_inventory": "econ/status_icons/collectible_pin_cobblestone"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_cobblestone",
+   "description": "#CSGO_Collectible_Pin_cobblestone_desc"
   }
  },
  {
@@ -9950,6 +11986,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_overpass",
    "image_inventory": "econ/status_icons/collectible_pin_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_overpass",
+   "description": "#CSGO_Collectible_Pin_overpass_desc"
   }
  },
  {
@@ -9969,6 +12009,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_bloodhound",
    "image_inventory": "econ/status_icons/collectible_pin_bloodhound"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_bloodhound",
+   "description": "#CSGO_Collectible_Pin_bloodhound_desc"
   }
  },
  {
@@ -9988,6 +12032,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_cache",
    "image_inventory": "econ/status_icons/collectible_pin_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_cache",
+   "description": "#CSGO_Collectible_Pin_cache_desc"
   }
  },
  {
@@ -10007,6 +12055,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_valeria",
    "image_inventory": "econ/status_icons/collectible_pin_valeria"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_valeria",
+   "description": "#CSGO_Collectible_Pin_valeria_desc"
   }
  },
  {
@@ -10026,6 +12078,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_chroma",
    "image_inventory": "econ/status_icons/collectible_pin_chroma"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_chroma",
+   "description": "#CSGO_Collectible_Pin_chroma_desc"
   }
  },
  {
@@ -10045,6 +12101,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_guardian_3",
    "image_inventory": "econ/status_icons/collectible_pin_guardian_3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_guardian_3",
+   "description": "#CSGO_Collectible_Pin_guardian_3_desc"
   }
  },
  {
@@ -10064,6 +12124,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_canals",
    "image_inventory": "econ/status_icons/collectible_pin_canals"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_canals",
+   "description": "#CSGO_Collectible_Pin_canals_desc"
   }
  },
  {
@@ -10083,6 +12147,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
    "image_inventory": "econ/status_icons/collectible_pin_welcome_to_the_clutch"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
+   "description": "#CSGO_Collectible_Pin_welcome_to_the_clutch_desc"
   }
  },
  {
@@ -10102,6 +12170,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_death_sentence",
    "image_inventory": "econ/status_icons/collectible_pin_death_sentence"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_death_sentence",
+   "description": "#CSGO_Collectible_Pin_death_sentence_desc"
   }
  },
  {
@@ -10121,6 +12193,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_inferno_2",
    "image_inventory": "econ/status_icons/collectible_pin_inferno_2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_inferno_2",
+   "description": "#CSGO_Collectible_Pin_inferno_2_desc"
   }
  },
  {
@@ -10140,6 +12216,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_wildfire",
    "image_inventory": "econ/status_icons/collectible_pin_wildfire"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_wildfire",
+   "description": "#CSGO_Collectible_Pin_wildfire_desc"
   }
  },
  {
@@ -10159,6 +12239,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_easy_peasy",
    "image_inventory": "econ/status_icons/collectible_pin_easy_peasy"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_easy_peasy",
+   "description": "#CSGO_Collectible_Pin_easy_peasy_desc"
   }
  },
  {
@@ -10178,6 +12262,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_aces_high",
    "image_inventory": "econ/status_icons/collectible_pin_aces_high"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_aces_high",
+   "description": "#CSGO_Collectible_Pin_aces_high_desc"
   }
  },
  {
@@ -10197,6 +12285,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_hydra",
    "image_inventory": "econ/status_icons/collectible_pin_hydra"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_hydra",
+   "description": "#CSGO_Collectible_Pin_hydra_desc"
   }
  },
  {
@@ -10216,6 +12308,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_howl",
    "image_inventory": "econ/status_icons/collectible_pin_howl"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_howl",
+   "description": "#CSGO_Collectible_Pin_howl_desc"
   }
  },
  {
@@ -10235,6 +12331,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_brigadier_general",
    "image_inventory": "econ/status_icons/collectible_pin_brigadier_general"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_brigadier_general",
+   "description": "#CSGO_Collectible_Pin_brigadier_general_desc"
   }
  },
  {
@@ -10254,6 +12354,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_10",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_10"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_10",
+   "description": "#CSGO_Collectible_Pin_alyx_10_desc"
   }
  },
  {
@@ -10273,6 +12377,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_DustII",
    "image_inventory": "econ/status_icons/collectible_pin_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_DustII",
+   "description": "#CSGO_Collectible_Pin_DustII_Desc"
   }
  },
  {
@@ -10292,6 +12400,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_GuardianElite",
    "image_inventory": "econ/status_icons/collectible_pin_guardianelite"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_GuardianElite",
+   "description": "#CSGO_Collectible_Pin_GuardianElite_Desc"
   }
  },
  {
@@ -10311,6 +12423,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Mirage",
    "image_inventory": "econ/status_icons/collectible_pin_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Mirage",
+   "description": "#CSGO_Collectible_Pin_Mirage_Desc"
   }
  },
  {
@@ -10330,6 +12446,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Inferno",
    "image_inventory": "econ/status_icons/collectible_pin_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Inferno",
+   "description": "#CSGO_Collectible_Pin_Inferno_Desc"
   }
  },
  {
@@ -10349,6 +12469,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Italy",
    "image_inventory": "econ/status_icons/collectible_pin_italy"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Italy",
+   "description": "#CSGO_Collectible_Pin_Italy_Desc"
   }
  },
  {
@@ -10368,6 +12492,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Victory",
    "image_inventory": "econ/status_icons/collectible_pin_victory"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Victory",
+   "description": "#CSGO_Collectible_Pin_Victory_Desc"
   }
  },
  {
@@ -10387,6 +12515,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Militia",
    "image_inventory": "econ/status_icons/collectible_pin_militia"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Militia",
+   "description": "#CSGO_Collectible_Pin_Militia_Desc"
   }
  },
  {
@@ -10406,6 +12538,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Nuke",
    "image_inventory": "econ/status_icons/collectible_pin_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Nuke",
+   "description": "#CSGO_Collectible_Pin_Nuke_Desc"
   }
  },
  {
@@ -10425,6 +12561,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Train",
    "image_inventory": "econ/status_icons/collectible_pin_train"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Train",
+   "description": "#CSGO_Collectible_Pin_Train_Desc"
   }
  },
  {
@@ -10444,6 +12584,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Guardian",
    "image_inventory": "econ/status_icons/collectible_pin_guardian"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Guardian",
+   "description": "#CSGO_Collectible_Pin_Guardian_Desc"
   }
  },
  {
@@ -10463,6 +12607,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Tactics",
    "image_inventory": "econ/status_icons/collectible_pin_tactics"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_Tactics",
+   "description": "#CSGO_Collectible_Pin_Tactics_Desc"
   }
  },
  {
@@ -10482,6 +12630,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_guardian_2",
    "image_inventory": "econ/status_icons/collectible_pin_guardian_2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_guardian_2",
+   "description": "#CSGO_Collectible_Pin_guardian_2_desc"
   }
  },
  {
@@ -10501,6 +12653,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_bravo",
    "image_inventory": "econ/status_icons/collectible_pin_bravo"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_bravo",
+   "description": "#CSGO_Collectible_Pin_bravo_desc"
   }
  },
  {
@@ -10520,6 +12676,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_baggage",
    "image_inventory": "econ/status_icons/collectible_pin_baggage"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_baggage",
+   "description": "#CSGO_Collectible_Pin_baggage_desc"
   }
  },
  {
@@ -10539,6 +12699,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_phoenix",
    "image_inventory": "econ/status_icons/collectible_pin_phoenix"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_phoenix",
+   "description": "#CSGO_Collectible_Pin_phoenix_desc"
   }
  },
  {
@@ -10558,6 +12722,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_office",
    "image_inventory": "econ/status_icons/collectible_pin_office"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_office",
+   "description": "#CSGO_Collectible_Pin_office_desc"
   }
  },
  {
@@ -10577,6 +12745,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_cobblestone",
    "image_inventory": "econ/status_icons/collectible_pin_cobblestone"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_cobblestone",
+   "description": "#CSGO_Collectible_Pin_cobblestone_desc"
   }
  },
  {
@@ -10596,6 +12768,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_overpass",
    "image_inventory": "econ/status_icons/collectible_pin_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_overpass",
+   "description": "#CSGO_Collectible_Pin_overpass_desc"
   }
  },
  {
@@ -10615,6 +12791,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_bloodhound",
    "image_inventory": "econ/status_icons/collectible_pin_bloodhound"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_bloodhound",
+   "description": "#CSGO_Collectible_Pin_bloodhound_desc"
   }
  },
  {
@@ -10634,6 +12814,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_cache",
    "image_inventory": "econ/status_icons/collectible_pin_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_cache",
+   "description": "#CSGO_Collectible_Pin_cache_desc"
   }
  },
  {
@@ -10653,6 +12837,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_valeria",
    "image_inventory": "econ/status_icons/collectible_pin_valeria"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_valeria",
+   "description": "#CSGO_Collectible_Pin_valeria_desc"
   }
  },
  {
@@ -10672,6 +12860,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_chroma",
    "image_inventory": "econ/status_icons/collectible_pin_chroma"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_chroma",
+   "description": "#CSGO_Collectible_Pin_chroma_desc"
   }
  },
  {
@@ -10691,6 +12883,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_guardian_3",
    "image_inventory": "econ/status_icons/collectible_pin_guardian_3"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_guardian_3",
+   "description": "#CSGO_Collectible_Pin_guardian_3_desc"
   }
  },
  {
@@ -10710,6 +12906,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_canals",
    "image_inventory": "econ/status_icons/collectible_pin_canals"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_canals",
+   "description": "#CSGO_Collectible_Pin_canals_desc"
   }
  },
  {
@@ -10729,6 +12929,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
    "image_inventory": "econ/status_icons/collectible_pin_welcome_to_the_clutch"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
+   "description": "#CSGO_Collectible_Pin_welcome_to_the_clutch_desc"
   }
  },
  {
@@ -10748,6 +12952,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_death_sentence",
    "image_inventory": "econ/status_icons/collectible_pin_death_sentence"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_death_sentence",
+   "description": "#CSGO_Collectible_Pin_death_sentence_desc"
   }
  },
  {
@@ -10767,6 +12975,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_inferno_2",
    "image_inventory": "econ/status_icons/collectible_pin_inferno_2"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_inferno_2",
+   "description": "#CSGO_Collectible_Pin_inferno_2_desc"
   }
  },
  {
@@ -10786,6 +12998,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_wildfire",
    "image_inventory": "econ/status_icons/collectible_pin_wildfire"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_wildfire",
+   "description": "#CSGO_Collectible_Pin_wildfire_desc"
   }
  },
  {
@@ -10805,6 +13021,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_easy_peasy",
    "image_inventory": "econ/status_icons/collectible_pin_easy_peasy"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_easy_peasy",
+   "description": "#CSGO_Collectible_Pin_easy_peasy_desc"
   }
  },
  {
@@ -10824,6 +13044,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_aces_high",
    "image_inventory": "econ/status_icons/collectible_pin_aces_high"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_aces_high",
+   "description": "#CSGO_Collectible_Pin_aces_high_desc"
   }
  },
  {
@@ -10843,6 +13067,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_hydra",
    "image_inventory": "econ/status_icons/collectible_pin_hydra"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_hydra",
+   "description": "#CSGO_Collectible_Pin_hydra_desc"
   }
  },
  {
@@ -10862,6 +13090,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_howl",
    "image_inventory": "econ/status_icons/collectible_pin_howl"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_howl",
+   "description": "#CSGO_Collectible_Pin_howl_desc"
   }
  },
  {
@@ -10881,6 +13113,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_brigadier_general",
    "image_inventory": "econ/status_icons/collectible_pin_brigadier_general"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_brigadier_general",
+   "description": "#CSGO_Collectible_Pin_brigadier_general_desc"
   }
  },
  {
@@ -10900,6 +13136,10 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_10",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_10"
+  },
+  "i18n": {
+   "name": "#CSGO_Collectible_Pin_alyx_10",
+   "description": "#CSGO_Collectible_Pin_alyx_10_desc"
   }
  }
 ]

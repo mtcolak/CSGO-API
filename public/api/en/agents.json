@@ -26,6 +26,10 @@
   "original": {
    "name": "customplayer_tm_professional_varf5",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf5"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_varf5",
+   "description": "#CSGO_CustomPlayer_tm_professional_varf5_Desc"
   }
  },
  {
@@ -55,6 +59,10 @@
   "original": {
    "name": "customplayer_ctm_st6_variantj",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantj"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_st6_variantj",
+   "description": "#CSGO_CustomPlayer_ctm_st6_variantj_Desc"
   }
  },
  {
@@ -84,6 +92,10 @@
   "original": {
    "name": "customplayer_ctm_st6_variantl",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantl"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_st6_variantl",
+   "description": "#CSGO_CustomPlayer_ctm_st6_variantl_Desc"
   }
  },
  {
@@ -113,6 +125,10 @@
   "original": {
    "name": "customplayer_ctm_swat_variante",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variante"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_swat_variante",
+   "description": "#CSGO_CustomPlayer_ctm_swat_variante_Desc"
   }
  },
  {
@@ -142,6 +158,10 @@
   "original": {
    "name": "customplayer_ctm_swat_variantf",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variantf"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_swat_variantf",
+   "description": "#CSGO_CustomPlayer_ctm_swat_variantf_Desc"
   }
  },
  {
@@ -171,6 +191,10 @@
   "original": {
    "name": "customplayer_ctm_swat_variantg",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variantg"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_swat_variantg",
+   "description": "#CSGO_CustomPlayer_ctm_swat_variantg_Desc"
   }
  },
  {
@@ -200,6 +224,10 @@
   "original": {
    "name": "customplayer_ctm_swat_varianth",
    "image_inventory": "econ/characters/customplayer_ctm_swat_varianth"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_swat_varianth",
+   "description": "#CSGO_CustomPlayer_ctm_swat_varianth_Desc"
   }
  },
  {
@@ -229,6 +257,10 @@
   "original": {
    "name": "customplayer_ctm_swat_varianti",
    "image_inventory": "econ/characters/customplayer_ctm_swat_varianti"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_swat_varianti",
+   "description": "#CSGO_CustomPlayer_ctm_swat_varianti_Desc"
   }
  },
  {
@@ -258,6 +290,10 @@
   "original": {
    "name": "customplayer_ctm_swat_variantj",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variantj"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_swat_variantj",
+   "description": "#CSGO_CustomPlayer_ctm_swat_variantj_Desc"
   }
  },
  {
@@ -287,6 +323,10 @@
   "original": {
    "name": "customplayer_tm_balkan_variantk",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantk"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_balkan_variantk",
+   "description": "#CSGO_CustomPlayer_tm_balkan_variantk_Desc"
   }
  },
  {
@@ -316,6 +356,10 @@
   "original": {
    "name": "customplayer_tm_professional_varf",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_varf",
+   "description": "#CSGO_CustomPlayer_tm_professional_varf_Desc"
   }
  },
  {
@@ -345,6 +389,10 @@
   "original": {
    "name": "customplayer_tm_professional_varg",
    "image_inventory": "econ/characters/customplayer_tm_professional_varg"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_varg",
+   "description": "#CSGO_CustomPlayer_tm_professional_varg_Desc"
   }
  },
  {
@@ -374,6 +422,10 @@
   "original": {
    "name": "customplayer_tm_professional_varh",
    "image_inventory": "econ/characters/customplayer_tm_professional_varh"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_varh",
+   "description": "#CSGO_CustomPlayer_tm_professional_varh_Desc"
   }
  },
  {
@@ -403,6 +455,10 @@
   "original": {
    "name": "customplayer_tm_professional_varj",
    "image_inventory": "econ/characters/customplayer_tm_professional_varj"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_varj",
+   "description": "#CSGO_CustomPlayer_tm_professional_varj_Desc"
   }
  },
  {
@@ -432,6 +488,10 @@
   "original": {
    "name": "customplayer_tm_professional_vari",
    "image_inventory": "econ/characters/customplayer_tm_professional_vari"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_vari",
+   "description": "#CSGO_CustomPlayer_tm_professional_vari_Desc"
   }
  },
  {
@@ -461,6 +521,10 @@
   "original": {
    "name": "customplayer_tm_professional_varf1",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf1"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_varf1",
+   "description": "#CSGO_CustomPlayer_tm_professional_varf1_Desc"
   }
  },
  {
@@ -490,6 +554,10 @@
   "original": {
    "name": "customplayer_tm_professional_varf2",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf2"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_varf2",
+   "description": "#CSGO_CustomPlayer_tm_professional_varf2_Desc"
   }
  },
  {
@@ -519,6 +587,10 @@
   "original": {
    "name": "customplayer_tm_professional_varf3",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf3"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_varf3",
+   "description": "#CSGO_CustomPlayer_tm_professional_varf3_Desc"
   }
  },
  {
@@ -548,6 +620,10 @@
   "original": {
    "name": "customplayer_tm_professional_varf4",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf4"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_professional_varf4",
+   "description": "#CSGO_CustomPlayer_tm_professional_varf4_Desc"
   }
  },
  {
@@ -577,6 +653,10 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_varianta",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_varianta"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_gendarmerie_varianta",
+   "description": "#CSGO_CustomPlayer_ctm_gendarmerie_varianta_Desc"
   }
  },
  {
@@ -606,6 +686,10 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_variantb",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantb"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_gendarmerie_variantb",
+   "description": "#CSGO_CustomPlayer_ctm_gendarmerie_variantb_Desc"
   }
  },
  {
@@ -635,6 +719,10 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_variantc",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantc"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_gendarmerie_variantc",
+   "description": "#CSGO_CustomPlayer_ctm_gendarmerie_variantc_Desc"
   }
  },
  {
@@ -664,6 +752,10 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_variantd",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantd"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_gendarmerie_variantd",
+   "description": "#CSGO_CustomPlayer_ctm_gendarmerie_variantd_Desc"
   }
  },
  {
@@ -693,6 +785,10 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_variante",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variante"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_gendarmerie_variante",
+   "description": "#CSGO_CustomPlayer_ctm_gendarmerie_variante_Desc"
   }
  },
  {
@@ -722,6 +818,10 @@
   "original": {
    "name": "customplayer_ctm_swat_variantk",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variantk"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_swat_variantk",
+   "description": "#CSGO_CustomPlayer_ctm_swat_variantk_Desc"
   }
  },
  {
@@ -751,6 +851,10 @@
   "original": {
    "name": "customplayer_ctm_diver_varianta",
    "image_inventory": "econ/characters/customplayer_ctm_diver_varianta"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_diver_varianta",
+   "description": "#CSGO_CustomPlayer_ctm_diver_varianta_Desc"
   }
  },
  {
@@ -780,6 +884,10 @@
   "original": {
    "name": "customplayer_ctm_diver_variantb",
    "image_inventory": "econ/characters/customplayer_ctm_diver_variantb"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_diver_variantb",
+   "description": "#CSGO_CustomPlayer_ctm_diver_variantb_Desc"
   }
  },
  {
@@ -809,6 +917,10 @@
   "original": {
    "name": "customplayer_ctm_diver_variantc",
    "image_inventory": "econ/characters/customplayer_ctm_diver_variantc"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_diver_variantc",
+   "description": "#CSGO_CustomPlayer_ctm_diver_variantc_Desc"
   }
  },
  {
@@ -838,6 +950,10 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_varianta",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_varianta"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_jungle_raider_varianta",
+   "description": "#CSGO_CustomPlayer_tm_jungle_raider_varianta_Desc"
   }
  },
  {
@@ -867,6 +983,10 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantb",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_jungle_raider_variantb",
+   "description": "#CSGO_CustomPlayer_tm_jungle_raider_variantb_Desc"
   }
  },
  {
@@ -896,6 +1016,10 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantc",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantc"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_jungle_raider_variantc",
+   "description": "#CSGO_CustomPlayer_tm_jungle_raider_variantc_Desc"
   }
  },
  {
@@ -925,6 +1049,10 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantd",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantd"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_jungle_raider_variantd",
+   "description": "#CSGO_CustomPlayer_tm_jungle_raider_variantd_Desc"
   }
  },
  {
@@ -954,6 +1082,10 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variante",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variante"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_jungle_raider_variante",
+   "description": "#CSGO_CustomPlayer_tm_jungle_raider_variante_Desc"
   }
  },
  {
@@ -983,6 +1115,10 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantf",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_jungle_raider_variantf",
+   "description": "#CSGO_CustomPlayer_tm_jungle_raider_variantf_Desc"
   }
  },
  {
@@ -1012,6 +1148,10 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantb2",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb2"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_jungle_raider_variantb2",
+   "description": "#CSGO_CustomPlayer_tm_jungle_raider_variantb2_Desc"
   }
  },
  {
@@ -1041,6 +1181,10 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantf2",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf2"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_jungle_raider_variantf2",
+   "description": "#CSGO_CustomPlayer_tm_jungle_raider_variantf2_Desc"
   }
  },
  {
@@ -1070,6 +1214,10 @@
   "original": {
    "name": "customplayer_tm_leet_variantg",
    "image_inventory": "econ/characters/customplayer_tm_leet_variantg"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_leet_variantg",
+   "description": "#CSGO_CustomPlayer_tm_leet_variantg_Desc"
   }
  },
  {
@@ -1099,6 +1247,10 @@
   "original": {
    "name": "customplayer_tm_leet_varianth",
    "image_inventory": "econ/characters/customplayer_tm_leet_varianth"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_leet_varianth",
+   "description": "#CSGO_CustomPlayer_tm_leet_varianth_Desc"
   }
  },
  {
@@ -1128,6 +1280,10 @@
   "original": {
    "name": "customplayer_tm_leet_varianti",
    "image_inventory": "econ/characters/customplayer_tm_leet_varianti"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_leet_varianti",
+   "description": "#CSGO_CustomPlayer_tm_leet_varianti_Desc"
   }
  },
  {
@@ -1157,6 +1313,10 @@
   "original": {
    "name": "customplayer_tm_leet_variantf",
    "image_inventory": "econ/characters/customplayer_tm_leet_variantf"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_leet_variantf",
+   "description": "#CSGO_CustomPlayer_tm_leet_variantf_Desc"
   }
  },
  {
@@ -1186,6 +1346,10 @@
   "original": {
    "name": "customplayer_tm_leet_variantj",
    "image_inventory": "econ/characters/customplayer_tm_leet_variantj"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_leet_variantj",
+   "description": "#CSGO_CustomPlayer_tm_leet_variantj_Desc"
   }
  },
  {
@@ -1215,6 +1379,10 @@
   "original": {
    "name": "customplayer_tm_phoenix_varianth",
    "image_inventory": "econ/characters/customplayer_tm_phoenix_varianth"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_phoenix_varianth",
+   "description": "#CSGO_CustomPlayer_tm_phoenix_varianth_Desc"
   }
  },
  {
@@ -1244,6 +1412,10 @@
   "original": {
    "name": "customplayer_tm_phoenix_variantf",
    "image_inventory": "econ/characters/customplayer_tm_phoenix_variantf"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_phoenix_variantf",
+   "description": "#CSGO_CustomPlayer_tm_phoenix_variantf_Desc"
   }
  },
  {
@@ -1273,6 +1445,10 @@
   "original": {
    "name": "customplayer_tm_phoenix_variantg",
    "image_inventory": "econ/characters/customplayer_tm_phoenix_variantg"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_phoenix_variantg",
+   "description": "#CSGO_CustomPlayer_tm_phoenix_variantg_Desc"
   }
  },
  {
@@ -1302,6 +1478,10 @@
   "original": {
    "name": "customplayer_tm_phoenix_varianti",
    "image_inventory": "econ/characters/customplayer_tm_phoenix_varianti"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_phoenix_varianti",
+   "description": "#CSGO_CustomPlayer_tm_phoenix_varianti_Desc"
   }
  },
  {
@@ -1331,6 +1511,10 @@
   "original": {
    "name": "customplayer_ctm_fbi_variantf",
    "image_inventory": "econ/characters/customplayer_ctm_fbi_variantf"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_fbi_variantf",
+   "description": "#CSGO_CustomPlayer_ctm_fbi_variantf_Desc"
   }
  },
  {
@@ -1360,6 +1544,10 @@
   "original": {
    "name": "customplayer_ctm_fbi_variantg",
    "image_inventory": "econ/characters/customplayer_ctm_fbi_variantg"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_fbi_variantg",
+   "description": "#CSGO_CustomPlayer_ctm_fbi_variantg_Desc"
   }
  },
  {
@@ -1389,6 +1577,10 @@
   "original": {
    "name": "customplayer_ctm_fbi_varianth",
    "image_inventory": "econ/characters/customplayer_ctm_fbi_varianth"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_fbi_varianth",
+   "description": "#CSGO_CustomPlayer_ctm_fbi_varianth_Desc"
   }
  },
  {
@@ -1418,6 +1610,10 @@
   "original": {
    "name": "customplayer_ctm_fbi_variantb",
    "image_inventory": "econ/characters/customplayer_ctm_fbi_variantb"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_fbi_variantb",
+   "description": "#CSGO_CustomPlayer_ctm_fbi_variantb_Desc"
   }
  },
  {
@@ -1447,6 +1643,10 @@
   "original": {
    "name": "customplayer_ctm_st6_variantk",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantk"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_st6_variantk",
+   "description": "#CSGO_CustomPlayer_ctm_st6_variantk_Desc"
   }
  },
  {
@@ -1476,6 +1676,10 @@
   "original": {
    "name": "customplayer_ctm_st6_variante",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variante"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_st6_variante",
+   "description": "#CSGO_CustomPlayer_ctm_st6_variante_Desc"
   }
  },
  {
@@ -1505,6 +1709,10 @@
   "original": {
    "name": "customplayer_ctm_st6_variantg",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantg"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_st6_variantg",
+   "description": "#CSGO_CustomPlayer_ctm_st6_variantg_Desc"
   }
  },
  {
@@ -1534,6 +1742,10 @@
   "original": {
    "name": "customplayer_ctm_st6_variantm",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantm"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_st6_variantm",
+   "description": "#CSGO_CustomPlayer_ctm_st6_variantm_Desc"
   }
  },
  {
@@ -1563,6 +1775,10 @@
   "original": {
    "name": "customplayer_ctm_st6_varianti",
    "image_inventory": "econ/characters/customplayer_ctm_st6_varianti"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_st6_varianti",
+   "description": "#CSGO_CustomPlayer_ctm_st6_varianti_Desc"
   }
  },
  {
@@ -1592,6 +1808,10 @@
   "original": {
    "name": "customplayer_ctm_st6_variantn",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantn"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_st6_variantn",
+   "description": "#CSGO_CustomPlayer_ctm_st6_variantn_Desc"
   }
  },
  {
@@ -1621,6 +1841,10 @@
   "original": {
    "name": "customplayer_tm_balkan_variantf",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantf"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_balkan_variantf",
+   "description": "#CSGO_CustomPlayer_tm_balkan_variantf_Desc"
   }
  },
  {
@@ -1650,6 +1874,10 @@
   "original": {
    "name": "customplayer_tm_balkan_varianti",
    "image_inventory": "econ/characters/customplayer_tm_balkan_varianti"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_balkan_varianti",
+   "description": "#CSGO_CustomPlayer_tm_balkan_varianti_Desc"
   }
  },
  {
@@ -1679,6 +1907,10 @@
   "original": {
    "name": "customplayer_tm_balkan_variantg",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantg"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_balkan_variantg",
+   "description": "#CSGO_CustomPlayer_tm_balkan_variantg_Desc"
   }
  },
  {
@@ -1708,6 +1940,10 @@
   "original": {
    "name": "customplayer_tm_balkan_variantj",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantj"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_balkan_variantj",
+   "description": "#CSGO_CustomPlayer_tm_balkan_variantj_Desc"
   }
  },
  {
@@ -1737,6 +1973,10 @@
   "original": {
    "name": "customplayer_tm_balkan_varianth",
    "image_inventory": "econ/characters/customplayer_tm_balkan_varianth"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_balkan_varianth",
+   "description": "#CSGO_CustomPlayer_tm_balkan_varianth_Desc"
   }
  },
  {
@@ -1766,6 +2006,10 @@
   "original": {
    "name": "customplayer_tm_balkan_variantl",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantl"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_tm_balkan_variantl",
+   "description": "#CSGO_CustomPlayer_tm_balkan_variantl_Desc"
   }
  },
  {
@@ -1795,6 +2039,10 @@
   "original": {
    "name": "customplayer_ctm_sas_variantf",
    "image_inventory": "econ/characters/customplayer_ctm_sas_variantf"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_sas_variantf",
+   "description": "#CSGO_CustomPlayer_ctm_sas_variantf_Desc"
   }
  },
  {
@@ -1824,6 +2072,10 @@
   "original": {
    "name": "customplayer_ctm_sas_variantg",
    "image_inventory": "econ/characters/customplayer_ctm_sas_variantg"
+  },
+  "i18n": {
+   "name": "#CSGO_CustomPlayer_ctm_sas_variantg",
+   "description": "#CSGO_CustomPlayer_ctm_sas_variantg_Desc"
   }
  }
 ]

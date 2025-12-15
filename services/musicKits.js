@@ -43,7 +43,7 @@ const parseItem = item => {
         const normalMusicKit = {
             id: `music_kit-${item.object_id}`,
             name: exclusive || valve ? $t(item.loc_name) : $t(item.coupon_name),
-            description: getDescription(item, false),
+            description: $t(item.loc_description),
             def_index: item.object_id,
             rarity: {
                 id: "rarity_rare",
@@ -59,6 +59,12 @@ const parseItem = item => {
                 name: item.name,
                 image_inventory: item.image_inventory.toLowerCase(),
             },
+
+            // Language translation keys
+            i18n: {
+                name: exclusive || valve ? item.loc_name : item.coupon_name,
+                description: item.loc_description
+            },
         };
 
         kits.push(normalMusicKit);
@@ -68,7 +74,7 @@ const parseItem = item => {
         const stattrakMusicKit = {
             id: `music_kit-${item.object_id}_st`,
             name: $t(`${item.coupon_name}_stattrak`),
-            description: getDescription(item, true),
+            description: $t(item.loc_description),
             def_index: item.object_id,
             rarity: {
                 id: "rarity_rare",
@@ -85,6 +91,12 @@ const parseItem = item => {
             original: {
                 name: item.name,
                 image_inventory: item.image_inventory.toLowerCase(),
+            },
+
+            // Language translation keys
+            i18n: {
+                name: `${item.coupon_name}_stattrak`,
+                description: item.loc_description
             },
         };
 

@@ -17,6 +17,12 @@ export const getTools = () => {
             original: {
                 image_inventory: "econ/tools/tag",
             },
+
+            // Language translation keys
+            i18n: {
+                name: "csgo_tool_name_tag",
+                description: "csgo_tool_name_tag_desc",
+            },
         },
         {
             id: "tool-2",
@@ -27,6 +33,12 @@ export const getTools = () => {
             original: {
                 image_inventory: "econ/tools/casket",
             },
+
+            // Language translation keys
+            i18n: {
+                name: "csgo_tool_casket_tag",
+                description: "csgo_tool_casket_tag_desc",
+            },
         },
         {
             id: "tool-3",
@@ -36,6 +48,12 @@ export const getTools = () => {
             def_index: "1324",
             original: {
                 image_inventory: "econ/tools/stattrak_swap_tool",
+            },
+
+            // Language translation keys
+            i18n: {
+                name: "csgo_tool_stattrak_swap",
+                description: "csgo_tool_stattrak_swap_desc",
             },
         },
         {
@@ -48,6 +66,12 @@ export const getTools = () => {
             def_index: "65",
             original: {
                 image_inventory: "econ/tools/keychain_remove_tool",
+            },
+
+            // Language translation keys
+            i18n: {
+                name: "csgo_removekeychainTool_title",
+                description: "csgo_removekeychaintool_desc",
             },
         },
     ];

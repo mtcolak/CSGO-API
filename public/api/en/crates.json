@@ -21,6 +21,10 @@
   "original": {
    "item_name": "#CSGO_Tool_Gift1Player",
    "image_inventory": "econ/weapon_cases/gift1player"
+  },
+  "i18n": {
+   "name": "#CSGO_Tool_Gift1Player",
+   "description": "#CSGO_Tool_Gift1Player_Desc"
   }
  },
  {
@@ -45,6 +49,10 @@
   "original": {
    "item_name": "#CSGO_Tool_Gift9Players",
    "image_inventory": "econ/weapon_cases/gift9players"
+  },
+  "i18n": {
+   "name": "#CSGO_Tool_Gift9Players",
+   "description": "#CSGO_Tool_Gift9Players_Desc"
   }
  },
  {
@@ -69,6 +77,10 @@
   "original": {
    "item_name": "#CSGO_Tool_Gift25Spectators",
    "image_inventory": "econ/weapon_cases/gift25spectators"
+  },
+  "i18n": {
+   "name": "#CSGO_Tool_Gift25Spectators",
+   "description": "#CSGO_Tool_Gift25Spectators_Desc"
   }
  },
  {
@@ -914,6 +926,9 @@
   "original": {
    "item_name": "#CSGO_crate_valve_1",
    "image_inventory": "econ/weapon_cases/crate_valve_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_valve_1"
   }
  },
  {
@@ -1759,6 +1774,10 @@
   "original": {
    "item_name": "#CSGO_crate_esports_2013",
    "image_inventory": "econ/weapon_cases/crate_esports_2013"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esports_2013",
+   "description": "#CSGO_crate_esports_2013_desc"
   }
  },
  {
@@ -2670,6 +2689,9 @@
   "original": {
    "item_name": "#CSGO_crate_operation_ii",
    "image_inventory": "econ/weapon_cases/crate_operation_ii"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_operation_ii"
   }
  },
  {
@@ -3548,6 +3570,9 @@
   "original": {
    "item_name": "#CSGO_crate_valve_2",
    "image_inventory": "econ/weapon_cases/crate_valve_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_valve_2"
   }
  },
  {
@@ -4426,6 +4451,10 @@
   "original": {
    "item_name": "#CSGO_crate_esports_2013_winter",
    "image_inventory": "econ/weapon_cases/crate_esports_2013_14"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esports_2013_winter",
+   "description": "#CSGO_crate_esports_2013_winter_desc"
   }
  },
  {
@@ -5463,6 +5492,9 @@
   "original": {
    "item_name": "#CSGO_crate_dhw13_promo",
    "image_inventory": "econ/weapon_cases/crate_dhw13_promo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_dhw13_promo"
   }
  },
  {
@@ -5638,6 +5670,9 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack01"
   }
  },
  {
@@ -6527,6 +6562,9 @@
   "original": {
    "item_name": "#CSGO_crate_community_1",
    "image_inventory": "econ/weapon_cases/crate_community_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_1"
   }
  },
  {
@@ -7405,6 +7443,9 @@
   "original": {
    "item_name": "#CSGO_crate_valve_3",
    "image_inventory": "econ/weapon_cases/crate_valve_3"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_valve_3"
   }
  },
  {
@@ -8294,6 +8335,9 @@
   "original": {
    "item_name": "#CSGO_crate_community_2",
    "image_inventory": "econ/weapon_cases/crate_community_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_2"
   }
  },
  {
@@ -8479,6 +8523,9 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack02"
   }
  },
  {
@@ -9505,6 +9552,9 @@
   "original": {
    "item_name": "#CSGO_crate_ems14_promo",
    "image_inventory": "econ/weapon_cases/crate_ems14_promo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_ems14_promo"
   }
  },
  {
@@ -9700,6 +9750,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_kat2014_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_kat2014_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_kat2014_01",
+   "description": "#CSGO_crate_sticker_pack_kat2014_desc"
   }
  },
  {
@@ -9895,6 +9949,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_kat2014_02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_kat2014_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_kat2014_02",
+   "description": "#CSGO_crate_sticker_pack_kat2014_desc"
   }
  },
  {
@@ -10090,6 +10148,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_community01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_community01",
+   "description": "CSGO_crate_sticker_pack_community01_desc"
   }
  },
  {
@@ -10435,6 +10497,9 @@
   "original": {
    "item_name": "#CSGO_crate_community_3",
    "image_inventory": "econ/weapon_cases/crate_community_3"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_3"
   }
  },
  {
@@ -10763,6 +10828,9 @@
   "original": {
    "item_name": "#CSGO_crate_community_4",
    "image_inventory": "econ/weapon_cases/crate_community_4"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_4"
   }
  },
  {
@@ -11696,6 +11764,10 @@
   "original": {
    "item_name": "#CSGO_crate_esports_2014_summer",
    "image_inventory": "econ/weapon_cases/crate_esports_2014_summer"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esports_2014_summer",
+   "description": "#CSGO_crate_esports_2014_summer_desc"
   }
  },
  {
@@ -11871,6 +11943,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2014_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cologne2014_01",
+   "description": "#CSGO_crate_sticker_pack_cologne2014_desc01"
   }
  },
  {
@@ -12086,6 +12162,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2014_02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cologne2014_02",
+   "description": "#CSGO_crate_sticker_pack_cologne2014_desc02"
   }
  },
  {
@@ -12287,6 +12367,9 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esl14_promo_de_dust2"
   }
  },
  {
@@ -12378,6 +12461,9 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esl14_promo_de_inferno"
   }
  },
  {
@@ -12568,6 +12654,9 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esl14_promo_de_mirage"
   }
  },
  {
@@ -12692,6 +12781,9 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esl14_promo_de_nuke"
   }
  },
  {
@@ -12860,6 +12952,9 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esl14_promo_de_cache"
   }
  },
  {
@@ -13050,6 +13145,9 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esl14_promo_de_cbble"
   }
  },
  {
@@ -13240,6 +13338,9 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_esl14_promo_de_overpass"
   }
  },
  {
@@ -14140,6 +14241,10 @@
   "original": {
    "item_name": "#CSGO_crate_operation_vanguard",
    "image_inventory": "econ/weapon_cases/crate_community_5"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_operation_vanguard",
+   "description": "#CSGO_crate_operation_vanguard_desc"
   }
  },
  {
@@ -14295,6 +14400,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_dhw2014_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_dhw2014_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_dhw2014_01",
+   "description": "#CSGO_crate_sticker_pack_dhw2014_desc"
   }
  },
  {
@@ -14496,6 +14605,9 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_dhw14_promo_de_dust2"
   }
  },
  {
@@ -14587,6 +14699,9 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_dhw14_promo_de_inferno"
   }
  },
  {
@@ -14777,6 +14892,9 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_dhw14_promo_de_mirage"
   }
  },
  {
@@ -14901,6 +15019,9 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_dhw14_promo_de_nuke"
   }
  },
  {
@@ -15069,6 +15190,9 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_dhw14_promo_de_cache"
   }
  },
  {
@@ -15259,6 +15383,9 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_dhw14_promo_de_cbble"
   }
  },
  {
@@ -15449,6 +15576,9 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_dhw14_promo_de_overpass"
   }
  },
  {
@@ -16324,6 +16454,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_6",
    "image_inventory": "econ/weapon_cases/crate_community_6"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_6",
+   "description": "#CSGO_crate_community_6_desc"
   }
  },
  {
@@ -16525,6 +16659,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslkatowice2015_promo_de_dust2"
   }
  },
  {
@@ -16616,6 +16753,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslkatowice2015_promo_de_inferno"
   }
  },
  {
@@ -16806,6 +16946,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslkatowice2015_promo_de_mirage"
   }
  },
  {
@@ -16930,6 +17073,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslkatowice2015_promo_de_nuke"
   }
  },
  {
@@ -17098,6 +17244,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslkatowice2015_promo_de_cache"
   }
  },
  {
@@ -17288,6 +17437,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslkatowice2015_promo_de_cbble"
   }
  },
  {
@@ -17478,6 +17630,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslkatowice2015_promo_de_overpass"
   }
  },
  {
@@ -17673,6 +17828,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_eslkatowice2015_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslkatowice2015_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_eslkatowice2015_01",
+   "description": "#CSGO_crate_sticker_pack_eslkatowice2015_desc01"
   }
  },
  {
@@ -17868,6 +18027,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_eslkatowice2015_02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslkatowice2015_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_eslkatowice2015_02",
+   "description": "#CSGO_crate_sticker_pack_eslkatowice2015_desc02"
   }
  },
  {
@@ -18754,6 +18917,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_7",
    "image_inventory": "econ/weapon_cases/crate_community_7"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_7",
+   "description": "#CSGO_crate_community_7_desc"
   }
  },
  {
@@ -18929,6 +19096,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_enfu_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_enfu_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_enfu_capsule",
+   "description": "#CSGO_crate_sticker_pack_enfu_capsule_desc"
   }
  },
  {
@@ -19279,6 +19450,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_8",
    "image_inventory": "econ/weapon_cases/crate_community_8"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_8",
+   "description": "#CSGO_crate_community_8_desc"
   }
  },
  {
@@ -19394,6 +19569,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_eslcologne2015_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_eslcologne2015_legends",
+   "description": "#CSGO_crate_sticker_pack_eslcologne2015_legends_desc"
   }
  },
  {
@@ -19509,6 +19688,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_eslcologne2015_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_eslcologne2015_challengers",
+   "description": "#CSGO_crate_sticker_pack_eslcologne2015_challengers_desc"
   }
  },
  {
@@ -19734,6 +19917,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_group_1",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_group_1_desc"
   }
  },
  {
@@ -19959,6 +20146,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_group_2",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_group_2_desc"
   }
  },
  {
@@ -20184,6 +20375,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_group_3",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_3"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_group_3",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_group_3_desc"
   }
  },
  {
@@ -20409,6 +20604,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_group_4",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_4"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_group_4",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_group_4_desc"
   }
  },
  {
@@ -20484,6 +20683,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_fnatic",
    "image_inventory": "econ/weapon_cases/cologne2015_fnatic"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_fnatic",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_fnatic_desc"
   }
  },
  {
@@ -20559,6 +20762,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_luminositygaming",
    "image_inventory": "econ/weapon_cases/cologne2015_luminositygaming"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_luminositygaming",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_luminositygaming_desc"
   }
  },
  {
@@ -20634,6 +20841,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_navi",
    "image_inventory": "econ/weapon_cases/cologne2015_navi"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_navi",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_navi_desc"
   }
  },
  {
@@ -20709,6 +20920,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_ninjasinpyjamas",
    "image_inventory": "econ/weapon_cases/cologne2015_ninjasinpyjamas"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_ninjasinpyjamas",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_ninjasinpyjamas_desc"
   }
  },
  {
@@ -20784,6 +20999,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_envyus",
    "image_inventory": "econ/weapon_cases/cologne2015_envyus"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_envyus",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_envyus_desc"
   }
  },
  {
@@ -20859,6 +21078,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_titan",
    "image_inventory": "econ/weapon_cases/cologne2015_titan"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_titan",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_titan_desc"
   }
  },
  {
@@ -20934,6 +21157,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_solomid",
    "image_inventory": "econ/weapon_cases/cologne2015_solomid"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_solomid",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_solomid_desc"
   }
  },
  {
@@ -21009,6 +21236,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_virtuspro",
    "image_inventory": "econ/weapon_cases/cologne2015_virtuspro"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_virtuspro",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_virtuspro_desc"
   }
  },
  {
@@ -21084,6 +21315,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_mousesports",
    "image_inventory": "econ/weapon_cases/cologne2015_mousesports"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_mousesports",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_mousesports_desc"
   }
  },
  {
@@ -21159,6 +21394,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_renegades",
    "image_inventory": "econ/weapon_cases/cologne2015_renegades"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_renegades",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_renegades_desc"
   }
  },
  {
@@ -21234,6 +21473,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_teamimmunity",
    "image_inventory": "econ/weapon_cases/cologne2015_teamimmunity"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_teamimmunity",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_teamimmunity_desc"
   }
  },
  {
@@ -21309,6 +21552,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_ebettle",
    "image_inventory": "econ/weapon_cases/cologne2015_ebettle"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_ebettle",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_ebettle_desc"
   }
  },
  {
@@ -21384,6 +21631,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_kinguin",
    "image_inventory": "econ/weapon_cases/cologne2015_kinguin"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_kinguin",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_kinguin_desc"
   }
  },
  {
@@ -21459,6 +21710,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_flipside",
    "image_inventory": "econ/weapon_cases/cologne2015_flipside"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_flipside",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_flipside_desc"
   }
  },
  {
@@ -21534,6 +21789,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_clg",
    "image_inventory": "econ/weapon_cases/cologne2015_clg"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_clg",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_clg_desc"
   }
  },
  {
@@ -21609,6 +21868,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_cloud9",
    "image_inventory": "econ/weapon_cases/cologne2015_cloud9"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_eslcologne2015_cloud9",
+   "description": "#CSGO_crate_signature_pack_eslcologne2015_cloud9_desc"
   }
  },
  {
@@ -21810,6 +22073,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslcologne2015_promo_de_dust2"
   }
  },
  {
@@ -22000,6 +22266,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslcologne2015_promo_de_mirage"
   }
  },
  {
@@ -22091,6 +22360,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslcologne2015_promo_de_inferno"
   }
  },
  {
@@ -22281,6 +22553,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslcologne2015_promo_de_cbble"
   }
  },
  {
@@ -22471,6 +22746,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslcologne2015_promo_de_overpass"
   }
  },
  {
@@ -22639,6 +22917,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslcologne2015_promo_de_cache"
   }
  },
  {
@@ -22829,6 +23110,9 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_eslcologne2015_promo_de_train"
   }
  },
  {
@@ -23179,6 +23463,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_9",
    "image_inventory": "econ/weapon_cases/crate_community_9"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_9",
+   "description": "#CSGO_crate_community_9_desc"
   }
  },
  {
@@ -23294,6 +23582,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cluj2015_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cluj2015_legends",
+   "description": "#CSGO_crate_sticker_pack_cluj2015_legends_desc"
   }
  },
  {
@@ -23409,6 +23701,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cluj2015_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cluj2015_challengers",
+   "description": "#CSGO_crate_sticker_pack_cluj2015_challengers_desc"
   }
  },
  {
@@ -23834,6 +24130,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_group_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_group_1",
+   "description": "#CSGO_crate_signature_pack_cluj2015_group_1_desc"
   }
  },
  {
@@ -24259,6 +24559,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_group_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_group_2",
+   "description": "#CSGO_crate_signature_pack_cluj2015_group_2_desc"
   }
  },
  {
@@ -24334,6 +24638,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_nip",
    "image_inventory": "econ/weapon_cases/cluj2015_nip"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_nip",
+   "description": "#CSGO_crate_signature_pack_cluj2015_nip_desc"
   }
  },
  {
@@ -24409,6 +24717,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_dig",
    "image_inventory": "econ/weapon_cases/cluj2015_dig"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_dig",
+   "description": "#CSGO_crate_signature_pack_cluj2015_dig_desc"
   }
  },
  {
@@ -24484,6 +24796,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_clg",
    "image_inventory": "econ/weapon_cases/cluj2015_clg"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_clg",
+   "description": "#CSGO_crate_signature_pack_cluj2015_clg_desc"
   }
  },
  {
@@ -24559,6 +24875,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_vex",
    "image_inventory": "econ/weapon_cases/cluj2015_vex"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_vex",
+   "description": "#CSGO_crate_signature_pack_cluj2015_vex_desc"
   }
  },
  {
@@ -24634,6 +24954,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_flip",
    "image_inventory": "econ/weapon_cases/cluj2015_flip"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_flip",
+   "description": "#CSGO_crate_signature_pack_cluj2015_flip_desc"
   }
  },
  {
@@ -24709,6 +25033,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_liq",
    "image_inventory": "econ/weapon_cases/cluj2015_liq"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_liq",
+   "description": "#CSGO_crate_signature_pack_cluj2015_liq_desc"
   }
  },
  {
@@ -24784,6 +25112,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_mss",
    "image_inventory": "econ/weapon_cases/cluj2015_mss"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_mss",
+   "description": "#CSGO_crate_signature_pack_cluj2015_mss_desc"
   }
  },
  {
@@ -24859,6 +25191,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_navi",
    "image_inventory": "econ/weapon_cases/cluj2015_navi"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_navi",
+   "description": "#CSGO_crate_signature_pack_cluj2015_navi_desc"
   }
  },
  {
@@ -24934,6 +25270,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_vp",
    "image_inventory": "econ/weapon_cases/cluj2015_vp"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_vp",
+   "description": "#CSGO_crate_signature_pack_cluj2015_vp_desc"
   }
  },
  {
@@ -25009,6 +25349,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_c9",
    "image_inventory": "econ/weapon_cases/cluj2015_c9"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_c9",
+   "description": "#CSGO_crate_signature_pack_cluj2015_c9_desc"
   }
  },
  {
@@ -25084,6 +25428,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_g2",
    "image_inventory": "econ/weapon_cases/cluj2015_g2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_g2",
+   "description": "#CSGO_crate_signature_pack_cluj2015_g2_desc"
   }
  },
  {
@@ -25159,6 +25507,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_tit",
    "image_inventory": "econ/weapon_cases/cluj2015_tit"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_tit",
+   "description": "#CSGO_crate_signature_pack_cluj2015_tit_desc"
   }
  },
  {
@@ -25234,6 +25586,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_tsolo",
    "image_inventory": "econ/weapon_cases/cluj2015_tsolo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_tsolo",
+   "description": "#CSGO_crate_signature_pack_cluj2015_tsolo_desc"
   }
  },
  {
@@ -25309,6 +25665,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_nv",
    "image_inventory": "econ/weapon_cases/cluj2015_nv"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_nv",
+   "description": "#CSGO_crate_signature_pack_cluj2015_nv_desc"
   }
  },
  {
@@ -25384,6 +25744,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_fntc",
    "image_inventory": "econ/weapon_cases/cluj2015_fntc"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_fntc",
+   "description": "#CSGO_crate_signature_pack_cluj2015_fntc_desc"
   }
  },
  {
@@ -25459,6 +25823,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_lumi",
    "image_inventory": "econ/weapon_cases/cluj2015_lumi"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cluj2015_lumi",
+   "description": "#CSGO_crate_signature_pack_cluj2015_lumi_desc"
   }
  },
  {
@@ -25660,6 +26028,9 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cluj2015_promo_de_dust2"
   }
  },
  {
@@ -25850,6 +26221,9 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cluj2015_promo_de_mirage"
   }
  },
  {
@@ -25941,6 +26315,9 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cluj2015_promo_de_inferno"
   }
  },
  {
@@ -26131,6 +26508,9 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cluj2015_promo_de_cbble"
   }
  },
  {
@@ -26321,6 +26701,9 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cluj2015_promo_de_overpass"
   }
  },
  {
@@ -26489,6 +26872,9 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cluj2015_promo_de_cache"
   }
  },
  {
@@ -26679,6 +27065,9 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cluj2015_promo_de_train"
   }
  },
  {
@@ -26824,6 +27213,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_pinups_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_pinups_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_pinups_capsule",
+   "description": "#CSGO_crate_sticker_pack_pinups_capsule_desc"
   }
  },
  {
@@ -26999,6 +27392,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_slid3_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_slid3_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_slid3_capsule",
+   "description": "#CSGO_crate_sticker_pack_slid3_capsule_desc"
   }
  },
  {
@@ -27134,6 +27531,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_team_roles_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_team_roles_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_team_roles_capsule",
+   "description": "#CSGO_crate_sticker_pack_team_roles_capsule_desc"
   }
  },
  {
@@ -28067,6 +28468,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_10",
    "image_inventory": "econ/weapon_cases/crate_community_10"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_10",
+   "description": "#CSGO_crate_community_10_desc"
   }
  },
  {
@@ -28417,6 +28822,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_11",
    "image_inventory": "econ/weapon_cases/crate_community_11"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_11",
+   "description": "#CSGO_crate_community_11_desc"
   }
  },
  {
@@ -28622,6 +29031,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_columbus2016_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_columbus2016_legends",
+   "description": "#CSGO_crate_sticker_pack_columbus2016_legends_desc"
   }
  },
  {
@@ -28827,6 +29240,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_columbus2016_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_columbus2016_challengers",
+   "description": "#CSGO_crate_sticker_pack_columbus2016_challengers_desc"
   }
  },
  {
@@ -29252,6 +29669,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_group_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_group_1",
+   "description": "#CSGO_crate_signature_pack_columbus2016_group_1_desc"
   }
  },
  {
@@ -29677,6 +30098,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_group_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_group_2",
+   "description": "#CSGO_crate_signature_pack_columbus2016_group_2_desc"
   }
  },
  {
@@ -29752,6 +30177,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_nip",
    "image_inventory": "econ/weapon_cases/columbus2016_nip"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_nip",
+   "description": "#CSGO_crate_signature_pack_columbus2016_nip_desc"
   }
  },
  {
@@ -29827,6 +30256,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_splc",
    "image_inventory": "econ/weapon_cases/columbus2016_splc"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_splc",
+   "description": "#CSGO_crate_signature_pack_columbus2016_splc_desc"
   }
  },
  {
@@ -29902,6 +30335,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_clg",
    "image_inventory": "econ/weapon_cases/columbus2016_clg"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_clg",
+   "description": "#CSGO_crate_signature_pack_columbus2016_clg_desc"
   }
  },
  {
@@ -29977,6 +30414,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_gamb",
    "image_inventory": "econ/weapon_cases/columbus2016_gamb"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_gamb",
+   "description": "#CSGO_crate_signature_pack_columbus2016_gamb_desc"
   }
  },
  {
@@ -30052,6 +30493,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_flip",
    "image_inventory": "econ/weapon_cases/columbus2016_flip"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_flip",
+   "description": "#CSGO_crate_signature_pack_columbus2016_flip_desc"
   }
  },
  {
@@ -30127,6 +30572,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_liq",
    "image_inventory": "econ/weapon_cases/columbus2016_liq"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_liq",
+   "description": "#CSGO_crate_signature_pack_columbus2016_liq_desc"
   }
  },
  {
@@ -30202,6 +30651,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_mss",
    "image_inventory": "econ/weapon_cases/columbus2016_mss"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_mss",
+   "description": "#CSGO_crate_signature_pack_columbus2016_mss_desc"
   }
  },
  {
@@ -30277,6 +30730,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_navi",
    "image_inventory": "econ/weapon_cases/columbus2016_navi"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_navi",
+   "description": "#CSGO_crate_signature_pack_columbus2016_navi_desc"
   }
  },
  {
@@ -30352,6 +30809,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_vp",
    "image_inventory": "econ/weapon_cases/columbus2016_vp"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_vp",
+   "description": "#CSGO_crate_signature_pack_columbus2016_vp_desc"
   }
  },
  {
@@ -30427,6 +30888,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_c9",
    "image_inventory": "econ/weapon_cases/columbus2016_c9"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_c9",
+   "description": "#CSGO_crate_signature_pack_columbus2016_c9_desc"
   }
  },
  {
@@ -30502,6 +30967,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_g2",
    "image_inventory": "econ/weapon_cases/columbus2016_g2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_g2",
+   "description": "#CSGO_crate_signature_pack_columbus2016_g2_desc"
   }
  },
  {
@@ -30577,6 +31046,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_faze",
    "image_inventory": "econ/weapon_cases/columbus2016_faze"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_faze",
+   "description": "#CSGO_crate_signature_pack_columbus2016_faze_desc"
   }
  },
  {
@@ -30652,6 +31125,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_astr",
    "image_inventory": "econ/weapon_cases/columbus2016_astr"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_astr",
+   "description": "#CSGO_crate_signature_pack_columbus2016_astr_desc"
   }
  },
  {
@@ -30727,6 +31204,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_nv",
    "image_inventory": "econ/weapon_cases/columbus2016_nv"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_nv",
+   "description": "#CSGO_crate_signature_pack_columbus2016_nv_desc"
   }
  },
  {
@@ -30802,6 +31283,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_fntc",
    "image_inventory": "econ/weapon_cases/columbus2016_fntc"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_fntc",
+   "description": "#CSGO_crate_signature_pack_columbus2016_fntc_desc"
   }
  },
  {
@@ -30877,6 +31362,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_lumi",
    "image_inventory": "econ/weapon_cases/columbus2016_lumi"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_columbus2016_lumi",
+   "description": "#CSGO_crate_signature_pack_columbus2016_lumi_desc"
   }
  },
  {
@@ -31078,6 +31567,9 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_columbus2016_promo_de_dust2"
   }
  },
  {
@@ -31268,6 +31760,9 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_columbus2016_promo_de_mirage"
   }
  },
  {
@@ -31359,6 +31854,9 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_columbus2016_promo_de_inferno"
   }
  },
  {
@@ -31549,6 +32047,9 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_columbus2016_promo_de_cbble"
   }
  },
  {
@@ -31739,6 +32240,9 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_columbus2016_promo_de_overpass"
   }
  },
  {
@@ -31907,6 +32411,9 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_columbus2016_promo_de_cache"
   }
  },
  {
@@ -32097,6 +32604,9 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_columbus2016_promo_de_train"
   }
  },
  {
@@ -32221,6 +32731,9 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_columbus2016_promo_de_nuke"
   }
  },
  {
@@ -33129,6 +33642,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_12",
    "image_inventory": "econ/weapon_cases/crate_community_12"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_12",
+   "description": "#CSGO_crate_community_12_desc"
   }
  },
  {
@@ -33334,6 +33851,10 @@
   "original": {
    "item_name": "#CSGO_crate_sprays_community_1",
    "image_inventory": "econ/weapon_cases/crate_spray_pack_community_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sprays_community_1",
+   "description": "#CSGO_crate_sprays_community_1_desc"
   }
  },
  {
@@ -33469,6 +33990,10 @@
   "original": {
    "item_name": "#CSGO_crate_pins_series_1",
    "image_inventory": "econ/weapon_cases/crate_pins_series_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_pins_series_1",
+   "description": "#CSGO_crate_pins_series_1_desc"
   }
  },
  {
@@ -34257,6 +34782,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_13",
    "image_inventory": "econ/weapon_cases/crate_community_13"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_13",
+   "description": "#CSGO_crate_community_13_desc"
   }
  },
  {
@@ -34462,6 +34991,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2016_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cologne2016_legends",
+   "description": "#CSGO_crate_sticker_pack_cologne2016_legends_desc"
   }
  },
  {
@@ -34667,6 +35200,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2016_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cologne2016_challengers",
+   "description": "#CSGO_crate_sticker_pack_cologne2016_challengers_desc"
   }
  },
  {
@@ -35092,6 +35629,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_group_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_group_1",
+   "description": "#CSGO_crate_signature_pack_cologne2016_group_1_desc"
   }
  },
  {
@@ -35517,6 +36058,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_group_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_group_2",
+   "description": "#CSGO_crate_signature_pack_cologne2016_group_2_desc"
   }
  },
  {
@@ -35592,6 +36137,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_nip",
    "image_inventory": "econ/weapon_cases/cologne2016_nip"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_nip",
+   "description": "#CSGO_crate_signature_pack_cologne2016_nip_desc"
   }
  },
  {
@@ -35667,6 +36216,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_optc",
    "image_inventory": "econ/weapon_cases/cologne2016_optc"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_optc",
+   "description": "#CSGO_crate_signature_pack_cologne2016_optc_desc"
   }
  },
  {
@@ -35742,6 +36295,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_clg",
    "image_inventory": "econ/weapon_cases/cologne2016_clg"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_clg",
+   "description": "#CSGO_crate_signature_pack_cologne2016_clg_desc"
   }
  },
  {
@@ -35817,6 +36374,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_gamb",
    "image_inventory": "econ/weapon_cases/cologne2016_gamb"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_gamb",
+   "description": "#CSGO_crate_signature_pack_cologne2016_gamb_desc"
   }
  },
  {
@@ -35892,6 +36453,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_flip",
    "image_inventory": "econ/weapon_cases/cologne2016_flip"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_flip",
+   "description": "#CSGO_crate_signature_pack_cologne2016_flip_desc"
   }
  },
  {
@@ -35967,6 +36532,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_liq",
    "image_inventory": "econ/weapon_cases/cologne2016_liq"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_liq",
+   "description": "#CSGO_crate_signature_pack_cologne2016_liq_desc"
   }
  },
  {
@@ -36042,6 +36611,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_mss",
    "image_inventory": "econ/weapon_cases/cologne2016_mss"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_mss",
+   "description": "#CSGO_crate_signature_pack_cologne2016_mss_desc"
   }
  },
  {
@@ -36117,6 +36690,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_navi",
    "image_inventory": "econ/weapon_cases/cologne2016_navi"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_navi",
+   "description": "#CSGO_crate_signature_pack_cologne2016_navi_desc"
   }
  },
  {
@@ -36192,6 +36769,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_vp",
    "image_inventory": "econ/weapon_cases/cologne2016_vp"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_vp",
+   "description": "#CSGO_crate_signature_pack_cologne2016_vp_desc"
   }
  },
  {
@@ -36267,6 +36848,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_sk",
    "image_inventory": "econ/weapon_cases/cologne2016_sk"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_sk",
+   "description": "#CSGO_crate_signature_pack_cologne2016_sk_desc"
   }
  },
  {
@@ -36342,6 +36927,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_g2",
    "image_inventory": "econ/weapon_cases/cologne2016_g2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_g2",
+   "description": "#CSGO_crate_signature_pack_cologne2016_g2_desc"
   }
  },
  {
@@ -36417,6 +37006,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_faze",
    "image_inventory": "econ/weapon_cases/cologne2016_faze"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_faze",
+   "description": "#CSGO_crate_signature_pack_cologne2016_faze_desc"
   }
  },
  {
@@ -36492,6 +37085,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_astr",
    "image_inventory": "econ/weapon_cases/cologne2016_astr"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_astr",
+   "description": "#CSGO_crate_signature_pack_cologne2016_astr_desc"
   }
  },
  {
@@ -36567,6 +37164,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_nv",
    "image_inventory": "econ/weapon_cases/cologne2016_nv"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_nv",
+   "description": "#CSGO_crate_signature_pack_cologne2016_nv_desc"
   }
  },
  {
@@ -36642,6 +37243,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_fntc",
    "image_inventory": "econ/weapon_cases/cologne2016_fntc"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_fntc",
+   "description": "#CSGO_crate_signature_pack_cologne2016_fntc_desc"
   }
  },
  {
@@ -36717,6 +37322,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_dig",
    "image_inventory": "econ/weapon_cases/cologne2016_dig"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cologne2016_dig",
+   "description": "#CSGO_crate_signature_pack_cologne2016_dig_desc"
   }
  },
  {
@@ -36918,6 +37527,9 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cologne2016_promo_de_dust2"
   }
  },
  {
@@ -37108,6 +37720,9 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cologne2016_promo_de_mirage"
   }
  },
  {
@@ -37298,6 +37913,9 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cologne2016_promo_de_cbble"
   }
  },
  {
@@ -37488,6 +38106,9 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cologne2016_promo_de_overpass"
   }
  },
  {
@@ -37656,6 +38277,9 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cologne2016_promo_de_cache"
   }
  },
  {
@@ -37846,6 +38470,9 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cologne2016_promo_de_train"
   }
  },
  {
@@ -37970,6 +38597,9 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cologne2016_promo_de_nuke"
   }
  },
  {
@@ -38758,6 +39388,10 @@
   "original": {
    "item_name": "#CSGO_crate_gamma_2",
    "image_inventory": "econ/weapon_cases/crate_gamma_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_gamma_2",
+   "description": "#CSGO_crate_gamma_2_desc"
   }
  },
  {
@@ -38923,6 +39557,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_sugarface_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_sugarface_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_sugarface_capsule",
+   "description": "#CSGO_crate_sticker_pack_sugarface_capsule_desc"
   }
  },
  {
@@ -39088,6 +39726,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bestiary_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_bestiary_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_bestiary_capsule",
+   "description": "#CSGO_crate_sticker_pack_bestiary_capsule_desc"
   }
  },
  {
@@ -39223,6 +39865,10 @@
   "original": {
    "item_name": "#CSGO_crate_pins_series_2",
    "image_inventory": "econ/weapon_cases/crate_pins_series_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_pins_series_2",
+   "description": "#CSGO_crate_pins_series_2_desc"
   }
  },
  {
@@ -39428,6 +40074,10 @@
   "original": {
    "item_name": "#CSGO_crate_sprays_vcap1",
    "image_inventory": "econ/weapon_cases/crate_spray_pack_valve_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sprays_vcap1",
+   "description": "#CSGO_crate_sprays_vcap1_desc"
   }
  },
  {
@@ -39633,6 +40283,10 @@
   "original": {
    "item_name": "#CSGO_crate_sprays_illuminate1",
    "image_inventory": "econ/weapon_cases/crate_spray_pack_illuminate_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sprays_illuminate1",
+   "description": "#CSGO_crate_sprays_illuminate1_desc"
   }
  },
  {
@@ -39728,6 +40382,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_radicals_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_radicals_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_radicals_stattrak_capsule",
+   "description": "#CSGO_crate_musickit_radicals_stattrak_capsule_desc"
   }
  },
  {
@@ -40209,6 +40867,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_15",
    "image_inventory": "econ/weapon_cases/crate_community_15"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_15",
+   "description": "#CSGO_crate_community_15_desc"
   }
  },
  {
@@ -40414,6 +41076,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_atlanta2017_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_atlanta2017_legends",
+   "description": "#CSGO_crate_sticker_pack_atlanta2017_legends_desc"
   }
  },
  {
@@ -40619,6 +41285,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_atlanta2017_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_atlanta2017_challengers",
+   "description": "#CSGO_crate_sticker_pack_atlanta2017_challengers_desc"
   }
  },
  {
@@ -41044,6 +41714,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_group_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_group_1",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_group_1_desc"
   }
  },
  {
@@ -41469,6 +42143,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_group_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_group_2",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_group_2_desc"
   }
  },
  {
@@ -41544,6 +42222,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_astr",
    "image_inventory": "econ/weapon_cases/atlanta2017_astr"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_astr",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_astr_desc"
   }
  },
  {
@@ -41619,6 +42301,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_nv",
    "image_inventory": "econ/weapon_cases/atlanta2017_nv"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_nv",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_nv_desc"
   }
  },
  {
@@ -41694,6 +42380,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_faze",
    "image_inventory": "econ/weapon_cases/atlanta2017_faze"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_faze",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_faze_desc"
   }
  },
  {
@@ -41769,6 +42459,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_flip",
    "image_inventory": "econ/weapon_cases/atlanta2017_flip"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_flip",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_flip_desc"
   }
  },
  {
@@ -41844,6 +42538,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_fntc",
    "image_inventory": "econ/weapon_cases/atlanta2017_fntc"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_fntc",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_fntc_desc"
   }
  },
  {
@@ -41919,6 +42617,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_g2",
    "image_inventory": "econ/weapon_cases/atlanta2017_g2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_g2",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_g2_desc"
   }
  },
  {
@@ -41994,6 +42696,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_gamb",
    "image_inventory": "econ/weapon_cases/atlanta2017_gamb"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_gamb",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_gamb_desc"
   }
  },
  {
@@ -42069,6 +42775,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_god",
    "image_inventory": "econ/weapon_cases/atlanta2017_god"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_god",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_god_desc"
   }
  },
  {
@@ -42144,6 +42854,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_hlr",
    "image_inventory": "econ/weapon_cases/atlanta2017_hlr"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_hlr",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_hlr_desc"
   }
  },
  {
@@ -42219,6 +42933,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_mss",
    "image_inventory": "econ/weapon_cases/atlanta2017_mss"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_mss",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_mss_desc"
   }
  },
  {
@@ -42294,6 +43012,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_navi",
    "image_inventory": "econ/weapon_cases/atlanta2017_navi"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_navi",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_navi_desc"
   }
  },
  {
@@ -42369,6 +43091,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_nor",
    "image_inventory": "econ/weapon_cases/atlanta2017_nor"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_nor",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_nor_desc"
   }
  },
  {
@@ -42444,6 +43170,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_optc",
    "image_inventory": "econ/weapon_cases/atlanta2017_optc"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_optc",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_optc_desc"
   }
  },
  {
@@ -42519,6 +43249,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_sk",
    "image_inventory": "econ/weapon_cases/atlanta2017_sk"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_sk",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_sk_desc"
   }
  },
  {
@@ -42594,6 +43328,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_liq",
    "image_inventory": "econ/weapon_cases/atlanta2017_liq"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_liq",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_liq_desc"
   }
  },
  {
@@ -42669,6 +43407,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_vp",
    "image_inventory": "econ/weapon_cases/atlanta2017_vp"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_atlanta2017_vp",
+   "description": "#CSGO_crate_signature_pack_atlanta2017_vp_desc"
   }
  },
  {
@@ -42870,6 +43612,9 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_atlanta2017_promo_de_dust2"
   }
  },
  {
@@ -43060,6 +43805,9 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_atlanta2017_promo_de_mirage"
   }
  },
  {
@@ -43250,6 +43998,9 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_atlanta2017_promo_de_cbble"
   }
  },
  {
@@ -43440,6 +44191,9 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_atlanta2017_promo_de_overpass"
   }
  },
  {
@@ -43608,6 +44362,9 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_atlanta2017_promo_de_cache"
   }
  },
  {
@@ -43798,6 +44555,9 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_atlanta2017_promo_de_train"
   }
  },
  {
@@ -43922,6 +44682,9 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_atlanta2017_promo_de_nuke"
   }
  },
  {
@@ -44830,6 +45593,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_16",
    "image_inventory": "econ/weapon_cases/crate_community_16"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_16",
+   "description": "#CSGO_crate_community_16_desc"
   }
  },
  {
@@ -45311,6 +46078,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_17",
    "image_inventory": "econ/weapon_cases/crate_community_17"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_17",
+   "description": "#CSGO_crate_community_17_desc"
   }
  },
  {
@@ -45516,6 +46287,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_krakow2017_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_krakow2017_legends",
+   "description": "#CSGO_crate_sticker_pack_krakow2017_legends_desc"
   }
  },
  {
@@ -45721,6 +46496,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_krakow2017_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_krakow2017_challengers",
+   "description": "#CSGO_crate_sticker_pack_krakow2017_challengers_desc"
   }
  },
  {
@@ -46946,6 +47725,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_krakow2017_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_group_1"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_krakow2017_group_1",
+   "description": "#CSGO_crate_signature_pack_krakow2017_group_1_desc"
   }
  },
  {
@@ -48171,6 +48954,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_krakow2017_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_group_2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_krakow2017_group_2",
+   "description": "#CSGO_crate_signature_pack_krakow2017_group_2_desc"
   }
  },
  {
@@ -48262,6 +49049,9 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_krakow2017_promo_de_inferno"
   }
  },
  {
@@ -48452,6 +49242,9 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_krakow2017_promo_de_mirage"
   }
  },
  {
@@ -48642,6 +49435,9 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_krakow2017_promo_de_cbble"
   }
  },
  {
@@ -48832,6 +49628,9 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_krakow2017_promo_de_overpass"
   }
  },
  {
@@ -49000,6 +49799,9 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_krakow2017_promo_de_cache"
   }
  },
  {
@@ -49190,6 +49992,9 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_krakow2017_promo_de_train"
   }
  },
  {
@@ -49314,6 +50119,9 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_krakow2017_promo_de_nuke"
   }
  },
  {
@@ -50222,6 +51030,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_18",
    "image_inventory": "econ/weapon_cases/crate_community_18"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_18",
+   "description": "#CSGO_crate_community_18_desc"
   }
  },
  {
@@ -50397,6 +51209,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_illuminate_capsule_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_illuminate_capsule_01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_illuminate_capsule_01",
+   "description": "#CSGO_crate_sticker_pack_illuminate_capsule_01_desc"
   }
  },
  {
@@ -50572,6 +51388,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_illuminate_capsule_02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_illuminate_capsule_02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_illuminate_capsule_02",
+   "description": "#CSGO_crate_sticker_pack_illuminate_capsule_02_desc"
   }
  },
  {
@@ -50777,6 +51597,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_boston2018_legends",
+   "description": "#CSGO_crate_sticker_pack_boston2018_legends_desc"
   }
  },
  {
@@ -50982,6 +51806,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_boston2018_challengers",
+   "description": "#CSGO_crate_sticker_pack_boston2018_challengers_desc"
   }
  },
  {
@@ -51193,6 +52021,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_boston2018_contenders",
+   "description": "#CSGO_crate_sticker_pack_boston2018_contenders_desc"
   }
  },
  {
@@ -52418,6 +53250,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_boston2018_group_legends",
+   "description": "#CSGO_crate_signature_pack_boston2018_group_legends_desc"
   }
  },
  {
@@ -53643,6 +54479,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_boston2018_group_challengers",
+   "description": "#CSGO_crate_signature_pack_boston2018_group_challengers_desc"
   }
  },
  {
@@ -54874,6 +55714,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_boston2018_group_contenders",
+   "description": "#CSGO_crate_signature_pack_boston2018_group_contenders_desc"
   }
  },
  {
@@ -54965,6 +55809,9 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_boston2018_promo_de_inferno"
   }
  },
  {
@@ -55155,6 +56002,9 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_boston2018_promo_de_mirage"
   }
  },
  {
@@ -55345,6 +56195,9 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_cbble"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_boston2018_promo_de_cbble"
   }
  },
  {
@@ -55535,6 +56388,9 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_boston2018_promo_de_overpass"
   }
  },
  {
@@ -55703,6 +56559,9 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_boston2018_promo_de_cache"
   }
  },
  {
@@ -55893,6 +56752,9 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_boston2018_promo_de_train"
   }
  },
  {
@@ -56017,6 +56879,9 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_boston2018_promo_de_nuke"
   }
  },
  {
@@ -56182,6 +57047,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_comm2018_01_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_comm2018_01_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_comm2018_01_capsule",
+   "description": "#CSGO_crate_sticker_pack_comm2018_01_capsule_desc"
   }
  },
  {
@@ -56663,6 +57532,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_19",
    "image_inventory": "econ/weapon_cases/crate_community_19"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_19",
+   "description": "#CSGO_crate_community_19_desc"
   }
  },
  {
@@ -56868,6 +57741,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_contenders_flg",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_contenders_flg"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_boston2018_contenders_flg",
+   "description": "#CSGO_crate_sticker_pack_boston2018_contenders_flg_desc"
   }
  },
  {
@@ -58093,6 +58970,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_contenders_flg",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_contenders_flg"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_boston2018_group_contenders_flg",
+   "description": "#CSGO_crate_signature_pack_boston2018_group_contenders_flg_desc"
   }
  },
  {
@@ -58288,6 +59169,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_chicken_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_chicken_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_chicken_capsule",
+   "description": "#CSGO_crate_sticker_pack_chicken_capsule_desc"
   }
  },
  {
@@ -58473,6 +59358,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_legends_ntv",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_legends_ntv"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_boston2018_legends_ntv",
+   "description": "#CSGO_crate_sticker_pack_boston2018_legends_desc"
   }
  },
  {
@@ -59548,6 +60437,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_legends_ntv",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_legends_ntv"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_boston2018_group_legends_ntv",
+   "description": "#CSGO_crate_signature_pack_boston2018_group_legends_desc"
   }
  },
  {
@@ -59683,6 +60576,10 @@
   "original": {
    "item_name": "#CSGO_crate_pins_series_3",
    "image_inventory": "econ/weapon_cases/crate_pins_series_3"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_pins_series_3",
+   "description": "#CSGO_crate_pins_series_3_desc"
   }
  },
  {
@@ -60472,6 +61369,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_20",
    "image_inventory": "econ/weapon_cases/crate_community_20"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_20",
+   "description": "#CSGO_crate_community_20_desc"
   }
  },
  {
@@ -60677,6 +61578,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_london2018_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_london2018_legends",
+   "description": "#CSGO_crate_sticker_pack_london2018_legends_desc"
   }
  },
  {
@@ -60882,6 +61787,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_london2018_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_london2018_challengers",
+   "description": "#CSGO_crate_sticker_pack_london2018_challengers_desc"
   }
  },
  {
@@ -61087,6 +61996,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_london2018_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_london2018_contenders",
+   "description": "#CSGO_crate_sticker_pack_london2018_contenders_desc"
   }
  },
  {
@@ -62312,6 +63225,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_london2018_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_london2018_group_legends",
+   "description": "#CSGO_crate_signature_pack_london2018_group_legends_desc"
   }
  },
  {
@@ -63537,6 +64454,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_london2018_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_london2018_group_challengers",
+   "description": "#CSGO_crate_signature_pack_london2018_group_challengers_desc"
   }
  },
  {
@@ -64762,6 +65683,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_london2018_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_london2018_group_contenders",
+   "description": "#CSGO_crate_signature_pack_london2018_group_contenders_desc"
   }
  },
  {
@@ -64985,6 +65910,9 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_london2018_promo_de_inferno"
   }
  },
  {
@@ -65175,6 +66103,9 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_london2018_promo_de_mirage"
   }
  },
  {
@@ -65376,6 +66307,9 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_london2018_promo_de_dust2"
   }
  },
  {
@@ -65566,6 +66500,9 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_london2018_promo_de_overpass"
   }
  },
  {
@@ -65734,6 +66671,9 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_london2018_promo_de_cache"
   }
  },
  {
@@ -65924,6 +66864,9 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_london2018_promo_de_train"
   }
  },
  {
@@ -66147,6 +67090,9 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_london2018_promo_de_nuke"
   }
  },
  {
@@ -66352,6 +67298,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_skillgroup_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_skillgroup_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_skillgroup_capsule",
+   "description": "#CSGO_crate_sticker_pack_skillgroup_capsule_desc"
   }
  },
  {
@@ -67141,6 +68091,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_21",
    "image_inventory": "econ/weapon_cases/crate_community_21"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_21",
+   "description": "#CSGO_crate_community_21_desc"
   }
  },
  {
@@ -67346,6 +68300,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_katowice2019_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_katowice2019_legends",
+   "description": "#CSGO_crate_sticker_pack_katowice2019_legends_desc"
   }
  },
  {
@@ -67511,6 +68469,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_katowice2019_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_katowice2019_challengers",
+   "description": "#CSGO_crate_sticker_pack_katowice2019_challengers_desc"
   }
  },
  {
@@ -67756,6 +68718,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_katowice2019_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_katowice2019_contenders",
+   "description": "#CSGO_crate_sticker_pack_katowice2019_contenders_desc"
   }
  },
  {
@@ -68981,6 +69947,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_katowice2019_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_katowice2019_group_legends",
+   "description": "#CSGO_crate_signature_pack_katowice2019_group_legends_desc"
   }
  },
  {
@@ -69906,6 +70876,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_katowice2019_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_katowice2019_group_challengers",
+   "description": "#CSGO_crate_signature_pack_katowice2019_group_challengers_desc"
   }
  },
  {
@@ -71431,6 +72405,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_katowice2019_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_katowice2019_group_contenders",
+   "description": "#CSGO_crate_signature_pack_katowice2019_group_contenders_desc"
   }
  },
  {
@@ -71654,6 +72632,9 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_katowice2019_promo_de_inferno"
   }
  },
  {
@@ -71844,6 +72825,9 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_katowice2019_promo_de_mirage"
   }
  },
  {
@@ -72045,6 +73029,9 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_katowice2019_promo_de_dust2"
   }
  },
  {
@@ -72235,6 +73222,9 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_katowice2019_promo_de_overpass"
   }
  },
  {
@@ -72403,6 +73393,9 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_cache"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_katowice2019_promo_de_cache"
   }
  },
  {
@@ -72593,6 +73586,9 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_katowice2019_promo_de_train"
   }
  },
  {
@@ -72816,6 +73812,9 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_katowice2019_promo_de_nuke"
   }
  },
  {
@@ -73011,6 +74010,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_halo_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_halo_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_halo_capsule",
+   "description": "#CSGO_crate_sticker_pack_halo_capsule_desc"
   }
  },
  {
@@ -73828,6 +74831,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_22",
    "image_inventory": "econ/weapon_cases/crate_community_22"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_22",
+   "description": "#CSGO_crate_community_22_desc"
   }
  },
  {
@@ -74033,6 +75040,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_feral_predators_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_feral_predators_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_feral_predators_capsule",
+   "description": "#CSGO_crate_sticker_pack_feral_predators_capsule_desc"
   }
  },
  {
@@ -74148,6 +75159,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_shattered_web",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_shattered_web_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_shattered_web",
+   "description": "#CSGO_crate_sticker_pack_shattered_web_desc"
   }
  },
  {
@@ -74383,6 +75398,10 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack01",
    "image_inventory": "econ/weapon_cases/crate_patch_pack01"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_patch_pack01",
+   "description": "#CSGO_crate_patch_pack01_desc"
   }
  },
  {
@@ -74578,6 +75597,10 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack02",
    "image_inventory": "econ/weapon_cases/crate_patch_pack02"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_patch_pack02",
+   "description": "#CSGO_crate_patch_pack02_desc"
   }
  },
  {
@@ -74713,6 +75736,10 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack_hlalyx",
    "image_inventory": "econ/weapon_cases/crate_patch_pack_hlalyx"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_patch_pack_hlalyx",
+   "description": "#CSGO_crate_patch_pack_hlalyx_desc"
   }
  },
  {
@@ -74908,6 +75935,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_warhammer",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_warhammer",
+   "description": "#CSGO_crate_sticker_pack_warhammer_desc"
   }
  },
  {
@@ -75697,6 +76728,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_23",
    "image_inventory": "econ/weapon_cases/crate_community_23"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_23",
+   "description": "#CSGO_crate_community_23_desc"
   }
  },
  {
@@ -75902,6 +76937,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_berlin2019_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_berlin2019_legends",
+   "description": "#CSGO_crate_sticker_pack_berlin2019_legends_desc"
   }
  },
  {
@@ -76047,6 +77086,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_berlin2019_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_berlin2019_challengers",
+   "description": "#CSGO_crate_sticker_pack_berlin2019_challengers_desc"
   }
  },
  {
@@ -76312,6 +77355,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_berlin2019_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_berlin2019_contenders",
+   "description": "#CSGO_crate_sticker_pack_berlin2019_contenders_desc"
   }
  },
  {
@@ -77537,6 +78584,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_berlin2019_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_berlin2019_group_legends",
+   "description": "#CSGO_crate_signature_pack_berlin2019_group_legends_desc"
   }
  },
  {
@@ -78312,6 +79363,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_berlin2019_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_berlin2019_group_challengers",
+   "description": "#CSGO_crate_signature_pack_berlin2019_group_challengers_desc"
   }
  },
  {
@@ -79987,6 +81042,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_berlin2019_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_berlin2019_group_contenders",
+   "description": "#CSGO_crate_signature_pack_berlin2019_group_contenders_desc"
   }
  },
  {
@@ -80210,6 +81269,9 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_berlin2019_promo_de_inferno"
   }
  },
  {
@@ -80400,6 +81462,9 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_berlin2019_promo_de_mirage"
   }
  },
  {
@@ -80601,6 +81666,9 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_berlin2019_promo_de_dust2"
   }
  },
  {
@@ -80791,6 +81859,9 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_berlin2019_promo_de_overpass"
   }
  },
  {
@@ -80981,6 +82052,9 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_berlin2019_promo_de_train"
   }
  },
  {
@@ -81204,6 +82278,9 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_berlin2019_promo_de_nuke"
   }
  },
  {
@@ -81295,6 +82372,9 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_vertigo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_berlin2019_promo_de_vertigo"
   }
  },
  {
@@ -81331,6 +82411,10 @@
   "original": {
    "item_name": "#CSGO_crate_xray_p250",
    "image_inventory": "econ/weapon_cases/crate_xray_p250"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_xray_p250",
+   "description": "#CSGO_crate_xray_p250_desc"
   }
  },
  {
@@ -81692,6 +82776,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_24",
    "image_inventory": "econ/weapon_cases/crate_community_24"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_24",
+   "description": "#CSGO_crate_community_24_desc"
   }
  },
  {
@@ -81917,6 +83005,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cs20_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cs20_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cs20_capsule",
+   "description": "#CSGO_crate_sticker_pack_cs20_capsule_desc"
   }
  },
  {
@@ -82062,6 +83154,10 @@
   "original": {
    "item_name": "#CSGO_crate_pins_hlalyx",
    "image_inventory": "econ/weapon_cases/crate_pins_hlalyx"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_pins_hlalyx",
+   "description": "#CSGO_crate_pins_hlalyx_desc"
   }
  },
  {
@@ -82217,6 +83313,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_hlalyx_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_hlalyx_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_hlalyx_capsule",
+   "description": "#CSGO_crate_sticker_pack_hlalyx_capsule_desc"
   }
  },
  {
@@ -83034,6 +84134,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_25",
    "image_inventory": "econ/weapon_cases/crate_community_25"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_25",
+   "description": "#CSGO_crate_community_25_desc"
   }
  },
  {
@@ -83129,6 +84233,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_masterminds_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_masterminds_capsule",
+   "description": "#CSGO_crate_musickit_masterminds_capsule_desc"
   }
  },
  {
@@ -83224,6 +84332,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_masterminds_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds_stattrak_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_masterminds_stattrak_capsule",
+   "description": "#CSGO_crate_musickit_masterminds_stattrak_capsule_desc"
   }
  },
  {
@@ -84013,6 +85125,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_26",
    "image_inventory": "econ/weapon_cases/crate_community_26"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_26",
+   "description": "#CSGO_crate_community_26_desc"
   }
  },
  {
@@ -84494,6 +85610,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_27",
    "image_inventory": "econ/weapon_cases/crate_community_27"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_27",
+   "description": "#CSGO_crate_community_27_desc"
   }
  },
  {
@@ -84839,6 +85959,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_recoil",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_recoil_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_recoil",
+   "description": "#CSGO_crate_sticker_pack_recoil_desc"
   }
  },
  {
@@ -85024,6 +86148,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_broken_fang",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_broken_fang_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_broken_fang",
+   "description": "#CSGO_crate_sticker_pack_broken_fang_desc"
   }
  },
  {
@@ -85369,6 +86497,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rmr2020_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rmr2020_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_rmr2020_legends",
+   "description": "#CSGO_crate_sticker_pack_rmr2020_legends_desc"
   }
  },
  {
@@ -85714,6 +86846,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rmr2020_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rmr2020_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_rmr2020_challengers",
+   "description": "#CSGO_crate_sticker_pack_rmr2020_challengers_desc"
   }
  },
  {
@@ -86059,6 +87195,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rmr2020_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rmr2020_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_rmr2020_contenders",
+   "description": "#CSGO_crate_sticker_pack_rmr2020_contenders_desc"
   }
  },
  {
@@ -86284,6 +87424,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_poorly_drawn_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_poorly_drawn_capsule",
+   "description": "#CSGO_crate_sticker_pack_poorly_drawn_capsule_desc"
   }
  },
  {
@@ -86765,6 +87909,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_28",
    "image_inventory": "econ/weapon_cases/crate_community_28"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_28",
+   "description": "#CSGO_crate_community_28_desc"
   }
  },
  {
@@ -86850,6 +87998,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_tacticians_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_tacticians_capsule",
+   "description": "#CSGO_crate_musickit_tacticians_capsule_desc"
   }
  },
  {
@@ -86935,6 +88087,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_tacticians_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_tacticians_stattrak_capsule",
+   "description": "#CSGO_crate_musickit_tacticians_stattrak_capsule_desc"
   }
  },
  {
@@ -87680,6 +88836,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_riptide_surfshop",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_riptide_surfshop",
+   "description": "#CSGO_crate_sticker_pack_riptide_surfshop_desc"
   }
  },
  {
@@ -87915,6 +89075,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_community2021_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community2021_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_community2021_capsule",
+   "description": "#CSGO_crate_sticker_pack_community2021_capsule_desc"
   }
  },
  {
@@ -88080,6 +89244,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_op_riptide_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_op_riptide_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_op_riptide_capsule",
+   "description": "#CSGO_crate_sticker_pack_op_riptide_capsule_desc"
   }
  },
  {
@@ -88325,6 +89493,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_spring2022_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_spring2022_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_spring2022_capsule",
+   "description": "#CSGO_crate_sticker_pack_spring2022_capsule_desc"
   }
  },
  {
@@ -88520,6 +89692,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bf2042_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_bf2042_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_bf2042_capsule",
+   "description": "#CSGO_crate_sticker_pack_bf2042_capsule_desc"
   }
  },
  {
@@ -89308,6 +90484,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_29",
    "image_inventory": "econ/weapon_cases/crate_community_29"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_29",
+   "description": "#CSGO_crate_community_29_desc"
   }
  },
  {
@@ -89463,6 +90643,10 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack03",
    "image_inventory": "econ/weapon_cases/crate_patch_pack03"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_patch_pack03",
+   "description": "#CSGO_crate_patch_pack03_desc"
   }
  },
  {
@@ -89848,6 +91032,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_stockh2021_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_stockh2021_legends",
+   "description": "#CSGO_crate_sticker_pack_stockh2021_legends_desc"
   }
  },
  {
@@ -90233,6 +91421,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_stockh2021_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_stockh2021_challengers",
+   "description": "#CSGO_crate_sticker_pack_stockh2021_challengers_desc"
   }
  },
  {
@@ -90618,6 +91810,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_stockh2021_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_stockh2021_contenders",
+   "description": "#CSGO_crate_sticker_pack_stockh2021_contenders_desc"
   }
  },
  {
@@ -90823,6 +92019,10 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack_stockh2021_legends",
    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_patch_pack_stockh2021_legends",
+   "description": "#CSGO_crate_patch_pack_stockh2021_legends_desc"
   }
  },
  {
@@ -91028,6 +92228,10 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack_stockh2021_challengers",
    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_patch_pack_stockh2021_challengers",
+   "description": "#CSGO_crate_patch_pack_stockh2021_challengers_desc"
   }
  },
  {
@@ -91233,6 +92437,10 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack_stockh2021_contenders",
    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_patch_pack_stockh2021_contenders",
+   "description": "#CSGO_crate_patch_pack_stockh2021_contenders_desc"
   }
  },
  {
@@ -91456,6 +92664,9 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_stockh2021_promo_de_inferno"
   }
  },
  {
@@ -91690,6 +92901,9 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_stockh2021_promo_de_mirage"
   }
  },
  {
@@ -91924,6 +93138,9 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_stockh2021_promo_de_dust2"
   }
  },
  {
@@ -92114,6 +93331,9 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_stockh2021_promo_de_overpass"
   }
  },
  {
@@ -92348,6 +93568,9 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_stockh2021_promo_de_ancient"
   }
  },
  {
@@ -92571,6 +93794,9 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_stockh2021_promo_de_nuke"
   }
  },
  {
@@ -92805,6 +94031,9 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_vertigo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_stockh2021_promo_de_vertigo"
   }
  },
  {
@@ -92980,6 +94209,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_stockh2021_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_group_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_stockh2021_group_champions",
+   "description": "#CSGO_crate_signature_pack_stockh2021_group_champions_desc"
   }
  },
  {
@@ -94055,6 +95288,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_stockh2021_group_finalists",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_group_finalists"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_stockh2021_group_finalists",
+   "description": "#CSGO_crate_signature_pack_stockh2021_group_finalists_desc"
   }
  },
  {
@@ -94843,6 +96080,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_30",
    "image_inventory": "econ/weapon_cases/crate_community_30"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_30",
+   "description": "#CSGO_crate_community_30_desc"
   }
  },
  {
@@ -95228,6 +96469,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_antwerp2022_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_antwerp2022_legends",
+   "description": "#CSGO_crate_sticker_pack_antwerp2022_legends_desc"
   }
  },
  {
@@ -95613,6 +96858,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_antwerp2022_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_antwerp2022_challengers",
+   "description": "#CSGO_crate_sticker_pack_antwerp2022_challengers_desc"
   }
  },
  {
@@ -95998,6 +97247,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_antwerp2022_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_antwerp2022_contenders",
+   "description": "#CSGO_crate_sticker_pack_antwerp2022_contenders_desc"
   }
  },
  {
@@ -96221,6 +97474,9 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_antwerp2022_promo_de_inferno"
   }
  },
  {
@@ -96455,6 +97711,9 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_antwerp2022_promo_de_mirage"
   }
  },
  {
@@ -96689,6 +97948,9 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_antwerp2022_promo_de_dust2"
   }
  },
  {
@@ -96879,6 +98141,9 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_antwerp2022_promo_de_overpass"
   }
  },
  {
@@ -97113,6 +98378,9 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_antwerp2022_promo_de_ancient"
   }
  },
  {
@@ -97336,6 +98604,9 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_antwerp2022_promo_de_nuke"
   }
  },
  {
@@ -97570,6 +98841,9 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_vertigo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_antwerp2022_promo_de_vertigo"
   }
  },
  {
@@ -99195,6 +100469,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_antwerp2022_group_legends",
+   "description": "#CSGO_crate_signature_pack_antwerp2022_group_legends_desc"
   }
  },
  {
@@ -100820,6 +102098,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_antwerp2022_group_challengers",
+   "description": "#CSGO_crate_signature_pack_antwerp2022_group_challengers_desc"
   }
  },
  {
@@ -102445,6 +103727,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_antwerp2022_group_contenders",
+   "description": "#CSGO_crate_signature_pack_antwerp2022_group_contenders_desc"
   }
  },
  {
@@ -102670,6 +103956,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_antwerp2022_group_champions",
+   "description": "#CSGO_crate_signature_pack_antwerp2022_group_champions_desc"
   }
  },
  {
@@ -103151,6 +104441,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_31",
    "image_inventory": "econ/weapon_cases/crate_community_31"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_31",
+   "description": "#CSGO_crate_community_31_desc"
   }
  },
  {
@@ -103826,6 +105120,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_csgo10_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_csgo10_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_csgo10_capsule",
+   "description": "#CSGO_crate_sticker_pack_csgo10_capsule_desc"
   }
  },
  {
@@ -103911,6 +105209,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_initiators_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_initiators_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_initiators_capsule",
+   "description": "#CSGO_crate_musickit_initiators_capsule_desc"
   }
  },
  {
@@ -103996,6 +105298,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_initiators_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_initiators_stattrak_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_initiators_stattrak_capsule",
+   "description": "#CSGO_crate_musickit_initiators_stattrak_capsule_desc"
   }
  },
  {
@@ -104381,6 +105687,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rio2022_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_rio2022_legends",
+   "description": "#CSGO_crate_sticker_pack_rio2022_legends_desc"
   }
  },
  {
@@ -104766,6 +106076,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rio2022_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_rio2022_challengers",
+   "description": "#CSGO_crate_sticker_pack_rio2022_challengers_desc"
   }
  },
  {
@@ -105151,6 +106465,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rio2022_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_rio2022_contenders",
+   "description": "#CSGO_crate_sticker_pack_rio2022_contenders_desc"
   }
  },
  {
@@ -105374,6 +106692,9 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_rio2022_promo_de_inferno"
   }
  },
  {
@@ -105608,6 +106929,9 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_rio2022_promo_de_mirage"
   }
  },
  {
@@ -105842,6 +107166,9 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_rio2022_promo_de_dust2"
   }
  },
  {
@@ -106032,6 +107359,9 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_rio2022_promo_de_overpass"
   }
  },
  {
@@ -106266,6 +107596,9 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_rio2022_promo_de_ancient"
   }
  },
  {
@@ -106489,6 +107822,9 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_rio2022_promo_de_nuke"
   }
  },
  {
@@ -106723,6 +108059,9 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_vertigo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_rio2022_promo_de_vertigo"
   }
  },
  {
@@ -108348,6 +109687,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_rio2022_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_rio2022_group_legends",
+   "description": "#CSGO_crate_signature_pack_rio2022_group_legends_desc"
   }
  },
  {
@@ -109973,6 +111316,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_rio2022_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_rio2022_group_challengers",
+   "description": "#CSGO_crate_signature_pack_rio2022_group_challengers_desc"
   }
  },
  {
@@ -111598,6 +112945,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_rio2022_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_rio2022_group_contenders",
+   "description": "#CSGO_crate_signature_pack_rio2022_group_contenders_desc"
   }
  },
  {
@@ -111823,6 +113174,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_rio2022_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_rio2022_group_champions",
+   "description": "#CSGO_crate_signature_pack_rio2022_group_champions_desc"
   }
  },
  {
@@ -113298,6 +114653,10 @@
   "original": {
    "item_name": "#CSGO_storageunit0_rio2022",
    "image_inventory": "econ/tools/casket_rio2022_0"
+  },
+  "i18n": {
+   "name": "#CSGO_storageunit0_rio2022",
+   "description": "#CSGO_storageunit0_rio2022_desc"
   }
  },
  {
@@ -114773,6 +116132,10 @@
   "original": {
    "item_name": "#CSGO_storageunit1_rio2022",
    "image_inventory": "econ/tools/casket_rio2022_1"
+  },
+  "i18n": {
+   "name": "#CSGO_storageunit1_rio2022",
+   "description": "#CSGO_storageunit1_rio2022_desc"
   }
  },
  {
@@ -115008,6 +116371,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_community2022_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community2022_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_community2022_capsule",
+   "description": "#CSGO_crate_sticker_pack_community2022_capsule_desc"
   }
  },
  {
@@ -115489,6 +116856,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_32",
    "image_inventory": "econ/weapon_cases/crate_community_32"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_32",
+   "description": "#CSGO_crate_community_32_desc"
   }
  },
  {
@@ -115723,6 +117094,9 @@
   "original": {
    "item_name": "#CSGO_set_anubis_storepromo",
    "image_inventory": "econ/weapon_cases/crate_anubis_storepromo"
+  },
+  "i18n": {
+   "name": "#CSGO_set_anubis_storepromo"
   }
  },
  {
@@ -116108,6 +117482,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_paris2023_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_paris2023_legends",
+   "description": "#CSGO_crate_sticker_pack_paris2023_legends_desc"
   }
  },
  {
@@ -116493,6 +117871,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_paris2023_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_paris2023_challengers",
+   "description": "#CSGO_crate_sticker_pack_paris2023_challengers_desc"
   }
  },
  {
@@ -116878,6 +118260,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_paris2023_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_paris2023_contenders",
+   "description": "#CSGO_crate_sticker_pack_paris2023_contenders_desc"
   }
  },
  {
@@ -117101,6 +118487,9 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_paris2023_promo_de_inferno"
   }
  },
  {
@@ -117335,6 +118724,9 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_paris2023_promo_de_mirage"
   }
  },
  {
@@ -117569,6 +118961,9 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_anubis",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_anubis"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_paris2023_promo_de_anubis"
   }
  },
  {
@@ -117759,6 +119154,9 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_paris2023_promo_de_overpass"
   }
  },
  {
@@ -117993,6 +119391,9 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_paris2023_promo_de_ancient"
   }
  },
  {
@@ -118216,6 +119617,9 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_paris2023_promo_de_nuke"
   }
  },
  {
@@ -118450,6 +119854,9 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_vertigo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_paris2023_promo_de_vertigo"
   }
  },
  {
@@ -120075,6 +121482,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_paris2023_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_paris2023_group_legends",
+   "description": "#CSGO_crate_signature_pack_paris2023_group_legends_desc"
   }
  },
  {
@@ -121700,6 +123111,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_paris2023_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_paris2023_group_challengers",
+   "description": "#CSGO_crate_signature_pack_paris2023_group_challengers_desc"
   }
  },
  {
@@ -123325,6 +124740,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_paris2023_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_paris2023_group_contenders",
+   "description": "#CSGO_crate_signature_pack_paris2023_group_contenders_desc"
   }
  },
  {
@@ -123550,6 +124969,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_paris2023_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_paris2023_group_champions",
+   "description": "#CSGO_crate_signature_pack_paris2023_group_champions_desc"
   }
  },
  {
@@ -123911,6 +125334,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_33",
    "image_inventory": "econ/weapon_cases/crate_community_33"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_33",
+   "description": "#CSGO_crate_community_33_desc"
   }
  },
  {
@@ -124146,6 +125573,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_community_2024_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community_2024_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_community_2024_capsule",
+   "description": "#CSGO_crate_sticker_pack_community_2024_capsule_desc"
   }
  },
  {
@@ -124231,6 +125662,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_nightmode_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_nightmode_capsule",
+   "description": "#CSGO_crate_musickit_nightmode_capsule_desc"
   }
  },
  {
@@ -124316,6 +125751,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_nightmode_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_stattrak_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_nightmode_stattrak_capsule",
+   "description": "#CSGO_crate_musickit_nightmode_stattrak_capsule_desc"
   }
  },
  {
@@ -124701,6 +126140,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cph2024_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cph2024_legends",
+   "description": "#CSGO_crate_sticker_pack_cph2024_legends_desc"
   }
  },
  {
@@ -125086,6 +126529,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cph2024_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cph2024_challengers",
+   "description": "#CSGO_crate_sticker_pack_cph2024_challengers_desc"
   }
  },
  {
@@ -125471,6 +126918,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cph2024_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_cph2024_contenders",
+   "description": "#CSGO_crate_sticker_pack_cph2024_contenders_desc"
   }
  },
  {
@@ -125694,6 +127145,9 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cph2024_promo_de_inferno"
   }
  },
  {
@@ -125928,6 +127382,9 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cph2024_promo_de_mirage"
   }
  },
  {
@@ -126162,6 +127619,9 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_anubis",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_anubis"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cph2024_promo_de_anubis"
   }
  },
  {
@@ -126352,6 +127812,9 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cph2024_promo_de_overpass"
   }
  },
  {
@@ -126586,6 +128049,9 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cph2024_promo_de_ancient"
   }
  },
  {
@@ -126809,6 +128275,9 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cph2024_promo_de_nuke"
   }
  },
  {
@@ -127043,6 +128512,9 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_vertigo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_cph2024_promo_de_vertigo"
   }
  },
  {
@@ -128668,6 +130140,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cph2024_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cph2024_group_legends",
+   "description": "#CSGO_crate_signature_pack_cph2024_group_legends_desc"
   }
  },
  {
@@ -130293,6 +131769,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cph2024_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cph2024_group_challengers",
+   "description": "#CSGO_crate_signature_pack_cph2024_group_challengers_desc"
   }
  },
  {
@@ -131918,6 +133398,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cph2024_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cph2024_group_contenders",
+   "description": "#CSGO_crate_signature_pack_cph2024_group_contenders_desc"
   }
  },
  {
@@ -132143,6 +133627,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cph2024_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_cph2024_group_champions",
+   "description": "#CSGO_crate_signature_pack_cph2024_group_champions_desc"
   }
  },
  {
@@ -132248,6 +133736,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_masterminds2_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds2_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_masterminds2_capsule",
+   "description": "#CSGO_crate_musickit_masterminds2_capsule_desc"
   }
  },
  {
@@ -132353,6 +133845,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_masterminds2_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds2_stattrak_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_masterminds2_stattrak_capsule",
+   "description": "#CSGO_crate_musickit_masterminds2_stattrak_capsule_desc"
   }
  },
  {
@@ -132738,6 +134234,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_sha2024_legends",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_sha2024_legends",
+   "description": "#CSGO_crate_sticker_pack_sha2024_legends_desc"
   }
  },
  {
@@ -133123,6 +134623,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_sha2024_challengers",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_sha2024_challengers",
+   "description": "#CSGO_crate_sticker_pack_sha2024_challengers_desc"
   }
  },
  {
@@ -133508,6 +135012,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_sha2024_contenders",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_sha2024_contenders",
+   "description": "#CSGO_crate_sticker_pack_sha2024_contenders_desc"
   }
  },
  {
@@ -133731,6 +135239,9 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_inferno",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sha2024_promo_de_inferno"
   }
  },
  {
@@ -133965,6 +135476,9 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_mirage",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sha2024_promo_de_mirage"
   }
  },
  {
@@ -134199,6 +135713,9 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_anubis",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_anubis"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sha2024_promo_de_anubis"
   }
  },
  {
@@ -134433,6 +135950,9 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_dust2",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sha2024_promo_de_dust2"
   }
  },
  {
@@ -134667,6 +136187,9 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_ancient",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sha2024_promo_de_ancient"
   }
  },
  {
@@ -134890,6 +136413,9 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_nuke",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sha2024_promo_de_nuke"
   }
  },
  {
@@ -135124,6 +136650,9 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_vertigo",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sha2024_promo_de_vertigo"
   }
  },
  {
@@ -136749,6 +138278,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_sha2024_group_legends",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_sha2024_group_legends",
+   "description": "#CSGO_crate_signature_pack_sha2024_group_legends_desc"
   }
  },
  {
@@ -138374,6 +139907,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_sha2024_group_challengers",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_sha2024_group_challengers",
+   "description": "#CSGO_crate_signature_pack_sha2024_group_challengers_desc"
   }
  },
  {
@@ -139999,6 +141536,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_sha2024_group_contenders",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_sha2024_group_contenders",
+   "description": "#CSGO_crate_signature_pack_sha2024_group_contenders_desc"
   }
  },
  {
@@ -140224,6 +141765,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_sha2024_group_champions",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_sha2024_group_champions",
+   "description": "#CSGO_crate_signature_pack_sha2024_group_champions_desc"
   }
  },
  {
@@ -140609,6 +142154,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_aus2025_legends",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_aus2025_legends",
+   "description": "#CSGO_crate_sticker_pack_aus2025_legends_desc"
   }
  },
  {
@@ -140994,6 +142543,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_aus2025_challengers",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_aus2025_challengers",
+   "description": "#CSGO_crate_sticker_pack_aus2025_challengers_desc"
   }
  },
  {
@@ -141699,6 +143252,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_aus2025_contenders",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_aus2025_contenders",
+   "description": "#CSGO_crate_sticker_pack_aus2025_contenders_desc"
   }
  },
  {
@@ -141922,6 +143479,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_inferno",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_inferno"
   }
  },
  {
@@ -142145,6 +143705,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_inferno",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_inferno"
   }
  },
  {
@@ -142379,6 +143942,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_mirage",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_mirage"
   }
  },
  {
@@ -142613,6 +144179,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_mirage",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_mirage"
   }
  },
  {
@@ -142847,6 +144416,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_anubis",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_anubis"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_anubis"
   }
  },
  {
@@ -143081,6 +144653,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_anubis",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_anubis"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_anubis"
   }
  },
  {
@@ -143315,6 +144890,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_dust2",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_dust2"
   }
  },
  {
@@ -143549,6 +145127,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_dust2",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_dust2"
   }
  },
  {
@@ -143783,6 +145364,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_ancient",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_ancient"
   }
  },
  {
@@ -144017,6 +145601,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_ancient",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_ancient"
   }
  },
  {
@@ -144240,6 +145827,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_nuke",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_nuke"
   }
  },
  {
@@ -144463,6 +146053,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_nuke",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_nuke"
   }
  },
  {
@@ -144664,6 +146257,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_train",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_train"
   }
  },
  {
@@ -144865,6 +146461,9 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_train",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_aus2025_promo_de_train"
   }
  },
  {
@@ -146490,6 +148089,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_aus2025_group_legends",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_aus2025_group_legends",
+   "description": "#CSGO_crate_signature_pack_aus2025_group_legends_desc"
   }
  },
  {
@@ -148115,6 +149718,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_aus2025_group_challengers",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_aus2025_group_challengers",
+   "description": "#CSGO_crate_signature_pack_aus2025_group_challengers_desc"
   }
  },
  {
@@ -151340,6 +152947,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_aus2025_group_contenders",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_aus2025_group_contenders",
+   "description": "#CSGO_crate_signature_pack_aus2025_group_contenders_desc"
   }
  },
  {
@@ -151565,6 +153176,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_aus2025_group_champions",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_aus2025_group_champions",
+   "description": "#CSGO_crate_signature_pack_aus2025_group_champions_desc"
   }
  },
  {
@@ -151777,6 +153392,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_36",
    "image_inventory": "econ/weapon_cases/crate_community_36_closed"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_36",
+   "description": "#CSGO_crate_community_36_desc"
   }
  },
  {
@@ -152162,6 +153781,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bud2025_legends",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_bud2025_legends",
+   "description": "#CSGO_crate_sticker_pack_bud2025_legends_desc"
   }
  },
  {
@@ -152547,6 +154170,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bud2025_challengers",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_bud2025_challengers",
+   "description": "#CSGO_crate_sticker_pack_bud2025_challengers_desc"
   }
  },
  {
@@ -153252,6 +154879,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bud2025_contenders",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_bud2025_contenders",
+   "description": "#CSGO_crate_sticker_pack_bud2025_contenders_desc"
   }
  },
  {
@@ -153469,12 +155100,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Inferno Souvenir Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iZz-hzou9mASjrkx5y4mSGntaodS_DbFR1WJMmELML5hbrloDhNLy34VHWi48XmX_gznQe8eXZM-w",
   "model_player": "models/props/crates/crate_bud2025_promo_de_inferno.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_inferno",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_inferno"
   }
  },
  {
@@ -153692,12 +155326,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Inferno Souvenir Highlight Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iZz-hzou9mASjrkx5y4mSGntaodS_DbFR1WJMmELML5hbrloDhNLy34VHWi48XmX_gznQe8eXZM-w",
   "model_player": "models/props/crates/crate_bud2025_promo_de_inferno.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_inferno",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_inferno"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_inferno"
   }
  },
  {
@@ -153926,12 +155563,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Mirage Souvenir Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1idyPx3t-QnSSzmkB5_5G3czt6udHzBZ1UlXpN4TLMPtES7xobnMbzmslTW3YhGzTK-0H1MalVC1A",
   "model_player": "models/props/crates/crate_bud2025_promo_de_mirage.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_mirage",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_mirage"
   }
  },
  {
@@ -154160,12 +155800,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Mirage Souvenir Highlight Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1idyPx3t-QnSSzmkB5_5G3czt6udHzBZ1UlXpN4TLMPtES7xobnMbzmslTW3YhGzTK-0H1MalVC1A",
   "model_player": "models/props/crates/crate_bud2025_promo_de_mirage.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_mirage",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_mirage"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_mirage"
   }
  },
  {
@@ -154361,12 +156004,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Overpass Souvenir Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1if1-tkoOB6XGewx0534DvSy4yqeCjDOlVyX5R3QLNftUG8wIbkYbi04wONjYkUnyT-kGoXuX5b0_qi",
   "model_player": "models/props/crates/crate_bud2025_promo_de_overpass.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_overpass",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_overpass"
   }
  },
  {
@@ -154562,12 +156208,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Overpass Souvenir Highlight Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1if1-tkoOB6XGewx0534DvSy4yqeCjDOlVyX5R3QLNftUG8wIbkYbi04wONjYkUnyT-kGoXuX5b0_qi",
   "model_player": "models/props/crates/crate_bud2025_promo_de_overpass.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_overpass",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_overpass"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_overpass"
   }
  },
  {
@@ -154796,12 +156445,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Dust II Souvenir Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iU1P1i4q8_HH-wkExx4Tndy9_4eX-QOgEnCpYiR7RZ5BHulN3vZezi5QCN2osX02yg2TQeOBRN",
   "model_player": "models/props/crates/crate_bud2025_promo_de_dust2.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_dust2",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_dust2"
   }
  },
  {
@@ -155030,12 +156682,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Dust II Souvenir Highlight Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iU1P1i4q8_HH-wkExx4Tndy9_4eX-QOgEnCpYiR7RZ5BHulN3vZezi5QCN2osX02yg2TQeOBRN",
   "model_player": "models/props/crates/crate_bud2025_promo_de_dust2.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_dust2",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_dust2"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_dust2"
   }
  },
  {
@@ -155264,12 +156919,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Ancient Souvenir Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iRz-1_te99AX23l0l-4WTWy9yrJH2ROA9yA5R0EOVZtha9w9WzNLy24FGKitlGxSrgznQe9a3peFc",
   "model_player": "models/props/crates/crate_bud2025_promo_de_ancient.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_ancient",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_ancient"
   }
  },
  {
@@ -155498,12 +157156,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Ancient Souvenir Highlight Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iRz-1_te99AX23l0l-4WTWy9yrJH2ROA9yA5R0EOVZtha9w9WzNLy24FGKitlGxSrgznQe9a3peFc",
   "model_player": "models/props/crates/crate_bud2025_promo_de_ancient.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_ancient",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_ancient"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_ancient"
   }
  },
  {
@@ -155721,12 +157382,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Nuke Souvenir Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1ie1OVz_uA7SS_ilEUm5mnXntv9JymQZlAhDZp3TLUD4BC-mtzjNLvns1Tb2YlbjXKp2Yke3b8",
   "model_player": "models/props/crates/crate_bud2025_promo_de_nuke.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_nuke",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_nuke"
   }
  },
  {
@@ -155944,12 +157608,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Nuke Souvenir Highlight Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1ie1OVz_uA7SS_ilEUm5mnXntv9JymQZlAhDZp3TLUD4BC-mtzjNLvns1Tb2YlbjXKp2Yke3b8",
   "model_player": "models/props/crates/crate_bud2025_promo_de_nuke.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_nuke",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_nuke"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_nuke"
   }
  },
  {
@@ -156145,12 +157812,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Train Souvenir Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iE0-9_vq87G3HhwU1x4WrTz9evdnmXbwAkXJZzTbRYsxnrm9LiP-q2tAzb2ItH02yg2d3fjhEF",
   "model_player": "models/props/crates/crate_bud2025_promo_de_train.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_train",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_train"
   }
  },
  {
@@ -156346,12 +158016,15 @@
   "contains_rare": [],
   "market_hash_name": "Budapest 2025 Train Souvenir Highlight Package",
   "rental": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iE0-9_vq87G3HhwU1x4WrTz9evdnmXbwAkXJZzTbRYsxnrm9LiP-q2tAzb2ItH02yg2d3fjhEF",
   "model_player": "models/props/crates/crate_bud2025_promo_de_train.vmdl",
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_train",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_train"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_bud2025_promo_de_train"
   }
  },
  {
@@ -157977,6 +159650,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_bud2025_group_legends",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_legends"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_bud2025_group_legends",
+   "description": "#CSGO_crate_signature_pack_bud2025_group_legends_desc"
   }
  },
  {
@@ -159602,6 +161279,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_bud2025_group_challengers",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_challengers"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_bud2025_group_challengers",
+   "description": "#CSGO_crate_signature_pack_bud2025_group_challengers_desc"
   }
  },
  {
@@ -162827,6 +164508,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_bud2025_group_contenders",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_contenders"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_bud2025_group_contenders",
+   "description": "#CSGO_crate_signature_pack_bud2025_group_contenders_desc"
   }
  },
  {
@@ -162851,6 +164536,10 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_bud2025_group_champions",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_signature_pack_bud2025_group_champions",
+   "description": "#CSGO_crate_signature_pack_bud2025_group_champions_desc"
   }
  },
  {
@@ -163212,6 +164901,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_34",
    "image_inventory": "econ/weapon_cases/crate_community_34"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_34",
+   "description": "#CSGO_crate_community_34_desc"
   }
  },
  {
@@ -164033,6 +165726,10 @@
   "original": {
    "item_name": "#CSGO_crate_community_35",
    "image_inventory": "econ/weapon_cases/crate_community_35"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_community_35",
+   "description": "#CSGO_crate_community_35_desc"
   }
  },
  {
@@ -164238,6 +165935,10 @@
   "original": {
    "item_name": "CSGO_crate_sticker_pack_warhammer_traitor_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_traitor_capsule"
+  },
+  "i18n": {
+   "name": "CSGO_crate_sticker_pack_warhammer_traitor_capsule",
+   "description": "#CSGO_crate_sticker_pack_warhammer_traitor_capsule_desc"
   }
  },
  {
@@ -164443,6 +166144,10 @@
   "original": {
    "item_name": "CSGO_crate_sticker_pack_warhammer_adeptus_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_adeptus_capsule"
+  },
+  "i18n": {
+   "name": "CSGO_crate_sticker_pack_warhammer_adeptus_capsule",
+   "description": "CSGO_crate_sticker_pack_warhammer_adeptus_capsule_desc"
   }
  },
  {
@@ -164648,6 +166353,10 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_warhammer_imperium_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_imperium_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_sticker_pack_warhammer_imperium_capsule",
+   "description": "#CSGO_crate_sticker_pack_warhammer_imperium_capsule_desc"
   }
  },
  {
@@ -164853,6 +166562,10 @@
   "original": {
    "item_name": "CSGO_crate_sticker_pack_warhammer_xenos_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_xenos_capsule"
+  },
+  "i18n": {
+   "name": "CSGO_crate_sticker_pack_warhammer_xenos_capsule",
+   "description": "#CSGO_crate_sticker_pack_warhammer_xenos_capsule_desc"
   }
  },
  {
@@ -164978,6 +166691,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_deluge_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_deluge_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_deluge_capsule",
+   "description": "#CSGO_crate_musickit_deluge_capsule_desc"
   }
  },
  {
@@ -165103,6 +166820,10 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_deluge_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_deluge_stattrak_capsule"
+  },
+  "i18n": {
+   "name": "#CSGO_crate_musickit_deluge_stattrak_capsule",
+   "description": "#CSGO_crate_musickit_deluge_stattrak_capsule_desc"
   }
  }
 ]

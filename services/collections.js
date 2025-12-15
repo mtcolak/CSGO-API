@@ -66,6 +66,12 @@ const parseItem = item => {
             name: item.name,
             image_inventory: `econ/set_icons/${fileName}`,
         },
+
+        // Language translation keys
+        i18n: {
+            name: item.name_force ? item.name_force : item.name,
+            description: item.name_force ? `${item.name_force}_desc` : `${item.name}_desc`,
+        },
     };
 };
 
@@ -95,6 +101,11 @@ const parseItemSelfOpening = item => {
             name: item.name,
             item_name: item.item_name,
             image_inventory: item.image_inventory.toLowerCase(),
+        },
+
+        i18n: {
+            name: item.item_name,
+            description: `${item.item_name}_desc`,
         },
     };
 };

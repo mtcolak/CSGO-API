@@ -43,6 +43,12 @@ const parseItem = item => {
             name: item.name,
             image_inventory: `econ/characters/${item.name.toLocaleLowerCase()}`,
         },
+ 
+        // Language translation keys
+        i18n: {
+            name: item.item_name,
+            description: item.item_description,
+        },
     };
 };
 

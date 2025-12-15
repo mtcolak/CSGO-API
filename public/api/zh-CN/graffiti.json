@@ -20,6 +20,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLzkpnv-R1Z4PuibbYjIqbBDGPGl7p147k-Sn_lxR5z5mXVmdn4J3yXO1MmX5AhE7UNtkW9m8qnab0X0Kv8Bg",
   "original": {
    "name": "spray_blood_boiler",
+   "item_name": "#StickerKit_comm02_blood_broiler",
    "image_inventory": "econ/stickers/community_mix01/blood_boiler"
   }
  },
@@ -44,6 +45,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLylp_j9idVoab4MaU-cKfDXD7Bk-sl5rVsTnnlkUohsW_cnN6rJyiXZ1UhApEkRe8U8k7vVO14c3w",
   "original": {
    "name": "spray_chicken",
+   "item_name": "#StickerKit_enfu_chicken",
    "image_inventory": "econ/stickers/community_mix01/chicken"
   }
  },
@@ -68,6 +70,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFL1jIPn6iNJ-fe6bbZsLr7GXDTFl7ch6bBoHii3w0hz6mTUyY6rcyqVOwApCMdxR-EK4xG6xIbgKaq8sLHdAxds",
   "original": {
    "name": "spray_drugwarveteran",
+   "item_name": "#StickerKit_comm02_drugwarveteran",
    "image_inventory": "econ/stickers/community_mix01/drugwarveteran"
   }
  },
@@ -92,6 +95,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFL3kp_j9jFT4ObgMaA4dfHEDWTDmeok47dvF37rwxl25zjWz9n7I3mTOlV1X5t4ROEI5A74zIN0x31F_w",
   "original": {
    "name": "spray_flickshot",
+   "item_name": "#StickerKit_comm02_flickshot",
    "image_inventory": "econ/stickers/community_mix01/flickshot"
   }
  },
@@ -116,6 +120,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFL5n5vz6SdJ0Pqvf68jdfXLVmaTkL8vsuRsH3_lzU9262nVzdugIHnFZlQhA8clEO5Zt0Ptwcqnab2g6PaTjw",
   "original": {
    "name": "spray_hamster_hawk",
+   "item_name": "#StickerKit_comm02_hamster_hawk",
    "image_inventory": "econ/stickers/community_mix01/hamster_hawk"
   }
  },
@@ -140,6 +145,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFL4iJP06ScV6qD3MaI4c_ORXDHBk7cl6eVoHy3iwk935DzUytmgdiifPFdyDMQiQPlK7EffCKNKtQ",
   "original": {
    "name": "spray_ivette",
+   "item_name": "#StickerKit_pinups_ivette",
    "image_inventory": "econ/stickers/community_mix01/ivette"
   }
  },
@@ -164,6 +170,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFL6n4Hh9CtQ5v6ibbYjcaeRDzXElboi5LIxS3q1xUh14zvXzNquJXzGOgJ1DsNxRuIJsBa6wMqnab1Vl7s1FQ",
   "original": {
    "name": "spray_kawaiikiller_ct",
+   "item_name": "#StickerKit_comm02_kawaiikiller",
    "image_inventory": "econ/stickers/community_mix01/kawaiikiller"
   }
  },
@@ -188,6 +195,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFL6n4Hh9CtQ5v6ibbZSNL6RCzXHwu0j4bNtH3zrwktw4jncmduodHqVO1IjW5VzReEO5Ba-wNPhKaq8sIOSiM5Q",
   "original": {
    "name": "spray_kawaiikiller_t",
+   "item_name": "#StickerKit_comm02_kawaiikiller_t",
    "image_inventory": "econ/stickers/community_mix01/kawaiikiller_t"
   }
  },
@@ -212,6 +220,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFL8n4T09SMVt6f9MKU-eaaXWWbCwO8ltLdsTX2yxUh-5m6BmdqudiiePQB2CZZ5QvlK7EfJUaDRrQ",
   "original": {
    "name": "spray_martha",
+   "item_name": "#StickerKit_pinups_martha",
    "image_inventory": "econ/stickers/community_mix01/martha"
   }
  },
@@ -236,6 +245,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFL-kpLz_ipU4P7gP_Y7IqeQWDPBl79ws-UxGHnkl0QhtzjUy96pJC6QZwMjApAjQuJesQ74zIOkrDao1A",
   "original": {
    "name": "spray_oldschool",
+   "item_name": "#StickerKit_OldSchool",
    "image_inventory": "econ/stickers/community_mix01/oldschool"
   }
  },
@@ -260,6 +270,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLhkZXr-DZk7fC_Jqc1IvOVVmPJkL9y5OM7TSrixxki6m_Vnt39dS3CO1RyWZAhE-dZt0am0oqwuGZkZ5U",
   "original": {
    "name": "spray_pocket_bbq",
+   "item_name": "#StickerKit_comm01_pocket_bbq",
    "image_inventory": "econ/stickers/community_mix01/pocket_bbq"
   }
  },
@@ -284,6 +295,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLjm530syde7fP5O_NsJvOVCjOSxOou47JvF3yxzUol6mSEmNqhdnmUbwJxWJJuBbldoKwJxcQ",
   "original": {
    "name": "spray_rekt",
+   "item_name": "#StickerKit_comm01_rekt",
    "image_inventory": "econ/stickers/community_mix01/rekt"
   }
  },
@@ -308,6 +320,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLilpf2-B1W7uG6bbYjefHAWz7AlrshseJqTnngzEQk6zzSztaqcH_BZ1BzApEhELRc4Bfqxsqnab1X2XVRGg",
   "original": {
    "name": "spray_shave_master",
+   "item_name": "#StickerKit_comm01_shavemaster",
    "image_inventory": "econ/stickers/community_mix01/shave_master"
   }
  },
@@ -332,6 +345,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLilpnv6StV6OG6abYjJfaVCD6UmbZysuc_HSzklx9x5W6Gztb8cS3COlciXJVzTe8MuhXtk8qnab2P4Tin_w",
   "original": {
    "name": "spray_shootingstar",
+   "item_name": "#StickerKit_comm02_shootingstar",
    "image_inventory": "econ/stickers/community_mix01/shootingstar"
   }
  },
@@ -356,6 +370,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLilYPs8WwMv_H5Mf1oePOVWj_Fkuh0tLZqSivhw04m52jWyNmseXqVbwAnA8QhW6dU5bx4QruO",
   "original": {
    "name": "spray_skull",
+   "item_name": "#StickerKit_comm01_skull",
    "image_inventory": "econ/stickers/community_mix01/skull"
   }
  },
@@ -380,6 +395,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLln5vh7yMVuqWoOvQ8eaTEXj7IwOgmsbAxHiq3zB4lsTnTm9mgdSqeaVJxDpF2F_lK7EfWXgQXZw",
   "original": {
    "name": "spray_tamara",
+   "item_name": "#StickerKit_pinups_tamara",
    "image_inventory": "econ/stickers/community_mix01/tamara"
   }
  },
@@ -404,6 +420,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLkkJ_j8jBVoff9O_M0ePXFXTOTkL8l5OdrH3jkxUl15WTQm9eodX-QbFMjDZV2FLYU8k7vv-P5DWY",
   "original": {
    "name": "spray_unicorn",
+   "item_name": "#StickerKit_enfu_unicorn",
    "image_inventory": "econ/stickers/community_mix01/unicorn"
   }
  },
@@ -428,6 +445,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7bj540G3EFLml5jn-CZk6_eofbdoMr7FWWbIxLl1tLM9TXrixxsh42-Hzo39dX2XOAMoXJB0QuZet0WxkNDmKaq8sClelgTF",
   "original": {
    "name": "spray_winged_defuser",
+   "item_name": "#StickerKit_comm01_winged_defuser",
    "image_inventory": "econ/stickers/community_mix01/winged_defuser"
   }
  },
@@ -452,6 +470,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbmQhjOzseu_yNY6veoa_U4daLFXzHIkesus-drFivnxUh15WnWzYqtci2ebAJ2W4wwG7Cl0zn-XA",
   "original": {
    "name": "spray_vcap1_ace_01",
+   "item_name": "#SprayKit_vcap1_ace_01",
    "image_inventory": "econ/stickers/valve_sprays/ace_01"
   }
  },
@@ -476,6 +495,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RblQBPwkJeupSEC6_P7MaE8d6bFCDGUxLgm5LE4Tn22wRwjtziAy9z9diqVPFVyCowwG7B1jvwsGw",
   "original": {
    "name": "spray_vcap1_banana",
+   "item_name": "#SprayKit_vcap1_banana",
    "image_inventory": "econ/stickers/valve_sprays/banana"
   }
  },
@@ -500,6 +520,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbkRA_zm4T17mwJ6aT3MPBvI6jCWDDCxOwgsbI7TnHqlBhz4GTSm42oJy7Ga1J0W8B1W6dU5Tb_7j96",
   "original": {
    "name": "spray_vcap1_cerberus",
+   "item_name": "#SprayKit_vcap1_cerberus",
    "image_inventory": "econ/stickers/valve_sprays/cerberus"
   }
  },
@@ -524,6 +545,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbkTQjlnZ7frXMVvvf5OaBudqfCX2LElLgi4uNvS3zjlxwksmvUyNqgJH-fPQF1XMF3RflK7EduJBJCTQ",
   "original": {
    "name": "spray_vcap1_clutch_01",
+   "item_name": "#SprayKit_vcap1_clutch_01",
    "image_inventory": "econ/stickers/valve_sprays/clutch_01"
   }
  },
@@ -548,6 +570,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbkUxLmkNjkpCdYt6StMaJvIfORCjGRkbsv4-c9GSrhzUly42vQyoqqeC6UOwcgFNIuErJLoq0I",
   "original": {
    "name": "spray_vcap1_crown",
+   "item_name": "#SprayKit_vcap1_crown",
    "image_inventory": "econ/stickers/valve_sprays/crown"
   }
  },
@@ -572,6 +595,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbkVVP1ysK2-SAK6vGtOPdpJanGCGLJwO915bFqHX_ixB8jtjuAzYqqeHPEcEZ-Xe3noULt",
   "original": {
    "name": "spray_vcap1_ct",
+   "item_name": "#SprayKit_vcap1_ct",
    "image_inventory": "econ/stickers/valve_sprays/ct"
   }
  },
@@ -596,6 +620,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbiWyKhzNi3-yReu6r7Ofw9cPaXDTKTlrcktrBtTXHnlh904TzSzNisJHKROwZ1FNIuEo-VmxK1",
   "original": {
    "name": "spray_vcap1_ez_02",
+   "item_name": "#SprayKit_vcap1_ez_02",
    "image_inventory": "econ/stickers/valve_sprays/ez_02"
   }
  },
@@ -620,6 +645,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbhSA_0jZPy7SdV-7z8P_A1cajFX2ORlO0i4eU4HijjxkQjtmTQzIquci-ePFMkApFxELEKrFDmxcsnnDyP",
   "original": {
    "name": "spray_vcap1_fireserpent",
+   "item_name": "#SprayKit_vcap1_fireserpent",
    "image_inventory": "econ/stickers/valve_sprays/fireserpent"
   }
  },
@@ -644,6 +670,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbvTgr9l5jnwiZa-PzgO_1rcvSXCGXCkr8isbMwGX7hxk5-4DiEwtf_d3vCZg4gWcZwELQL5w74zIO5mcAumA",
   "original": {
    "name": "spray_vcap1_howling_dawn",
+   "item_name": "#SprayKit_vcap1_howling_dawn",
    "image_inventory": "econ/stickers/valve_sprays/howling_dawn"
   }
  },
@@ -668,6 +695,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbsSA7im4WuqXFe6_f8MKBsJvKXWWSUlL4nsbNsSyjklk13sm7dwtuhd3-WPVAjDowwG7DvYELb4w",
   "original": {
    "name": "spray_vcap1_kisses",
+   "item_name": "#SprayKit_vcap1_kisses",
    "image_inventory": "econ/stickers/valve_sprays/kisses"
   }
  },
@@ -692,6 +720,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbrRBD-kKnz7Dde6uirJvA-cKLDDWXFkrYn6bcxHnriw0wk5m6Awo3_dXuQPVIkXsMhQLFYsxWm0oqwc2SVNrI",
   "original": {
    "name": "spray_vcap1_lemon_squeeze",
+   "item_name": "#SprayKit_vcap1_lemon_squeeze",
    "image_inventory": "econ/stickers/valve_sprays/lemon_squeeze"
   }
  },
@@ -716,6 +745,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbpSB70oYXo8jZk7P2iZ7YjcvLAXWbJkLsus-NsH3iwxkUm6mTQz9ahcn6eZwZ0XsEiRLQN4xC8wcqnab1SRDb27g",
   "original": {
    "name": "spray_vcap1_nice_shot_color",
+   "item_name": "#SprayKit_vcap1_nice_shot_color",
    "image_inventory": "econ/stickers/valve_sprays/nice_shot_color"
   }
  },
@@ -740,6 +770,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-Rb3SRL0kJ_4s3ddvqP8MKU-eaaVDGPJk78u4eA9HHuxxBglsj_Qy9r4dijBPQJ0DsduBbldGw_aqd4",
   "original": {
    "name": "spray_vcap1_phoenix",
+   "item_name": "#SprayKit_vcap1_phoenix",
    "image_inventory": "econ/stickers/valve_sprays/phoenix"
   }
  },
@@ -764,6 +795,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-Rb1RBz9k4DwwnIJofOrbfA4IqKQCDKTxLcv57I6S3DlkRtx5W6EyIuvJC7DPQBzXJYjEecU8k7v5oYL4aE",
   "original": {
    "name": "spray_vcap1_realmvp_02",
+   "item_name": "#SprayKit_vcap1_realmvp_02",
    "image_inventory": "econ/stickers/valve_sprays/realmvp_02"
   }
  },
@@ -788,6 +820,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-Rb1SA34jtizqyBdtqr6baI-efKQV2SRx7oitLI6Sy_rwUxztmyBz9z7cinEalNzFNIuEnPTM4oc",
   "original": {
    "name": "spray_vcap1_ripip",
+   "item_name": "#SprayKit_vcap1_ripip",
    "image_inventory": "econ/stickers/valve_sprays/ripip"
   }
  },
@@ -812,6 +845,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbzQA_2m4LfrXAV6vT8bfA1JfKSC2XFwLhzseJrTX_gzRx_4juBw9r4In_FPFUgXpMkQ_lK7Ee0TzIRjw",
   "original": {
    "name": "spray_vcap1_target_02",
+   "item_name": "#SprayKit_vcap1_target_02",
    "image_inventory": "econ/stickers/valve_sprays/target_02"
   }
  },
@@ -836,6 +870,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbwRBHykZvlwiFX-uatYOo4I6HHCj-Rx7wvtbc8FyvjxkV2sGiGydn8dXLGOlUlApRxQOBcskG4jJS5YCkXN5Sl",
   "original": {
    "name": "spray_vcap1_welcome_clutch",
+   "item_name": "#SprayKit_vcap1_welcome_clutch",
    "image_inventory": "econ/stickers/valve_sprays/welcome_clutch"
   }
  },
@@ -860,6 +895,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNygOW2S2kVl5obt-RbwSBP2jdjl_CYK6aL-OfE1dqnGCjGUxO0j4rY_SXHqk05-4zndn46qeXKfagIjFNIuEo8iDATD",
   "original": {
    "name": "spray_vcap1_wings",
+   "item_name": "#SprayKit_vcap1_wings",
    "image_inventory": "econ/stickers/valve_sprays/wings"
   }
  },
@@ -14216,6 +14252,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVj0VQ_OmYTh-yRS-_vgafFrd_GSXDPCkO915LhvFnjilERz5T7Vzt__dnzFawEjD5pzRbQJ5w74zIOMtSIkVw",
   "original": {
    "name": "atlanta2017_team_astr_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_astr",
    "image_inventory": "econ/stickers/atlanta2017/astr_graffiti"
   }
  },
@@ -14234,6 +14271,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfxfhrjn5Dm9DZSoaP2MfBpIfKXWGOUxbgm4bQ4Hn3ml05342yGzIz7InnGOg8gDJMkEOIU8k7vG41keQw",
   "original": {
    "name": "atlanta2017_team_nv_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_nv",
    "image_inventory": "econ/stickers/atlanta2017/nv_graffiti"
   }
  },
@@ -14252,6 +14290,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_mWxjOmYTh-yRS-_vgavdsdvSQWT6Tme0l4eVtFnnmkxly62qEw9uoI3vEOAZ0Dpd5EbJZsw74zIP1lSCK4w",
   "original": {
    "name": "atlanta2017_team_faze_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_faze",
    "image_inventory": "econ/stickers/atlanta2017/faze_graffiti"
   }
  },
@@ -14270,6 +14309,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_rSA3OmYTh-yRS-_vga_dvdfXEVjPAxbt1trAwTn62kU0mt2mHm9agI3yXbwUlD8F2E-INsg74zIM38lLpRg",
   "original": {
    "name": "atlanta2017_team_flip_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_flip",
    "image_inventory": "econ/stickers/atlanta2017/flip_graffiti"
   }
  },
@@ -14288,6 +14328,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_pVR7OmYTh-yRS-_vgavU9efOVDTOTke8j5uM5SXrmlhki4jvUmNr8cCmSPVInWMB1QrJf4Q74zIOKNk--Gg",
   "original": {
    "name": "atlanta2017_team_fntc_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_fntc",
    "image_inventory": "econ/stickers/atlanta2017/fntc_graffiti"
   }
  },
@@ -14306,6 +14347,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV61fhrjn5Dm9DZSoaH-OvJpcqeQWGHJl7xzsbFtFy_gl0xzt2_Vn46ud3vFagNzCsQjReEU8k7vZilTaEk",
   "original": {
    "name": "atlanta2017_team_g2_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_g2",
    "image_inventory": "econ/stickers/atlanta2017/g2_graffiti"
   }
  },
@@ -14324,6 +14366,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV7mTB_OmYTh-yRS-_vgP_VpeKnCWGbAx7Yv6eJtTn7lxU0m6zuEm93_cXrCalInCZJ4Q-cCuw74zIPRh1undA",
   "original": {
    "name": "atlanta2017_team_gamb_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_gamb",
    "image_inventory": "econ/stickers/atlanta2017/gamb_graffiti"
   }
  },
@@ -14342,6 +14385,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV7oRSL2jJfm-ytP5ryrbvFuIfbGWDLCk-hz5bc8HCrmlklz42jXyoqudnOUOAUkC8MkEOIMrFDmxVLTABw3",
   "original": {
    "name": "atlanta2017_team_god_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_god",
    "image_inventory": "econ/stickers/atlanta2017/god_graffiti"
   }
  },
@@ -14360,6 +14404,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVHrUyL2jJfm-ytP5rz9bKZoI_ORV2bHxLZw4LhsF33mlE5362TSy46rdS-TZwQiXJN0E7NYrFDmxQcpdXl5",
   "original": {
    "name": "atlanta2017_team_hlr_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_hlr",
    "image_inventory": "econ/stickers/atlanta2017/hlr_graffiti"
   }
  },
@@ -14378,6 +14423,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVT0UiL2jJfm-ytP5rz9O_M8IfTGWjOVl-tz4uM5GXDqzEki4zyAmN74cCiXOg4jCZZ4QeYIrFDmxbZ9NMxI",
   "original": {
    "name": "atlanta2017_team_mss_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_mss",
    "image_inventory": "econ/stickers/atlanta2017/mss_graffiti"
   }
  },
@@ -14396,6 +14442,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfmVxTOmYTh-yRS-_vgPPA6JPOXXzXBxO106bJvSnvrwR5252zWwtj6dnieZwd2W5VxR-IL5g74zIMG2KNaWA",
   "original": {
    "name": "atlanta2017_team_navi_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_navi",
    "image_inventory": "econ/stickers/atlanta2017/navi_graffiti"
   }
  },
@@ -14414,6 +14461,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfoUyL2jJfm-ytP5ryvO_c8dvaQXTOSxb0m6bJtF3qywB8m4T7VzI2hJSmTOw8kApMjTbMIrFDmxetTbtvJ",
   "original": {
    "name": "atlanta2017_team_nor_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_nor",
    "image_inventory": "econ/stickers/atlanta2017/nor_graffiti"
   }
  },
@@ -14432,6 +14480,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVb3VR7OmYTh-yRS-_vgOKZrd6jCXDPIxOwu5eMxTC23xUUi4GXQw9yvdS3BOgMoWMMlFOQN4Q74zIN3wU_chA",
   "original": {
    "name": "atlanta2017_team_optc_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_optc",
    "image_inventory": "econ/stickers/atlanta2017/optc_graffiti"
   }
  },
@@ -14450,6 +14499,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUrsfhrjn5Dm9DZSofD6a6U6JKOQW2OUwrkksrhoHH7nxxl26mrTmYv4J3vDOAVxDZRyQO4U8k7v4QoXDYg",
   "original": {
    "name": "atlanta2017_team_sk_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_sk",
    "image_inventory": "econ/stickers/atlanta2017/sk_graffiti"
   }
  },
@@ -14468,6 +14518,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVXuUCL2jJfm-ytP5ryoMaE7c_WVDzTHxbsn6OM5Giy1zB4l5WvcnNusdC-WbgN2D5YmTbIOrFDmxfZS9kbG",
   "original": {
    "name": "atlanta2017_team_liq_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_liq",
    "image_inventory": "econ/stickers/atlanta2017/liq_graffiti"
   }
  },
@@ -14486,6 +14537,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpU_3fhrjn5Dm9DZSofD7OKE6eamWWjLBme0jtOc-SS-1xR8jsWjSzNj6JC_Bag9yApEkFLQU8k7vObgZlxk",
   "original": {
    "name": "atlanta2017_team_vp_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_vp",
    "image_inventory": "econ/stickers/atlanta2017/vp_graffiti"
   }
  },
@@ -14504,6 +14556,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVzrRBz2i5Pf-jBa6fSnfK0jdKDKVmXBkrx16bY4Tnvrxkl3tWTTzov4cy3Bb1QlW5ZyQrEIsRKxlcqnab0utx-RVw",
   "original": {
    "name": "atlanta2017_team_eleague_graffiti",
+   "item_name": "#StickerKit_atlanta2017_team_eleague",
    "image_inventory": "econ/stickers/atlanta2017/eleague_graffiti"
   }
  },
@@ -14522,6 +14575,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC760rzUyL2jJfm-ytP5rz2OPc4cKDDWWbEw75z6bIxSXrnzEp14j-Dz92pcHiRbgchXpZxQuEIrFDmxWnVd_ao",
   "original": {
    "name": "krakow2017_team_astr_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_astr",
    "image_inventory": "econ/stickers/krakow2017/astr_graffiti"
   }
  },
@@ -14540,6 +14594,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7_EnYRg_wmJDp6SsV6_aoa6E7IaPLCzXAwrou4OJoH3jhwEV-sWrRzdatdnjEbgZzCJMhFvlK7EdZ4UvQ6A",
   "original": {
    "name": "krakow2017_team_vp_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_vp",
    "image_inventory": "econ/stickers/krakow2017/vp_graffiti"
   }
  },
@@ -14558,6 +14613,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77FfzQiL2jJfm-ytP5rz-baBocPPCWD-Rk7ki4bBoHXzhxhx25j_Tz4v6di_EagMpWcN3FLYLrFDmxWiylvJ3",
   "original": {
    "name": "krakow2017_team_fntc_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_fntc",
    "image_inventory": "econ/stickers/krakow2017/fntc_graffiti"
   }
  },
@@ -14576,6 +14632,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-VLYRg_wmJDp6SsVvKH8a_Bpc6fFDD6TlLsk4LU5H3m3xxxy52_dy92oJX-UaldxXJF1FPlK7EeZ4Hm0Bg",
   "original": {
    "name": "krakow2017_team_sk_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_sk",
    "image_inventory": "econ/stickers/krakow2017/sk_graffiti"
   }
  },
@@ -14594,6 +14651,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC75FjxSCL2jJfm-ytP5rz9OPxreaLECzPAkr0n4rlrH3vgxU0jtmWAydn_cynBbQQnApVxQO8DrFDmxcernKiu",
   "original": {
    "name": "krakow2017_team_navi_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_navi",
    "image_inventory": "econ/stickers/krakow2017/navi_graffiti"
   }
  },
@@ -14612,6 +14670,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77VjqQyL2jJfm-ytP5rysP_A9caeRDTCTlO935bVqGXvkxk4j5TyAn92teXORblN0WJclTeYNrFDmxZgf8Upg",
   "original": {
    "name": "krakow2017_team_gamb_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_gamb",
    "image_inventory": "econ/stickers/krakow2017/gamb_graffiti"
   }
  },
@@ -14630,6 +14689,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC75Fb1fhrjn5Dm9DZSoaf_af09I6GWCjDIlL0u4uQ9Tn3jzRlz62nVyImqc3qTZwAmAsYhQLEU8k7vEwkZuAI",
   "original": {
    "name": "krakow2017_team_nor_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_nor",
    "image_inventory": "econ/stickers/krakow2017/nor_graffiti"
   }
  },
@@ -14648,6 +14708,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77Fj9RCL2jJfm-ytP5ryva_BrdKfHDTORmO8l5bA4Tiq3l0QisG3Wzduud3qUPw90CJZwELJZrFDmxfpL6TJj",
   "original": {
    "name": "krakow2017_team_faze_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_faze",
    "image_inventory": "econ/stickers/krakow2017/faze_graffiti"
   }
  },
@@ -14666,6 +14727,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC750r0fhrjn5Dm9DZSoaOtafxrJKWQCDPHw-t3tbc-HSzmxRx_tT_Vyd6vJ3uWZ1R0CsRxRe4U8k7vDln1OuU",
   "original": {
    "name": "krakow2017_team_mss_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_mss",
    "image_inventory": "econ/stickers/krakow2017/mss_graffiti"
   }
  },
@@ -14684,6 +14746,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77QvYRg_wmJDp6SsVufT_bf1sefbGC2aSk-xytrdvHCjqk0Ui62ncmdf_dSjCbgd0XpdwQvlK7EcebcvCXw",
   "original": {
    "name": "krakow2017_team_g2_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_g2",
    "image_inventory": "econ/stickers/krakow2017/g2_graffiti"
   }
  },
@@ -14702,6 +14765,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC76FDgfhrjn5Dm9DZSoff_bvE9dKjEVj6Tl7Yg5OUwSirikU4jtWXSzdmrcy_GagQhWZB0Fu4U8k7vktGfSKk",
   "original": {
    "name": "krakow2017_team_big_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_big",
    "image_inventory": "econ/stickers/krakow2017/big_graffiti"
   }
  },
@@ -14720,6 +14784,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC76QDYRg_wmJDp6SsV7vOrOPdvdPXBD2bCx70n5rA5HSu1xE1_tmrTm9-peC2UaQEkCsZwQflK7EcvdHFEwA",
   "original": {
    "name": "krakow2017_team_c9_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_c9",
    "image_inventory": "econ/stickers/krakow2017/c9_graffiti"
   }
  },
@@ -14738,6 +14803,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-lzpVRzOmYTh-yRS-_vgafJpIqOXVzOTmbsk5-A6SSvlxUsi5z6EztuvdnKTP1MlXpJ3EbNYug74zIP-vra54Q",
   "original": {
    "name": "krakow2017_team_penta_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_penta",
    "image_inventory": "econ/stickers/krakow2017/penta_graffiti"
   }
  },
@@ -14756,6 +14822,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77FXuUSL2jJfm-ytP5ryqPfE4JaKWVz6Tk70n47Y7SS3glBkj52XVmNigJX3EO1ckDpd5F7UIrFDmxXlEwaDN",
   "original": {
    "name": "krakow2017_team_flip_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_flip",
    "image_inventory": "econ/stickers/krakow2017/flip_graffiti"
   }
  },
@@ -14774,6 +14841,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC741Tzfhrjn5Dm9DZSoaD-P_E5dKfBDT7AwO0isuJrHiy3xUkhtmiGydapJCmUO1cnCMRwQbEU8k7vu9E5ess",
   "original": {
    "name": "krakow2017_team_imt_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_imt",
    "image_inventory": "econ/stickers/krakow2017/imt_graffiti"
   }
  },
@@ -14792,6 +14860,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7_FzgQCL2jJfm-ytP5ryqMP1uI6DECjfIk70i47VqHyvnl0x_42_Ww4qtcnzCaQYhDMEkQO8NrFDmxcYuzZ2P",
   "original": {
    "name": "krakow2017_team_vega_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_vega",
    "image_inventory": "econ/stickers/krakow2017/vega_graffiti"
   }
  },
@@ -14810,6 +14879,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-l7rfhrjn5Dm9DZSoff-OvI1JaXAD2HEmL905Oc4SSjmlB935mSDn47_eCiXa1MhCsRxQbQU8k7v9lClSBk",
   "original": {
    "name": "krakow2017_team_pgl_graffiti",
+   "item_name": "#StickerKit_krakow2017_team_pgl",
    "image_inventory": "econ/stickers/krakow2017/pgl_graffiti"
   }
  },
@@ -14834,6 +14904,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nj9SdU4fW9aalScb6QXzGSkLp05uQ4HnqxlExy4T6GnNb7dCjGPFcmCZd0E-YNshXtx93uKaq8sDskk07P",
   "original": {
    "name": "spray_illuminate1_cheongsam_1",
+   "item_name": "#StickerKit_illuminate_cheongsam_1",
    "image_inventory": "econ/stickers/illuminate_capsule/cheongsam_1"
   }
  },
@@ -14858,6 +14929,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nj9SdU4fW9aalScr7KWTKUxO1zs-JsSn6xzBt35WrVmYqrJHPGZgAhD8R5EbQJskK-ktyzKaq8sBphlUQw",
   "original": {
    "name": "spray_illuminate1_cheongsam_2",
+   "item_name": "#StickerKit_illuminate_cheongsam_2",
    "image_inventory": "econ/stickers/illuminate_capsule/cheongsam_2"
   }
  },
@@ -14882,6 +14954,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nj9StV6uGrV6B_IfecAFiezupkufF6ASjhlxl3tm3Xz9aqIHmeaQ8gD5N3QeYItxS9loDiMr6wtlbbjINMmSjgznQegZc5iTA",
   "original": {
    "name": "spray_illuminate1_chinese_dragon",
+   "item_name": "#StickerKit_illuminate_chinese_dragon",
    "image_inventory": "econ/stickers/illuminate_capsule/chinese_dragon_nodrips"
   }
  },
@@ -14906,6 +14979,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nm6DBCofb7PfBuI6nEWDfCwLYi5OQ_Hny2lB9ysmzcyompeH2QPAYgAsd0FrIU8k7vs5LCu4U",
   "original": {
    "name": "spray_illuminate1_fury",
+   "item_name": "#StickerKit_illuminate_fury",
    "image_inventory": "econ/stickers/illuminate_capsule/fury"
   }
  },
@@ -14930,6 +15004,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nn8iZk4PSRbqt_NOWdCymVwr4m4rA6GHjrlhgl4GyAmN38JymRaQAgX5d0FOMKsxXpx4HnPrnr-UWA3PMNikc7",
   "original": {
    "name": "spray_illuminate1_god_of_fortune",
+   "item_name": "#StickerKit_illuminate_god_of_fortune",
    "image_inventory": "econ/stickers/illuminate_capsule/god_of_fortune"
   }
  },
@@ -14954,6 +15029,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9no8jZL4ObgPfU9I_LBXGWTx78v6LYwTi-xxUkl5T7VmNytcn7DalQmA5FxR7MOuw74zIME92IDAQ",
   "original": {
    "name": "spray_illuminate1_hotpot",
+   "item_name": "#StickerKit_illuminate_hotpot",
    "image_inventory": "econ/stickers/illuminate_capsule/hotpot"
   }
  },
@@ -14978,6 +15054,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nr8itkvbz-bqVudqHEXWaUkLt0s-U4H3C2wUx2tTmGyIyuJXyeaAIjCJUkReMPrFDmxbXFaqqe",
   "original": {
    "name": "spray_illuminate1_koi_2",
+   "item_name": "#StickerKit_illuminate_koi_2",
    "image_inventory": "econ/stickers/illuminate_capsule/koi_2"
   }
  },
@@ -15002,6 +15079,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9ns8ixc6uSnfL0jdfTFCzDIwOsn5bEwHy_hw0p_4G-Ez9z9eSiVbwBzC5JyFOJY40a8w8qnab23X2RinA",
   "original": {
    "name": "spray_illuminate1_longevity",
+   "item_name": "#StickerKit_illuminate_longevity",
    "image_inventory": "econ/stickers/illuminate_capsule/longevity"
   }
  },
@@ -15026,6 +15104,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nu-DhT7rz5OaA8efTGXjbGmLsv5LE8HnrnkUQismnTzNeqcynGOwIlXMBzR7EJrFDmxRisN_JI",
   "original": {
    "name": "spray_illuminate1_nezha",
+   "item_name": "#StickerKit_illuminate_nezha",
    "image_inventory": "econ/stickers/illuminate_capsule/nezha"
   }
  },
@@ -15050,6 +15129,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nu8i1f4_e9Jvw8dvLDCjbDwrtysbBtH3C3kEl2sj_Qw46oeXLBbgRzX5t0Q7ZeuxGm0oqwc3tVuTs",
   "original": {
    "name": "spray_illuminate1_noodles",
+   "item_name": "#StickerKit_illuminate_noodles",
    "image_inventory": "econ/stickers/illuminate_capsule/noodles"
   }
  },
@@ -15074,6 +15154,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nw_Cxf7rysPKI4dKPHWTLClu914OU_Fy3jxE8l5jmEyd34J3ufZwMgX5d4QLVcrFDmxSxYElsz",
   "original": {
    "name": "spray_illuminate1_panda",
+   "item_name": "#StickerKit_illuminate_panda",
    "image_inventory": "econ/stickers/illuminate_capsule/panda"
   }
  },
@@ -15098,6 +15179,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nw9DpS-rz8PqY7I6nDVzDCl7Yntbk-HCjlxxwmsj-Dydj_InKUPA51DsR1TeBcrFDmxdQMdxq0",
   "original": {
    "name": "spray_illuminate1_pixiu",
+   "item_name": "#StickerKit_illuminate_pixiu",
    "image_inventory": "econ/stickers/illuminate_capsule/pixiu"
   }
  },
@@ -15122,6 +15204,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9ny-CZk5P2nJqE7cqiVXzHIxbkv5LFrTXrnkR5wsTncydf6cX_Ga1QkWZQiE-5Y5Bam0oqwpyX0I5c",
   "original": {
    "name": "spray_illuminate1_red_koi",
+   "item_name": "#StickerKit_illuminate_red_koi",
    "image_inventory": "econ/stickers/illuminate_capsule/red_koi"
   }
  },
@@ -15146,6 +15229,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9ny9CFeoff4OPVpeanLXmKTx-8k47U7HyjlwBh_5DiEmdipJyieOlV2ApUjQu8U8k7vn8etqg0",
   "original": {
    "name": "spray_illuminate1_rice",
+   "item_name": "#StickerKit_illuminate_rice",
    "image_inventory": "econ/stickers/illuminate_capsule/rice"
   }
  },
@@ -15170,6 +15254,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9ny9CFe0OK7bKBkLvfdX2bGkbsjsrIwHHCywU5y4GTcydr8cHmeb1MiAsB3R7ICthSwm9PlMPSiuVLb0hiAvw",
   "original": {
    "name": "spray_illuminate1_rice_pudding",
+   "item_name": "#StickerKit_illuminate_rice_pudding",
    "image_inventory": "econ/stickers/illuminate_capsule/rice_pudding"
   }
  },
@@ -15194,6 +15279,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9nz9SNU4_ugV_UjcvPBV2aTlLp05OA5HCuwkEV05z7Sntj4cHjEPVQjWZUmFuFftBa-k8qnab0Ntrq6zg",
   "original": {
    "name": "spray_illuminate1_shaolin_1",
+   "item_name": "#StickerKit_illuminate_shaolin_1",
    "image_inventory": "econ/stickers/illuminate_capsule/shaolin_1"
   }
  },
@@ -15218,6 +15304,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9n08jtP5vWreuo4I_GRWDPGlO8g5ORqFyu3kxwj5T7Vn9_7dnnGOwciWJEhRbINtkLrjJS5YFnH45oT",
   "original": {
    "name": "spray_illuminate1_toytiger",
+   "item_name": "#StickerKit_illuminate_toytiger",
    "image_inventory": "econ/stickers/illuminate_capsule/toytiger"
   }
  },
@@ -15242,6 +15329,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMOtOW6a7Fh04ILL6Vj3Ugj9m9n68i9Z5veRZqtpMvmDHSmUmegnsbZqSXixwh4j5mzXn4yscS3EalUoDJBwRedftBK6l4XlN7u2-UWA3NI75REq",
   "original": {
    "name": "spray_illuminate1_zombie",
+   "item_name": "#StickerKit_illuminate_zombie",
    "image_inventory": "econ/stickers/illuminate_capsule/zombie_nodrips"
   }
  },
@@ -15260,6 +15348,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-77VjqQyL2jJfm-ytP5rz8OvxpdvXEDWSWwOwlsrA-F3-3kE91smjQyo2qcHuXaFchDJpzRrQMrFDmxeHn4nUi",
   "original": {
    "name": "boston2018_team_gamb_graffiti",
+   "item_name": "#StickerKit_boston2018_team_gamb",
    "image_inventory": "econ/stickers/boston2018/gamb_graffiti"
   }
  },
@@ -15278,6 +15367,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7_lHxfhrjn5Dm9DZSoaaqOfxrcfHEW2XFxbcg6bZoTizmkBhx62zUm9iudi2eaFV1CZomRrYU8k7vWPgFnZw",
   "original": {
    "name": "boston2018_team_thv_graffiti",
+   "item_name": "#StickerKit_boston2018_team_thv",
    "image_inventory": "econ/stickers/boston2018/thv_graffiti"
   }
  },
@@ -15296,6 +15386,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-760rzUyL2jJfm-ytP5rz8P_Y-JPOVCj7DmOsjtOQ7Gi_rkEwisj_dzNz7eHOVb1QgC8MmE-8MrFDmxXJFvCJ3",
   "original": {
    "name": "boston2018_team_astr_graffiti",
+   "item_name": "#StickerKit_boston2018_team_astr",
    "image_inventory": "econ/stickers/boston2018/astr_graffiti"
   }
  },
@@ -15314,6 +15405,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7_EnYRg_wmJDp6SsV7qqsbqA9JqfLCDLCkuwu5eQ8GX62xUp2sjvUydmpcnmQOAV0DMB4EflK7Ec-kxKb1A",
   "original": {
    "name": "boston2018_team_vp_graffiti",
+   "item_name": "#StickerKit_boston2018_team_vp",
    "image_inventory": "econ/stickers/boston2018/vp_graffiti"
   }
  },
@@ -15332,6 +15424,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-77FfzQiL2jJfm-ytP5ryrOvE0JamRCmLGlOx04LhtHnG2wUUh5DnUnNb8eXmUOgMoA8F3ReBcrFDmxdrAq4OD",
   "original": {
    "name": "boston2018_team_fntc_graffiti",
+   "item_name": "#StickerKit_boston2018_team_fntc",
    "image_inventory": "econ/stickers/boston2018/fntc_graffiti"
   }
  },
@@ -15350,6 +15443,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VLYRg_wmJDp6SsVvfH_PaI9JvTBDWSWlL9w5uI_SnHgwEgi6jiDw4qqInOSO1IlAsAjFvlK7EeAK-M_pw",
   "original": {
    "name": "boston2018_team_sk_graffiti",
+   "item_name": "#StickerKit_boston2018_team_sk",
    "image_inventory": "econ/stickers/boston2018/sk_graffiti"
   }
  },
@@ -15368,6 +15462,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-76FDgfhrjn5Dm9DZSoaT_OPc6eaWRWDLIkb8h4bA-TX3gkU8m52uEzdavd3rBZw50CZJ1TeMU8k7vH4f_tTY",
   "original": {
    "name": "boston2018_team_big_graffiti",
+   "item_name": "#StickerKit_boston2018_team_big",
    "image_inventory": "econ/stickers/boston2018/big_graffiti"
   }
  },
@@ -15386,6 +15481,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-75Fb1fhrjn5Dm9DZSofb4PvZrd_SRC2SUkO0ms7M5SnmwwB4l4myHnNqgdC7Ba1UoXpF5FuIU8k7vyQvHbNo",
   "original": {
    "name": "boston2018_team_nor_graffiti",
+   "item_name": "#StickerKit_boston2018_team_nor",
    "image_inventory": "econ/stickers/boston2018/nor_graffiti"
   }
  },
@@ -15404,6 +15500,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-77QvYRg_wmJDp6SsVtqT2OaI1daaQDTbIk7om47k4TX3hxx4j5GvVztehdnORZ1B0XMElQvlK7EeMCKss1w",
   "original": {
    "name": "boston2018_team_g2_graffiti",
+   "item_name": "#StickerKit_boston2018_team_g2",
    "image_inventory": "econ/stickers/boston2018/g2_graffiti"
   }
  },
@@ -15422,6 +15519,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-76QDYRg_wmJDp6SsV7aasMfJvc6PHWjTGlOp34LBtHHDmlE4hsGzWwoysdi6QPA8mCZYkEPlK7EfMe31TOw",
   "original": {
    "name": "boston2018_team_c9_graffiti",
+   "item_name": "#StickerKit_boston2018_team_c9",
    "image_inventory": "econ/stickers/boston2018/c9_graffiti"
   }
  },
@@ -15440,6 +15538,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-77FXuUSL2jJfm-ytP5rz7bf05daiQV2PGluwiseNsH3u3lkgk4zvTnI7_IHrCZwRyC5J1ELYIrFDmxUzbr038",
   "original": {
    "name": "boston2018_team_flip_graffiti",
+   "item_name": "#StickerKit_boston2018_team_flip",
    "image_inventory": "econ/stickers/boston2018/flip_graffiti"
   }
  },
@@ -15458,6 +15557,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-75FjxSCL2jJfm-ytP5rz2MaVvIfTBWzPGl7wns-U7Sny3l0t04GyAztaheHnCbg90DJQkTbRcrFDmxYnOm8zT",
   "original": {
    "name": "boston2018_team_navi_graffiti",
+   "item_name": "#StickerKit_boston2018_team_navi",
    "image_inventory": "econ/stickers/boston2018/navi_graffiti"
   }
  },
@@ -15476,6 +15576,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-750r0fhrjn5Dm9DZSofb7PPE_dKXED2OUxbcu5rA5S321lhlw5myGm9ercn3BOFUpCpMjEbEU8k7vA2LnvJ4",
   "original": {
    "name": "boston2018_team_mss_graffiti",
+   "item_name": "#StickerKit_boston2018_team_mss",
    "image_inventory": "econ/stickers/boston2018/mss_graffiti"
   }
  },
@@ -15494,6 +15595,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-Un1fhrjn5Dm9DZSofb5avQ_c6XDXTPBwup04uVrG3nmwE9wsmqAw9-hcHjEOgUpCsEjQ7UU8k7vAkuEgf0",
   "original": {
    "name": "boston2018_team_spr_graffiti",
+   "item_name": "#StickerKit_boston2018_team_spr",
    "image_inventory": "econ/stickers/boston2018/spr_graffiti"
   }
  },
@@ -15512,6 +15614,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-77Fj9RCL2jJfm-ytP5rz2bPFuIafFXzCVmbx04uc6GHDikEsksj-Gy9-uJCqUOFclCJd3QbJfrFDmxehTIfes",
   "original": {
    "name": "boston2018_team_faze_graffiti",
+   "item_name": "#StickerKit_boston2018_team_faze",
    "image_inventory": "econ/stickers/boston2018/faze_graffiti"
   }
  },
@@ -15530,6 +15633,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7_FzgQCL2jJfm-ytP5rz4OvFpJanADz_Fkbdz4rM-S3HgzBxx5DuBzdj7dnKUPFd0WcciFrUPrFDmxYD5sjFO",
   "original": {
    "name": "boston2018_team_vega_graffiti",
+   "item_name": "#StickerKit_boston2018_team_vega",
    "image_inventory": "econ/stickers/boston2018/vega_graffiti"
   }
  },
@@ -15548,6 +15652,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-Unkfhrjn5Dm9DZSofSsP_M1I6SXC2KTxbd36eVrHC-2zE4k5jnXzNauJyqRPVMgD5V2R-8U8k7vIXyfDwc",
   "original": {
    "name": "boston2018_team_spc_graffiti",
+   "item_name": "#StickerKit_boston2018_team_spc",
    "image_inventory": "econ/stickers/boston2018/spc_graffiti"
   }
  },
@@ -15566,6 +15671,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-75lD2fhrjn5Dm9DZSofP7bvI0JvWQDDLBxbsi5uM-HyiwxRkksmXdn9avIn7DbQZ0W5V4TbYU8k7v-JZtTx0",
   "original": {
    "name": "boston2018_team_liq_graffiti",
+   "item_name": "#StickerKit_boston2018_team_liq",
    "image_inventory": "econ/stickers/boston2018/liq_graffiti"
   }
  },
@@ -15584,6 +15690,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-760_gfhrjn5Dm9DZSoauqbvxvcPLKCGWSxbhws7Y9HX23xEUjsmWDz92ueC7Eaw5xX8N5EeYU8k7vK7gvCyo",
   "original": {
    "name": "boston2018_team_avg_graffiti",
+   "item_name": "#StickerKit_boston2018_team_avg",
    "image_inventory": "econ/stickers/boston2018/avg_graffiti"
   }
  },
@@ -15602,6 +15709,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-Fzpfhrjn5Dm9DZSofGtMPA7ePTGDzfElOp15bQ4Fyu1k0tz5zuHzN6vIi2TawEoW5d0QeEU8k7v3YocnhA",
   "original": {
    "name": "boston2018_team_ren_graffiti",
+   "item_name": "#StickerKit_boston2018_team_ren",
    "image_inventory": "econ/stickers/boston2018/ren_graffiti"
   }
  },
@@ -15620,6 +15728,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-75E_YRg_wmJDp6SsVuKv9Pqc_cfTKWGHHlu8h5bdrS3rrlkR05jzXyNuvc3uSOlRyXppwQPlK7Ef_-OyCSw",
   "original": {
    "name": "boston2018_team_nv_graffiti",
+   "item_name": "#StickerKit_boston2018_team_nv",
    "image_inventory": "econ/stickers/boston2018/nv_graffiti"
   }
  },
@@ -15638,6 +15747,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-751_gfhrjn5Dm9DZSoaX6aqE5d_PBCDfHwut14udsSivilk5wtm3RyIytcH6WalckD5VxTOMU8k7vE3vkOLc",
   "original": {
    "name": "boston2018_team_mfg_graffiti",
+   "item_name": "#StickerKit_boston2018_team_mfg",
    "image_inventory": "econ/stickers/boston2018/mfg_graffiti"
   }
  },
@@ -15656,6 +15766,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-1vYRg_wmJDp6SsVuKWvbPc7JfPLWjLCmL93seI7Si23zEQltWmHmdv6InzEbwJzCJt5RvlK7EdWLnu3xw",
   "original": {
    "name": "boston2018_team_qb_graffiti",
+   "item_name": "#StickerKit_boston2018_team_qb",
    "image_inventory": "econ/stickers/boston2018/qb_graffiti"
   }
  },
@@ -15680,6 +15791,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7_kDrfhrjn5Dm9DZSofCoaaE9I6iVCmHDkLt3s7A-FnuykEx-6zuAztmgc3jDOgZxXMN4QOQU8k7vKD4DCQg",
   "original": {
    "name": "boston2018_team_tyl_graffiti",
+   "item_name": "#StickerKit_boston2018_team_tyl",
    "image_inventory": "econ/stickers/boston2018/tyl_graffiti"
   }
  },
@@ -15698,6 +15810,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-771XiQBrkm6nn7yNd6fu6Yeo_JaGQWGLJkr11trBsTXu3wkV-5zzUmI6reX3DblN1CsB5QrENtRbpjJS5YJPCvEAC",
   "original": {
    "name": "boston2018_team_eleague_graffiti",
+   "item_name": "#StickerKit_boston2018_team_eleague",
    "image_inventory": "econ/stickers/boston2018/eleague_graffiti"
   }
  },
@@ -15716,6 +15829,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-77FXgfhrjn5Dm9DZSoaKoP_00IvHAWWLHwLYh5eM6HnG3kxty4m7Vyd-gJ3nEPFB0CJB1EeAU8k7voDB4hdo",
   "original": {
    "name": "boston2018_team_flg_graffiti",
+   "item_name": "#StickerKit_boston2018_team_flg",
    "image_inventory": "econ/stickers/boston2018/flg_graffiti"
   }
  },
@@ -15734,6 +15848,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-76QDYRg_wmJDp6SsV6aP9OaFsJqPADWKVw7h1s-I6SnHikR5y4zzdydagdHmWalUjWcB1QPlK7Ef00rwg3Q",
   "original": {
    "name": "london2018_team_c9_graffiti",
+   "item_name": "#StickerKit_london2018_team_c9",
    "image_inventory": "econ/stickers/london2018/c9_graffiti"
   }
  },
@@ -15752,6 +15867,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-77Fj9RCL2jJfm-ytP5rz4bvY0dqLCWTLBxO8ituM9G3jmwkl342-BmIqpInuRaVUnDZRyQu8OrFDmxSgUNqrm",
   "original": {
    "name": "london2018_team_faze_graffiti",
+   "item_name": "#StickerKit_london2018_team_faze",
    "image_inventory": "econ/stickers/london2018/faze_graffiti"
   }
  },
@@ -15770,6 +15886,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-75FjxSCL2jJfm-ytP5rz7P_U_I_PFVzDGkLd3s-c7TCqxzR50tWjUz97_dC-RagEpA5AhR-IJrFDmxZ1GPWqq",
   "original": {
    "name": "london2018_team_navi_graffiti",
+   "item_name": "#StickerKit_london2018_team_navi",
    "image_inventory": "econ/stickers/london2018/navi_graffiti"
   }
  },
@@ -15788,6 +15905,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-751DlUyL2jJfm-ytP5rz_avA_caKWCmPBk7gvsbZvHyzkwEV1tWmGz9uocHuWbQIjX5V3RuJbrFDmxeqMejyo",
   "original": {
    "name": "london2018_team_mibr_graffiti",
+   "item_name": "#StickerKit_london2018_team_mibr",
    "image_inventory": "econ/stickers/london2018/mibr_graffiti"
   }
  },
@@ -15806,6 +15924,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-750r0fhrjn5Dm9DZSoff4bKBpIqGVDzPGxLwntbA9G3mwkE8i5GjcnI6odinDbAQhDMByRbQU8k7vLqEmUJ4",
   "original": {
    "name": "london2018_team_mss_graffiti",
+   "item_name": "#StickerKit_london2018_team_mss",
    "image_inventory": "econ/stickers/london2018/mss_graffiti"
   }
  },
@@ -15824,6 +15943,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7_VDpUiL2jJfm-ytP5ryvMfM7I6XKXDbAke91suM_FiuxkExx4D7dwo78JSqXbAAiCZt1FOEOrFDmxf2i_RJg",
   "original": {
    "name": "london2018_team_wins_graffiti",
+   "item_name": "#StickerKit_london2018_team_wins",
    "image_inventory": "econ/stickers/london2018/wins_graffiti"
   }
  },
@@ -15842,6 +15962,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-77QvYRg_wmJDp6SsV6aeoOqc4JqmQW2PEkL9047FoHn_nkEQh5zzQz4msc3_GPQQjDJJwTPlK7EeJ1tahFg",
   "original": {
    "name": "london2018_team_g2_graffiti",
+   "item_name": "#StickerKit_london2018_team_g2",
    "image_inventory": "econ/stickers/london2018/g2_graffiti"
   }
  },
@@ -15860,6 +15981,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-77FfzQiL2jJfm-ytP5ryqOvVrdPGWXD7CmL8g4OI_HHq3kUlz6mjQmY6qJy3BPAd1XsZ0RLJbrFDmxZfsL_yn",
   "original": {
    "name": "london2018_team_fntc_graffiti",
+   "item_name": "#StickerKit_london2018_team_fntc",
    "image_inventory": "econ/stickers/london2018/fntc_graffiti"
   }
  },
@@ -15878,6 +16000,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-77VjqQyL2jJfm-ytP5ryvOvRsdqCRCzaSwux047I8Fnm2xU8j4G_RytqqInjDOwIkXJNyE-YMrFDmxfq8olq8",
   "original": {
    "name": "london2018_team_gamb_graffiti",
+   "item_name": "#StickerKit_london2018_team_gamb",
    "image_inventory": "econ/stickers/london2018/gamb_graffiti"
   }
  },
@@ -15896,6 +16019,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7_FzgQCL2jJfm-ytP5ryobPc8cKGWWD_Gx7l3tLM9TXHqx0l0tm_cw46qdXueaAchApN3QeQLrFDmxacVMTZ9",
   "original": {
    "name": "london2018_team_vega_graffiti",
+   "item_name": "#StickerKit_london2018_team_vega",
    "image_inventory": "econ/stickers/london2018/vega_graffiti"
   }
  },
@@ -15914,6 +16038,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-Unkfhrjn5Dm9DZSoaP4PvRscvKVXj-UmbogtORqSyi3zEkltmjSyI2sIHiSa1QnDppxEeYU8k7vIF61EG8",
   "original": {
    "name": "london2018_team_spc_graffiti",
+   "item_name": "#StickerKit_london2018_team_spc",
    "image_inventory": "econ/stickers/london2018/spc_graffiti"
   }
  },
@@ -15932,6 +16057,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-76FDgfhrjn5Dm9DZSoab4P_BudfSRWmKSw790tLM-GHiwk0914GrWwomuc3KSZlBzApYhF-UU8k7vSBSgmaU",
   "original": {
    "name": "london2018_team_big_graffiti",
+   "item_name": "#StickerKit_london2018_team_big",
    "image_inventory": "econ/stickers/london2018/big_graffiti"
   }
  },
@@ -15950,6 +16076,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-760rzUyL2jJfm-ytP5rz_P_VpdvHHXT-TwLZz5bFvG3i2zEgl5DvVwo74JH2VOgJ0WcRyR7VbrFDmxdRskFvk",
   "original": {
    "name": "london2018_team_astr_graffiti",
+   "item_name": "#StickerKit_london2018_team_astr",
    "image_inventory": "econ/stickers/london2018/astr_graffiti"
   }
  },
@@ -15968,6 +16095,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-75lD2fhrjn5Dm9DZSofevOvxseKHDDTeVkO91s7MxH33nzE9-5jjcm476dXqfaQQlX8QhTbQU8k7vkMvleqY",
   "original": {
    "name": "london2018_team_liq_graffiti",
+   "item_name": "#StickerKit_london2018_team_liq",
    "image_inventory": "econ/stickers/london2018/liq_graffiti"
   }
  },
@@ -15986,6 +16114,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-75Fb1fhrjn5Dm9DZSoav_PPQ0c_GRDTKTx7tw4bQ9H3_hxBl35GmEm4mucX3DawBxD5ojE-cU8k7vdXpjws8",
   "original": {
    "name": "london2018_team_nor_graffiti",
+   "item_name": "#StickerKit_london2018_team_nor",
    "image_inventory": "econ/stickers/london2018/nor_graffiti"
   }
  },
@@ -16004,6 +16133,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7_EnYRg_wmJDp6SsVv6P4baI6daHBWTGRlOwmseM6GX61lBgk6mvczNb7dy7CPwN1WZd3RvlK7EcI6EwqFQ",
   "original": {
    "name": "london2018_team_vp_graffiti",
+   "item_name": "#StickerKit_london2018_team_vp",
    "image_inventory": "econ/stickers/london2018/vp_graffiti"
   }
  },
@@ -16022,6 +16152,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-75FD3fhrjn5Dm9DZSoaOvO_FodqPLWWHJw7dz4rY9F3nql0txtznQwteucXvGbgRxAsZ4F-AU8k7vdI8cCwU",
   "original": {
    "name": "london2018_team_nip_graffiti",
+   "item_name": "#StickerKit_london2018_team_nip",
    "image_inventory": "econ/stickers/london2018/nip_graffiti"
   }
  },
@@ -16040,6 +16171,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-76Vbrfhrjn5Dm9DZSoaGrafc7JKLGCGaUkL0v4OQ6SXyywExytjjXytqvIn6WPAN0DJIkEbQU8k7vnQMY1l8",
   "original": {
    "name": "london2018_team_col_graffiti",
+   "item_name": "#StickerKit_london2018_team_col",
    "image_inventory": "econ/stickers/london2018/col_graffiti"
   }
  },
@@ -16058,6 +16190,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-74lX1fhrjn5Dm9DZSoav6bPw_d_LEC2SVmbt0tbM-Fn21lh4h5W7XzNmgI3LGOFMoCZMlF-8U8k7vnvKDIrc",
   "original": {
    "name": "london2018_team_hlr_graffiti",
+   "item_name": "#StickerKit_london2018_team_hlr",
    "image_inventory": "econ/stickers/london2018/hlr_graffiti"
   }
  },
@@ -16076,6 +16209,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-Fzpfhrjn5Dm9DZSoar5avQ6dfaVXjCRkbtw6OA_GH3lkx5_4WTQw9atIi2XOA8lDZUkQOYU8k7vWw5acP0",
   "original": {
    "name": "london2018_team_ren_graffiti",
+   "item_name": "#StickerKit_london2018_team_ren",
    "image_inventory": "econ/stickers/london2018/ren_graffiti"
   }
  },
@@ -16094,6 +16228,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-75UnzQiL2jJfm-ytP5rz9av01d6nLVmHBxesm4edvGSvmw0Uj52SGytb8JHLEOFcpCZRyELZfrFDmxZhVcpJq",
   "original": {
    "name": "london2018_team_optc_graffiti",
+   "item_name": "#StickerKit_london2018_team_optc",
    "image_inventory": "econ/stickers/london2018/optc_graffiti"
   }
  },
@@ -16112,6 +16247,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-Fbgfhrjn5Dm9DZSoab9bqY4cKmVXjaWmbkv4uBoTHzjxk5y426ByNmoInvFPwIiA8clR-4U8k7vNnq06D4",
   "original": {
    "name": "london2018_team_rog_graffiti",
+   "item_name": "#StickerKit_london2018_team_rog",
    "image_inventory": "econ/stickers/london2018/rog_graffiti"
   }
  },
@@ -16130,6 +16266,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-UnuUyL2jJfm-ytP5ryoPqc4cKXCXDbAl-t0srYxSi-yk0Qj5zjQwt6hJHyRPQIoA8EjFuMKrFDmxdPYRN6J",
   "original": {
    "name": "london2018_team_spir_graffiti",
+   "item_name": "#StickerKit_london2018_team_spir",
    "image_inventory": "econ/stickers/london2018/spir_graffiti"
   }
  },
@@ -16148,6 +16285,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7_kDrfhrjn5Dm9DZSoaCoP_NrI_GVV2PCxOxysbc4SSjnxUQi5ziByNr9eC6TbgBxDJV2F7IU8k7vTzvx9dk",
   "original": {
    "name": "london2018_team_tyl_graffiti",
+   "item_name": "#StickerKit_london2018_team_tyl",
    "image_inventory": "econ/stickers/london2018/tyl_graffiti"
   }
  },
@@ -16166,6 +16304,7 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-77FjkRBTloZHy_CRd5uanJvA6c6KQXjHEx79z5bA5HXi1lkpz5TmEyNuqdnOUZgUlWMMlEeAOsxam0oqwz5DoVns",
   "original": {
    "name": "london2018_team_faceit_graffiti",
+   "item_name": "#StickerKit_london2018_team_faceit",
    "image_inventory": "econ/stickers/london2018/faceit_graffiti"
   }
  },
@@ -16184,6 +16323,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/astr_graffiti.a781508e6be33bd1c0146274c4316e8bd747428f.png",
   "original": {
    "name": "katowice2019_team_astr_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_astr",
    "image_inventory": "econ/stickers/katowice2019/astr_graffiti"
   }
  },
@@ -16202,6 +16342,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/avg_graffiti.82063e93aebf5c7ce3aaa2a5d77fbc3bd46d03de.png",
   "original": {
    "name": "katowice2019_team_avg_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_avg",
    "image_inventory": "econ/stickers/katowice2019/avg_graffiti"
   }
  },
@@ -16220,6 +16361,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/big_graffiti.aef3d08abb02069091bef03220ba1c8c4c2671c3.png",
   "original": {
    "name": "katowice2019_team_big_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_big",
    "image_inventory": "econ/stickers/katowice2019/big_graffiti"
   }
  },
@@ -16238,6 +16380,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/c9_graffiti.26c90b4c00fcd29d282826c3af2df653fe7dcd10.png",
   "original": {
    "name": "katowice2019_team_c9_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_c9",
    "image_inventory": "econ/stickers/katowice2019/c9_graffiti"
   }
  },
@@ -16256,6 +16399,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/col_graffiti.74a4c1a83a21200d5ded65fcdbbd82bb7dee91be.png",
   "original": {
    "name": "katowice2019_team_col_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_col",
    "image_inventory": "econ/stickers/katowice2019/col_graffiti"
   }
  },
@@ -16274,6 +16418,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/ence_graffiti.85f25b0c1e35bf7950b2263875aa881cff24925a.png",
   "original": {
    "name": "katowice2019_team_ence_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_ence",
    "image_inventory": "econ/stickers/katowice2019/ence_graffiti"
   }
  },
@@ -16292,6 +16437,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/faze_graffiti.0e5bab0cba76a160d90651c3f580a036b2d6c88c.png",
   "original": {
    "name": "katowice2019_team_faze_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_faze",
    "image_inventory": "econ/stickers/katowice2019/faze_graffiti"
   }
  },
@@ -16310,6 +16456,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/fntc_graffiti.1170def1866260184987c543d29d6fe4faf4bb74.png",
   "original": {
    "name": "katowice2019_team_fntc_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_fntc",
    "image_inventory": "econ/stickers/katowice2019/fntc_graffiti"
   }
  },
@@ -16328,6 +16475,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/furi_graffiti.a4cbdcfb05070f350f52fc6855f5edd4bf5871ac.png",
   "original": {
    "name": "katowice2019_team_furi_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_furi",
    "image_inventory": "econ/stickers/katowice2019/furi_graffiti"
   }
  },
@@ -16346,6 +16494,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/g2_graffiti.3fb11b7aa408660edb98053f0f23e696b2898483.png",
   "original": {
    "name": "katowice2019_team_g2_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_g2",
    "image_inventory": "econ/stickers/katowice2019/g2_graffiti"
   }
  },
@@ -16364,6 +16513,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/gray_graffiti.5ed2ae0fc3da8a0a1ff08cf45d43c392d0080a79.png",
   "original": {
    "name": "katowice2019_team_gray_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_gray",
    "image_inventory": "econ/stickers/katowice2019/gray_graffiti"
   }
  },
@@ -16382,6 +16532,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/hlr_graffiti.327efd7de11467a096808f163289bcefdd7fb751.png",
   "original": {
    "name": "katowice2019_team_hlr_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_hlr",
    "image_inventory": "econ/stickers/katowice2019/hlr_graffiti"
   }
  },
@@ -16400,6 +16551,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/mibr_graffiti.d0013fb3a4bc6f3b3242d88765a04ce39aedb2ba.png",
   "original": {
    "name": "katowice2019_team_mibr_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_mibr",
    "image_inventory": "econ/stickers/katowice2019/mibr_graffiti"
   }
  },
@@ -16418,6 +16570,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/navi_graffiti.f83ca03d60895c88ad8cdd841c4df5808c18bbe6.png",
   "original": {
    "name": "katowice2019_team_navi_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_navi",
    "image_inventory": "econ/stickers/katowice2019/navi_graffiti"
   }
  },
@@ -16436,6 +16589,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/nip_graffiti.05283c49f173233704cfd7bc6e1586d70f36b707.png",
   "original": {
    "name": "katowice2019_team_nip_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_nip",
    "image_inventory": "econ/stickers/katowice2019/nip_graffiti"
   }
  },
@@ -16454,6 +16608,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/nrg_graffiti.f8ebc96e4c01ab664064e361c0113ca071d48c32.png",
   "original": {
    "name": "katowice2019_team_nrg_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_nrg",
    "image_inventory": "econ/stickers/katowice2019/nrg_graffiti"
   }
  },
@@ -16472,6 +16627,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/ren_graffiti.2b409796b784d99e334c3f626df1b3b3739b0c76.png",
   "original": {
    "name": "katowice2019_team_ren_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_ren",
    "image_inventory": "econ/stickers/katowice2019/ren_graffiti"
   }
  },
@@ -16490,6 +16646,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/liq_graffiti.84724f139da007d0a95abbfb8ef8de3093474b04.png",
   "original": {
    "name": "katowice2019_team_liq_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_liq",
    "image_inventory": "econ/stickers/katowice2019/liq_graffiti"
   }
  },
@@ -16508,6 +16665,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/spir_graffiti.18aaef225dfe5d0246df4c37ee60d0bf394cb1d8.png",
   "original": {
    "name": "katowice2019_team_spir_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_spir",
    "image_inventory": "econ/stickers/katowice2019/spir_graffiti"
   }
  },
@@ -16526,6 +16684,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/tyl_graffiti.28a8fa2b479c89cef09b1b25f3ad35c69b6cbf61.png",
   "original": {
    "name": "katowice2019_team_tyl_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_tyl",
    "image_inventory": "econ/stickers/katowice2019/tyl_graffiti"
   }
  },
@@ -16544,6 +16703,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vega_graffiti.fdd01522d6cd90e988bbe1593f42864d75200a9e.png",
   "original": {
    "name": "katowice2019_team_vega_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_vega",
    "image_inventory": "econ/stickers/katowice2019/vega_graffiti"
   }
  },
@@ -16562,6 +16722,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vici_graffiti.66b6b3226b2e514f92f7c164f6a724895d3be341.png",
   "original": {
    "name": "katowice2019_team_vici_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_vici",
    "image_inventory": "econ/stickers/katowice2019/vici_graffiti"
   }
  },
@@ -16580,6 +16741,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vita_graffiti.9dc2e07569d00aac820eaf4379e23d43ccd57116.png",
   "original": {
    "name": "katowice2019_team_vita_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_vita",
    "image_inventory": "econ/stickers/katowice2019/vita_graffiti"
   }
  },
@@ -16598,6 +16760,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/wins_graffiti.a5db2a21ee585d5cb1ab529335814ccca7a44ac0.png",
   "original": {
    "name": "katowice2019_team_wins_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_wins",
    "image_inventory": "econ/stickers/katowice2019/wins_graffiti"
   }
  },
@@ -16616,6 +16779,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/iem_graffiti.3d8a3ab59069bda159d5461d2e0ba61ec9314f11.png",
   "original": {
    "name": "katowice2019_team_iem_graffiti",
+   "item_name": "#StickerKit_katowice2019_team_iem",
    "image_inventory": "econ/stickers/katowice2019/iem_graffiti"
   }
  },
@@ -29307,6 +29471,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/astr_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_astr_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_astr",
    "image_inventory": "econ/stickers/berlin2019/astr_graffiti"
   }
  },
@@ -29325,6 +29490,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/ence_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_ence_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_ence",
    "image_inventory": "econ/stickers/berlin2019/ence_graffiti"
   }
  },
@@ -29343,6 +29509,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/mibr_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_mibr_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_mibr",
    "image_inventory": "econ/stickers/berlin2019/mibr_graffiti"
   }
  },
@@ -29361,6 +29528,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/navi_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_navi_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_navi",
    "image_inventory": "econ/stickers/berlin2019/navi_graffiti"
   }
  },
@@ -29379,6 +29547,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/nip_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_nip_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_nip",
    "image_inventory": "econ/stickers/berlin2019/nip_graffiti"
   }
  },
@@ -29397,6 +29566,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/faze_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_faze_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_faze",
    "image_inventory": "econ/stickers/berlin2019/faze_graffiti"
   }
  },
@@ -29415,6 +29585,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/liq_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_liq_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_liq",
    "image_inventory": "econ/stickers/berlin2019/liq_graffiti"
   }
  },
@@ -29433,6 +29604,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/ren_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_ren_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_ren",
    "image_inventory": "econ/stickers/berlin2019/ren_graffiti"
   }
  },
@@ -29451,6 +29623,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/col_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_col_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_col",
    "image_inventory": "econ/stickers/berlin2019/col_graffiti"
   }
  },
@@ -29469,6 +29642,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/hlr_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_hlr_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_hlr",
    "image_inventory": "econ/stickers/berlin2019/hlr_graffiti"
   }
  },
@@ -29487,6 +29661,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/avg_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_avg_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_avg",
    "image_inventory": "econ/stickers/berlin2019/avg_graffiti"
   }
  },
@@ -29505,6 +29680,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/g2_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_g2_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_g2",
    "image_inventory": "econ/stickers/berlin2019/g2_graffiti"
   }
  },
@@ -29523,6 +29699,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/vita_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_vita_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_vita",
    "image_inventory": "econ/stickers/berlin2019/vita_graffiti"
   }
  },
@@ -29541,6 +29718,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/gray_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_gray_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_gray",
    "image_inventory": "econ/stickers/berlin2019/gray_graffiti"
   }
  },
@@ -29559,6 +29737,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/mss_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_mss_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_mss",
    "image_inventory": "econ/stickers/berlin2019/mss_graffiti"
   }
  },
@@ -29577,6 +29756,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/forz_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_forz_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_forz",
    "image_inventory": "econ/stickers/berlin2019/forz_graffiti"
   }
  },
@@ -29595,6 +29775,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/nrg_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_nrg_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_nrg",
    "image_inventory": "econ/stickers/berlin2019/nrg_graffiti"
   }
  },
@@ -29613,6 +29794,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/tyl_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_tyl_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_tyl",
    "image_inventory": "econ/stickers/berlin2019/tyl_graffiti"
   }
  },
@@ -29631,6 +29813,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/furi_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_furi_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_furi",
    "image_inventory": "econ/stickers/berlin2019/furi_graffiti"
   }
  },
@@ -29649,6 +29832,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/cr4z_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_cr4z_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_cr4z",
    "image_inventory": "econ/stickers/berlin2019/cr4z_graffiti"
   }
  },
@@ -29667,6 +29851,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/syma_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_syma_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_syma",
    "image_inventory": "econ/stickers/berlin2019/syma_graffiti"
   }
  },
@@ -29685,6 +29870,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/nor_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_nor_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_nor",
    "image_inventory": "econ/stickers/berlin2019/nor_graffiti"
   }
  },
@@ -29703,6 +29889,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/drea_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_drea_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_drea",
    "image_inventory": "econ/stickers/berlin2019/drea_graffiti"
   }
  },
@@ -29721,6 +29908,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/intz_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_intz_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_intz",
    "image_inventory": "econ/stickers/berlin2019/intz_graffiti"
   }
  },
@@ -29739,6 +29927,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/star_graffiti_png.png",
   "original": {
    "name": "berlin2019_team_star_graffiti",
+   "item_name": "#StickerKit_berlin2019_team_star",
    "image_inventory": "econ/stickers/berlin2019/star_graffiti"
   }
  },
@@ -35533,6 +35722,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/nip_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_nip_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_nip",
    "image_inventory": "econ/stickers/stockh2021/nip_graffiti"
   }
  },
@@ -35551,6 +35741,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/furi_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_furi_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_furi",
    "image_inventory": "econ/stickers/stockh2021/furi_graffiti"
   }
  },
@@ -35569,6 +35760,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/navi_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_navi_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_navi",
    "image_inventory": "econ/stickers/stockh2021/navi_graffiti"
   }
  },
@@ -35587,6 +35779,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/vita_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_vita_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_vita",
    "image_inventory": "econ/stickers/stockh2021/vita_graffiti"
   }
  },
@@ -35605,6 +35798,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/liq_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_liq_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_liq",
    "image_inventory": "econ/stickers/stockh2021/liq_graffiti"
   }
  },
@@ -35623,6 +35817,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/gamb_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_gamb_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_gamb",
    "image_inventory": "econ/stickers/stockh2021/gamb_graffiti"
   }
  },
@@ -35641,6 +35836,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/g2_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_g2_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_g2",
    "image_inventory": "econ/stickers/stockh2021/g2_graffiti"
   }
  },
@@ -35659,6 +35855,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/evl_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_evl_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_evl",
    "image_inventory": "econ/stickers/stockh2021/evl_graffiti"
   }
  },
@@ -35677,6 +35874,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/spir_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_spir_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_spir",
    "image_inventory": "econ/stickers/stockh2021/spir_graffiti"
   }
  },
@@ -35695,6 +35893,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/astr_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_astr_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_astr",
    "image_inventory": "econ/stickers/stockh2021/astr_graffiti"
   }
  },
@@ -35713,6 +35912,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/pain_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_pain_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_pain",
    "image_inventory": "econ/stickers/stockh2021/pain_graffiti"
   }
  },
@@ -35731,6 +35931,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/ence_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_ence_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_ence",
    "image_inventory": "econ/stickers/stockh2021/ence_graffiti"
   }
  },
@@ -35749,6 +35950,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/big_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_big_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_big",
    "image_inventory": "econ/stickers/stockh2021/big_graffiti"
   }
  },
@@ -35767,6 +35969,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/ride_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_ride_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_ride",
    "image_inventory": "econ/stickers/stockh2021/ride_graffiti"
   }
  },
@@ -35785,6 +35988,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/hero_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_hero_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_hero",
    "image_inventory": "econ/stickers/stockh2021/hero_graffiti"
   }
  },
@@ -35803,6 +36007,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/mouz_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_mouz_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_mouz",
    "image_inventory": "econ/stickers/stockh2021/mouz_graffiti"
   }
  },
@@ -35821,6 +36026,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/shrk_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_shrk_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_shrk",
    "image_inventory": "econ/stickers/stockh2021/shrk_graffiti"
   }
  },
@@ -35839,6 +36045,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/tyl_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_tyl_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_tyl",
    "image_inventory": "econ/stickers/stockh2021/tyl_graffiti"
   }
  },
@@ -35857,6 +36064,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/ren_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_ren_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_ren",
    "image_inventory": "econ/stickers/stockh2021/ren_graffiti"
   }
  },
@@ -35875,6 +36083,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/ent_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_ent_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_ent",
    "image_inventory": "econ/stickers/stockh2021/ent_graffiti"
   }
  },
@@ -35893,6 +36102,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/god_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_god_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_god",
    "image_inventory": "econ/stickers/stockh2021/god_graffiti"
   }
  },
@@ -35911,6 +36121,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/vp_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_vp_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_vp",
    "image_inventory": "econ/stickers/stockh2021/vp_graffiti"
   }
  },
@@ -35929,6 +36140,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/cope_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_cope_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_cope",
    "image_inventory": "econ/stickers/stockh2021/cope_graffiti"
   }
  },
@@ -35947,6 +36159,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/faze_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_faze_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_faze",
    "image_inventory": "econ/stickers/stockh2021/faze_graffiti"
   }
  },
@@ -35965,6 +36178,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/stockh2021/pgl_graffiti_png.png",
   "original": {
    "name": "stockh2021_team_pgl_graffiti",
+   "item_name": "#StickerKit_stockh2021_team_pgl",
    "image_inventory": "econ/stickers/stockh2021/pgl_graffiti"
   }
  },
@@ -35983,6 +36197,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/hero_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_hero_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_hero",
    "image_inventory": "econ/stickers/antwerp2022/hero_graffiti"
   }
  },
@@ -36001,6 +36216,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/cope_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_cope_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_cope",
    "image_inventory": "econ/stickers/antwerp2022/cope_graffiti"
   }
  },
@@ -36019,6 +36235,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/big_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_big_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_big",
    "image_inventory": "econ/stickers/antwerp2022/big_graffiti"
   }
  },
@@ -36037,6 +36254,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/c9_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_c9_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_c9",
    "image_inventory": "econ/stickers/antwerp2022/c9_graffiti"
   }
  },
@@ -36055,6 +36273,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/furi_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_furi_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_furi",
    "image_inventory": "econ/stickers/antwerp2022/furi_graffiti"
   }
  },
@@ -36073,6 +36292,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/faze_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_faze_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_faze",
    "image_inventory": "econ/stickers/antwerp2022/faze_graffiti"
   }
  },
@@ -36091,6 +36311,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/nip_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_nip_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_nip",
    "image_inventory": "econ/stickers/antwerp2022/nip_graffiti"
   }
  },
@@ -36109,6 +36330,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/navi_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_navi_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_navi",
    "image_inventory": "econ/stickers/antwerp2022/navi_graffiti"
   }
  },
@@ -36127,6 +36349,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/ence_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_ence_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_ence",
    "image_inventory": "econ/stickers/antwerp2022/ence_graffiti"
   }
  },
@@ -36145,6 +36368,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/g2_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_g2_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_g2",
    "image_inventory": "econ/stickers/antwerp2022/g2_graffiti"
   }
  },
@@ -36163,6 +36387,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/forz_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_forz_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_forz",
    "image_inventory": "econ/stickers/antwerp2022/forz_graffiti"
   }
  },
@@ -36181,6 +36406,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/astr_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_astr_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_astr",
    "image_inventory": "econ/stickers/antwerp2022/astr_graffiti"
   }
  },
@@ -36199,6 +36425,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/vita_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_vita_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_vita",
    "image_inventory": "econ/stickers/antwerp2022/vita_graffiti"
   }
  },
@@ -36217,6 +36444,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/mibr_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_mibr_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_mibr",
    "image_inventory": "econ/stickers/antwerp2022/mibr_graffiti"
   }
  },
@@ -36235,6 +36463,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/imp_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_imp_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_imp",
    "image_inventory": "econ/stickers/antwerp2022/imp_graffiti"
   }
  },
@@ -36253,6 +36482,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/bne_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_bne_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_bne",
    "image_inventory": "econ/stickers/antwerp2022/bne_graffiti"
   }
  },
@@ -36271,6 +36501,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/eter_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_eter_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_eter",
    "image_inventory": "econ/stickers/antwerp2022/eter_graffiti"
   }
  },
@@ -36289,6 +36520,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/spir_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_spir_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_spir",
    "image_inventory": "econ/stickers/antwerp2022/spir_graffiti"
   }
  },
@@ -36307,6 +36539,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/out_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_out_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_out",
    "image_inventory": "econ/stickers/antwerp2022/out_graffiti"
   }
  },
@@ -36325,6 +36558,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/cplx_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_cplx_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_cplx",
    "image_inventory": "econ/stickers/antwerp2022/cplx_graffiti"
   }
  },
@@ -36343,6 +36577,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/ihc_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_ihc_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_ihc",
    "image_inventory": "econ/stickers/antwerp2022/ihc_graffiti"
   }
  },
@@ -36361,6 +36596,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/ren_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_ren_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_ren",
    "image_inventory": "econ/stickers/antwerp2022/ren_graffiti"
   }
  },
@@ -36379,6 +36615,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/liq_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_liq_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_liq",
    "image_inventory": "econ/stickers/antwerp2022/liq_graffiti"
   }
  },
@@ -36397,6 +36634,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/nine_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_nine_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_nine",
    "image_inventory": "econ/stickers/antwerp2022/nine_graffiti"
   }
  },
@@ -36415,6 +36653,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/antwerp2022/pgl_graffiti_png.png",
   "original": {
    "name": "antwerp2022_team_pgl_graffiti",
+   "item_name": "#StickerKit_antwerp2022_team_pgl",
    "image_inventory": "econ/stickers/antwerp2022/pgl_graffiti"
   }
  },
@@ -36433,6 +36672,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ence_graffiti_png.png",
   "original": {
    "name": "rio2022_team_ence_graffiti",
+   "item_name": "#StickerKit_rio2022_team_ence",
    "image_inventory": "econ/stickers/rio2022/ence_graffiti"
   }
  },
@@ -36451,6 +36691,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/faze_graffiti_png.png",
   "original": {
    "name": "rio2022_team_faze_graffiti",
+   "item_name": "#StickerKit_rio2022_team_faze",
    "image_inventory": "econ/stickers/rio2022/faze_graffiti"
   }
  },
@@ -36469,6 +36710,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/hero_graffiti_png.png",
   "original": {
    "name": "rio2022_team_hero_graffiti",
+   "item_name": "#StickerKit_rio2022_team_hero",
    "image_inventory": "econ/stickers/rio2022/hero_graffiti"
   }
  },
@@ -36487,6 +36729,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/navi_graffiti_png.png",
   "original": {
    "name": "rio2022_team_navi_graffiti",
+   "item_name": "#StickerKit_rio2022_team_navi",
    "image_inventory": "econ/stickers/rio2022/navi_graffiti"
   }
  },
@@ -36505,6 +36748,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nip_graffiti_png.png",
   "original": {
    "name": "rio2022_team_nip_graffiti",
+   "item_name": "#StickerKit_rio2022_team_nip",
    "image_inventory": "econ/stickers/rio2022/nip_graffiti"
   }
  },
@@ -36523,6 +36767,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spr_graffiti_png.png",
   "original": {
    "name": "rio2022_team_spr_graffiti",
+   "item_name": "#StickerKit_rio2022_team_spr",
    "image_inventory": "econ/stickers/rio2022/spr_graffiti"
   }
  },
@@ -36541,6 +36786,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/liq_graffiti_png.png",
   "original": {
    "name": "rio2022_team_liq_graffiti",
+   "item_name": "#StickerKit_rio2022_team_liq",
    "image_inventory": "econ/stickers/rio2022/liq_graffiti"
   }
  },
@@ -36559,6 +36805,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spir_graffiti_png.png",
   "original": {
    "name": "rio2022_team_spir_graffiti",
+   "item_name": "#StickerKit_rio2022_team_spir",
    "image_inventory": "econ/stickers/rio2022/spir_graffiti"
   }
  },
@@ -36577,6 +36824,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nine_graffiti_png.png",
   "original": {
    "name": "rio2022_team_nine_graffiti",
+   "item_name": "#StickerKit_rio2022_team_nine",
    "image_inventory": "econ/stickers/rio2022/nine_graffiti"
   }
  },
@@ -36595,6 +36843,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/bne_graffiti_png.png",
   "original": {
    "name": "rio2022_team_bne_graffiti",
+   "item_name": "#StickerKit_rio2022_team_bne",
    "image_inventory": "econ/stickers/rio2022/bne_graffiti"
   }
  },
@@ -36613,6 +36862,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/big_graffiti_png.png",
   "original": {
    "name": "rio2022_team_big_graffiti",
+   "item_name": "#StickerKit_rio2022_team_big",
    "image_inventory": "econ/stickers/rio2022/big_graffiti"
   }
  },
@@ -36631,6 +36881,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/c9_graffiti_png.png",
   "original": {
    "name": "rio2022_team_c9_graffiti",
+   "item_name": "#StickerKit_rio2022_team_c9",
    "image_inventory": "econ/stickers/rio2022/c9_graffiti"
   }
  },
@@ -36649,6 +36900,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/evl_graffiti_png.png",
   "original": {
    "name": "rio2022_team_evl_graffiti",
+   "item_name": "#StickerKit_rio2022_team_evl",
    "image_inventory": "econ/stickers/rio2022/evl_graffiti"
   }
  },
@@ -36667,6 +36919,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/mouz_graffiti_png.png",
   "original": {
    "name": "rio2022_team_mouz_graffiti",
+   "item_name": "#StickerKit_rio2022_team_mouz",
    "image_inventory": "econ/stickers/rio2022/mouz_graffiti"
   }
  },
@@ -36685,6 +36938,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/og_graffiti_png.png",
   "original": {
    "name": "rio2022_team_og_graffiti",
+   "item_name": "#StickerKit_rio2022_team_og",
    "image_inventory": "econ/stickers/rio2022/og_graffiti"
   }
  },
@@ -36703,6 +36957,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/vita_graffiti_png.png",
   "original": {
    "name": "rio2022_team_vita_graffiti",
+   "item_name": "#StickerKit_rio2022_team_vita",
    "image_inventory": "econ/stickers/rio2022/vita_graffiti"
   }
  },
@@ -36721,6 +36976,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/zzn_graffiti_png.png",
   "original": {
    "name": "rio2022_team_zzn_graffiti",
+   "item_name": "#StickerKit_rio2022_team_zzn",
    "image_inventory": "econ/stickers/rio2022/zzn_graffiti"
   }
  },
@@ -36739,6 +36995,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/fntc_graffiti_png.png",
   "original": {
    "name": "rio2022_team_fntc_graffiti",
+   "item_name": "#StickerKit_rio2022_team_fntc",
    "image_inventory": "econ/stickers/rio2022/fntc_graffiti"
   }
  },
@@ -36757,6 +37014,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/furi_graffiti_png.png",
   "original": {
    "name": "rio2022_team_furi_graffiti",
+   "item_name": "#StickerKit_rio2022_team_furi",
    "image_inventory": "econ/stickers/rio2022/furi_graffiti"
   }
  },
@@ -36775,6 +37033,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gl_graffiti_png.png",
   "original": {
    "name": "rio2022_team_gl_graffiti",
+   "item_name": "#StickerKit_rio2022_team_gl",
    "image_inventory": "econ/stickers/rio2022/gl_graffiti"
   }
  },
@@ -36793,6 +37052,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gray_graffiti_png.png",
   "original": {
    "name": "rio2022_team_gray_graffiti",
+   "item_name": "#StickerKit_rio2022_team_gray",
    "image_inventory": "econ/stickers/rio2022/gray_graffiti"
   }
  },
@@ -36811,6 +37071,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ihc_graffiti_png.png",
   "original": {
    "name": "rio2022_team_ihc_graffiti",
+   "item_name": "#StickerKit_rio2022_team_ihc",
    "image_inventory": "econ/stickers/rio2022/ihc_graffiti"
   }
  },
@@ -36829,6 +37090,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/imp_graffiti_png.png",
   "original": {
    "name": "rio2022_team_imp_graffiti",
+   "item_name": "#StickerKit_rio2022_team_imp",
    "image_inventory": "econ/stickers/rio2022/imp_graffiti"
   }
  },
@@ -36847,6 +37109,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/out_graffiti_png.png",
   "original": {
    "name": "rio2022_team_out_graffiti",
+   "item_name": "#StickerKit_rio2022_team_out",
    "image_inventory": "econ/stickers/rio2022/out_graffiti"
   }
  },
@@ -36865,6 +37128,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/iem_graffiti_png.png",
   "original": {
    "name": "rio2022_team_iem_graffiti",
+   "item_name": "#StickerKit_rio2022_team_iem",
    "image_inventory": "econ/stickers/rio2022/iem_graffiti"
   }
  },
@@ -36883,6 +37147,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/fntc_graffiti_png.png",
   "original": {
    "name": "paris2023_team_fntc_graffiti",
+   "item_name": "#StickerKit_paris2023_team_fntc",
    "image_inventory": "econ/stickers/paris2023/fntc_graffiti"
   }
  },
@@ -36901,6 +37166,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/navi_graffiti_png.png",
   "original": {
    "name": "paris2023_team_navi_graffiti",
+   "item_name": "#StickerKit_paris2023_team_navi",
    "image_inventory": "econ/stickers/paris2023/navi_graffiti"
   }
  },
@@ -36919,6 +37185,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/furi_graffiti_png.png",
   "original": {
    "name": "paris2023_team_furi_graffiti",
+   "item_name": "#StickerKit_paris2023_team_furi",
    "image_inventory": "econ/stickers/paris2023/furi_graffiti"
   }
  },
@@ -36937,6 +37204,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/vita_graffiti_png.png",
   "original": {
    "name": "paris2023_team_vita_graffiti",
+   "item_name": "#StickerKit_paris2023_team_vita",
    "image_inventory": "econ/stickers/paris2023/vita_graffiti"
   }
  },
@@ -36955,6 +37223,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/hero_graffiti_png.png",
   "original": {
    "name": "paris2023_team_hero_graffiti",
+   "item_name": "#StickerKit_paris2023_team_hero",
    "image_inventory": "econ/stickers/paris2023/hero_graffiti"
   }
  },
@@ -36973,6 +37242,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/bne_graffiti_png.png",
   "original": {
    "name": "paris2023_team_bne_graffiti",
+   "item_name": "#StickerKit_paris2023_team_bne",
    "image_inventory": "econ/stickers/paris2023/bne_graffiti"
   }
  },
@@ -36991,6 +37261,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/itb_graffiti_png.png",
   "original": {
    "name": "paris2023_team_itb_graffiti",
+   "item_name": "#StickerKit_paris2023_team_itb",
    "image_inventory": "econ/stickers/paris2023/itb_graffiti"
   }
  },
@@ -37009,6 +37280,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/nein_graffiti_png.png",
   "original": {
    "name": "paris2023_team_nein_graffiti",
+   "item_name": "#StickerKit_paris2023_team_nein",
    "image_inventory": "econ/stickers/paris2023/nein_graffiti"
   }
  },
@@ -37027,6 +37299,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/nip_graffiti_png.png",
   "original": {
    "name": "paris2023_team_nip_graffiti",
+   "item_name": "#StickerKit_paris2023_team_nip",
    "image_inventory": "econ/stickers/paris2023/nip_graffiti"
   }
  },
@@ -37045,6 +37318,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/g2_graffiti_png.png",
   "original": {
    "name": "paris2023_team_g2_graffiti",
+   "item_name": "#StickerKit_paris2023_team_g2",
    "image_inventory": "econ/stickers/paris2023/g2_graffiti"
   }
  },
@@ -37063,6 +37337,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/forz_graffiti_png.png",
   "original": {
    "name": "paris2023_team_forz_graffiti",
+   "item_name": "#StickerKit_paris2023_team_forz",
    "image_inventory": "econ/stickers/paris2023/forz_graffiti"
   }
  },
@@ -37081,6 +37356,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/og_graffiti_png.png",
   "original": {
    "name": "paris2023_team_og_graffiti",
+   "item_name": "#StickerKit_paris2023_team_og",
    "image_inventory": "econ/stickers/paris2023/og_graffiti"
   }
  },
@@ -37099,6 +37375,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/pain_graffiti_png.png",
   "original": {
    "name": "paris2023_team_pain_graffiti",
+   "item_name": "#StickerKit_paris2023_team_pain",
    "image_inventory": "econ/stickers/paris2023/pain_graffiti"
   }
  },
@@ -37117,6 +37394,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/gl_graffiti_png.png",
   "original": {
    "name": "paris2023_team_gl_graffiti",
+   "item_name": "#StickerKit_paris2023_team_gl",
    "image_inventory": "econ/stickers/paris2023/gl_graffiti"
   }
  },
@@ -37135,6 +37413,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/apex_graffiti_png.png",
   "original": {
    "name": "paris2023_team_apex_graffiti",
+   "item_name": "#StickerKit_paris2023_team_apex",
    "image_inventory": "econ/stickers/paris2023/apex_graffiti"
   }
  },
@@ -37153,6 +37432,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/mont_graffiti_png.png",
   "original": {
    "name": "paris2023_team_mont_graffiti",
+   "item_name": "#StickerKit_paris2023_team_mont",
    "image_inventory": "econ/stickers/paris2023/mont_graffiti"
   }
  },
@@ -37171,6 +37451,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/liq_graffiti_png.png",
   "original": {
    "name": "paris2023_team_liq_graffiti",
+   "item_name": "#StickerKit_paris2023_team_liq",
    "image_inventory": "econ/stickers/paris2023/liq_graffiti"
   }
  },
@@ -37189,6 +37470,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/faze_graffiti_png.png",
   "original": {
    "name": "paris2023_team_faze_graffiti",
+   "item_name": "#StickerKit_paris2023_team_faze",
    "image_inventory": "econ/stickers/paris2023/faze_graffiti"
   }
  },
@@ -37207,6 +37489,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/ence_graffiti_png.png",
   "original": {
    "name": "paris2023_team_ence_graffiti",
+   "item_name": "#StickerKit_paris2023_team_ence",
    "image_inventory": "econ/stickers/paris2023/ence_graffiti"
   }
  },
@@ -37225,6 +37508,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/gray_graffiti_png.png",
   "original": {
    "name": "paris2023_team_gray_graffiti",
+   "item_name": "#StickerKit_paris2023_team_gray",
    "image_inventory": "econ/stickers/paris2023/gray_graffiti"
   }
  },
@@ -37243,6 +37527,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/mouz_graffiti_png.png",
   "original": {
    "name": "paris2023_team_mouz_graffiti",
+   "item_name": "#StickerKit_paris2023_team_mouz",
    "image_inventory": "econ/stickers/paris2023/mouz_graffiti"
   }
  },
@@ -37261,6 +37546,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/cplx_graffiti_png.png",
   "original": {
    "name": "paris2023_team_cplx_graffiti",
+   "item_name": "#StickerKit_paris2023_team_cplx",
    "image_inventory": "econ/stickers/paris2023/cplx_graffiti"
   }
  },
@@ -37279,6 +37565,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/flux_graffiti_png.png",
   "original": {
    "name": "paris2023_team_flux_graffiti",
+   "item_name": "#StickerKit_paris2023_team_flux",
    "image_inventory": "econ/stickers/paris2023/flux_graffiti"
   }
  },
@@ -37297,6 +37584,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/mngz_graffiti_png.png",
   "original": {
    "name": "paris2023_team_mngz_graffiti",
+   "item_name": "#StickerKit_paris2023_team_mngz",
    "image_inventory": "econ/stickers/paris2023/mngz_graffiti"
   }
  },
@@ -37315,6 +37603,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/paris2023/blst_graffiti_png.png",
   "original": {
    "name": "paris2023_team_blst_graffiti",
+   "item_name": "#StickerKit_paris2023_team_blst",
    "image_inventory": "econ/stickers/paris2023/blst_graffiti"
   }
  },
@@ -37333,6 +37622,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/navi_graffiti.d08b9f584c2fc15c008d89f3e7585d5a19c7cd7d.png",
   "original": {
    "name": "cph2024_team_navi_graffiti",
+   "item_name": "#StickerKit_cph2024_team_navi",
    "image_inventory": "econ/stickers/cph2024/navi_graffiti"
   }
  },
@@ -37351,6 +37641,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/vp_graffiti.076f7c506635351c76dde746ebf3ff6ad1721219.png",
   "original": {
    "name": "cph2024_team_vp_graffiti",
+   "item_name": "#StickerKit_cph2024_team_vp",
    "image_inventory": "econ/stickers/cph2024/vp_graffiti"
   }
  },
@@ -37369,6 +37660,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/g2_graffiti.3576ecfee97ac82376f611c0e36da1b87ebef1d0.png",
   "original": {
    "name": "cph2024_team_g2_graffiti",
+   "item_name": "#StickerKit_cph2024_team_g2",
    "image_inventory": "econ/stickers/cph2024/g2_graffiti"
   }
  },
@@ -37387,6 +37679,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/faze_graffiti.d2ac855a0a59be08d700d49c041cb11120e677cd.png",
   "original": {
    "name": "cph2024_team_faze_graffiti",
+   "item_name": "#StickerKit_cph2024_team_faze",
    "image_inventory": "econ/stickers/cph2024/faze_graffiti"
   }
  },
@@ -37405,6 +37698,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/spir_graffiti.c40bf509d4bef8ae4ad2e0b0aff4da2254c436f9.png",
   "original": {
    "name": "cph2024_team_spir_graffiti",
+   "item_name": "#StickerKit_cph2024_team_spir",
    "image_inventory": "econ/stickers/cph2024/spir_graffiti"
   }
  },
@@ -37423,6 +37717,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/vita_graffiti.88798f2757a871c33dad15999a6c99a55adbd09b.png",
   "original": {
    "name": "cph2024_team_vita_graffiti",
+   "item_name": "#StickerKit_cph2024_team_vita",
    "image_inventory": "econ/stickers/cph2024/vita_graffiti"
   }
  },
@@ -37441,6 +37736,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/mouz_graffiti.5e165f689cc416ac28013764b0bdd3ee564d650a.png",
   "original": {
    "name": "cph2024_team_mouz_graffiti",
+   "item_name": "#StickerKit_cph2024_team_mouz",
    "image_inventory": "econ/stickers/cph2024/mouz_graffiti"
   }
  },
@@ -37459,6 +37755,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/cplx_graffiti.d006f9b587cd54f8aed209a48461c016c3661b8c.png",
   "original": {
    "name": "cph2024_team_cplx_graffiti",
+   "item_name": "#StickerKit_cph2024_team_cplx",
    "image_inventory": "econ/stickers/cph2024/cplx_graffiti"
   }
  },
@@ -37477,6 +37774,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/c9_graffiti.6291dd1ca429eeb3733a4fad6cb61c7197058d97.png",
   "original": {
    "name": "cph2024_team_c9_graffiti",
+   "item_name": "#StickerKit_cph2024_team_c9",
    "image_inventory": "econ/stickers/cph2024/c9_graffiti"
   }
  },
@@ -37495,6 +37793,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/ence_graffiti.7aa825dec983bc81280564714704991454188613.png",
   "original": {
    "name": "cph2024_team_ence_graffiti",
+   "item_name": "#StickerKit_cph2024_team_ence",
    "image_inventory": "econ/stickers/cph2024/ence_graffiti"
   }
  },
@@ -37513,6 +37812,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/furi_graffiti.355e6806cf98179230578bedc1812498c49a8a1d.png",
   "original": {
    "name": "cph2024_team_furi_graffiti",
+   "item_name": "#StickerKit_cph2024_team_furi",
    "image_inventory": "econ/stickers/cph2024/furi_graffiti"
   }
  },
@@ -37531,6 +37831,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/hero_graffiti.e499cbab967e232cd00751dfcc7695af2dca86ff.png",
   "original": {
    "name": "cph2024_team_hero_graffiti",
+   "item_name": "#StickerKit_cph2024_team_hero",
    "image_inventory": "econ/stickers/cph2024/hero_graffiti"
   }
  },
@@ -37549,6 +37850,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/eter_graffiti.382744df4357ff0541f1a524eb2438d30a5b45ee.png",
   "original": {
    "name": "cph2024_team_eter_graffiti",
+   "item_name": "#StickerKit_cph2024_team_eter",
    "image_inventory": "econ/stickers/cph2024/eter_graffiti"
   }
  },
@@ -37567,6 +37869,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/apex_graffiti.ffc82ac91d8ac9dfc2f60cdcb8e01360ec44c6f6.png",
   "original": {
    "name": "cph2024_team_apex_graffiti",
+   "item_name": "#StickerKit_cph2024_team_apex",
    "image_inventory": "econ/stickers/cph2024/apex_graffiti"
   }
  },
@@ -37585,6 +37888,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/gl_graffiti.708e9ef33e9c506f95ec5602801acb4c25822f13.png",
   "original": {
    "name": "cph2024_team_gl_graffiti",
+   "item_name": "#StickerKit_cph2024_team_gl",
    "image_inventory": "econ/stickers/cph2024/gl_graffiti"
   }
  },
@@ -37603,6 +37907,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/saw_graffiti.09c8136ecd8a2214ad64b6fce4cfcebf25295ef1.png",
   "original": {
    "name": "cph2024_team_saw_graffiti",
+   "item_name": "#StickerKit_cph2024_team_saw",
    "image_inventory": "econ/stickers/cph2024/saw_graffiti"
   }
  },
@@ -37621,6 +37926,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/pain_graffiti.69bb516d616693f120b98955bc5068eb0020c7da.png",
   "original": {
    "name": "cph2024_team_pain_graffiti",
+   "item_name": "#StickerKit_cph2024_team_pain",
    "image_inventory": "econ/stickers/cph2024/pain_graffiti"
   }
  },
@@ -37639,6 +37945,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/imp_graffiti.c4497064b7efe2f21ed0ab4604c41fc710e480e0.png",
   "original": {
    "name": "cph2024_team_imp_graffiti",
+   "item_name": "#StickerKit_cph2024_team_imp",
    "image_inventory": "econ/stickers/cph2024/imp_graffiti"
   }
  },
@@ -37657,6 +37964,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/mngz_graffiti.116772be33f33d55e14ece3dbc4293bd1f054648.png",
   "original": {
    "name": "cph2024_team_mngz_graffiti",
+   "item_name": "#StickerKit_cph2024_team_mngz",
    "image_inventory": "econ/stickers/cph2024/mngz_graffiti"
   }
  },
@@ -37675,6 +37983,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/amka_graffiti.8a2254f8ecdaa9a99236c2aff7cd8c2a05fcbb50.png",
   "original": {
    "name": "cph2024_team_amka_graffiti",
+   "item_name": "#StickerKit_cph2024_team_amka",
    "image_inventory": "econ/stickers/cph2024/amka_graffiti"
   }
  },
@@ -37693,6 +38002,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/ecst_graffiti.e2d03cbb5a6c7cc77ecf7954066e973812ae89c7.png",
   "original": {
    "name": "cph2024_team_ecst_graffiti",
+   "item_name": "#StickerKit_cph2024_team_ecst",
    "image_inventory": "econ/stickers/cph2024/ecst_graffiti"
   }
  },
@@ -37711,6 +38021,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/koi_graffiti.9d560f7ff61df615bacfa939fd1c6b78dcc9e41f.png",
   "original": {
    "name": "cph2024_team_koi_graffiti",
+   "item_name": "#StickerKit_cph2024_team_koi",
    "image_inventory": "econ/stickers/cph2024/koi_graffiti"
   }
  },
@@ -37729,6 +38040,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/lgcy_graffiti.37dbd1774d75a14754fd7f89b3cf8c050f3ac6c3.png",
   "original": {
    "name": "cph2024_team_lgcy_graffiti",
+   "item_name": "#StickerKit_cph2024_team_lgcy",
    "image_inventory": "econ/stickers/cph2024/lgcy_graffiti"
   }
  },
@@ -37747,6 +38059,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/lynn_graffiti.5a0343027a4a47880fd454602326a7ed297669a7.png",
   "original": {
    "name": "cph2024_team_lynn_graffiti",
+   "item_name": "#StickerKit_cph2024_team_lynn",
    "image_inventory": "econ/stickers/cph2024/lynn_graffiti"
   }
  },
@@ -37765,6 +38078,7 @@
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/pgl_graffiti.c78429716ff4d0533939da55eea75c34bb2d29b5.png",
   "original": {
    "name": "cph2024_team_pgl_graffiti",
+   "item_name": "#StickerKit_cph2024_team_pgl",
    "image_inventory": "econ/stickers/cph2024/pgl_graffiti"
   }
  },
@@ -37783,6 +38097,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/g2_graffiti_png.png",
   "original": {
    "name": "sha2024_team_g2_graffiti",
+   "item_name": "#StickerKit_sha2024_team_g2",
    "image_inventory": "econ/stickers/sha2024/g2_graffiti"
   }
  },
@@ -37801,6 +38116,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/navi_graffiti_png.png",
   "original": {
    "name": "sha2024_team_navi_graffiti",
+   "item_name": "#StickerKit_sha2024_team_navi",
    "image_inventory": "econ/stickers/sha2024/navi_graffiti"
   }
  },
@@ -37819,6 +38135,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/vita_graffiti_png.png",
   "original": {
    "name": "sha2024_team_vita_graffiti",
+   "item_name": "#StickerKit_sha2024_team_vita",
    "image_inventory": "econ/stickers/sha2024/vita_graffiti"
   }
  },
@@ -37837,6 +38154,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/spir_graffiti_png.png",
   "original": {
    "name": "sha2024_team_spir_graffiti",
+   "item_name": "#StickerKit_sha2024_team_spir",
    "image_inventory": "econ/stickers/sha2024/spir_graffiti"
   }
  },
@@ -37855,6 +38173,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/mouz_graffiti_png.png",
   "original": {
    "name": "sha2024_team_mouz_graffiti",
+   "item_name": "#StickerKit_sha2024_team_mouz",
    "image_inventory": "econ/stickers/sha2024/mouz_graffiti"
   }
  },
@@ -37873,6 +38192,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/faze_graffiti_png.png",
   "original": {
    "name": "sha2024_team_faze_graffiti",
+   "item_name": "#StickerKit_sha2024_team_faze",
    "image_inventory": "econ/stickers/sha2024/faze_graffiti"
   }
  },
@@ -37891,6 +38211,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/hero_graffiti_png.png",
   "original": {
    "name": "sha2024_team_hero_graffiti",
+   "item_name": "#StickerKit_sha2024_team_hero",
    "image_inventory": "econ/stickers/sha2024/hero_graffiti"
   }
  },
@@ -37909,6 +38230,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/3dm_graffiti_png.png",
   "original": {
    "name": "sha2024_team_3dm_graffiti",
+   "item_name": "#StickerKit_sha2024_team_3dm",
    "image_inventory": "econ/stickers/sha2024/3dm_graffiti"
   }
  },
@@ -37927,6 +38249,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/furi_graffiti_png.png",
   "original": {
    "name": "sha2024_team_furi_graffiti",
+   "item_name": "#StickerKit_sha2024_team_furi",
    "image_inventory": "econ/stickers/sha2024/furi_graffiti"
   }
  },
@@ -37945,6 +38268,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/vp_graffiti_png.png",
   "original": {
    "name": "sha2024_team_vp_graffiti",
+   "item_name": "#StickerKit_sha2024_team_vp",
    "image_inventory": "econ/stickers/sha2024/vp_graffiti"
   }
  },
@@ -37963,6 +38287,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/liq_graffiti_png.png",
   "original": {
    "name": "sha2024_team_liq_graffiti",
+   "item_name": "#StickerKit_sha2024_team_liq",
    "image_inventory": "econ/stickers/sha2024/liq_graffiti"
   }
  },
@@ -37981,6 +38306,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/cplx_graffiti_png.png",
   "original": {
    "name": "sha2024_team_cplx_graffiti",
+   "item_name": "#StickerKit_sha2024_team_cplx",
    "image_inventory": "econ/stickers/sha2024/cplx_graffiti"
   }
  },
@@ -37999,6 +38325,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/big_graffiti_png.png",
   "original": {
    "name": "sha2024_team_big_graffiti",
+   "item_name": "#StickerKit_sha2024_team_big",
    "image_inventory": "econ/stickers/sha2024/big_graffiti"
   }
  },
@@ -38017,6 +38344,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/fntc_graffiti_png.png",
   "original": {
    "name": "sha2024_team_fntc_graffiti",
+   "item_name": "#StickerKit_sha2024_team_fntc",
    "image_inventory": "econ/stickers/sha2024/fntc_graffiti"
   }
  },
@@ -38035,6 +38363,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/mngz_graffiti_png.png",
   "original": {
    "name": "sha2024_team_mngz_graffiti",
+   "item_name": "#StickerKit_sha2024_team_mngz",
    "image_inventory": "econ/stickers/sha2024/mngz_graffiti"
   }
  },
@@ -38053,6 +38382,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/pain_graffiti_png.png",
   "original": {
    "name": "sha2024_team_pain_graffiti",
+   "item_name": "#StickerKit_sha2024_team_pain",
    "image_inventory": "econ/stickers/sha2024/pain_graffiti"
   }
  },
@@ -38071,6 +38401,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/gl_graffiti_png.png",
   "original": {
    "name": "sha2024_team_gl_graffiti",
+   "item_name": "#StickerKit_sha2024_team_gl",
    "image_inventory": "econ/stickers/sha2024/gl_graffiti"
   }
  },
@@ -38089,6 +38420,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/mibr_graffiti_png.png",
   "original": {
    "name": "sha2024_team_mibr_graffiti",
+   "item_name": "#StickerKit_sha2024_team_mibr",
    "image_inventory": "econ/stickers/sha2024/mibr_graffiti"
   }
  },
@@ -38107,6 +38439,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/c9_graffiti_png.png",
   "original": {
    "name": "sha2024_team_c9_graffiti",
+   "item_name": "#StickerKit_sha2024_team_c9",
    "image_inventory": "econ/stickers/sha2024/c9_graffiti"
   }
  },
@@ -38125,6 +38458,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/fq_graffiti_png.png",
   "original": {
    "name": "sha2024_team_fq_graffiti",
+   "item_name": "#StickerKit_sha2024_team_fq",
    "image_inventory": "econ/stickers/sha2024/fq_graffiti"
   }
  },
@@ -38143,6 +38477,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/psnu_graffiti_png.png",
   "original": {
    "name": "sha2024_team_psnu_graffiti",
+   "item_name": "#StickerKit_sha2024_team_psnu",
    "image_inventory": "econ/stickers/sha2024/psnu_graffiti"
   }
  },
@@ -38161,6 +38496,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/wcrd_graffiti_png.png",
   "original": {
    "name": "sha2024_team_wcrd_graffiti",
+   "item_name": "#StickerKit_sha2024_team_wcrd",
    "image_inventory": "econ/stickers/sha2024/wcrd_graffiti"
   }
  },
@@ -38179,6 +38515,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/ratm_graffiti_png.png",
   "original": {
    "name": "sha2024_team_ratm_graffiti",
+   "item_name": "#StickerKit_sha2024_team_ratm",
    "image_inventory": "econ/stickers/sha2024/ratm_graffiti"
   }
  },
@@ -38197,6 +38534,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/imp_graffiti_png.png",
   "original": {
    "name": "sha2024_team_imp_graffiti",
+   "item_name": "#StickerKit_sha2024_team_imp",
    "image_inventory": "econ/stickers/sha2024/imp_graffiti"
   }
  },
@@ -38215,6 +38553,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/pw_graffiti_png.png",
   "original": {
    "name": "sha2024_team_pw_graffiti",
+   "item_name": "#StickerKit_sha2024_team_pw",
    "image_inventory": "econ/stickers/sha2024/pw_graffiti"
   }
  },
@@ -38233,6 +38572,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/vita_graffiti_png.png",
   "original": {
    "name": "aus2025_team_vita_graffiti",
+   "item_name": "#StickerKit_aus2025_team_vita",
    "image_inventory": "econ/stickers/aus2025/vita_graffiti"
   }
  },
@@ -38251,6 +38591,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/mouz_graffiti_png.png",
   "original": {
    "name": "aus2025_team_mouz_graffiti",
+   "item_name": "#StickerKit_aus2025_team_mouz",
    "image_inventory": "econ/stickers/aus2025/mouz_graffiti"
   }
  },
@@ -38269,6 +38610,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/spir_graffiti_png.png",
   "original": {
    "name": "aus2025_team_spir_graffiti",
+   "item_name": "#StickerKit_aus2025_team_spir",
    "image_inventory": "econ/stickers/aus2025/spir_graffiti"
   }
  },
@@ -38287,6 +38629,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/mngz_graffiti_png.png",
   "original": {
    "name": "aus2025_team_mngz_graffiti",
+   "item_name": "#StickerKit_aus2025_team_mngz",
    "image_inventory": "econ/stickers/aus2025/mngz_graffiti"
   }
  },
@@ -38305,6 +38648,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/aura_graffiti_png.png",
   "original": {
    "name": "aus2025_team_aura_graffiti",
+   "item_name": "#StickerKit_aus2025_team_aura",
    "image_inventory": "econ/stickers/aus2025/aura_graffiti"
   }
  },
@@ -38323,6 +38667,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/navi_graffiti_png.png",
   "original": {
    "name": "aus2025_team_navi_graffiti",
+   "item_name": "#StickerKit_aus2025_team_navi",
    "image_inventory": "econ/stickers/aus2025/navi_graffiti"
   }
  },
@@ -38341,6 +38686,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/g2_graffiti_png.png",
   "original": {
    "name": "aus2025_team_g2_graffiti",
+   "item_name": "#StickerKit_aus2025_team_g2",
    "image_inventory": "econ/stickers/aus2025/g2_graffiti"
   }
  },
@@ -38359,6 +38705,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/liq_graffiti_png.png",
   "original": {
    "name": "aus2025_team_liq_graffiti",
+   "item_name": "#StickerKit_aus2025_team_liq",
    "image_inventory": "econ/stickers/aus2025/liq_graffiti"
   }
  },
@@ -38377,6 +38724,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/fal_graffiti_png.png",
   "original": {
    "name": "aus2025_team_fal_graffiti",
+   "item_name": "#StickerKit_aus2025_team_fal",
    "image_inventory": "econ/stickers/aus2025/fal_graffiti"
   }
  },
@@ -38395,6 +38743,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/faze_graffiti_png.png",
   "original": {
    "name": "aus2025_team_faze_graffiti",
+   "item_name": "#StickerKit_aus2025_team_faze",
    "image_inventory": "econ/stickers/aus2025/faze_graffiti"
   }
  },
@@ -38413,6 +38762,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/3dm_graffiti_png.png",
   "original": {
    "name": "aus2025_team_3dm_graffiti",
+   "item_name": "#StickerKit_aus2025_team_3dm",
    "image_inventory": "econ/stickers/aus2025/3dm_graffiti"
   }
  },
@@ -38431,6 +38781,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/vp_graffiti_png.png",
   "original": {
    "name": "aus2025_team_vp_graffiti",
+   "item_name": "#StickerKit_aus2025_team_vp",
    "image_inventory": "econ/stickers/aus2025/vp_graffiti"
   }
  },
@@ -38449,6 +38800,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/pain_graffiti_png.png",
   "original": {
    "name": "aus2025_team_pain_graffiti",
+   "item_name": "#StickerKit_aus2025_team_pain",
    "image_inventory": "econ/stickers/aus2025/pain_graffiti"
   }
  },
@@ -38467,6 +38819,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/furi_graffiti_png.png",
   "original": {
    "name": "aus2025_team_furi_graffiti",
+   "item_name": "#StickerKit_aus2025_team_furi",
    "image_inventory": "econ/stickers/aus2025/furi_graffiti"
   }
  },
@@ -38485,6 +38838,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/mibr_graffiti_png.png",
   "original": {
    "name": "aus2025_team_mibr_graffiti",
+   "item_name": "#StickerKit_aus2025_team_mibr",
    "image_inventory": "econ/stickers/aus2025/mibr_graffiti"
   }
  },
@@ -38503,6 +38857,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/m80_graffiti_png.png",
   "original": {
    "name": "aus2025_team_m80_graffiti",
+   "item_name": "#StickerKit_aus2025_team_m80",
    "image_inventory": "econ/stickers/aus2025/m80_graffiti"
   }
  },
@@ -38521,6 +38876,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/cplx_graffiti_png.png",
   "original": {
    "name": "aus2025_team_cplx_graffiti",
+   "item_name": "#StickerKit_aus2025_team_cplx",
    "image_inventory": "econ/stickers/aus2025/cplx_graffiti"
   }
  },
@@ -38539,6 +38895,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/wcrd_graffiti_png.png",
   "original": {
    "name": "aus2025_team_wcrd_graffiti",
+   "item_name": "#StickerKit_aus2025_team_wcrd",
    "image_inventory": "econ/stickers/aus2025/wcrd_graffiti"
   }
  },
@@ -38557,6 +38914,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/hero_graffiti_png.png",
   "original": {
    "name": "aus2025_team_hero_graffiti",
+   "item_name": "#StickerKit_aus2025_team_hero",
    "image_inventory": "econ/stickers/aus2025/hero_graffiti"
   }
  },
@@ -38575,6 +38933,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/b8_graffiti_png.png",
   "original": {
    "name": "aus2025_team_b8_graffiti",
+   "item_name": "#StickerKit_aus2025_team_b8",
    "image_inventory": "econ/stickers/aus2025/b8_graffiti"
   }
  },
@@ -38593,6 +38952,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/og_graffiti_png.png",
   "original": {
    "name": "aus2025_team_og_graffiti",
+   "item_name": "#StickerKit_aus2025_team_og",
    "image_inventory": "econ/stickers/aus2025/og_graffiti"
   }
  },
@@ -38611,6 +38971,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/nemi_graffiti_png.png",
   "original": {
    "name": "aus2025_team_nemi_graffiti",
+   "item_name": "#StickerKit_aus2025_team_nemi",
    "image_inventory": "econ/stickers/aus2025/nemi_graffiti"
   }
  },
@@ -38629,6 +38990,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/bb_graffiti_png.png",
   "original": {
    "name": "aus2025_team_bb_graffiti",
+   "item_name": "#StickerKit_aus2025_team_bb",
    "image_inventory": "econ/stickers/aus2025/bb_graffiti"
   }
  },
@@ -38647,6 +39009,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/imp_graffiti_png.png",
   "original": {
    "name": "aus2025_team_imp_graffiti",
+   "item_name": "#StickerKit_aus2025_team_imp",
    "image_inventory": "econ/stickers/aus2025/imp_graffiti"
   }
  },
@@ -38665,6 +39028,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/nrg_graffiti_png.png",
   "original": {
    "name": "aus2025_team_nrg_graffiti",
+   "item_name": "#StickerKit_aus2025_team_nrg",
    "image_inventory": "econ/stickers/aus2025/nrg_graffiti"
   }
  },
@@ -38683,6 +39047,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/fq_graffiti_png.png",
   "original": {
    "name": "aus2025_team_fq_graffiti",
+   "item_name": "#StickerKit_aus2025_team_fq",
    "image_inventory": "econ/stickers/aus2025/fq_graffiti"
   }
  },
@@ -38701,6 +39066,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/meti_graffiti_png.png",
   "original": {
    "name": "aus2025_team_meti_graffiti",
+   "item_name": "#StickerKit_aus2025_team_meti",
    "image_inventory": "econ/stickers/aus2025/meti_graffiti"
   }
  },
@@ -38719,6 +39085,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/tyl_graffiti_png.png",
   "original": {
    "name": "aus2025_team_tyl_graffiti",
+   "item_name": "#StickerKit_aus2025_team_tyl",
    "image_inventory": "econ/stickers/aus2025/tyl_graffiti"
   }
  },
@@ -38737,6 +39104,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/flux_graffiti_png.png",
   "original": {
    "name": "aus2025_team_flux_graffiti",
+   "item_name": "#StickerKit_aus2025_team_flux",
    "image_inventory": "econ/stickers/aus2025/flux_graffiti"
   }
  },
@@ -38755,6 +39123,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/chin_graffiti_png.png",
   "original": {
    "name": "aus2025_team_chin_graffiti",
+   "item_name": "#StickerKit_aus2025_team_chin",
    "image_inventory": "econ/stickers/aus2025/chin_graffiti"
   }
  },
@@ -38773,6 +39142,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/lynn_graffiti_png.png",
   "original": {
    "name": "aus2025_team_lynn_graffiti",
+   "item_name": "#StickerKit_aus2025_team_lynn",
    "image_inventory": "econ/stickers/aus2025/lynn_graffiti"
   }
  },
@@ -38791,6 +39161,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/lgcy_graffiti_png.png",
   "original": {
    "name": "aus2025_team_lgcy_graffiti",
+   "item_name": "#StickerKit_aus2025_team_lgcy",
    "image_inventory": "econ/stickers/aus2025/lgcy_graffiti"
   }
  },
@@ -38809,6 +39180,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/aus2025/blst_graffiti_png.png",
   "original": {
    "name": "aus2025_team_blst_graffiti",
+   "item_name": "#StickerKit_aus2025_team_blst",
    "image_inventory": "econ/stickers/aus2025/blst_graffiti"
   }
  },
@@ -38827,6 +39199,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/furi_graffiti_png.png",
   "original": {
    "name": "bud2025_team_furi_graffiti",
+   "item_name": "#StickerKit_bud2025_team_furi",
    "image_inventory": "econ/stickers/bud2025/furi_graffiti"
   }
  },
@@ -38845,6 +39218,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/vita_graffiti_png.png",
   "original": {
    "name": "bud2025_team_vita_graffiti",
+   "item_name": "#StickerKit_bud2025_team_vita",
    "image_inventory": "econ/stickers/bud2025/vita_graffiti"
   }
  },
@@ -38863,6 +39237,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fal_graffiti_png.png",
   "original": {
    "name": "bud2025_team_fal_graffiti",
+   "item_name": "#StickerKit_bud2025_team_fal",
    "image_inventory": "econ/stickers/bud2025/fal_graffiti"
   }
  },
@@ -38881,6 +39256,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mngz_graffiti_png.png",
   "original": {
    "name": "bud2025_team_mngz_graffiti",
+   "item_name": "#StickerKit_bud2025_team_mngz",
    "image_inventory": "econ/stickers/bud2025/mngz_graffiti"
   }
  },
@@ -38899,6 +39275,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mouz_graffiti_png.png",
   "original": {
    "name": "bud2025_team_mouz_graffiti",
+   "item_name": "#StickerKit_bud2025_team_mouz",
    "image_inventory": "econ/stickers/bud2025/mouz_graffiti"
   }
  },
@@ -38917,6 +39294,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/spir_graffiti_png.png",
   "original": {
    "name": "bud2025_team_spir_graffiti",
+   "item_name": "#StickerKit_bud2025_team_spir",
    "image_inventory": "econ/stickers/bud2025/spir_graffiti"
   }
  },
@@ -38935,6 +39313,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/g2_graffiti_png.png",
   "original": {
    "name": "bud2025_team_g2_graffiti",
+   "item_name": "#StickerKit_bud2025_team_g2",
    "image_inventory": "econ/stickers/bud2025/g2_graffiti"
   }
  },
@@ -38953,6 +39332,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pain_graffiti_png.png",
   "original": {
    "name": "bud2025_team_pain_graffiti",
+   "item_name": "#StickerKit_bud2025_team_pain",
    "image_inventory": "econ/stickers/bud2025/pain_graffiti"
   }
  },
@@ -38971,6 +39351,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/aura_graffiti_png.png",
   "original": {
    "name": "bud2025_team_aura_graffiti",
+   "item_name": "#StickerKit_bud2025_team_aura",
    "image_inventory": "econ/stickers/bud2025/aura_graffiti"
   }
  },
@@ -38989,6 +39370,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/navi_graffiti_png.png",
   "original": {
    "name": "bud2025_team_navi_graffiti",
+   "item_name": "#StickerKit_bud2025_team_navi",
    "image_inventory": "econ/stickers/bud2025/navi_graffiti"
   }
  },
@@ -39007,6 +39389,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/liq_graffiti_png.png",
   "original": {
    "name": "bud2025_team_liq_graffiti",
+   "item_name": "#StickerKit_bud2025_team_liq",
    "image_inventory": "econ/stickers/bud2025/liq_graffiti"
   }
  },
@@ -39025,6 +39408,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/3dm_graffiti_png.png",
   "original": {
    "name": "bud2025_team_3dm_graffiti",
+   "item_name": "#StickerKit_bud2025_team_3dm",
    "image_inventory": "econ/stickers/bud2025/3dm_graffiti"
   }
  },
@@ -39043,6 +39427,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/astr_graffiti_png.png",
   "original": {
    "name": "bud2025_team_astr_graffiti",
+   "item_name": "#StickerKit_bud2025_team_astr",
    "image_inventory": "econ/stickers/bud2025/astr_graffiti"
   }
  },
@@ -39061,6 +39446,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/tyl_graffiti_png.png",
   "original": {
    "name": "bud2025_team_tyl_graffiti",
+   "item_name": "#StickerKit_bud2025_team_tyl",
    "image_inventory": "econ/stickers/bud2025/tyl_graffiti"
   }
  },
@@ -39079,6 +39465,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/mibr_graffiti_png.png",
   "original": {
    "name": "bud2025_team_mibr_graffiti",
+   "item_name": "#StickerKit_bud2025_team_mibr",
    "image_inventory": "econ/stickers/bud2025/mibr_graffiti"
   }
  },
@@ -39097,6 +39484,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/psnu_graffiti_png.png",
   "original": {
    "name": "bud2025_team_psnu_graffiti",
+   "item_name": "#StickerKit_bud2025_team_psnu",
    "image_inventory": "econ/stickers/bud2025/psnu_graffiti"
   }
  },
@@ -39115,6 +39503,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lgcy_graffiti_png.png",
   "original": {
    "name": "bud2025_team_lgcy_graffiti",
+   "item_name": "#StickerKit_bud2025_team_lgcy",
    "image_inventory": "econ/stickers/bud2025/lgcy_graffiti"
   }
  },
@@ -39133,6 +39522,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/faze_graffiti_png.png",
   "original": {
    "name": "bud2025_team_faze_graffiti",
+   "item_name": "#StickerKit_bud2025_team_faze",
    "image_inventory": "econ/stickers/bud2025/faze_graffiti"
   }
  },
@@ -39151,6 +39541,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/b8_graffiti_png.png",
   "original": {
    "name": "bud2025_team_b8_graffiti",
+   "item_name": "#StickerKit_bud2025_team_b8",
    "image_inventory": "econ/stickers/bud2025/b8_graffiti"
   }
  },
@@ -39169,6 +39560,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/gl_graffiti_png.png",
   "original": {
    "name": "bud2025_team_gl_graffiti",
+   "item_name": "#StickerKit_bud2025_team_gl",
    "image_inventory": "econ/stickers/bud2025/gl_graffiti"
   }
  },
@@ -39187,6 +39579,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fntc_graffiti_png.png",
   "original": {
    "name": "bud2025_team_fntc_graffiti",
+   "item_name": "#StickerKit_bud2025_team_fntc",
    "image_inventory": "econ/stickers/bud2025/fntc_graffiti"
   }
  },
@@ -39205,6 +39598,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/pari_graffiti_png.png",
   "original": {
    "name": "bud2025_team_pari_graffiti",
+   "item_name": "#StickerKit_bud2025_team_pari",
    "image_inventory": "econ/stickers/bud2025/pari_graffiti"
   }
  },
@@ -39223,6 +39617,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nip_graffiti_png.png",
   "original": {
    "name": "bud2025_team_nip_graffiti",
+   "item_name": "#StickerKit_bud2025_team_nip",
    "image_inventory": "econ/stickers/bud2025/nip_graffiti"
   }
  },
@@ -39241,6 +39636,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/imp_graffiti_png.png",
   "original": {
    "name": "bud2025_team_imp_graffiti",
+   "item_name": "#StickerKit_bud2025_team_imp",
    "image_inventory": "econ/stickers/bud2025/imp_graffiti"
   }
  },
@@ -39259,6 +39655,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/fq_graffiti_png.png",
   "original": {
    "name": "bud2025_team_fq_graffiti",
+   "item_name": "#StickerKit_bud2025_team_fq",
    "image_inventory": "econ/stickers/bud2025/fq_graffiti"
   }
  },
@@ -39277,6 +39674,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/lynn_graffiti_png.png",
   "original": {
    "name": "bud2025_team_lynn_graffiti",
+   "item_name": "#StickerKit_bud2025_team_lynn",
    "image_inventory": "econ/stickers/bud2025/lynn_graffiti"
   }
  },
@@ -39295,6 +39693,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/m80_graffiti_png.png",
   "original": {
    "name": "bud2025_team_m80_graffiti",
+   "item_name": "#StickerKit_bud2025_team_m80",
    "image_inventory": "econ/stickers/bud2025/m80_graffiti"
   }
  },
@@ -39313,6 +39712,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/flux_graffiti_png.png",
   "original": {
    "name": "bud2025_team_flux_graffiti",
+   "item_name": "#StickerKit_bud2025_team_flux",
    "image_inventory": "econ/stickers/bud2025/flux_graffiti"
   }
  },
@@ -39331,6 +39731,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/redc_graffiti_png.png",
   "original": {
    "name": "bud2025_team_redc_graffiti",
+   "item_name": "#StickerKit_bud2025_team_redc",
    "image_inventory": "econ/stickers/bud2025/redc_graffiti"
   }
  },
@@ -39349,6 +39750,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/huns_graffiti_png.png",
   "original": {
    "name": "bud2025_team_huns_graffiti",
+   "item_name": "#StickerKit_bud2025_team_huns",
    "image_inventory": "econ/stickers/bud2025/huns_graffiti"
   }
  },
@@ -39367,6 +39769,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/nrg_graffiti_png.png",
   "original": {
    "name": "bud2025_team_nrg_graffiti",
+   "item_name": "#StickerKit_bud2025_team_nrg",
    "image_inventory": "econ/stickers/bud2025/nrg_graffiti"
   }
  },
@@ -39385,6 +39788,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/ratm_graffiti_png.png",
   "original": {
    "name": "bud2025_team_ratm_graffiti",
+   "item_name": "#StickerKit_bud2025_team_ratm",
    "image_inventory": "econ/stickers/bud2025/ratm_graffiti"
   }
  },
@@ -39403,6 +39807,7 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/star_graffiti_png.png",
   "original": {
    "name": "bud2025_team_star_graffiti",
+   "item_name": "#StickerKit_bud2025_team_star",
    "image_inventory": "econ/stickers/bud2025/star_graffiti"
   }
  }

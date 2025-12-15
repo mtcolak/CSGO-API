@@ -202,6 +202,12 @@ const parseItem = item => {
             name: item.name,
             image_inventory: `econ/stickers/${item.sticker_material.toLowerCase()}_1355_37`,
         },
+
+        // Language translation keys
+        i18n: {
+            name: item.item_name,
+            description: item.item_description,
+        },
     };
 };
 
