@@ -143,5 +143,5 @@ export const getKeys = () => {
             return name;
         });
 
-    saveDataJson(`./public/api/${folder}/keys.json`, keys);
+    return saveDataJson(`./public/api/${folder}/keys.json`, keys);
 };

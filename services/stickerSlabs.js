@@ -1,9 +1,14 @@
+import { createRequire } from "module";
+
 import { saveDataJson } from "../utils/saveDataJson.js";
-import { $t, languageData } from "./translations.js";
-import { state } from "./main.js";
-import specialNotes from "../utils/specialNotes.json" with { type: "json" };
 import { getRarityColor } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
+
+import { $t, languageData } from "./translations.js";
+import { state } from "./main.js";
+
+const require = createRequire(import.meta.url);
+const specialNotes = require("../utils/specialNotes.json");
 
 const isSticker = item => {
     if (item.sticker_material === undefined) {
@@ -217,5 +222,5 @@ export const getStickerSlabs = () => {
 
     const stickers = stickerKits.filter(isSticker).map(parseItem);
 
-    saveDataJson(`./public/api/${folder}/sticker_slabs.json`, stickers);
+    return saveDataJson(`./public/api/${folder}/sticker_slabs.json`, stickers);
 };

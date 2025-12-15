@@ -60,5 +60,5 @@ export const getPatches = () => {
 
     const patches = stickerKits.filter(isPatch).map(parseItem);
 
-    saveDataJson(`./public/api/${folder}/patches.json`, patches);
+    return saveDataJson(`./public/api/${folder}/patches.json`, patches);
 };

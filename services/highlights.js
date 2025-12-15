@@ -49,5 +49,5 @@ export const getHighlights = () => {
 
     const highlights = highlightReels.map(parseItem);
 
-    saveDataJson(`./public/api/${folder}/highlights.json`, highlights);
+    return saveDataJson(`./public/api/${folder}/highlights.json`, highlights);
 };

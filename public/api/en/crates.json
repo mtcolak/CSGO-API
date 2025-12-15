@@ -4,7 +4,7 @@
   "name": "Gift Package",
   "description": "When used, a random player in your match will get a random item as a gift from you.",
   "def_index": "1210",
-  "type": null,
+  "type": "Tool",
   "first_sale_date": "2013/12/17",
   "rarity": {
    "id": "rarity_common",
@@ -32,7 +32,7 @@
   "name": "Pallet of Presents",
   "description": "When used, up to 9 other players in your match will get a random item as a gift from you.",
   "def_index": "1211",
-  "type": null,
+  "type": "Tool",
   "first_sale_date": "2013/12/16",
   "rarity": {
    "id": "rarity_common",
@@ -60,7 +60,7 @@
   "name": "Audience Participation Parcel",
   "description": "When used, up to 25 viewers watching your match will get a random item as a gift from you.",
   "def_index": "1215",
-  "type": null,
+  "type": "Tool",
   "first_sale_date": "2013/12/16",
   "rarity": {
    "id": "rarity_common",
@@ -82382,7 +82382,7 @@
   "name": "X-Ray P250 Package",
   "description": "This package contains a single custom painted P250 showing its internals with an X-Ray. P250 is a low-recoil firearm with a high rate of fire, which is a relatively inexpensive choice against armored opponents.",
   "def_index": "4668",
-  "type": null,
+  "type": "Weapon Case",
   "first_sale_date": "2019/10/02",
   "rarity": {
    "id": "rarity_common",
@@ -116867,7 +116867,7 @@
   "name": "Anubis Collection Package",
   "description": null,
   "def_index": "4882",
-  "type": null,
+  "type": "Self-Opening Case",
   "first_sale_date": "2023/04/24",
   "rarity": {
    "id": "rarity_common",
@@ -153187,7 +153187,7 @@
   "name": "Sealed Genesis Terminal",
   "description": null,
   "def_index": "5176",
-  "type": null,
+  "type": "Terminal",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",

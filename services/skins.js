@@ -9,11 +9,16 @@ import {
     getRarityColor,
     weaponIDMapping,
 } from "../utils/index.js";
+
+import { createRequire } from "module";
 import { saveDataJson } from "../utils/saveDataJson.js";
+import { getImageUrl } from "../constants.js";
+
 import { $t, $tTag, $tc, languageData } from "./translations.js";
 import { state } from "./main.js";
-import specialNotes from "../utils/specialNotes.json" with { type: "json" };
-import { getImageUrl } from "../constants.js";
+
+const require = createRequire(import.meta.url);
+const specialNotes = require("../utils/specialNotes.json");
 
 const getPatternName = (weapon, string) => {
     return string.replace(`${weapon}_`, "").toLowerCase();

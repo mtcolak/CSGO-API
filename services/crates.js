@@ -1,9 +1,14 @@
+import { createRequire } from "module";
+
 import { saveDataJson } from "../utils/saveDataJson.js";
-import { $t, $tc, languageData } from "./translations.js";
-import { state } from "./main.js";
-import specialNotes from "../utils/specialNotes.json" with { type: "json" };
 import { getRarityColor } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
+
+import { $t, $tc, languageData } from "./translations.js";
+import { state } from "./main.js";
+
+const require = createRequire(import.meta.url);
+const specialNotes = require("../utils/specialNotes.json");
 
 const isCrate = item => {
     if (item.item_name === undefined) return false;
@@ -40,8 +45,16 @@ const isCrate = item => {
     return true;
 };
 
-const getCrateType = item => {
-    if (item.prefab === "weapon_case") {
+const getCrateType = item => {    
+    if (item.prefab?.includes("weapon_case_selfopening_collection") && item.prefab?.includes("volatile_pricing")) {
+        return "Terminal";
+    }
+
+    if (item.prefab?.includes("weapon_case_selfopening_collection")) {
+        return "Self-Opening Case";
+    }
+
+    if (item.prefab === "weapon_case" || item.name =='crate_xray_p250') {
         return "Weapon Case";
     }
 
@@ -75,6 +88,10 @@ const getCrateType = item => {
 
     if (item.name.startsWith("crate_musickit")) {
         return "Music Kit Box";
+    }
+
+    if (item.prefab.includes("csgo_tool")) {
+        return "Tool";
     }
 
     return null;

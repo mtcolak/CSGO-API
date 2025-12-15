@@ -1,6 +1,9 @@
 import axios from "axios";
 import { CSGO_ENGLISH_URL } from "../constants.js";
-import customTranslations from "../utils/translations.json" with { type: "json" };
+import { createRequire } from "module";
+
+const require = createRequire(import.meta.url);
+const customTranslations = require("../utils/translations.json");
 
 export let languageData = null;
 const translations = {

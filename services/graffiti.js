@@ -1,9 +1,14 @@
+import { createRequire } from "module";
+
 import { saveDataJson } from "../utils/saveDataJson.js";
-import { $t, languageData } from "./translations.js";
-import { state } from "./main.js";
-import specialNotes from "../utils/specialNotes.json" with { type: "json" };
 import { getGraffitiVariations, getRarityColor } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
+
+import { $t, languageData } from "./translations.js";
+import { state } from "./main.js";
+
+const require = createRequire(import.meta.url);
+const specialNotes = require("../utils/specialNotes.json");
 
 const isGraffiti = item => {
     if (item.item_name.startsWith("#SprayKit_")) {
@@ -129,5 +134,5 @@ export const getGraffiti = () => {
         .map(parseItemSealedGraffiti)
         .flatMap(level1 => level1);
 
-    saveDataJson(`./public/api/${folder}/graffiti.json`, graffiti);
+    return saveDataJson(`./public/api/${folder}/graffiti.json`, graffiti);
 };

@@ -15,11 +15,12 @@ import { getKeychains } from "./services/keychains.js";
 import { getSkins } from "./services/skins.js";
 import { LANGUAGES_URL } from "./constants.js";
 import { getMusicKits } from "./services/musicKits.js";
-// import { getSkinsNotGrouped } from "./services/skinsNotGrouped.js";
+
 import { getTools } from "./services/tools.js";
 import { getBaseWeapons } from "./services/baseWeapons.js";
 import { getHighlights } from "./services/highlights.js";
 import { getPaintKits } from "./services/paintKits.js";
+import { getDefinitions } from "./services/definitions.js";
 
 const args = process.argv.slice(2);
 const isForce = args.includes("--force");
@@ -57,23 +58,26 @@ await Promise.all(
         try {
             await loadTranslations(language);
 
-            getAgents();
-            getCollectibles();
-            getCollections();
-            getCrates();
-            getGraffiti();
-            getKeys();
-            getMusicKits();
-            getPatches();
-            getSkins();
-            // getSkinsNotGrouped();
-            getStickers();
-            getStickerSlabs();
-            getKeychains();
-            getTools();
-            getBaseWeapons();
-            getHighlights();
-            getPaintKits();
+            await getAgents();
+            await getCollectibles();
+            await getCollections();
+            await getCrates();
+            await getGraffiti();
+            await getKeys();
+            await getMusicKits();
+            await getPatches();
+            await getSkins();
+
+            await getStickers();
+            await getStickerSlabs();
+            await getKeychains();
+            await getTools();
+            await getBaseWeapons();
+            await getHighlights();
+            await getPaintKits();
+            
+            // Generate aggregated definitions
+            await getDefinitions();
         } catch (error) {
             console.log(error);
         }

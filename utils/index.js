@@ -774,3 +774,55 @@ export function getPlayerNameOfHighlight(id, players) {
 
     return Object.values(players).find(name => id.startsWith(name.toLowerCase())) ?? "Unknown Player";
 }
+
+export const ITEM_TYPES = {
+    // Weapons
+    Pistol: 1,
+    SMG: 2,
+    Rifle: 3,
+    SniperRifle: 4,
+    Shotgun: 5,
+    Machinegun: 6,
+
+    // Special Equipment
+    Taser: 7,
+
+    // Knives & Gloves
+    Knife: 10,
+    Glove: 11,
+
+    // Cosmetics & Character
+    Agent: 20,
+    Charm: 21,
+    Sticker: 22,
+    Graffiti: 23,
+    Patch: 24,
+    MusicKit: 25,
+
+    // Containers
+    WeaponCase: 30,
+    StickerCapsule: 31,
+    SouvenirPackage: 32,
+    GraffitiBox: 33,
+    PinCapsule: 34,
+    PatchCapsule: 35,
+    MusicKitBox: 36,
+    AutographCapsule: 37,
+    SelfOpeningCase: 38,
+    Terminal: 39,
+    Container: 49,
+
+    // Tools & Utilities
+    Key: 50,
+    NameTag: 51,
+    Tool: 52,
+    StorageUnit: 53,
+
+    // Misc
+    Collectible: 60,
+    Pass: 61,
+    Gift: 62,
+
+    // Non-Marketable
+    Equipment: 99
+};
