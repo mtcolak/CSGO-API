@@ -80,7 +80,7 @@ export const getDefinitions = async () => {
             def_index: i.def_index,
             name: i.name,
             description: i.description,
-            type: { id: 0, name: 'Weapon' }, // Undefined / BaseWeapon
+            type: i.type,
             rarity_id: 0,
             image: i.image,
             i18n: {

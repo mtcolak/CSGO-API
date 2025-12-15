@@ -340,6 +340,11 @@ export const getCategory = weapon => {
 
 export const getType = weapon => {
     switch (weapon) {
+        case "weapon_awp":
+        case "weapon_ssg08":
+        case "weapon_scar20":
+        case "weapon_g3sg1":
+            return ITEM_TYPES.SniperRifle;
         case "weapon_deagle":
         case "weapon_elite":
         case "weapon_fiveseven":
@@ -350,27 +355,23 @@ export const getType = weapon => {
         case "weapon_usp_silencer":
         case "weapon_cz75a":
         case "weapon_revolver":
-            return "CSGO_Type_Pistol";
+            return ITEM_TYPES.Pistol;
         case "weapon_ak47":
         case "weapon_aug":
-        case "weapon_awp":
         case "weapon_famas":
-        case "weapon_g3sg1":
         case "weapon_galilar":
-        case "weapon_scar20":
         case "weapon_sg556":
-        case "weapon_ssg08":
         case "weapon_m4a1_silencer":
         case "weapon_m4a1":
-            return "CSGO_Type_Rifle";
+            return ITEM_TYPES.Rifle;
         case "weapon_m249":
         case "weapon_negev":
-            return "CSGO_Type_Machinegun";
+            return ITEM_TYPES.Machinegun;
         case "weapon_xm1014":
         case "weapon_mag7":
         case "weapon_sawedoff":
         case "weapon_nova":
-            return "CSGO_Type_Shotgun";
+            return ITEM_TYPES.Shotgun;
         case "weapon_mac10":
         case "weapon_p90":
         case "weapon_mp5sd":
@@ -378,7 +379,7 @@ export const getType = weapon => {
         case "weapon_bizon":
         case "weapon_mp7":
         case "weapon_mp9":
-            return "CSGO_Type_SMG";
+            return ITEM_TYPES.SMG;
         case "weapon_bayonet":
         case "weapon_knife_css":
         case "weapon_knife_flip":
@@ -399,7 +400,7 @@ export const getType = weapon => {
         case "weapon_knife_widowmaker":
         case "weapon_knife_skeleton":
         case "weapon_knife_kukri":
-            return "CSGO_Type_Knife";
+            return ITEM_TYPES.Knife;
         case "studded_bloodhound_gloves":
         case "studded_brokenfang_gloves":
         case "sporty_gloves":
@@ -408,9 +409,9 @@ export const getType = weapon => {
         case "motorcycle_gloves":
         case "specialist_gloves":
         case "studded_hydra_gloves":
-            return "Type_Hands";
+            return ITEM_TYPES.Glove;
         case "weapon_taser":
-            return "Survival_SpawnEquip_taser";
+            return ITEM_TYPES.Taser;
     }
 
     return null;

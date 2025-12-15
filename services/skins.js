@@ -8,6 +8,7 @@ import {
     getDopplerPhase,
     getRarityColor,
     weaponIDMapping,
+    ITEM_TYPE_NAMES,
 } from "../utils/index.js";
 
 import { createRequire } from "module";
@@ -123,7 +124,7 @@ const parseItem = (item, items) => {
         },
         type: {
             id: getType(weapon),
-            name: $t(getType(weapon)),
+            name: ITEM_TYPE_NAMES[getType(weapon)],
         },
         pattern: {
             id: pattern,

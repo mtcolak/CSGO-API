@@ -4,7 +4,7 @@ import { getImageUrl } from "../constants.js";
 import { weaponIDMapping } from "../utils/index.js";
 import { state } from "./main.js";
 
-import { getType } from "../utils/index.js";
+import { getType, ITEM_TYPE_NAMES } from "../utils/index.js";
 
 export const getBaseWeapons = async () => {
     const { items, cdnImages } = state;
@@ -18,6 +18,11 @@ export const getBaseWeapons = async () => {
         "weapon_decoy",
         "weapon_incgrenade",
         "weapon_healthshot",
+        "weapon_c4",
+        "weapon_knife_t",
+        "weapon_knife",
+        "t_gloves",
+        "ct_gloves",
     ];
 
     const baseWeapons = Object.entries(weaponIDMapping)
@@ -37,7 +42,7 @@ export const getBaseWeapons = async () => {
                 def_index: defIndex,
                 type: {
                     id: getType(weapon),
-                    name: $t(getType(weapon)),
+                    name: ITEM_TYPE_NAMES[getType(weapon)],
                 },
                 image:
                     cdnImages[`econ/weapons/base_weapons/${weapon}`] ??

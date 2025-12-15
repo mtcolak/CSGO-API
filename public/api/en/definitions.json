@@ -34,8 +34,8 @@
   "name": "Desert Eagle",
   "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnk-CNc4_fgOfA8cfGRDTfGku13seI4Fyq2wUQm5DjWzo38IH3BO1N2W5MmTe5etw74zINmLLSKdA",
@@ -49,8 +49,8 @@
   "name": "Dual Berettas",
   "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnl8StP6ryvOqJpJqjACjbBkb93srg-Fn7ilBhysWXSyNarJSqUZlIpCMclTbMCrFDmxYRwJ9Kk",
@@ -64,8 +64,8 @@
   "name": "Five-SeveN",
   "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnm9DRe_Pe4baojePHHWz7GwL4jsbVvTHnilE1w5WrVzo39JH6QOFUnC8RxROMN4ESwlMqnab24YkBbtQ",
@@ -79,8 +79,8 @@
   "name": "Glock-18",
   "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnn8S1Y5Lz9O_M5d_LHDz6WmOp04-U8THmwzU0l6ziDyd__IC3DO1IgXJJwE7NfrFDmxU9v5GXb",
@@ -94,8 +94,8 @@
   "name": "AK-47",
   "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 3,
+   "name": "Rifle"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnh9nYMoaCvMfxudKGVC2bIwLku5bFsHn2xzU1w4W_Tm9-ucn2eaQZxWcYmR-IU8k7vea-fOvM",
@@ -109,8 +109,8 @@
   "name": "AUG",
   "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 3,
+   "name": "Rifle"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnh6CUV7ff8PP08eanED2LHlLh06ec-TnjmkUUmsGXRn4n8cimTPVB0XsR1RPlK7Ee4GsImgw",
@@ -124,8 +124,8 @@
   "name": "AWP",
   "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 4,
+   "name": "SniperRifle"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnh6jIVtqr4PqBoI_ORVjXFkeguseMwGXGwwUV_4GmHyd2qdH-WbFAmApsiQPlK7EcMn7y-CQ",
@@ -139,8 +139,8 @@
   "name": "FAMAS",
   "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 3,
+   "name": "Rifle"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_famas_png.png",
@@ -154,8 +154,8 @@
   "name": "G3SG1",
   "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 4,
+   "name": "SniperRifle"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_g3sg1_png.png",
@@ -169,8 +169,8 @@
   "name": "Galil AR",
   "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 3,
+   "name": "Rifle"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnn_C5S4_O8JvZrIaPKV2ORx7d3trg7Gnjmlxl04WTTyoyqeXKUPFVzCsN1FuMJuxam0oqwr0aqT-w",
@@ -184,8 +184,8 @@
   "name": "M249",
   "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 6,
+   "name": "Machinegun"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKntr3YCoaarbfc_IvHDWWLClb8g5OA7F3y1l0xw6juBzdeoJX6fZ1IoWcciQ-UU8k7vtOr9c-I",
@@ -199,8 +199,8 @@
   "name": "M4A4",
   "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 3,
+   "name": "Rifle"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKntqSMKofH_O_Y-JfSVV2XBkLolsbZvTCqxx0sk4DjUnNipdSiQagcgXJQlRLEU8k7vIDSSpqI",
@@ -214,8 +214,8 @@
   "name": "MAC-10",
   "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 2,
+   "name": "SMG"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mac10_png.png",
@@ -229,8 +229,8 @@
   "name": "P90",
   "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 2,
+   "name": "SMG"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnwpHIVvfOsPfI9dqDCWDDGkb4j5OU_Fy_kx0l1tj6DnoqseC2TP1cpAsF2QPlK7EcMYXqtDg",
@@ -244,8 +244,8 @@
   "name": "MP5-SD",
   "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 2,
+   "name": "SMG"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp5sd_png.png",
@@ -259,8 +259,8 @@
   "name": "UMP-45",
   "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 2,
+   "name": "SMG"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn18DIPurz6MPducqDGCDPIw7l05LA7SXyylkh25z-Dm9agJHKSZgciDZt3F7JerFDmxeILsNGi",
@@ -274,8 +274,8 @@
   "name": "XM1014",
   "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 5,
+   "name": "Shotgun"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_xm1014_png.png",
@@ -289,8 +289,8 @@
   "name": "PP-Bizon",
   "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 2,
+   "name": "SMG"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKni9DhU4bz-PKZocPTBW2GWlbZw4bM7SS2xwER1smSEnIv6dS_GbFBxDJd0RLFbrFDmxaLGO5J-",
@@ -304,8 +304,8 @@
   "name": "MAG-7",
   "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 5,
+   "name": "Shotgun"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mag7_png.png",
@@ -319,8 +319,8 @@
   "name": "Negev",
   "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 6,
+   "name": "Machinegun"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnu-CVe-bz3P6I1caTGDzTFk7gh5rg6Tn3rkBwm4zjSwo3_Ii-fZgIjA8dwELFZrFDmxWhBRARX",
@@ -334,8 +334,8 @@
   "name": "Sawed-Off",
   "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 5,
+   "name": "Shotgun"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnz_DVe6_2obuo_JqHACzaSk-1wtrMwTi3nkUly6m-ByYr4Jy2fP1cgA8dxFLRfu0LqjJS5YC4vtNQk",
@@ -349,8 +349,8 @@
   "name": "Tec-9",
   "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn0-CECofb2MKY9IvPGWjPAkrwi5Lk4Tn3nzUwlsGnVzI6pdymQbVAjW8d0F-IU8k7vdMx23Ho",
@@ -364,8 +364,8 @@
   "name": "Zeus x27",
   "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 7,
+   "name": "Taser"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn0_DFe_bz6PKI4caTCDzHCwrkj57U6FnHik0l04mXVw4yhJCiRaVImW8dzTeRcrFDmxd8qNG47",
@@ -379,8 +379,8 @@
   "name": "P2000",
   "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKno9jIJv6L-Jqc_cKjEWDDDlLx3trVrH3qykEtz4TjQno6td3uVbVRyWZR2EbEKtRCm0oqwKXhPxN4",
@@ -394,8 +394,8 @@
   "name": "MP7",
   "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 2,
+   "name": "SMG"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnt7XUVvfOoPqA1eKHEVjXFlr0ituM_SnqwwR9w4mXVyIn6dnKRblV1D5AhTPlK7EelyO1yEg",
@@ -409,8 +409,8 @@
   "name": "MP9",
   "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 2,
+   "name": "SMG"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnt7XsVv6T9OvE9dKLKCD_Ex74h5bY6Tnrgl0hzt2rXm4qseXyWaAMgWJJ2EflK7Ec0i602wg",
@@ -424,8 +424,8 @@
   "name": "Nova",
   "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 5,
+   "name": "Shotgun"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_nova_png.png",
@@ -439,8 +439,8 @@
   "name": "P250",
   "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnwr3cLoaf4avNvJqKXXmKUlrp0s-U9HCvgw0V05WSDw96pIC6VOw92X8QkROAU8k7vNwsvFQ4",
@@ -454,8 +454,8 @@
   "name": "SCAR-20",
   "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 4,
+   "name": "SniperRifle"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_scar20_png.png",
@@ -469,8 +469,8 @@
   "name": "SG 553",
   "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 3,
+   "name": "Rifle"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_sg556_png.png",
@@ -484,8 +484,8 @@
   "name": "SSG 08",
   "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 4,
+   "name": "SniperRifle"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnz7iULt7z2MPY1eaWVCDHGlrgksuQ_HS3lxhkh4m-Gm9b6ICjCPQ4hDMF3EOJerFDmxXJ24aAg",
@@ -495,57 +495,12 @@
   }
  },
  {
-  "def_index": 42,
-  "name": "Knife",
-  "description": "Quiet and always available, the knife has a fast, low-damage primary attack and a slow, high-damage secondary attack. A backstab will earn quiet players an instant kill.",
-  "type": {
-   "id": 0,
-   "name": "Weapon"
-  },
-  "rarity_id": 0,
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6rz5PvI9dPbGX2HGl7dw4LYxHn3mlkshtWmHzI74IyqVbQQnWZN1Q7QLrFDmxYFVbevc",
-  "i18n": {
-   "name": "#SFUI_WPNHUD_Knife",
-   "description": "#CSGO_Item_desc_Knife"
-  }
- },
- {
-  "def_index": 49,
-  "name": "C4 Explosive",
-  "description": "Stable and resistant to most physical shocks, this improvised plastic explosive has a detonation velocity of over 8,000 meters per second when ignited.",
-  "type": {
-   "id": 0,
-   "name": "Weapon"
-  },
-  "rarity_id": 0,
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnjqWwLvfOoavw8IvTCV2bEle1w6Lk-TSq2k0x25jiBzN_9dXqVaQ91W5AkW6dU5WnQha4l",
-  "i18n": {
-   "name": "#SFUI_WPNHUD_C4",
-   "description": "#CSGO_Item_Desc_C4"
-  }
- },
- {
-  "def_index": 59,
-  "name": "Knife",
-  "description": "Quiet and always available, the knife has a fast, low-damage primary attack and a slow, high-damage secondary attack. A backstab will earn quiet players an instant kill.",
-  "type": {
-   "id": 0,
-   "name": "Weapon"
-  },
-  "rarity_id": 0,
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s26JqJodqWRXjXBlLt05bM7TX21kx91527RnN-teXzFPQYpD5ckQbYM4BCm0oqwrVaqAqg",
-  "i18n": {
-   "name": "#SFUI_WPNHUD_Knife_T",
-   "description": "#CSGO_Item_desc_Knife_T"
-  }
- },
- {
   "def_index": 60,
   "name": "M4A1-S",
   "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 3,
+   "name": "Rifle"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKntqSMK0OGnZKFjI_WBQD_Cleh0teA_F37qkERy52rWm9yhdynGblMgD5AkQrZeuhXtkt3iMOv8p1uJZpwq8Vo",
@@ -559,8 +514,8 @@
   "name": "USP-S",
   "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn17jJk_PuibapuJeLdWGLFwL8i4eVsFiqxxUt34jmHnoysJ3qVOAYgCJZwQrRb5EPul4XlYvSiuVIHgy4Xvg",
@@ -574,8 +529,8 @@
   "name": "CZ75-Auto",
   "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnj53UO7ryvaac0dKiVW2XBlrwmsuA6GH3hkE9062qEz9aoeCmVawchW8dwEe4MrFDmxWPDR_Ga",
@@ -589,8 +544,8 @@
   "name": "R8 Revolver",
   "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 1,
+   "name": "Pistol"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKny-DRU4-Sreuo8cvTLCzKRmbkk4ONtGijilk8k4znWy9v8JCiUaQIiWZpyQ-AJtEa7jJS5YM17OTN5",
@@ -604,8 +559,8 @@
   "name": "Bayonet",
   "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKni_DtU4fe6Jv07IfTDDT_JkL4htLI7HCvmwE9z42_Vzov4ci2Wa1IgWMN3R7IMuxCm0oqwYUAZNBA",
@@ -619,8 +574,8 @@
   "name": "Classic Knife",
   "description": "A classic of the Counter-Strike series, the edge of this knife is press-fit Stellite perfectly held in place due to its precise fit with the titanium on the blade's cheek and spine. The handle is fossilized mastodon ivory held in a carbon fibre pocket.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2te7cjd6HHXmHBxep157VtTi_rzUR-5WiHnt39c3_EZg4pW5UjQOZbsBCxw8qnab32FBG7RA",
@@ -634,8 +589,8 @@
   "name": "Flip Knife",
   "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oZK19bqjKVjbDkbtwtbU4S3jhwElw4DvVzomhd3_CblV1CZd2TO5f4RG4lID5d7S15Y9TpQQ",
@@ -649,8 +604,8 @@
   "name": "Gut Knife",
   "description": "The most notable feature of a gut knife is the gut hook on the spine of the blade.  Originally popularized as an aid for field dressing game, the gut hook is also effective at  cutting through fibrous materials like rope, webbing, or safety belts with ease.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pfbAjd6TAXDSSkeh3trdtTCy1zUV2t2vTyoyrIHzDalAgCsN1ROcO40O6wMqnab0rKy1qHw",
@@ -664,8 +619,8 @@
   "name": "Karambit",
   "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2labZsLfKaGinEx-0u5LhqGHrjlElz52jRmN2sd3yfb1NzWZVwRbNeu0S5k9WxMuvh-UWA3ObnwJvj",
@@ -679,8 +634,8 @@
   "name": "M9 Bayonet",
   "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2jMZtvIemcAGKEj7ojtOIwSnrrkEt25WiEw438cXuUaQB0WcBxFrUItxa6lNezMOKzsVPAy9USYWigJ8Q",
@@ -694,8 +649,8 @@
   "name": "Huntsman Knife",
   "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s26aad5KfOSAimVlugu47U5HSrmzEp14zncz4ygICiealIiAsF2EOdYtkTpwNXuYbjk-UWA3JpY_ZDP",
@@ -709,8 +664,8 @@
   "name": "Falchion Knife",
   "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oaahuKPmcACmSlL4u5uVqG37klhh24DnUytaqJXKQbgcmX5RyF-4Puha8xofmZejg-UWA3FLkEz9H",
@@ -724,8 +679,8 @@
   "name": "Bowie Knife",
   "description": "This full-tang sawback Bowie knife is designed for heavy use in brutal survival situations.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fbZ7KeaSAliSzvl_ta88TX61xExyt2nTz9eveHjEPQRzXMcjFuYIuhHtkIKyNLnmtACLg4sX02yg2XbF4Kcv",
@@ -739,8 +694,8 @@
   "name": "Butterfly Knife",
   "description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2sfbB5JeKVAn7elO8l6LRoF3_hzBsmtWSDzt-rcy3BP1AnXsR4FOJZskG6xtDkM7627xue1dy94mNpNQ",
@@ -754,8 +709,8 @@
   "name": "Shadow Daggers",
   "description": "Designed for efficient brutality, using a push dagger is as simple as throwing a punch or two.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2-fbdlbvXKWWXIlbh15bdrTnvmwkt34z_Qz46hdnjFbAIkCJdzR-Zctxi5kNb5d7S1mgn3amY",
@@ -769,8 +724,8 @@
   "name": "Paracord Knife",
   "description": "This fixed-blade survival knife is designed to withstand being used as both a weapon and a tool, such as for setting traps, hunting animals or cutting foliage. The handle is wrapped in a length of multi-purpose paracord.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2tZ7ZpbqWRXmWTmbsm5bU5TXu3lkR_5j_Swor8JC_BPFVxWJd1FuID4RW7w9b5d7S1z-U4Rao",
@@ -784,8 +739,8 @@
   "name": "Survival Knife",
   "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2taapkM77CDzbIlrsms-NsHHGxzUwj5G6En4yuIy_BbQAjC5VxQLRc5hm8x4HvKaq8sEukLuHu",
@@ -799,8 +754,8 @@
   "name": "Ursus Knife",
   "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s27erd4M77AXWWWx7h3tOA5SyvilEkj5WuGw42qc3zEOg4iDJEjQu9b4xa6w4DgKaq8sDVgNcPY",
@@ -814,8 +769,8 @@
   "name": "Navaja Knife",
   "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pcbR-Oc-ZD2SbyuB_tuQnGXu1kBxw62_dwtird3qXZwQgXJV0E-4PtESxl4ezYr6x4FaMjI4UyzK-0H1iy36efQ",
@@ -829,8 +784,8 @@
   "name": "Nomad Knife",
   "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2hfbBpL_-BQDPEw-hz57cxTnCxkEh_5jnVzor8dymXbgAiAsFyEOEMsBW8l9O1Ne38p1uJmh0Kkm0",
@@ -844,8 +799,8 @@
   "name": "Stiletto Knife",
   "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fK1hJeSHASnCmO8v4bc_HCjilkkismTWyNutciqealMhDsR5F7MM4UWwlYC1Zr7n-UWA3E6ZCYCt",
@@ -859,8 +814,8 @@
   "name": "Talon Knife",
   "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s25YaBiN_2SBWKCj7ghsrRrTHDnzB8h4mTRw9iudC_DPFVyCsF3R-Zc4xK_ldXgNb7qsgDAy9USS1NPX9M",
@@ -874,8 +829,8 @@
   "name": "Skeleton Knife",
   "description": "This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29Y6FhJeScACnDkL8j6LU8GS3mwUh24G-Bno2tIymeblMgC5R3F-ECsBK6k4XuN-Lh-UWA3P3GyEv9",
@@ -889,8 +844,8 @@
   "name": "Kukri Knife",
   "description": "Used in traditional rituals, such as weddings or stabbings.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 10,
+   "name": "Knife"
   },
   "rarity_id": 0,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2lfa9_Kb6VXmPGwuogsbNvSyi3zR4jsTnQztyqdS6QP1IoXpoiEeAC5Be5l9CxKaq8sIvgdE5J",
@@ -904,8 +859,8 @@
   "name": "Broken Fang Gloves",
   "description": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 11,
+   "name": "Glove"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/studded_brokenfang_gloves_png.png",
@@ -919,8 +874,8 @@
   "name": "Bloodhound Gloves",
   "description": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 11,
+   "name": "Glove"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/studded_bloodhound_gloves_png.png",
@@ -930,42 +885,12 @@
   }
  },
  {
-  "def_index": 5028,
-  "name": "Default T Gloves",
-  "description": "<i>Never be afraid to get blood on your hands. – Valeria Jenner, Revolutionary</i>",
-  "type": {
-   "id": 0,
-   "name": "Weapon"
-  },
-  "rarity_id": 0,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/t_gloves_png.png",
-  "i18n": {
-   "name": "#CSGO_Wearable_t_defaultgloves",
-   "description": "#CSGO_Wearable_t_defaultgloves_Desc"
-  }
- },
- {
-  "def_index": 5029,
-  "name": "Default CT Gloves",
-  "description": "General-purpose tactical combat gloves designed for military or security personnel.",
-  "type": {
-   "id": 0,
-   "name": "Weapon"
-  },
-  "rarity_id": 0,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/ct_gloves_png.png",
-  "i18n": {
-   "name": "#CSGO_Wearable_ct_defaultgloves",
-   "description": "#CSGO_Wearable_ct_defaultgloves_Desc"
-  }
- },
- {
   "def_index": 5030,
   "name": "Sport Gloves",
   "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 11,
+   "name": "Glove"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/sporty_gloves_png.png",
@@ -979,8 +904,8 @@
   "name": "Driver Gloves",
   "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 11,
+   "name": "Glove"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/slick_gloves_png.png",
@@ -994,8 +919,8 @@
   "name": "Hand Wraps",
   "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 11,
+   "name": "Glove"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/leather_handwraps_png.png",
@@ -1009,8 +934,8 @@
   "name": "Moto Gloves",
   "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 11,
+   "name": "Glove"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/motorcycle_gloves_png.png",
@@ -1024,8 +949,8 @@
   "name": "Specialist Gloves",
   "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 11,
+   "name": "Glove"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/specialist_gloves_png.png",
@@ -1039,8 +964,8 @@
   "name": "Hydra Gloves",
   "description": "These fingerless gloves have been decorated with metal studs and the Operation Hydra logo.",
   "type": {
-   "id": 0,
-   "name": "Weapon"
+   "id": 11,
+   "name": "Glove"
   },
   "rarity_id": 0,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/studded_hydra_gloves_png.png",
