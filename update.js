@@ -15,7 +15,7 @@ import { getKeychains } from "./services/keychains.js";
 import { getSkins } from "./services/skins.js";
 import { LANGUAGES_URL } from "./constants.js";
 import { getMusicKits } from "./services/musicKits.js";
-import { getSkinsNotGrouped } from "./services/skinsNotGrouped.js";
+// import { getSkinsNotGrouped } from "./services/skinsNotGrouped.js";
 import { getTools } from "./services/tools.js";
 import { getBaseWeapons } from "./services/baseWeapons.js";
 import { getHighlights } from "./services/highlights.js";
@@ -66,7 +66,7 @@ await Promise.all(
             getMusicKits();
             getPatches();
             getSkins();
-            getSkinsNotGrouped();
+            // getSkinsNotGrouped();
             getStickers();
             getStickerSlabs();
             getKeychains();
