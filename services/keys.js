@@ -2,6 +2,7 @@ import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
 import { getImageUrl } from "../constants.js";
+import { ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
 
 const isKey = item => {
     if (item.item_name === undefined) {
@@ -95,6 +96,10 @@ const parseItem = item => {
         name: $t(item.item_name),
         description: $t(item.item_description) ?? $t(item.item_description_prefab),
         def_index: item.object_id,
+        type: {
+            id: ITEM_TYPES.Key,
+            name: ITEM_TYPE_NAMES[ITEM_TYPES.Key]
+        },
         crates,
         market_hash_name: marketable.includes(item.item_name) ? $t(item.item_name, true) : null,
         marketable: marketable.includes(item.item_name),

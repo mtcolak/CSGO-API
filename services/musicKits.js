@@ -1,7 +1,7 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
-import { getRarityColor, isExclusive } from "../utils/index.js";
+import { getRarityColor, isExclusive, ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 const getDescription = (item, isStattrak) => {
@@ -45,6 +45,10 @@ const parseItem = item => {
             name: exclusive || valve ? $t(item.loc_name) : $t(item.coupon_name),
             description: $t(item.loc_description),
             def_index: item.object_id,
+            type: {
+                id: ITEM_TYPES.MusicKit,
+                name: ITEM_TYPE_NAMES[ITEM_TYPES.MusicKit]
+            },
             rarity: {
                 id: "rarity_rare",
                 name: $t("rarity_rare"),
@@ -76,6 +80,10 @@ const parseItem = item => {
             name: $t(`${item.coupon_name}_stattrak`),
             description: $t(item.loc_description),
             def_index: item.object_id,
+            type: {
+                id: ITEM_TYPES.MusicKit,
+                name: ITEM_TYPE_NAMES[ITEM_TYPES.MusicKit]
+            },
             rarity: {
                 id: "rarity_rare",
                 name: $t("rarity_rare"),

@@ -1,8 +1,8 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
-import { getRarityColor } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
+import { getRarityColor, ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
 
 const isPatch = item => {
     if (["case_skillgroups/patch_legendaryeagle"].includes(item.patch_material)) {
@@ -32,6 +32,10 @@ const parseItem = item => {
         name: `${$t("csgo_tool_patch")} | ${$t(item.item_name)}`,
         description: $t(item.description_string),
         def_index: item.object_id,
+        type: {
+            id: ITEM_TYPES.Patch,
+            name: ITEM_TYPE_NAMES[ITEM_TYPES.Patch]
+        },
         rarity: {
             id: `rarity_${item.item_rarity}`,
             name: $t(`rarity_${item.item_rarity}`),

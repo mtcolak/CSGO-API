@@ -4,6 +4,10 @@
   "name": "Patch | Crazy Banana",
   "description": "<i>Agent for scale</i>",
   "def_index": "4550",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -25,6 +29,10 @@
   "name": "Patch | The Boss",
   "description": "<i>Heavy is the agent that wears the crown</i>",
   "def_index": "4551",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -46,6 +54,10 @@
   "name": "Patch | Chicken Lover",
   "description": "<i>Thank you for sparing them</i>",
   "def_index": "4552",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -67,6 +79,10 @@
   "name": "Patch | Welcome to the Clutch",
   "description": "<i>4K's are the norm to an agent wearing this patch</i>",
   "def_index": "4553",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -88,6 +104,10 @@
   "name": "Patch | Dragon",
   "description": "<i>This patch features a dragon flanked on either side by the iconic AK-47</i>",
   "def_index": "4554",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -109,6 +129,10 @@
   "name": "Patch | Easy Peasy",
   "description": "<i>This patch somehow made it through quality control misspelling \\\"SQEEZY\\\"</i>",
   "def_index": "4555",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -130,6 +154,10 @@
   "name": "Patch | Rage",
   "description": "<i>A patch signifying rage, anger, or fury</i>",
   "def_index": "4556",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -151,6 +179,10 @@
   "name": "Patch | Howl",
   "description": "<i>This patch is worth its weight in red, orange, and gold</i>",
   "def_index": "4557",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -172,6 +204,10 @@
   "name": "Patch | Koi",
   "description": "<i>This patch features two Koi fish atop swirling blue water</i>",
   "def_index": "4558",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -193,6 +229,10 @@
   "name": "Patch | Longevity",
   "description": "<i>This red and white patch features an artistic take on the \\\"CSGO\\\" logo</i>",
   "def_index": "4559",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -214,6 +254,10 @@
   "name": "Patch | Wildfire",
   "description": "<i>This patch features iconography from Operation Wildfire, which launched on February 17th, 2016</i>",
   "def_index": "4560",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -235,6 +279,10 @@
   "name": "Patch | Vigilance",
   "description": "<i>A patch for the lurker; a teammate who keeps a careful watch</i>",
   "def_index": "4561",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -256,6 +304,10 @@
   "name": "Patch | Bloodhound",
   "description": "<i>This patch features iconography from Operation Bloodhound, which launched on May 26th, 2015</i>",
   "def_index": "4562",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -277,6 +329,10 @@
   "name": "Patch | Bravo",
   "description": "<i>This patch features iconography from Operation Bravo, which launched on September 19th, 2013</i>",
   "def_index": "4563",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -298,6 +354,10 @@
   "name": "Patch | Breakout",
   "description": "<i>This patch features iconography from Operation Breakout, which launched on July 1st, 2014</i>",
   "def_index": "4564",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -319,6 +379,10 @@
   "name": "Patch | Danger Zone",
   "description": "<i>This patch features iconography from Danger Zone, which launched on December 6th, 2018</i>",
   "def_index": "4565",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -340,6 +404,10 @@
   "name": "Patch | Hydra",
   "description": "<i>This patch features iconography from Operation Hydra, which launched on May 23rd, 2017</i>",
   "def_index": "4566",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -361,6 +429,10 @@
   "name": "Patch | Payback",
   "description": "<i>This patch features iconography from Operation Payback, which launched on April 25th, 2013</i>",
   "def_index": "4567",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -382,6 +454,10 @@
   "name": "Patch | Phoenix",
   "description": "<i>This patch features iconography from Operation Phoenix, which launched on February 20th, 2014</i>",
   "def_index": "4568",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -403,6 +479,10 @@
   "name": "Patch | Shattered Web",
   "description": "<i>This patch features iconography from Operation Shattered Web, which launched on November 18th, 2019</i>",
   "def_index": "4569",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -424,6 +504,10 @@
   "name": "Patch | Vanguard",
   "description": "<i>This patch features iconography from Operation Vanguard, which launched on November 11th, 2014</i>",
   "def_index": "4570",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -445,6 +529,10 @@
   "name": "Patch | Metal Silver",
   "description": "<i>A patch for those taking their first step on the road to Global.</i>",
   "def_index": "4571",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -466,6 +554,10 @@
   "name": "Patch | Metal Gold Nova I",
   "description": "<i>Made it out of Silver? There's still work to do.</i>",
   "def_index": "4572",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -487,6 +579,10 @@
   "name": "Patch | Metal Gold Nova Master",
   "description": "<i>And you thought Silver was hard to get out of...</i>",
   "def_index": "4575",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -508,6 +604,10 @@
   "name": "Patch | Metal Master Guardian I",
   "description": "<i>Escaped Gold Nova? Good, you're learning.</i>",
   "def_index": "4576",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -529,6 +629,10 @@
   "name": "Patch | Metal Master Guardian Elite",
   "description": "<i>Expertly crafted, the silver thread on this MGE patch jumps off the navy background.</i>",
   "def_index": "4578",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -550,6 +654,10 @@
   "name": "Patch | Metal Distinguished Master Guardian ★",
   "description": "<i>Individuals must bend, adapt, and work together to achieve the Skill Group of DMG. Keep climbing.</i>",
   "def_index": "4579",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -571,6 +679,10 @@
   "name": "Patch | Metal Legendary Eagle Master ★",
   "description": "<i>You're nearing the top, but those awaiting your challenge will show no mercy.</i>",
   "def_index": "4581",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -592,6 +704,10 @@
   "name": "Patch | Metal Supreme Master First Class",
   "description": "<i>This Supreme patch features a heart-shaped globe and red and blue details.</i>",
   "def_index": "4582",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -613,6 +729,10 @@
   "name": "Patch | Metal The Global Elite ★",
   "description": "<i>Congratulations, you've arrived. Now the real challenge begins.</i>",
   "def_index": "4583",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -634,6 +754,10 @@
   "name": "Patch | Metal Distinguished Master Guardian",
   "description": "<i>Individuals must bend, adapt, and work together to achieve the Skill Group of DMG. Keep climbing.</i>",
   "def_index": "4584",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -655,6 +779,10 @@
   "name": "Patch | Metal Legendary Eagle",
   "description": "<i>This Legendary Eagle patch includes a pair of golden wings.</i>",
   "def_index": "4585",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -676,6 +804,10 @@
   "name": "Patch | Metal Legendary Eagle Master",
   "description": "<i>You're nearing the top, but those awaiting your challenge will show no mercy.</i>",
   "def_index": "4586",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -697,6 +829,10 @@
   "name": "Patch | Metal Silver Demon",
   "description": "<i>\\\"Silver Hell\\\" isn't a place, it's a state of mind. And you can leave at any time.</i>",
   "def_index": "4587",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -718,6 +854,10 @@
   "name": "Patch | Metal Supreme Master",
   "description": "<i>A winged defuser is flanked by six stars on this SMFC patch.</i>",
   "def_index": "4588",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -739,6 +879,10 @@
   "name": "Patch | Alyx",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4589",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -760,6 +904,10 @@
   "name": "Patch | Sustenance!",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4591",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -781,6 +929,10 @@
   "name": "Patch | Vortigaunt",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4592",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -802,6 +954,10 @@
   "name": "Patch | Headcrab Glyph",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4593",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -823,6 +979,10 @@
   "name": "Patch | Copper Lambda",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4594",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -844,6 +1004,10 @@
   "name": "Patch | Health",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4595",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -865,6 +1029,10 @@
   "name": "Patch | Combine Helmet",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4596",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -886,6 +1054,10 @@
   "name": "Patch | Black Mesa",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4597",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -907,6 +1079,10 @@
   "name": "Patch | CMB",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4598",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -928,6 +1104,10 @@
   "name": "Patch | Lambda",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4599",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -949,6 +1129,10 @@
   "name": "Patch | City 17",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4600",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -970,6 +1154,10 @@
   "name": "Patch | Metal The Global Elite",
   "description": "<i>Congratulations, you've arrived. Now the real challenge begins.</i>",
   "def_index": "4697",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -991,6 +1179,10 @@
   "name": "Patch | Metal Master Guardian",
   "description": "<i>Escaped Gold Nova? Good, you're learning.</i>",
   "def_index": "4699",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1012,6 +1204,10 @@
   "name": "Patch | Metal Gold Nova",
   "description": "<i>Made it out of Silver? There's still work to do.</i>",
   "def_index": "4700",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1033,6 +1229,10 @@
   "name": "Patch | Abandon Hope",
   "description": "<i>All ye who dare enter...</i>",
   "def_index": "4937",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1054,6 +1254,10 @@
   "name": "Patch | Anchors Aweigh",
   "description": "<i>Staying still in stormy seas...</i>",
   "def_index": "4938",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1075,6 +1279,10 @@
   "name": "Patch | Cruising Ray",
   "description": "<i>Glides below the waves...</i>",
   "def_index": "4939",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1096,6 +1304,10 @@
   "name": "Patch | Bayonet Frog",
   "description": "<i>Don't give up 'till you croak...</i>",
   "def_index": "4940",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -1117,6 +1329,10 @@
   "name": "Patch | Mad Sushi",
   "description": "<i>Roll the enemy!</i>",
   "def_index": "4941",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1138,6 +1354,10 @@
   "name": "Patch | Giant Squid",
   "description": "<i>Draws its prey into the depths...</i>",
   "def_index": "4942",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1159,6 +1379,10 @@
   "name": "Patch | El Pirata",
   "description": "<i>Small bites; team effort...</i>",
   "def_index": "4943",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1180,6 +1404,10 @@
   "name": "Patch | Death From Below",
   "description": "<i>Look out above...</i>",
   "def_index": "4944",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1201,6 +1429,10 @@
   "name": "Patch | Dead Men",
   "description": "<i>Universal sigil of danger...</i>",
   "def_index": "4945",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1222,6 +1454,10 @@
   "name": "Patch | Sunset Wave",
   "description": "<i>A new day on the ocean...</i>",
   "def_index": "4946",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1243,6 +1479,10 @@
   "name": "Patch | Aquatic Offensive",
   "description": "<i>Fish on the Go</i>",
   "def_index": "4947",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -1264,6 +1504,10 @@
   "name": "Patch | Elder God",
   "description": "<i>Cthulhu approves those who defuse...</i>",
   "def_index": "4948",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exotic",
@@ -1285,6 +1529,10 @@
   "name": "Patch | Meal Time",
   "description": "<i>Hungry for victory...</i>",
   "def_index": "4949",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1306,6 +1554,10 @@
   "name": "Patch | Ninjas in Pyjamas | Stockholm 2021",
   "description": null,
   "def_index": "5079",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1327,6 +1579,10 @@
   "name": "Patch | Ninjas in Pyjamas (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5080",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1348,6 +1604,10 @@
   "name": "Patch | FURIA | Stockholm 2021",
   "description": null,
   "def_index": "5081",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1369,6 +1629,10 @@
   "name": "Patch | FURIA (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5082",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1390,6 +1654,10 @@
   "name": "Patch | Natus Vincere | Stockholm 2021",
   "description": null,
   "def_index": "5083",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1411,6 +1679,10 @@
   "name": "Patch | Natus Vincere (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5084",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1432,6 +1704,10 @@
   "name": "Patch | Vitality | Stockholm 2021",
   "description": null,
   "def_index": "5085",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1453,6 +1729,10 @@
   "name": "Patch | Vitality (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5086",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1474,6 +1754,10 @@
   "name": "Patch | Team Liquid | Stockholm 2021",
   "description": null,
   "def_index": "5087",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1495,6 +1779,10 @@
   "name": "Patch | Team Liquid (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5088",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1516,6 +1804,10 @@
   "name": "Patch | Gambit Gaming | Stockholm 2021",
   "description": null,
   "def_index": "5089",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1537,6 +1829,10 @@
   "name": "Patch | Gambit Gaming (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5090",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1558,6 +1854,10 @@
   "name": "Patch | G2 Esports | Stockholm 2021",
   "description": null,
   "def_index": "5091",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1579,6 +1879,10 @@
   "name": "Patch | G2 Esports (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5092",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1600,6 +1904,10 @@
   "name": "Patch | Evil Geniuses | Stockholm 2021",
   "description": null,
   "def_index": "5093",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1621,6 +1929,10 @@
   "name": "Patch | Evil Geniuses (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5094",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1642,6 +1954,10 @@
   "name": "Patch | Team Spirit | Stockholm 2021",
   "description": null,
   "def_index": "5095",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1663,6 +1979,10 @@
   "name": "Patch | Team Spirit (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5096",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1684,6 +2004,10 @@
   "name": "Patch | Astralis | Stockholm 2021",
   "description": null,
   "def_index": "5097",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1705,6 +2029,10 @@
   "name": "Patch | Astralis (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5098",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1726,6 +2054,10 @@
   "name": "Patch | paiN Gaming | Stockholm 2021",
   "description": null,
   "def_index": "5099",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1747,6 +2079,10 @@
   "name": "Patch | paiN Gaming (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5100",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1768,6 +2104,10 @@
   "name": "Patch | ENCE | Stockholm 2021",
   "description": null,
   "def_index": "5101",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1789,6 +2129,10 @@
   "name": "Patch | ENCE (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5102",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1810,6 +2154,10 @@
   "name": "Patch | BIG | Stockholm 2021",
   "description": null,
   "def_index": "5103",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1831,6 +2179,10 @@
   "name": "Patch | BIG (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5104",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1852,6 +2204,10 @@
   "name": "Patch | Movistar Riders | Stockholm 2021",
   "description": null,
   "def_index": "5105",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1873,6 +2229,10 @@
   "name": "Patch | Movistar Riders (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5106",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1894,6 +2254,10 @@
   "name": "Patch | Heroic | Stockholm 2021",
   "description": null,
   "def_index": "5107",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1915,6 +2279,10 @@
   "name": "Patch | Heroic (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5108",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1936,6 +2304,10 @@
   "name": "Patch | MOUZ | Stockholm 2021",
   "description": null,
   "def_index": "5109",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1957,6 +2329,10 @@
   "name": "Patch | MOUZ (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5110",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -1978,6 +2354,10 @@
   "name": "Patch | Sharks Esports | Stockholm 2021",
   "description": null,
   "def_index": "5111",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1999,6 +2379,10 @@
   "name": "Patch | Sharks Esports (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5112",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -2020,6 +2404,10 @@
   "name": "Patch | Tyloo | Stockholm 2021",
   "description": null,
   "def_index": "5113",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2041,6 +2429,10 @@
   "name": "Patch | Tyloo (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5114",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -2062,6 +2454,10 @@
   "name": "Patch | Renegades | Stockholm 2021",
   "description": null,
   "def_index": "5115",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2083,6 +2479,10 @@
   "name": "Patch | Renegades (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5116",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -2104,6 +2504,10 @@
   "name": "Patch | Entropiq | Stockholm 2021",
   "description": null,
   "def_index": "5117",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2125,6 +2529,10 @@
   "name": "Patch | Entropiq (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5118",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -2146,6 +2554,10 @@
   "name": "Patch | GODSENT | Stockholm 2021",
   "description": null,
   "def_index": "5119",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2167,6 +2579,10 @@
   "name": "Patch | GODSENT (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5120",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -2188,6 +2604,10 @@
   "name": "Patch | Virtus.Pro | Stockholm 2021",
   "description": null,
   "def_index": "5121",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2209,6 +2629,10 @@
   "name": "Patch | Virtus.Pro (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5122",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -2230,6 +2654,10 @@
   "name": "Patch | Copenhagen Flames | Stockholm 2021",
   "description": null,
   "def_index": "5123",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2251,6 +2679,10 @@
   "name": "Patch | Copenhagen Flames (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5124",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -2272,6 +2704,10 @@
   "name": "Patch | FaZe Clan | Stockholm 2021",
   "description": null,
   "def_index": "5125",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2293,6 +2729,10 @@
   "name": "Patch | FaZe Clan (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5126",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",
@@ -2314,6 +2754,10 @@
   "name": "Patch | PGL | Stockholm 2021",
   "description": null,
   "def_index": "5127",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2335,6 +2779,10 @@
   "name": "Patch | PGL (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5128",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
   "rarity": {
    "id": "rarity_mythical",
    "name": "Remarkable",

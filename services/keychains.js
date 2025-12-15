@@ -2,7 +2,7 @@ import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
 import { getImageUrl } from "../constants.js";
-import { getRarityColor } from "../utils/index.js";
+import { getRarityColor, ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
 
 const isKeychain = item => {
     if (!item.loc_name.startsWith("#keychain_")) {
@@ -30,6 +30,10 @@ const parseItem = item => {
         name: `${$t("CSGO_Tool_Keychain")} | ${$t(item.loc_name)}`,
         description: $t("csgo_tool_keychain_desc"),
         def_index: item.object_id,
+        type: {
+            id: ITEM_TYPES.Charm,
+            name: ITEM_TYPE_NAMES[ITEM_TYPES.Charm]
+        },
         rarity: {
             id: `rarity_${item.item_rarity}`,
             name: $t(`rarity_${item.item_rarity}`),

@@ -125,7 +125,7 @@ const parseItem = item => {
             name: $t(rarity),
             color: getRarityColor(rarity),
         },
-        type: getType(item),
+        type: getType(item) ? { id: getType(item), name: getType(item) } : null,
         genuine: isAttendance,
         premier_season: item.attributes?.["premier season"],
         market_hash_name: getMarketHashName(item),

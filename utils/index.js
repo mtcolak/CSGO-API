@@ -826,3 +826,7 @@ export const ITEM_TYPES = {
     // Non-Marketable
     Equipment: 99
 };
+
+export const ITEM_TYPE_NAMES = Object.fromEntries(
+    Object.entries(ITEM_TYPES).map(([key, value]) => [value, key])
+);

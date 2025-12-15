@@ -1,7 +1,7 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
-import { getRarityColor } from "../utils/index.js";
+import { getRarityColor, ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 const isAgent = item => item.prefab === "customplayertradable";
@@ -37,6 +37,11 @@ const parseItem = item => {
         market_hash_name: $t(item.item_name, true),
         image,
         model_player: item.model_player ?? null,
+        type: {
+            id: ITEM_TYPES.Agent,
+            name: ITEM_TYPE_NAMES[ITEM_TYPES.Agent]
+        },
+
 
         // Return original attributes from item_game.json
         original: {

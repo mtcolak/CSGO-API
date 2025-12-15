@@ -137,7 +137,7 @@ const parseItem = (item, prefabs) => {
         name: $t(item.item_name),
         description: $t(item.item_description) ?? $t(item.item_description_prefab),
         def_index: item.object_id,
-        type: getCrateType(item),
+        type: getCrateType(item) ? { id: getCrateType(item), name: getCrateType(item) } : null,
         first_sale_date: getFirstSaleDate(item, prefabs),
         rarity: {
             id: "rarity_common",
@@ -209,7 +209,10 @@ const parseItem = (item, prefabs) => {
                     name: `${$t("highlight")} ${$t("rarity_common")}`,
                     color: "#ffd7aa", // Highlight Base Grade Container
                 },
-                type: "Souvenir Highlight",
+                type: {
+                    id: "Souvenir Highlight",
+                    name: "Souvenir Highlight"
+                },
                 market_hash_name: $t(`${item.item_name}^highlight`, true),
             },
         ];

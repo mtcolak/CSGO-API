@@ -1,8 +1,8 @@
 import { createRequire } from "module";
 
 import { saveDataJson } from "../utils/saveDataJson.js";
-import { getRarityColor } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
+import { getRarityColor, ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
 
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
@@ -193,7 +193,14 @@ const parseItem = item => {
                 ...i,
                 name: $t(i.name),
             })) ?? [],
-        type: getType(item),
+        type: {
+            id: ITEM_TYPES.Sticker,
+            name: ITEM_TYPE_NAMES[ITEM_TYPES.Sticker]
+        },
+        category: {
+            id: getType(item),
+            name: getType(item)
+        },
         market_hash_name: getMarketHashName(item),
         effect: getEffect(item),
         tournament: item.tournament_event_id

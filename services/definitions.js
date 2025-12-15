@@ -1,7 +1,7 @@
 import fs from "fs";
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { LANGUAGES_URL } from "../constants.js";
-import { ITEM_TYPES } from "../utils/index.js";
+import { ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
 import { $t } from "./translations.js";
 
 const STATIC_ITEMS = [
@@ -9,7 +9,7 @@ const STATIC_ITEMS = [
         def_index: 1209,
         name_token: '#CSGO_Tool_Sticker',
         description_token: '#CSGO_Tool_Sticker_Desc',
-        type: ITEM_TYPES.Sticker,
+        type: { id: ITEM_TYPES.Sticker, name: ITEM_TYPE_NAMES[ITEM_TYPES.Sticker] },
         rarity_id: 0,
         image: "econ/tools/sticker" // Approximated
     },
@@ -17,26 +17,29 @@ const STATIC_ITEMS = [
         def_index: 1355,
         name_token: '#CSGO_Tool_Keychain',
         description_token: '#CSGO_Tool_Keychain_Desc',
-        type: ITEM_TYPES.Charm,
+        type: { id: ITEM_TYPES.Charm, name: ITEM_TYPE_NAMES[ITEM_TYPES.Charm] },
         rarity_id: 0,
         image: "econ/tools/keychain" // Approximated
     }
 ];
 
-const getCrateType = (typeStr) => {
+const getCrateType = (typeObj) => {
+    const typeStr = typeObj?.id || typeObj;
+    let id;
     switch (typeStr) {
-        case "Weapon Case": return ITEM_TYPES.WeaponCase;
-        case "Sticker Capsule": return ITEM_TYPES.StickerCapsule;
-        case "Souvenir Package": return ITEM_TYPES.SouvenirPackage;
-        case "Graffiti Box": return ITEM_TYPES.GraffitiBox;
-        case "Pin Capsule": return ITEM_TYPES.PinCapsule;
-        case "Autograph Capsule": return ITEM_TYPES.AutographCapsule;
-        case "Patch Capsule": return ITEM_TYPES.PatchCapsule;
-        case "Music Kit Box": return ITEM_TYPES.MusicKitBox;
-        case "Self-Opening Case": return ITEM_TYPES.SelfOpeningCase;
-        case "Terminal": return ITEM_TYPES.Terminal;
-        default: return ITEM_TYPES.Container;
+        case "Weapon Case": id = ITEM_TYPES.WeaponCase; break;
+        case "Sticker Capsule": id = ITEM_TYPES.StickerCapsule; break;
+        case "Souvenir Package": id = ITEM_TYPES.SouvenirPackage; break;
+        case "Graffiti Box": id = ITEM_TYPES.GraffitiBox; break;
+        case "Pin Capsule": id = ITEM_TYPES.PinCapsule; break;
+        case "Autograph Capsule": id = ITEM_TYPES.AutographCapsule; break;
+        case "Patch Capsule": id = ITEM_TYPES.PatchCapsule; break;
+        case "Music Kit Box": id = ITEM_TYPES.MusicKitBox; break;
+        case "Self-Opening Case": id = ITEM_TYPES.SelfOpeningCase; break;
+        case "Terminal": id = ITEM_TYPES.Terminal; break;
+        default: id = ITEM_TYPES.Container; break;
     }
+    return { id, name: ITEM_TYPE_NAMES[id] };
 };
 
 const readJson = (filePath) => {
@@ -65,8 +68,10 @@ export const getDefinitions = async () => {
             type: i.type,
             rarity_id: i.rarity_id,
             image: i.image,
-            name_key: i.name_token,
-            description_key: i.description_token
+            i18n: {
+                name: i.name_token,
+                description: i.description_token
+            }
         })));
 
         // 2. Base Weapons
@@ -75,11 +80,13 @@ export const getDefinitions = async () => {
             def_index: i.def_index,
             name: i.name,
             description: i.description,
-            type: 0, // Undefined / BaseWeapon
+            type: { id: 0, name: 'Weapon' }, // Undefined / BaseWeapon
             rarity_id: 0,
             image: i.image,
-            name_key: i.i18n?.name,
-            description_key: i.i18n?.description
+            i18n: {
+                name: i.i18n?.name,
+                description: i.i18n?.description
+            }
         })));
 
         // 3. Crates
@@ -91,8 +98,10 @@ export const getDefinitions = async () => {
             type: getCrateType(i.type),
             rarity_id: 0,
             image: i.image,
-            name_key: i.i18n?.name,
-            description_key: i.i18n?.description
+            i18n: {
+                name: i.i18n?.name,
+                description: i.i18n?.description
+            }
         })));
 
         // 4. Agents
@@ -101,11 +110,13 @@ export const getDefinitions = async () => {
             def_index: Number(i.def_index) || 0, // Some items might have non-numeric? Agents should have def_index.
             name: i.name,
             description: i.description,
-            type: ITEM_TYPES.Agent,
+            type: { id: ITEM_TYPES.Agent, name: ITEM_TYPE_NAMES[ITEM_TYPES.Agent] },
             rarity_id: 0,
             image: i.image,
-            name_key: i.i18n?.name,
-            description_key: i.i18n?.description
+            i18n: {
+                name: i.i18n?.name,
+                description: i.i18n?.description
+            }
         })));
 
         // 5. Patches
@@ -114,11 +125,13 @@ export const getDefinitions = async () => {
             def_index: Number(i.def_index) || 0,
             name: i.name,
             description: i.description,
-            type: ITEM_TYPES.Patch,
+            type: { id: ITEM_TYPES.Patch, name: ITEM_TYPE_NAMES[ITEM_TYPES.Patch] },
             rarity_id: 0,
             image: i.image,
-            name_key: i.i18n?.name,
-            description_key: i.i18n?.description
+            i18n: {
+                name: i.i18n?.name,
+                description: i.i18n?.description
+            }
         })));
 
         // 6. Collectibles
@@ -127,11 +140,13 @@ export const getDefinitions = async () => {
             def_index: Number(i.def_index) || 0,
             name: i.name,
             description: i.description,
-            type: ITEM_TYPES.Collectible,
+            type: { id: ITEM_TYPES.Collectible, name: ITEM_TYPE_NAMES[ITEM_TYPES.Collectible] },
             rarity_id: 0,
             image: i.image,
-            name_key: i.i18n?.name,
-            description_key: i.i18n?.description
+            i18n: {
+                name: i.i18n?.name,
+                description: i.i18n?.description
+            }
         })));
 
         // 7. Tools
@@ -140,11 +155,13 @@ export const getDefinitions = async () => {
             def_index: Number(i.def_index) || 0,
             name: i.name,
             description: i.description,
-            type: ITEM_TYPES.Tool,
+            type: { id: ITEM_TYPES.Tool, name: ITEM_TYPE_NAMES[ITEM_TYPES.Tool] },
             rarity_id: 0,
             image: i.image,
-            name_key: i.i18n?.name,
-            description_key: i.i18n?.description
+            i18n: {
+                name: i.i18n?.name,
+                description: i.i18n?.description
+            }
         })));
 
 

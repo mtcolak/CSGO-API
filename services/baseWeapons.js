@@ -35,7 +35,10 @@ export const getBaseWeapons = async () => {
                 name: $t(nameKey),
                 description: $t(descriptionKey),
                 def_index: defIndex,
-                type: getType(weapon),
+                type: {
+                    id: getType(weapon),
+                    name: $t(getType(weapon)),
+                },
                 image:
                     cdnImages[`econ/weapons/base_weapons/${weapon}`] ??
                     getImageUrl(`econ/weapons/base_weapons/${weapon}`),

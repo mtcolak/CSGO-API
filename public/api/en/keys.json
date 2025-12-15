@@ -4,6 +4,10 @@
   "name": "CS:GO Case Key",
   "description": "This key will open any Valve Series Weapon Case. Non-Valve Series cases (e.g. eSports Case) require their own key to open.",
   "def_index": "generic_valve_key",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4001",
@@ -43,6 +47,10 @@
   "name": "eSports Key",
   "description": "This key opens any eSports Case.\\n\\nA portion of the proceeds from the sale of this key will go towards one of the established community-run CS:GO tournaments. Stay tuned for further announcements.",
   "def_index": "1204",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4002",
@@ -77,6 +85,10 @@
   "name": "CS:GO Capsule Key",
   "description": "This key will open any Valve Series Capsule.",
   "def_index": "1212",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4007",
@@ -106,6 +118,10 @@
   "name": "Winter Offensive Case Key",
   "description": "This key only opens Winter Offensive Cases",
   "def_index": "1214",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4009",
@@ -130,6 +146,10 @@
   "name": "Operation Phoenix Case Key",
   "description": "This key only opens Operation Phoenix Cases",
   "def_index": "1303",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4011",
@@ -154,6 +174,10 @@
   "name": "Community Sticker Capsule 1 Key",
   "description": "This key opens the Community Sticker Capsule 1.\\n\\nA portion of the proceeds from the sale of this key will go to the sticker creators.",
   "def_index": "1304",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4016",
@@ -178,6 +202,10 @@
   "name": "Huntsman Case Key",
   "description": "This key only opens Huntsman Cases",
   "def_index": "1305",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4017",
@@ -202,6 +230,10 @@
   "name": "Operation Breakout Case Key",
   "description": "This key only opens Operation Breakout Cases",
   "def_index": "1309",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4018",
@@ -226,6 +258,10 @@
   "name": "Operation Vanguard Case Key",
   "description": "This key only opens Operation Vanguard Cases",
   "def_index": "1322",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4029",
@@ -250,6 +286,10 @@
   "name": "Chroma Case Key",
   "description": "This key only opens Chroma Cases",
   "def_index": "1323",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4061",
@@ -274,6 +314,10 @@
   "name": "Chroma 2 Case Key",
   "description": "This key only opens Chroma 2 Cases",
   "def_index": "1325",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4089",
@@ -298,6 +342,10 @@
   "name": "Falchion Case Key",
   "description": "This key only opens Falchion Cases",
   "def_index": "1330",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4091",
@@ -322,6 +370,10 @@
   "name": "Shadow Case Key",
   "description": "This key only opens Shadow Cases",
   "def_index": "1333",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4138",
@@ -346,6 +398,10 @@
   "name": "Revolver Case Key",
   "description": "This key only opens Revolver Cases",
   "def_index": "1334",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4186",
@@ -370,6 +426,10 @@
   "name": "Chroma 3 Case Key",
   "description": "This key only opens Chroma 3 cases",
   "def_index": "1347",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4233",
@@ -394,6 +454,10 @@
   "name": "Gamma Case Key",
   "description": "This key only opens Gamma cases",
   "def_index": "1350",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4236",
@@ -418,6 +482,10 @@
   "name": "Gamma 2 Case Key",
   "description": "This key only opens Gamma 2 cases",
   "def_index": "1351",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4281",
@@ -442,6 +510,10 @@
   "name": "Glove Case Key",
   "description": "This key only opens Glove cases",
   "def_index": "1356",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4288",
@@ -466,6 +538,10 @@
   "name": "Spectrum Case Key",
   "description": "This key only opens Spectrum cases",
   "def_index": "1364",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4351",
@@ -490,6 +566,10 @@
   "name": "Operation Hydra Case Key",
   "description": "This key only opens Operation Hydra cases",
   "def_index": "1365",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4352",
@@ -514,6 +594,10 @@
   "name": "Spectrum 2 Case Key",
   "description": "This key only opens Spectrum 2 cases",
   "def_index": "1366",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4403",
@@ -538,6 +622,10 @@
   "name": "Clutch Case Key",
   "description": "This key only opens Clutch cases",
   "def_index": "1373",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4471",
@@ -562,6 +650,10 @@
   "name": "Horizon Case Key",
   "description": "This key only opens Horizon cases",
   "def_index": "1374",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4482",
@@ -586,6 +678,10 @@
   "name": "Danger Zone Case Key",
   "description": "This key only opens Danger Zone cases",
   "def_index": "1375",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4548",
@@ -610,6 +706,10 @@
   "name": "Prisma Case Key",
   "description": "This key only opens Prisma cases",
   "def_index": "1383",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4598",
@@ -634,6 +734,10 @@
   "name": "Shattered Web Case Key",
   "description": "This key only opens Shattered Web cases",
   "def_index": "1384",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4620",
@@ -658,6 +762,10 @@
   "name": "CS20 Case Key",
   "description": "This key only opens CS20 cases",
   "def_index": "1385",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4669",
@@ -682,6 +790,10 @@
   "name": "Prisma 2 Case Key",
   "description": "This key only opens Prisma 2 cases",
   "def_index": "1386",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4695",
@@ -706,6 +818,10 @@
   "name": "Fracture Case Key",
   "description": "This key only opens Fracture cases",
   "def_index": "1387",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4698",
@@ -730,6 +846,10 @@
   "name": "Operation Broken Fang Case Key",
   "description": "This key only opens Operation Broken Fang cases",
   "def_index": "1388",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4717",
@@ -754,6 +874,10 @@
   "name": "Snakebite Case Key",
   "description": "This key only opens Snakebite cases",
   "def_index": "1389",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4747",
@@ -778,6 +902,10 @@
   "name": "Operation Riptide Case Key",
   "description": "This key only opens Operation Riptide cases",
   "def_index": "1390",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4790",
@@ -802,6 +930,10 @@
   "name": "Dreams & Nightmares Case Key",
   "description": "This key only opens Dreams & Nightmares cases",
   "def_index": "1391",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4818",
@@ -826,6 +958,10 @@
   "name": "Recoil Case Key",
   "description": "This key only opens Recoil cases",
   "def_index": "1392",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4846",
@@ -850,6 +986,10 @@
   "name": "Revolution Case Key",
   "description": "This key only opens Revolution cases",
   "def_index": "1393",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4880",
@@ -874,6 +1014,10 @@
   "name": "Kilowatt Case Key",
   "description": "This key only opens Kilowatt cases",
   "def_index": "1394",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4904",
@@ -898,6 +1042,10 @@
   "name": "Operation Wildfire Case Key",
   "description": "This key only opens Operation Wildfire Cases",
   "def_index": "7000",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-4187",
@@ -922,6 +1070,10 @@
   "name": "Gallery Case Key",
   "description": "This key only opens Gallery cases",
   "def_index": "7002",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-7003",
@@ -946,6 +1098,10 @@
   "name": "Fever Case Key",
   "description": "This key only opens Fever cases",
   "def_index": "7008",
+  "type": {
+   "id": 50,
+   "name": "Key"
+  },
   "crates": [
    {
     "id": "crate-7007",
