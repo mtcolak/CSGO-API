@@ -44,8 +44,9 @@ const parseItem = item => {
     const image = cdnImages[`econ/set_icons/${fileName}`] ?? getImageUrl(`econ/set_icons/${fileName}`);
 
     return {
-        id: `collection-${item.name.replace("#CSGO_", "").replace(/_/g, "-")}`,
+        id: item.name.replace("#CSGO_", ""),
         name: item.name_force ? $t(item.name_force) : $t(item.name),
+        description: item.name_force ? $t(`${item.name_force}_desc`) : $t(`${item.name}_desc`),
         crates: (cratesByCollections?.[item.name.replace("#CSGO_", "")] ?? []).map(i => ({
             ...i,
             name: $t(i.name),
@@ -82,7 +83,7 @@ const parseItemSelfOpening = item => {
         cdnImages[item.image_inventory.toLowerCase()] ?? getImageUrl(item.image_inventory.toLowerCase());
 
     return {
-        id: `collection-${item.object_id}`,
+        id: item.object_id,
         name: $t(item.item_name),
         crates: [],
         contains: (skinsByCollections?.[item.name] ?? []).map(i => ({

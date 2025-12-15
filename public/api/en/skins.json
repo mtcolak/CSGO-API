@@ -159163,12 +159163,12 @@
    "name": "Bayonet"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159257,12 +159257,12 @@
    "name": "Classic Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159301,12 +159301,12 @@
    "name": "Flip Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159395,12 +159395,12 @@
    "name": "Gut Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159489,12 +159489,12 @@
    "name": "Karambit"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159583,12 +159583,12 @@
    "name": "M9 Bayonet"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159677,12 +159677,12 @@
    "name": "Huntsman Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159721,12 +159721,12 @@
    "name": "Falchion Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159765,12 +159765,12 @@
    "name": "Bowie Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159809,12 +159809,12 @@
    "name": "Butterfly Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159853,12 +159853,12 @@
    "name": "Shadow Daggers"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159897,12 +159897,12 @@
    "name": "Paracord Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -159951,12 +159951,12 @@
    "name": "Survival Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -160005,12 +160005,12 @@
    "name": "Ursus Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -160064,12 +160064,12 @@
    "name": "Navaja Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -160123,12 +160123,12 @@
    "name": "Nomad Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -160177,12 +160177,12 @@
    "name": "Stiletto Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -160236,12 +160236,12 @@
    "name": "Talon Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -160295,12 +160295,12 @@
    "name": "Skeleton Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
@@ -160349,12 +160349,12 @@
    "name": "Kukri Knife"
   },
   "category": {
-   "id": "CSGO_Type_Knife",
-   "name": "Knife"
-  },
-  "type": {
    "id": "sfui_invpanel_filter_melee",
    "name": "Knives"
+  },
+  "type": {
+   "id": "CSGO_Type_Knife",
+   "name": "Knife"
   },
   "pattern": null,
   "min_float": null,
