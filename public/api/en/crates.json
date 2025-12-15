@@ -88,7 +88,7 @@
   "name": "CS:GO Weapon Case",
   "description": null,
   "def_index": "4001",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2013/09/20",
   "rarity": {
    "id": "rarity_common",
@@ -936,7 +936,7 @@
   "name": "eSports 2013 Case",
   "description": "A portion of the proceeds from the key used to unlock this will help support CS:GO professional tournament prize pools.",
   "def_index": "4002",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2014/07/09",
   "rarity": {
    "id": "rarity_common",
@@ -1785,7 +1785,7 @@
   "name": "Operation Bravo Case",
   "description": null,
   "def_index": "4003",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2013/09/20",
   "rarity": {
    "id": "rarity_common",
@@ -2699,7 +2699,7 @@
   "name": "CS:GO Weapon Case 2",
   "description": null,
   "def_index": "4004",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2013/09/20",
   "rarity": {
    "id": "rarity_common",
@@ -3580,7 +3580,7 @@
   "name": "eSports 2013 Winter Case",
   "description": "A portion of the proceeds from the key used to unlock this will help support CS:GO professional tournament prize pools.",
   "def_index": "4005",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2014/07/09",
   "rarity": {
    "id": "rarity_common",
@@ -4462,7 +4462,7 @@
   "name": "DreamHack 2013 Souvenir Package",
   "description": null,
   "def_index": "4006",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -5680,7 +5680,7 @@
   "name": "Winter Offensive Weapon Case",
   "description": null,
   "def_index": "4009",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2013/12/18",
   "rarity": {
    "id": "rarity_common",
@@ -6572,7 +6572,7 @@
   "name": "CS:GO Weapon Case 3",
   "description": null,
   "def_index": "4010",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2013/09/20",
   "rarity": {
    "id": "rarity_common",
@@ -7453,7 +7453,7 @@
   "name": "Operation Phoenix Weapon Case",
   "description": null,
   "def_index": "4011",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2014/2/19",
   "rarity": {
    "id": "rarity_common",
@@ -8533,7 +8533,7 @@
   "name": "EMS One 2014 Souvenir Package",
   "description": null,
   "def_index": "4013",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -10159,7 +10159,7 @@
   "name": "Huntsman Weapon Case",
   "description": null,
   "def_index": "4017",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2014/06/11",
   "rarity": {
    "id": "rarity_common",
@@ -10507,7 +10507,7 @@
   "name": "Operation Breakout Weapon Case",
   "description": null,
   "def_index": "4018",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2014/06/23",
   "rarity": {
    "id": "rarity_common",
@@ -10838,7 +10838,7 @@
   "name": "eSports 2014 Summer Case",
   "description": "A portion of the proceeds from the key used to unlock this will help support CS:GO professional tournament prize pools.",
   "def_index": "4019",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2014/07/09",
   "rarity": {
    "id": "rarity_common",
@@ -12173,7 +12173,7 @@
   "name": "ESL One Cologne 2014 Dust II Souvenir Package",
   "description": null,
   "def_index": "4022",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -12377,7 +12377,7 @@
   "name": "ESL One Cologne 2014 Inferno Souvenir Package",
   "description": null,
   "def_index": "4023",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -12471,7 +12471,7 @@
   "name": "ESL One Cologne 2014 Mirage Souvenir Package",
   "description": null,
   "def_index": "4024",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -12664,7 +12664,7 @@
   "name": "ESL One Cologne 2014 Nuke Souvenir Package",
   "description": null,
   "def_index": "4025",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -12791,7 +12791,7 @@
   "name": "ESL One Cologne 2014 Cache Souvenir Package",
   "description": null,
   "def_index": "4026",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -12962,7 +12962,7 @@
   "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4027",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -13155,7 +13155,7 @@
   "name": "ESL One Cologne 2014 Overpass Souvenir Package",
   "description": null,
   "def_index": "4028",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -13348,7 +13348,7 @@
   "name": "Operation Vanguard Weapon Case",
   "description": null,
   "def_index": "4029",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2014/11/5",
   "rarity": {
    "id": "rarity_common",
@@ -14411,7 +14411,7 @@
   "name": "DreamHack 2014 Dust II Souvenir Package",
   "description": null,
   "def_index": "4031",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -14615,7 +14615,7 @@
   "name": "DreamHack 2014 Inferno Souvenir Package",
   "description": null,
   "def_index": "4032",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -14709,7 +14709,7 @@
   "name": "DreamHack 2014 Mirage Souvenir Package",
   "description": null,
   "def_index": "4033",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -14902,7 +14902,7 @@
   "name": "DreamHack 2014 Nuke Souvenir Package",
   "description": null,
   "def_index": "4034",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -15029,7 +15029,7 @@
   "name": "DreamHack 2014 Cache Souvenir Package",
   "description": null,
   "def_index": "4035",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -15200,7 +15200,7 @@
   "name": "DreamHack 2014 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4036",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -15393,7 +15393,7 @@
   "name": "DreamHack 2014 Overpass Souvenir Package",
   "description": null,
   "def_index": "4037",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -15586,7 +15586,7 @@
   "name": "Chroma Case",
   "description": null,
   "def_index": "4061",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2015/1/8",
   "rarity": {
    "id": "rarity_common",
@@ -16465,7 +16465,7 @@
   "name": "ESL One Katowice 2015 Dust II Souvenir Package",
   "description": null,
   "def_index": "4079",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -16669,7 +16669,7 @@
   "name": "ESL One Katowice 2015 Inferno Souvenir Package",
   "description": null,
   "def_index": "4080",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -16763,7 +16763,7 @@
   "name": "ESL One Katowice 2015 Mirage Souvenir Package",
   "description": null,
   "def_index": "4081",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -16956,7 +16956,7 @@
   "name": "ESL One Katowice 2015 Nuke Souvenir Package",
   "description": null,
   "def_index": "4082",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -17083,7 +17083,7 @@
   "name": "ESL One Katowice 2015 Cache Souvenir Package",
   "description": null,
   "def_index": "4083",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -17254,7 +17254,7 @@
   "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4084",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -17447,7 +17447,7 @@
   "name": "ESL One Katowice 2015 Overpass Souvenir Package",
   "description": null,
   "def_index": "4085",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -18038,7 +18038,7 @@
   "name": "Chroma 2 Case",
   "description": null,
   "def_index": "4089",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2015/4/15",
   "rarity": {
    "id": "rarity_common",
@@ -19107,7 +19107,7 @@
   "name": "Falchion Case",
   "description": null,
   "def_index": "4091",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2015/4/15",
   "rarity": {
    "id": "rarity_common",
@@ -19699,7 +19699,7 @@
   "name": "Autograph Capsule | Group A (Foil) | Cologne 2015",
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Group A teams at ESL One Cologne 2015: Ninjas in Pyjamas, Team SoloMid, Renegades, Counter Logic Gaming.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4111",
-  "type": "Autograph Capsule",
+  "type": "Sticker Capsule",
   "first_sale_date": "2015/8/10",
   "rarity": {
    "id": "rarity_common",
@@ -19928,7 +19928,7 @@
   "name": "Autograph Capsule | Group B (Foil) | Cologne 2015",
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Group B teams at ESL One Cologne 2015: Team EnVyUs, Luminosity Gaming, Team Kinguin, Flipsid3 Tactics.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4112",
-  "type": "Autograph Capsule",
+  "type": "Sticker Capsule",
   "first_sale_date": "2015/8/10",
   "rarity": {
    "id": "rarity_common",
@@ -20157,7 +20157,7 @@
   "name": "Autograph Capsule | Group C (Foil) | Cologne 2015",
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Group C teams at ESL One Cologne 2015: Fnatic, Natus Vincere, Titan, Team eBettle.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4113",
-  "type": "Autograph Capsule",
+  "type": "Sticker Capsule",
   "first_sale_date": "2015/8/10",
   "rarity": {
    "id": "rarity_common",
@@ -20386,7 +20386,7 @@
   "name": "Autograph Capsule | Group D (Foil) | Cologne 2015",
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Group D teams at ESL One Cologne 2015: Virtus.Pro, mousesports, Cloud9 G2A, Team Immunity.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4114",
-  "type": "Autograph Capsule",
+  "type": "Sticker Capsule",
   "first_sale_date": "2015/8/10",
   "rarity": {
    "id": "rarity_common",
@@ -21879,7 +21879,7 @@
   "name": "ESL One Cologne 2015 Dust II Souvenir Package",
   "description": null,
   "def_index": "4131",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -22083,7 +22083,7 @@
   "name": "ESL One Cologne 2015 Mirage Souvenir Package",
   "description": null,
   "def_index": "4132",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -22276,7 +22276,7 @@
   "name": "ESL One Cologne 2015 Inferno Souvenir Package",
   "description": null,
   "def_index": "4133",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -22370,7 +22370,7 @@
   "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4134",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -22563,7 +22563,7 @@
   "name": "ESL One Cologne 2015 Overpass Souvenir Package",
   "description": null,
   "def_index": "4135",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -22756,7 +22756,7 @@
   "name": "ESL One Cologne 2015 Cache Souvenir Package",
   "description": null,
   "def_index": "4136",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -22927,7 +22927,7 @@
   "name": "ESL One Cologne 2015 Train Souvenir Package",
   "description": null,
   "def_index": "4137",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -23120,7 +23120,7 @@
   "name": "Shadow Case",
   "description": null,
   "def_index": "4138",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2015/9/15",
   "rarity": {
    "id": "rarity_common",
@@ -23712,7 +23712,7 @@
   "name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015",
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Challengers teams at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4158",
-  "type": "Autograph Capsule",
+  "type": "Sticker Capsule",
   "first_sale_date": "2015/10/20",
   "rarity": {
    "id": "rarity_common",
@@ -24141,7 +24141,7 @@
   "name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015",
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Legends teams at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4159",
-  "type": "Autograph Capsule",
+  "type": "Sticker Capsule",
   "first_sale_date": "2015/10/20",
   "rarity": {
    "id": "rarity_common",
@@ -25834,7 +25834,7 @@
   "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
   "description": null,
   "def_index": "4176",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -26038,7 +26038,7 @@
   "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
   "description": null,
   "def_index": "4177",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -26231,7 +26231,7 @@
   "name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
   "description": null,
   "def_index": "4178",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -26325,7 +26325,7 @@
   "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4179",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -26518,7 +26518,7 @@
   "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
   "description": null,
   "def_index": "4180",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -26711,7 +26711,7 @@
   "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
   "description": null,
   "def_index": "4181",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -26882,7 +26882,7 @@
   "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
   "description": null,
   "def_index": "4182",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -27542,7 +27542,7 @@
   "name": "Revolver Case",
   "description": null,
   "def_index": "4186",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2015-11-30",
   "rarity": {
    "id": "rarity_common",
@@ -28479,7 +28479,7 @@
   "name": "Operation Wildfire Case",
   "description": null,
   "def_index": "4187",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2016-01-19",
   "rarity": {
    "id": "rarity_common",
@@ -31373,7 +31373,7 @@
   "name": "MLG Columbus 2016 Dust II Souvenir Package",
   "description": null,
   "def_index": "4225",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -31577,7 +31577,7 @@
   "name": "MLG Columbus 2016 Mirage Souvenir Package",
   "description": null,
   "def_index": "4226",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -31770,7 +31770,7 @@
   "name": "MLG Columbus 2016 Inferno Souvenir Package",
   "description": null,
   "def_index": "4227",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -31864,7 +31864,7 @@
   "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4228",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -32057,7 +32057,7 @@
   "name": "MLG Columbus 2016 Overpass Souvenir Package",
   "description": null,
   "def_index": "4229",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -32250,7 +32250,7 @@
   "name": "MLG Columbus 2016 Cache Souvenir Package",
   "description": null,
   "def_index": "4230",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -32421,7 +32421,7 @@
   "name": "MLG Columbus 2016 Train Souvenir Package",
   "description": null,
   "def_index": "4231",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -32614,7 +32614,7 @@
   "name": "MLG Columbus 2016 Nuke Souvenir Package",
   "description": null,
   "def_index": "4232",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -32741,7 +32741,7 @@
   "name": "Chroma 3 Case",
   "description": null,
   "def_index": "4233",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2016-04-19",
   "rarity": {
    "id": "rarity_common",
@@ -33653,7 +33653,7 @@
   "name": "Community Graffiti Box 1",
   "description": "This box contains a single community-designed graffiti pattern. A portion of the proceeds is shared equally among the included creators.",
   "def_index": "4234",
-  "type": "Graffiti",
+  "type": "Graffiti Box",
   "first_sale_date": "2016/06/20",
   "rarity": {
    "id": "rarity_common",
@@ -33862,7 +33862,7 @@
   "name": "Collectible Pins Capsule Series 1",
   "description": "This capsule contains a single Series 1 collectible pin. Collectible pins can be displayed on your profile.",
   "def_index": "4235",
-  "type": "Pins",
+  "type": "Pin Capsule",
   "first_sale_date": "2016/06/01",
   "rarity": {
    "id": "rarity_common",
@@ -34001,7 +34001,7 @@
   "name": "Gamma Case",
   "description": null,
   "def_index": "4236",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2016-06-10",
   "rarity": {
    "id": "rarity_common",
@@ -37333,7 +37333,7 @@
   "name": "Cologne 2016 Dust II Souvenir Package",
   "description": null,
   "def_index": "4274",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -37537,7 +37537,7 @@
   "name": "Cologne 2016 Mirage Souvenir Package",
   "description": null,
   "def_index": "4275",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -37730,7 +37730,7 @@
   "name": "Cologne 2016 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4276",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -37923,7 +37923,7 @@
   "name": "Cologne 2016 Overpass Souvenir Package",
   "description": null,
   "def_index": "4277",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -38116,7 +38116,7 @@
   "name": "Cologne 2016 Cache Souvenir Package",
   "description": null,
   "def_index": "4278",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -38287,7 +38287,7 @@
   "name": "Cologne 2016 Train Souvenir Package",
   "description": null,
   "def_index": "4279",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -38480,7 +38480,7 @@
   "name": "Cologne 2016 Nuke Souvenir Package",
   "description": null,
   "def_index": "4280",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -38607,7 +38607,7 @@
   "name": "Gamma 2 Case",
   "description": null,
   "def_index": "4281",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2016-08-08",
   "rarity": {
    "id": "rarity_common",
@@ -39737,7 +39737,7 @@
   "name": "Collectible Pins Capsule Series 2",
   "description": "This capsule contains a single Series 2 collectible pin. Collectible pins can be displayed on your profile.",
   "def_index": "4284",
-  "type": "Pins",
+  "type": "Pin Capsule",
   "first_sale_date": "2016/09/28",
   "rarity": {
    "id": "rarity_common",
@@ -39876,7 +39876,7 @@
   "name": "CS:GO Graffiti Box",
   "description": null,
   "def_index": "4285",
-  "type": "Graffiti",
+  "type": "Graffiti Box",
   "first_sale_date": "2016/08/24",
   "rarity": {
    "id": "rarity_common",
@@ -40085,7 +40085,7 @@
   "name": "Perfect World Graffiti Box",
   "description": "This capsule contains a variety of graffiti from Perfect World to commemorate the launch of Counter-Strike: Global Offensive in mainland China.",
   "def_index": "4286",
-  "type": "Graffiti",
+  "type": "Graffiti Box",
   "first_sale_date": "2017/09/14",
   "rarity": {
    "id": "rarity_common",
@@ -40393,7 +40393,7 @@
   "name": "Glove Case",
   "description": null,
   "def_index": "4288",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2016-11-02",
   "rarity": {
    "id": "rarity_common",
@@ -43418,7 +43418,7 @@
   "name": "Atlanta 2017 Dust II Souvenir Package",
   "description": null,
   "def_index": "4344",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -43622,7 +43622,7 @@
   "name": "Atlanta 2017 Mirage Souvenir Package",
   "description": null,
   "def_index": "4345",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -43815,7 +43815,7 @@
   "name": "Atlanta 2017 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4346",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -44008,7 +44008,7 @@
   "name": "Atlanta 2017 Overpass Souvenir Package",
   "description": null,
   "def_index": "4347",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -44201,7 +44201,7 @@
   "name": "Atlanta 2017 Cache Souvenir Package",
   "description": null,
   "def_index": "4348",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -44372,7 +44372,7 @@
   "name": "Atlanta 2017 Train Souvenir Package",
   "description": null,
   "def_index": "4349",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -44565,7 +44565,7 @@
   "name": "Atlanta 2017 Nuke Souvenir Package",
   "description": null,
   "def_index": "4350",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -44692,7 +44692,7 @@
   "name": "Spectrum Case",
   "description": null,
   "def_index": "4351",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2017-03-01",
   "rarity": {
    "id": "rarity_common",
@@ -45604,7 +45604,7 @@
   "name": "Operation Hydra Case",
   "description": null,
   "def_index": "4352",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2017-04-21",
   "rarity": {
    "id": "rarity_common",
@@ -48965,7 +48965,7 @@
   "name": "Krakow 2017 Inferno Souvenir Package",
   "description": null,
   "def_index": "4396",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -49059,7 +49059,7 @@
   "name": "Krakow 2017 Mirage Souvenir Package",
   "description": null,
   "def_index": "4397",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -49252,7 +49252,7 @@
   "name": "Krakow 2017 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4398",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -49445,7 +49445,7 @@
   "name": "Krakow 2017 Overpass Souvenir Package",
   "description": null,
   "def_index": "4399",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -49638,7 +49638,7 @@
   "name": "Krakow 2017 Cache Souvenir Package",
   "description": null,
   "def_index": "4400",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -49809,7 +49809,7 @@
   "name": "Krakow 2017 Train Souvenir Package",
   "description": null,
   "def_index": "4401",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -50002,7 +50002,7 @@
   "name": "Krakow 2017 Nuke Souvenir Package",
   "description": null,
   "def_index": "4402",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -50129,7 +50129,7 @@
   "name": "Spectrum 2 Case",
   "description": null,
   "def_index": "4403",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2017-09-06",
   "rarity": {
    "id": "rarity_common",
@@ -55725,7 +55725,7 @@
   "name": "Boston 2018 Inferno Souvenir Package",
   "description": null,
   "def_index": "4463",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -55819,7 +55819,7 @@
   "name": "Boston 2018 Mirage Souvenir Package",
   "description": null,
   "def_index": "4464",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -56012,7 +56012,7 @@
   "name": "Boston 2018 Cobblestone Souvenir Package",
   "description": null,
   "def_index": "4465",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -56205,7 +56205,7 @@
   "name": "Boston 2018 Overpass Souvenir Package",
   "description": null,
   "def_index": "4466",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -56398,7 +56398,7 @@
   "name": "Boston 2018 Cache Souvenir Package",
   "description": null,
   "def_index": "4467",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -56569,7 +56569,7 @@
   "name": "Boston 2018 Train Souvenir Package",
   "description": null,
   "def_index": "4468",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -56762,7 +56762,7 @@
   "name": "Boston 2018 Nuke Souvenir Package",
   "description": null,
   "def_index": "4469",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -57058,7 +57058,7 @@
   "name": "Clutch Case",
   "description": null,
   "def_index": "4471",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2017-12-20",
   "rarity": {
    "id": "rarity_common",
@@ -60448,7 +60448,7 @@
   "name": "Collectible Pins Capsule Series 3",
   "description": "This capsule contains a single Series 3 collectible pin. Collectible pins can be displayed on your profile.",
   "def_index": "4481",
-  "type": "Pins",
+  "type": "Pin Capsule",
   "first_sale_date": "2018/03/01",
   "rarity": {
    "id": "rarity_common",
@@ -60587,7 +60587,7 @@
   "name": "Horizon Case",
   "description": null,
   "def_index": "4482",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2018-06-07",
   "rarity": {
    "id": "rarity_common",
@@ -65694,7 +65694,7 @@
   "name": "London 2018 Inferno Souvenir Package",
   "description": null,
   "def_index": "4540",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -65920,7 +65920,7 @@
   "name": "London 2018 Mirage Souvenir Package",
   "description": null,
   "def_index": "4541",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -66113,7 +66113,7 @@
   "name": "London 2018 Dust II Souvenir Package",
   "description": null,
   "def_index": "4542",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -66317,7 +66317,7 @@
   "name": "London 2018 Overpass Souvenir Package",
   "description": null,
   "def_index": "4543",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -66510,7 +66510,7 @@
   "name": "London 2018 Cache Souvenir Package",
   "description": null,
   "def_index": "4544",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -66681,7 +66681,7 @@
   "name": "London 2018 Train Souvenir Package",
   "description": null,
   "def_index": "4545",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -66874,7 +66874,7 @@
   "name": "London 2018 Nuke Souvenir Package",
   "description": null,
   "def_index": "4546",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -67309,7 +67309,7 @@
   "name": "Danger Zone Case",
   "description": null,
   "def_index": "4548",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2018-11-29",
   "rarity": {
    "id": "rarity_common",
@@ -72416,7 +72416,7 @@
   "name": "Katowice 2019 Inferno Souvenir Package",
   "description": null,
   "def_index": "4590",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -72642,7 +72642,7 @@
   "name": "Katowice 2019 Mirage Souvenir Package",
   "description": null,
   "def_index": "4591",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -72835,7 +72835,7 @@
   "name": "Katowice 2019 Dust II Souvenir Package",
   "description": null,
   "def_index": "4592",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -73039,7 +73039,7 @@
   "name": "Katowice 2019 Overpass Souvenir Package",
   "description": null,
   "def_index": "4593",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -73232,7 +73232,7 @@
   "name": "Katowice 2019 Cache Souvenir Package",
   "description": null,
   "def_index": "4594",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -73403,7 +73403,7 @@
   "name": "Katowice 2019 Train Souvenir Package",
   "description": null,
   "def_index": "4595",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -73596,7 +73596,7 @@
   "name": "Katowice 2019 Nuke Souvenir Package",
   "description": null,
   "def_index": "4596",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -74021,7 +74021,7 @@
   "name": "Prisma Case",
   "description": null,
   "def_index": "4598",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2019-03-05",
   "rarity": {
    "id": "rarity_common",
@@ -75946,7 +75946,7 @@
   "name": "Shattered Web Case",
   "description": null,
   "def_index": "4620",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2019-06-12",
   "rarity": {
    "id": "rarity_common",
@@ -81053,7 +81053,7 @@
   "name": "Berlin 2019 Inferno Souvenir Package",
   "description": null,
   "def_index": "4660",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -81279,7 +81279,7 @@
   "name": "Berlin 2019 Mirage Souvenir Package",
   "description": null,
   "def_index": "4661",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -81472,7 +81472,7 @@
   "name": "Berlin 2019 Dust II Souvenir Package",
   "description": null,
   "def_index": "4662",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -81676,7 +81676,7 @@
   "name": "Berlin 2019 Overpass Souvenir Package",
   "description": null,
   "def_index": "4663",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -81869,7 +81869,7 @@
   "name": "Berlin 2019 Train Souvenir Package",
   "description": null,
   "def_index": "4664",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -82062,7 +82062,7 @@
   "name": "Berlin 2019 Nuke Souvenir Package",
   "description": null,
   "def_index": "4665",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -82288,7 +82288,7 @@
   "name": "Berlin 2019 Vertigo Souvenir Package",
   "description": null,
   "def_index": "4666",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -82422,7 +82422,7 @@
   "name": "CS20 Case",
   "description": "Celebrating the 20th Anniversary of Counter-Strike, this weapon case contains a variety of weapon finishes from Steam Community Workshop and features the Classic Knife as the rare special item, a classic of the Counter-Strike series.",
   "def_index": "4669",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2019-10-14",
   "rarity": {
    "id": "rarity_common",
@@ -83016,7 +83016,7 @@
   "name": "Half-Life: Alyx Collectible Pins Capsule",
   "description": "This capsule contains a single collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. Collectible pins can be displayed on your profile.",
   "def_index": "4693",
-  "type": "Pins",
+  "type": "Pin Capsule",
   "first_sale_date": "2020/03/23",
   "rarity": {
    "id": "rarity_common",
@@ -83324,7 +83324,7 @@
   "name": "Prisma 2 Case",
   "description": null,
   "def_index": "4695",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2020-03-24",
   "rarity": {
    "id": "rarity_common",
@@ -84343,7 +84343,7 @@
   "name": "Fracture Case",
   "description": null,
   "def_index": "4698",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2020-07-13",
   "rarity": {
    "id": "rarity_common",
@@ -85136,7 +85136,7 @@
   "name": "Operation Broken Fang Case",
   "description": null,
   "def_index": "4717",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2020-10-14",
   "rarity": {
    "id": "rarity_common",
@@ -87435,7 +87435,7 @@
   "name": "Snakebite Case",
   "description": null,
   "def_index": "4747",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2021-03-26",
   "rarity": {
    "id": "rarity_common",
@@ -89703,7 +89703,7 @@
   "name": "Operation Riptide Case",
   "description": null,
   "def_index": "4790",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2021-09-08",
   "rarity": {
    "id": "rarity_common",
@@ -92448,7 +92448,7 @@
   "name": "Stockholm 2021 Inferno Souvenir Package",
   "description": null,
   "def_index": "4809",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -92674,7 +92674,7 @@
   "name": "Stockholm 2021 Mirage Souvenir Package",
   "description": null,
   "def_index": "4810",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -92911,7 +92911,7 @@
   "name": "Stockholm 2021 Dust II Souvenir Package",
   "description": null,
   "def_index": "4811",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -93148,7 +93148,7 @@
   "name": "Stockholm 2021 Overpass Souvenir Package",
   "description": null,
   "def_index": "4812",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -93341,7 +93341,7 @@
   "name": "Stockholm 2021 Ancient Souvenir Package",
   "description": null,
   "def_index": "4813",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -93578,7 +93578,7 @@
   "name": "Stockholm 2021 Nuke Souvenir Package",
   "description": null,
   "def_index": "4814",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -93804,7 +93804,7 @@
   "name": "Stockholm 2021 Vertigo Souvenir Package",
   "description": null,
   "def_index": "4815",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -95299,7 +95299,7 @@
   "name": "Dreams & Nightmares Case",
   "description": null,
   "def_index": "4818",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2021-11-17",
   "rarity": {
    "id": "rarity_common",
@@ -97258,7 +97258,7 @@
   "name": "Antwerp 2022 Inferno Souvenir Package",
   "description": null,
   "def_index": "4835",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -97484,7 +97484,7 @@
   "name": "Antwerp 2022 Mirage Souvenir Package",
   "description": null,
   "def_index": "4836",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -97721,7 +97721,7 @@
   "name": "Antwerp 2022 Dust II Souvenir Package",
   "description": null,
   "def_index": "4837",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -97958,7 +97958,7 @@
   "name": "Antwerp 2022 Overpass Souvenir Package",
   "description": null,
   "def_index": "4838",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -98151,7 +98151,7 @@
   "name": "Antwerp 2022 Ancient Souvenir Package",
   "description": null,
   "def_index": "4839",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -98388,7 +98388,7 @@
   "name": "Antwerp 2022 Nuke Souvenir Package",
   "description": null,
   "def_index": "4840",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -98614,7 +98614,7 @@
   "name": "Antwerp 2022 Vertigo Souvenir Package",
   "description": null,
   "def_index": "4841",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -103967,7 +103967,7 @@
   "name": "Recoil Case",
   "description": null,
   "def_index": "4846",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2022-05-30",
   "rarity": {
    "id": "rarity_common",
@@ -106476,7 +106476,7 @@
   "name": "Rio 2022 Inferno Souvenir Package",
   "description": null,
   "def_index": "4860",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -106702,7 +106702,7 @@
   "name": "Rio 2022 Mirage Souvenir Package",
   "description": null,
   "def_index": "4861",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -106939,7 +106939,7 @@
   "name": "Rio 2022 Dust II Souvenir Package",
   "description": null,
   "def_index": "4862",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -107176,7 +107176,7 @@
   "name": "Rio 2022 Overpass Souvenir Package",
   "description": null,
   "def_index": "4863",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -107369,7 +107369,7 @@
   "name": "Rio 2022 Ancient Souvenir Package",
   "description": null,
   "def_index": "4864",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -107606,7 +107606,7 @@
   "name": "Rio 2022 Nuke Souvenir Package",
   "description": null,
   "def_index": "4865",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -107832,7 +107832,7 @@
   "name": "Rio 2022 Vertigo Souvenir Package",
   "description": null,
   "def_index": "4866",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -113185,7 +113185,7 @@
   "name": "Rio 2022 Storage Unit with Paper Stickers",
   "description": "This is a Storage Unit containing every Paper player autograph and every Paper sticker commemorating IEM Rio 2022 CS:GO Major Championship.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.",
   "def_index": "4871",
-  "type": null,
+  "type": "Storage Unit",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -114664,7 +114664,7 @@
   "name": "Rio 2022 Storage Unit with Glitter Stickers",
   "description": "This is a Storage Unit containing every Glitter player autograph and every Glitter sticker commemorating IEM Rio 2022 CS:GO Major Championship.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.",
   "def_index": "4872",
-  "type": null,
+  "type": "Storage Unit",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -116382,7 +116382,7 @@
   "name": "Revolution Case",
   "description": null,
   "def_index": "4880",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2023-01-31",
   "rarity": {
    "id": "rarity_common",
@@ -118271,7 +118271,7 @@
   "name": "Paris 2023 Inferno Souvenir Package",
   "description": null,
   "def_index": "4893",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -118497,7 +118497,7 @@
   "name": "Paris 2023 Mirage Souvenir Package",
   "description": null,
   "def_index": "4894",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -118734,7 +118734,7 @@
   "name": "Paris 2023 Anubis Souvenir Package",
   "description": null,
   "def_index": "4895",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -118971,7 +118971,7 @@
   "name": "Paris 2023 Overpass Souvenir Package",
   "description": null,
   "def_index": "4896",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -119164,7 +119164,7 @@
   "name": "Paris 2023 Ancient Souvenir Package",
   "description": null,
   "def_index": "4897",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -119401,7 +119401,7 @@
   "name": "Paris 2023 Nuke Souvenir Package",
   "description": null,
   "def_index": "4898",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -119627,7 +119627,7 @@
   "name": "Paris 2023 Vertigo Souvenir Package",
   "description": null,
   "def_index": "4899",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -124980,7 +124980,7 @@
   "name": "Kilowatt Case",
   "description": null,
   "def_index": "4904",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2024-01-16",
   "rarity": {
    "id": "rarity_common",
@@ -126929,7 +126929,7 @@
   "name": "Copenhagen 2024 Inferno Souvenir Package",
   "description": null,
   "def_index": "4926",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -127155,7 +127155,7 @@
   "name": "Copenhagen 2024 Mirage Souvenir Package",
   "description": null,
   "def_index": "4927",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -127392,7 +127392,7 @@
   "name": "Copenhagen 2024 Anubis Souvenir Package",
   "description": null,
   "def_index": "4928",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -127629,7 +127629,7 @@
   "name": "Copenhagen 2024 Overpass Souvenir Package",
   "description": null,
   "def_index": "4929",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -127822,7 +127822,7 @@
   "name": "Copenhagen 2024 Ancient Souvenir Package",
   "description": null,
   "def_index": "4930",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -128059,7 +128059,7 @@
   "name": "Copenhagen 2024 Nuke Souvenir Package",
   "description": null,
   "def_index": "4931",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -128285,7 +128285,7 @@
   "name": "Copenhagen 2024 Vertigo Souvenir Package",
   "description": null,
   "def_index": "4932",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -135023,7 +135023,7 @@
   "name": "Shanghai 2024 Inferno Souvenir Package",
   "description": null,
   "def_index": "4967",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -135249,7 +135249,7 @@
   "name": "Shanghai 2024 Mirage Souvenir Package",
   "description": null,
   "def_index": "4968",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -135486,7 +135486,7 @@
   "name": "Shanghai 2024 Anubis Souvenir Package",
   "description": null,
   "def_index": "4969",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -135723,7 +135723,7 @@
   "name": "Shanghai 2024 Dust II Souvenir Package",
   "description": null,
   "def_index": "4970",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -135960,7 +135960,7 @@
   "name": "Shanghai 2024 Ancient Souvenir Package",
   "description": null,
   "def_index": "4971",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -136197,7 +136197,7 @@
   "name": "Shanghai 2024 Nuke Souvenir Package",
   "description": null,
   "def_index": "4972",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -136423,7 +136423,7 @@
   "name": "Shanghai 2024 Vertigo Souvenir Package",
   "description": null,
   "def_index": "4973",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -143263,7 +143263,7 @@
   "name": "Austin 2025 Inferno Souvenir Package",
   "description": null,
   "def_index": "5120",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -143715,7 +143715,7 @@
   "name": "Austin 2025 Mirage Souvenir Package",
   "description": null,
   "def_index": "5121",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -144189,7 +144189,7 @@
   "name": "Austin 2025 Anubis Souvenir Package",
   "description": null,
   "def_index": "5122",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -144663,7 +144663,7 @@
   "name": "Austin 2025 Dust II Souvenir Package",
   "description": null,
   "def_index": "5123",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -145137,7 +145137,7 @@
   "name": "Austin 2025 Ancient Souvenir Package",
   "description": null,
   "def_index": "5124",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -145611,7 +145611,7 @@
   "name": "Austin 2025 Nuke Souvenir Package",
   "description": null,
   "def_index": "5125",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -146063,7 +146063,7 @@
   "name": "Austin 2025 Train Souvenir Package",
   "description": null,
   "def_index": "5126",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -154890,7 +154890,7 @@
   "name": "Budapest 2025 Inferno Souvenir Package",
   "description": null,
   "def_index": "5219",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -155342,7 +155342,7 @@
   "name": "Budapest 2025 Mirage Souvenir Package",
   "description": null,
   "def_index": "5220",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -155816,7 +155816,7 @@
   "name": "Budapest 2025 Overpass Souvenir Package",
   "description": null,
   "def_index": "5221",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -156224,7 +156224,7 @@
   "name": "Budapest 2025 Dust II Souvenir Package",
   "description": null,
   "def_index": "5222",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -156698,7 +156698,7 @@
   "name": "Budapest 2025 Ancient Souvenir Package",
   "description": null,
   "def_index": "5223",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -157172,7 +157172,7 @@
   "name": "Budapest 2025 Nuke Souvenir Package",
   "description": null,
   "def_index": "5224",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -157624,7 +157624,7 @@
   "name": "Budapest 2025 Train Souvenir Package",
   "description": null,
   "def_index": "5225",
-  "type": "Souvenir",
+  "type": "Souvenir Package",
   "first_sale_date": null,
   "rarity": {
    "id": "rarity_common",
@@ -164547,7 +164547,7 @@
   "name": "Gallery Case",
   "description": null,
   "def_index": "7003",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2024-07-01",
   "rarity": {
    "id": "rarity_common",
@@ -164912,7 +164912,7 @@
   "name": "Fever Case",
   "description": null,
   "def_index": "7007",
-  "type": "Case",
+  "type": "Weapon Case",
   "first_sale_date": "2025-02-04",
   "rarity": {
    "id": "rarity_common",

@@ -338,6 +338,84 @@ export const getCategory = weapon => {
     return null;
 };
 
+export const getType = weapon => {
+    switch (weapon) {
+        case "weapon_deagle":
+        case "weapon_elite":
+        case "weapon_fiveseven":
+        case "weapon_glock":
+        case "weapon_tec9":
+        case "weapon_hkp2000":
+        case "weapon_p250":
+        case "weapon_usp_silencer":
+        case "weapon_cz75a":
+        case "weapon_revolver":
+            return "CSGO_Type_Pistol";
+        case "weapon_ak47":
+        case "weapon_aug":
+        case "weapon_awp":
+        case "weapon_famas":
+        case "weapon_g3sg1":
+        case "weapon_galilar":
+        case "weapon_scar20":
+        case "weapon_sg556":
+        case "weapon_ssg08":
+        case "weapon_m4a1_silencer":
+        case "weapon_m4a1":
+            return "CSGO_Type_Rifle";
+        case "weapon_m249":
+        case "weapon_negev":
+            return "CSGO_Type_Machinegun";
+        case "weapon_xm1014":
+        case "weapon_mag7":
+        case "weapon_sawedoff":
+        case "weapon_nova":
+            return "CSGO_Type_Shotgun";
+        case "weapon_mac10":
+        case "weapon_p90":
+        case "weapon_mp5sd":
+        case "weapon_ump45":
+        case "weapon_bizon":
+        case "weapon_mp7":
+        case "weapon_mp9":
+            return "CSGO_Type_SMG";
+        case "weapon_bayonet":
+        case "weapon_knife_css":
+        case "weapon_knife_flip":
+        case "weapon_knife_gut":
+        case "weapon_knife_karambit":
+        case "weapon_knife_m9_bayonet":
+        case "weapon_knife_tactical":
+        case "weapon_knife_falchion":
+        case "weapon_knife_survival_bowie":
+        case "weapon_knife_butterfly":
+        case "weapon_knife_push":
+        case "weapon_knife_cord":
+        case "weapon_knife_canis":
+        case "weapon_knife_ursus":
+        case "weapon_knife_gypsy_jackknife":
+        case "weapon_knife_outdoor":
+        case "weapon_knife_stiletto":
+        case "weapon_knife_widowmaker":
+        case "weapon_knife_skeleton":
+        case "weapon_knife_kukri":
+            return "CSGO_Type_Knife";
+        case "studded_bloodhound_gloves":
+        case "studded_brokenfang_gloves":
+        case "sporty_gloves":
+        case "slick_gloves":
+        case "leather_handwraps":
+        case "motorcycle_gloves":
+        case "specialist_gloves":
+        case "studded_hydra_gloves":
+            return "Type_Hands";
+        case "weapon_taser":
+            return "Survival_SpawnEquip_taser";
+    }
+
+    return null;
+};
+
 export const getWears = (minFloat, maxFloat) => {
     const wears = [
         { wear: "SFUI_InvTooltip_Wear_Amount_0", min: 0.0, max: 0.07 },

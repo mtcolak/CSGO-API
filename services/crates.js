@@ -42,32 +42,28 @@ const isCrate = item => {
 
 const getCrateType = item => {
     if (item.prefab === "weapon_case") {
-        return "Case";
+        return "Weapon Case";
     }
 
     if (item.prefab === "weapon_case_souvenirpkg" || item.prefab.includes("souvenir_crate")) {
-        return "Souvenir";
+        return "Souvenir Package";
     }
 
     if (item.item_name.startsWith("#CSGO_storageunit")) {
-        return null;
+        return "Storage Unit";
     }
 
-    if (item.prefab.includes("sticker_capsule")) {
+    if (item.prefab.includes("sticker_capsule") || item?.tags?.StickerCapsule !== undefined) {
         return "Sticker Capsule";
     }
 
     if (item.prefab === "graffiti_box") {
-        return "Graffiti";
+        return "Graffiti Box";
     }
 
     if (item.name.startsWith("crate_pins")) {
-        return "Pins";
+        return "Pin Capsule";
     }
-
-    // if (item.translation_description?.includes("capsule")) {
-    //     return "Sticker Capsule";
-    // }
 
     if (item.name.startsWith("crate_signature")) {
         return "Autograph Capsule";
@@ -79,10 +75,6 @@ const getCrateType = item => {
 
     if (item.name.startsWith("crate_musickit")) {
         return "Music Kit Box";
-    }
-
-    if (item?.tags?.StickerCapsule !== undefined) {
-        return "Sticker Capsule";
     }
 
     return null;

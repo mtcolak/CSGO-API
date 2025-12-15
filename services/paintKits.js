@@ -1,6 +1,7 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
+import { getDopplerPhase } from "../utils/index.js";
 
 export const getPaintKits = async () => {
     const { paintKits } = state;
@@ -23,8 +24,10 @@ export const getPaintKits = async () => {
             .replace("#", "")
             .replace("_Tag", "");
 
+        const dopplerPhase = getDopplerPhase(paint_index);
+
         return {
-            paintIndex: paint_index,
+            paint_index: paint_index,
             name: $t(nameTag),
             description: $t(descriptionTag),
             wear: {
@@ -35,7 +38,9 @@ export const getPaintKits = async () => {
                 id: style_id,
                 name: $t(style_name),
             },
-
+            phase: {
+                name: dopplerPhase,
+            },
             // Language translation keys
             i18n: {
                 name: nameTag,

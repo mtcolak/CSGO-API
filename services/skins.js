@@ -3,6 +3,7 @@ import {
     isNotWeapon,
     knives,
     getCategory,
+    getType,
     getWears,
     getDopplerPhase,
     getRarityColor,
@@ -115,6 +116,10 @@ const parseItem = (item, items) => {
             id: getCategory(weapon),
             name: $t(getCategory(weapon)),
         },
+        type: {
+            id: getType(weapon),
+            name: $t(getType(weapon)),
+        },
         pattern: {
             id: pattern,
             // Some names are numbers, let's convert them to strings.
@@ -187,6 +192,10 @@ export const getSkins = async () => {
             category: {
                 id: "sfui_invpanel_filter_melee",
                 name: $t("sfui_invpanel_filter_melee"),
+            },
+            type: {
+                id: "CSGO_Type_Knife",
+                name: $t("CSGO_Type_Knife"),
             },
             pattern: null,
             min_float: null,
