@@ -1,27 +1,8 @@
 import fs from "fs";
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { LANGUAGES_URL } from "../constants.js";
-import { ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
+import { ITEM_TYPES, ITEM_TYPE_NAMES, getRarityColor } from "../utils/index.js";
 import { $t } from "./translations.js";
-
-const STATIC_ITEMS = [
-    {
-        def_index: 1209,
-        name_token: '#CSGO_Tool_Sticker',
-        description_token: '#CSGO_Tool_Sticker_Desc',
-        type: { id: ITEM_TYPES.Sticker, name: ITEM_TYPE_NAMES[ITEM_TYPES.Sticker] },
-        rarity_id: 0,
-        image: "econ/tools/sticker" // Approximated
-    },
-    {
-        def_index: 1355,
-        name_token: '#CSGO_Tool_Keychain',
-        description_token: '#CSGO_Tool_Keychain_Desc',
-        type: { id: ITEM_TYPES.Charm, name: ITEM_TYPE_NAMES[ITEM_TYPES.Charm] },
-        rarity_id: 0,
-        image: "econ/tools/keychain" // Approximated
-    }
-];
 
 const getCrateType = (typeObj) => {
     const typeStr = typeObj?.id || typeObj;
@@ -60,6 +41,33 @@ export const getDefinitions = async () => {
 
         const definitions = [];
 
+        const STATIC_ITEMS = [
+            {
+                def_index: 1209,
+                name_token: '#CSGO_Tool_Sticker',
+                description_token: '#CSGO_Tool_Sticker_Desc',
+                type: { id: ITEM_TYPES.Sticker, name: ITEM_TYPE_NAMES[ITEM_TYPES.Sticker] },
+                rarity: {
+                    id: "rarity_common",
+                    name: $t("rarity_common"),
+                    color: getRarityColor("rarity_common")
+                },
+                image: "econ/tools/sticker" // Approximated
+            },
+            {
+                def_index: 1355,
+                name_token: '#CSGO_Tool_Keychain',
+                description_token: '#CSGO_Tool_Keychain_Desc',
+                type: { id: ITEM_TYPES.Charm, name: ITEM_TYPE_NAMES[ITEM_TYPES.Charm] },
+                rarity: {
+                    id: "rarity_common",
+                    name: $t("rarity_common"),
+                    color: getRarityColor("rarity_common")
+                },
+                image: "econ/tools/keychain" // Approximated
+            }
+        ];
+
         // 1. Static Definitions
         definitions.push(...STATIC_ITEMS.map(i => ({
             def_index: i.def_index,
@@ -81,7 +89,11 @@ export const getDefinitions = async () => {
             name: i.name,
             description: i.description,
             type: i.type,
-            rarity_id: 0,
+            rarity: {
+                id: "rarity_default",
+                name: $t("rarity_default"),
+                color: getRarityColor("rarity_default")
+            },
             image: i.image,
             i18n: {
                 name: i.i18n?.name,
@@ -96,7 +108,7 @@ export const getDefinitions = async () => {
             name: i.name,
             description: i.description,
             type: getCrateType(i.type),
-            rarity_id: 0,
+            rarity: i.rarity,
             image: i.image,
             i18n: {
                 name: i.i18n?.name,
@@ -111,7 +123,7 @@ export const getDefinitions = async () => {
             name: i.name,
             description: i.description,
             type: { id: ITEM_TYPES.Agent, name: ITEM_TYPE_NAMES[ITEM_TYPES.Agent] },
-            rarity_id: 0,
+            rarity: i.rarity,
             image: i.image,
             i18n: {
                 name: i.i18n?.name,
@@ -126,7 +138,7 @@ export const getDefinitions = async () => {
             name: i.name,
             description: i.description,
             type: { id: ITEM_TYPES.Patch, name: ITEM_TYPE_NAMES[ITEM_TYPES.Patch] },
-            rarity_id: 0,
+            rarity: i.rarity,
             image: i.image,
             i18n: {
                 name: i.i18n?.name,
@@ -141,7 +153,7 @@ export const getDefinitions = async () => {
             name: i.name,
             description: i.description,
             type: { id: ITEM_TYPES.Collectible, name: ITEM_TYPE_NAMES[ITEM_TYPES.Collectible] },
-            rarity_id: 0,
+            rarity: i.rarity,
             image: i.image,
             i18n: {
                 name: i.i18n?.name,
@@ -156,7 +168,11 @@ export const getDefinitions = async () => {
             name: i.name,
             description: i.description,
             type: { id: ITEM_TYPES.Tool, name: ITEM_TYPE_NAMES[ITEM_TYPES.Tool] },
-            rarity_id: 0,
+            rarity: {
+                id: "rarity_common",
+                name: $t("rarity_common"),
+                color: getRarityColor("rarity_common")
+            },
             image: i.image,
             i18n: {
                 name: i.i18n?.name,
