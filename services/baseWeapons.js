@@ -4,6 +4,8 @@ import { getImageUrl } from "../constants.js";
 import { weaponIDMapping } from "../utils/index.js";
 import { state } from "./main.js";
 
+import { getType } from "../utils/index.js";
+
 export const getBaseWeapons = async () => {
     const { items, cdnImages } = state;
     const { folder } = languageData;
@@ -33,6 +35,7 @@ export const getBaseWeapons = async () => {
                 name: $t(nameKey),
                 description: $t(descriptionKey),
                 def_index: defIndex,
+                type: getType(weapon),
                 image:
                     cdnImages[`econ/weapons/base_weapons/${weapon}`] ??
                     getImageUrl(`econ/weapons/base_weapons/${weapon}`),

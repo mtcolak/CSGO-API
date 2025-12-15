@@ -1,7 +1,7 @@
 import { createRequire } from "module";
 
 import { saveDataJson } from "../utils/saveDataJson.js";
-import { getGraffitiVariations, getRarityColor } from "../utils/index.js";
+import { getGraffitiVariations, getRarityColor, ITEM_TYPES } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 import { $t, languageData } from "./translations.js";
@@ -67,6 +67,10 @@ const parseItemSealedGraffiti = item => {
                 description: getDescription(item),
                 def_index: item.object_id,
                 color_index: index,
+                type:{
+                    id: ITEM_TYPES.Graffiti,
+                    name: ITEM_TYPES.Graffiti.toString()
+                },
                 rarity: {
                     id: `rarity_${item.item_rarity}`,
                     name: $t(`rarity_${item.item_rarity}`),
@@ -97,6 +101,10 @@ const parseItemSealedGraffiti = item => {
         name: `${$t("csgo_tool_spray")} | ${$t(item.item_name)}`,
         description: getDescription(item),
         def_index: item.object_id,
+        type:{
+            id: ITEM_TYPES.Graffiti,
+            name: ITEM_TYPES.Graffiti.toString()
+        },
         rarity: {
             id: `rarity_${item.item_rarity}`,
             name: $t(`rarity_${item.item_rarity}`),
