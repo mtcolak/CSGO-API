@@ -157,6 +157,8 @@ const getMarketHashName = item => {
 const parseItem = item => {
     const { cratesBySkins, proTeams, proPlayers, collectionsByStickers, cdnImages } = state;
 
+    const DEF_INDEX_STICKER = 1209;
+
     const image =
         cdnImages[`econ/stickers/${item.sticker_material.toLowerCase()}`] ??
         getImageUrl(`econ/stickers/${item.sticker_material.toLowerCase()}`);
@@ -170,7 +172,8 @@ const parseItem = item => {
         id: `sticker-${item.object_id}`,
         name: $t(item.item_name),
         description: getDescription(item),
-        def_index: item.object_id,
+        def_index: DEF_INDEX_STICKER,
+        sticker_index: item.object_id,
         rarity: item.item_rarity
             ? {
                   id: `rarity_${item.item_rarity}`,

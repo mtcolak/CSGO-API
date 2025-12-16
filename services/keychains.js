@@ -22,6 +22,7 @@ const getMarketHashName = item => {
 
 const parseItem = item => {
     const { collectionsBySkins, cdnImages } = state;
+    const DEF_INDEX_KEYCHAIN = 1355;
     const image =
         cdnImages[item.image_inventory.toLowerCase()] ?? getImageUrl(item.image_inventory.toLowerCase());
 
@@ -29,7 +30,8 @@ const parseItem = item => {
         id: `keychain-${item.object_id}`,
         name: $t(item.loc_name),
         description: $t("csgo_tool_keychain_desc"),
-        def_index: item.object_id,
+        def_index: DEF_INDEX_KEYCHAIN,
+        keychain_index: item.object_id,
         type: {
             id: ITEM_TYPES.Charm,
             name: ITEM_TYPE_NAMES[ITEM_TYPES.Charm]

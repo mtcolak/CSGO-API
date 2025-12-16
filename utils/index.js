@@ -811,6 +811,7 @@ export const ITEM_TYPES = {
     AutographCapsule: 37,
     SelfOpeningCase: 38,
     Terminal: 39,
+    
     Container: 49,
 
     // Tools & Utilities
