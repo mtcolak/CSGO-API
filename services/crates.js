@@ -133,7 +133,7 @@ const parseItem = (item, prefabs) => {
     const keyLootList = lootListName ?? revolvingLootLists[attributeValue] ?? null;
 
     let crate = {
-        id: item.item_name.replace("#", "").replace("CSGO_", ""),
+        id: `crate-${item.object_id}`,
         name: $t(item.item_name),
         description: $t(item.item_description) ?? $t(item.item_description_prefab),
         def_index: item.object_id,
