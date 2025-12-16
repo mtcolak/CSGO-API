@@ -168,7 +168,7 @@ const parseItem = item => {
 
     return {
         id: `sticker-${item.object_id}`,
-        name: `${$t("csgo_tool_sticker")} | ${$t(item.item_name)}`,
+        name: $t(item.item_name),
         description: getDescription(item),
         def_index: item.object_id,
         rarity: item.item_rarity

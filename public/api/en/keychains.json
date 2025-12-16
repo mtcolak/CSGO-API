@@ -1,7 +1,7 @@
 [
  {
   "id": "keychain-1",
-  "name": "Charm | Lil' Ava",
+  "name": "Lil' Ava",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "1",
   "type": {
@@ -33,7 +33,7 @@
  },
  {
   "id": "keychain-2",
-  "name": "Charm | That's Bananas",
+  "name": "That's Bananas",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "2",
   "type": {
@@ -65,7 +65,7 @@
  },
  {
   "id": "keychain-3",
-  "name": "Charm | Lil' Whiskers",
+  "name": "Lil' Whiskers",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "3",
   "type": {
@@ -97,7 +97,7 @@
  },
  {
   "id": "keychain-4",
-  "name": "Charm | Lil' Sandy",
+  "name": "Lil' Sandy",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "4",
   "type": {
@@ -129,7 +129,7 @@
  },
  {
   "id": "keychain-5",
-  "name": "Charm | Chicken Lil'",
+  "name": "Chicken Lil'",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "5",
   "type": {
@@ -161,7 +161,7 @@
  },
  {
   "id": "keychain-6",
-  "name": "Charm | Lil' Crass",
+  "name": "Lil' Crass",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "6",
   "type": {
@@ -193,7 +193,7 @@
  },
  {
   "id": "keychain-7",
-  "name": "Charm | Hot Howl",
+  "name": "Hot Howl",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "7",
   "type": {
@@ -225,7 +225,7 @@
  },
  {
   "id": "keychain-8",
-  "name": "Charm | Big Kev",
+  "name": "Big Kev",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "8",
   "type": {
@@ -257,7 +257,7 @@
  },
  {
   "id": "keychain-9",
-  "name": "Charm | Lil' Monster",
+  "name": "Lil' Monster",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "9",
   "type": {
@@ -289,7 +289,7 @@
  },
  {
   "id": "keychain-10",
-  "name": "Charm | Hot Sauce",
+  "name": "Hot Sauce",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "10",
   "type": {
@@ -321,7 +321,7 @@
  },
  {
   "id": "keychain-11",
-  "name": "Charm | Diamond Dog",
+  "name": "Diamond Dog",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "11",
   "type": {
@@ -353,7 +353,7 @@
  },
  {
   "id": "keychain-12",
-  "name": "Charm | Pinch O' Salt",
+  "name": "Pinch O' Salt",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "12",
   "type": {
@@ -385,7 +385,7 @@
  },
  {
   "id": "keychain-13",
-  "name": "Charm | Diner Dog",
+  "name": "Diner Dog",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "13",
   "type": {
@@ -417,7 +417,7 @@
  },
  {
   "id": "keychain-14",
-  "name": "Charm | Lil' Teacup",
+  "name": "Lil' Teacup",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "14",
   "type": {
@@ -449,7 +449,7 @@
  },
  {
   "id": "keychain-15",
-  "name": "Charm | Lil' SAS",
+  "name": "Lil' SAS",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "15",
   "type": {
@@ -481,7 +481,7 @@
  },
  {
   "id": "keychain-16",
-  "name": "Charm | Hot Wurst",
+  "name": "Hot Wurst",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "16",
   "type": {
@@ -513,7 +513,7 @@
  },
  {
   "id": "keychain-17",
-  "name": "Charm | Baby's AK",
+  "name": "Baby's AK",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "17",
   "type": {
@@ -545,7 +545,7 @@
  },
  {
   "id": "keychain-18",
-  "name": "Charm | Die-cast AK",
+  "name": "Die-cast AK",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "18",
   "type": {
@@ -577,7 +577,7 @@
  },
  {
   "id": "keychain-19",
-  "name": "Charm | Pocket AWP",
+  "name": "Pocket AWP",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "19",
   "type": {
@@ -609,7 +609,7 @@
  },
  {
   "id": "keychain-20",
-  "name": "Charm | Titeenium AWP",
+  "name": "Titeenium AWP",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "20",
   "type": {
@@ -641,7 +641,7 @@
  },
  {
   "id": "keychain-21",
-  "name": "Charm | Baby Karat CT",
+  "name": "Baby Karat CT",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "21",
   "type": {
@@ -673,7 +673,7 @@
  },
  {
   "id": "keychain-22",
-  "name": "Charm | Whittle Knife",
+  "name": "Whittle Knife",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "22",
   "type": {
@@ -705,7 +705,7 @@
  },
  {
   "id": "keychain-23",
-  "name": "Charm | POP Art",
+  "name": "POP Art",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "23",
   "type": {
@@ -737,7 +737,7 @@
  },
  {
   "id": "keychain-24",
-  "name": "Charm | Lil' Squirt",
+  "name": "Lil' Squirt",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "24",
   "type": {
@@ -769,7 +769,7 @@
  },
  {
   "id": "keychain-25",
-  "name": "Charm | Disco MAC",
+  "name": "Disco MAC",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "25",
   "type": {
@@ -801,7 +801,7 @@
  },
  {
   "id": "keychain-26",
-  "name": "Charm | Backsplash",
+  "name": "Backsplash",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "26",
   "type": {
@@ -833,7 +833,7 @@
  },
  {
   "id": "keychain-27",
-  "name": "Charm | Lil' Cap Gun",
+  "name": "Lil' Cap Gun",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "27",
   "type": {
@@ -865,7 +865,7 @@
  },
  {
   "id": "keychain-28",
-  "name": "Charm | Hot Hands",
+  "name": "Hot Hands",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "28",
   "type": {
@@ -897,7 +897,7 @@
  },
  {
   "id": "keychain-29",
-  "name": "Charm | Semi-Precious",
+  "name": "Semi-Precious",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "29",
   "type": {
@@ -929,7 +929,7 @@
  },
  {
   "id": "keychain-30",
-  "name": "Charm | Baby Karat T",
+  "name": "Baby Karat T",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "30",
   "type": {
@@ -961,7 +961,7 @@
  },
  {
   "id": "keychain-31",
-  "name": "Charm | Glamour Shot",
+  "name": "Glamour Shot",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "31",
   "type": {
@@ -993,7 +993,7 @@
  },
  {
   "id": "keychain-32",
-  "name": "Charm | Stitch-Loaded",
+  "name": "Stitch-Loaded",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "32",
   "type": {
@@ -1025,7 +1025,7 @@
  },
  {
   "id": "keychain-33",
-  "name": "Charm | Lil' Squatch",
+  "name": "Lil' Squatch",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "33",
   "type": {
@@ -1057,7 +1057,7 @@
  },
  {
   "id": "keychain-38",
-  "name": "Charm | Lil' Curse",
+  "name": "Lil' Curse",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "38",
   "type": {
@@ -1089,7 +1089,7 @@
  },
  {
   "id": "keychain-39",
-  "name": "Charm | Lil' Serpent",
+  "name": "Lil' Serpent",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "39",
   "type": {
@@ -1121,7 +1121,7 @@
  },
  {
   "id": "keychain-40",
-  "name": "Charm | Lil' Baller",
+  "name": "Lil' Baller",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "40",
   "type": {
@@ -1153,7 +1153,7 @@
  },
  {
   "id": "keychain-41",
-  "name": "Charm | Dead Weight",
+  "name": "Dead Weight",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "41",
   "type": {
@@ -1185,7 +1185,7 @@
  },
  {
   "id": "keychain-42",
-  "name": "Charm | Lil' Prick",
+  "name": "Lil' Prick",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "42",
   "type": {
@@ -1217,7 +1217,7 @@
  },
  {
   "id": "keychain-43",
-  "name": "Charm | Lil' Buns",
+  "name": "Lil' Buns",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "43",
   "type": {
@@ -1249,7 +1249,7 @@
  },
  {
   "id": "keychain-44",
-  "name": "Charm | Lil' Smokey",
+  "name": "Lil' Smokey",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "44",
   "type": {
@@ -1281,7 +1281,7 @@
  },
  {
   "id": "keychain-45",
-  "name": "Charm | Lil' Eldritch",
+  "name": "Lil' Eldritch",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "45",
   "type": {
@@ -1313,7 +1313,7 @@
  },
  {
   "id": "keychain-46",
-  "name": "Charm | Lil' Happy",
+  "name": "Lil' Happy",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "46",
   "type": {
@@ -1345,7 +1345,7 @@
  },
  {
   "id": "keychain-47",
-  "name": "Charm | Magmatude",
+  "name": "Magmatude",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "47",
   "type": {
@@ -1377,7 +1377,7 @@
  },
  {
   "id": "keychain-48",
-  "name": "Charm | Lil' Cackle",
+  "name": "Lil' Cackle",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "48",
   "type": {
@@ -1409,7 +1409,7 @@
  },
  {
   "id": "keychain-49",
-  "name": "Charm | Quick Silver",
+  "name": "Quick Silver",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "49",
   "type": {
@@ -1441,7 +1441,7 @@
  },
  {
   "id": "keychain-50",
-  "name": "Charm | Lil' No. 2",
+  "name": "Lil' No. 2",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "50",
   "type": {
@@ -1473,7 +1473,7 @@
  },
  {
   "id": "keychain-51",
-  "name": "Charm | Piñatita",
+  "name": "Piñatita",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "51",
   "type": {
@@ -1505,7 +1505,7 @@
  },
  {
   "id": "keychain-52",
-  "name": "Charm | Pocket Pop",
+  "name": "Pocket Pop",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "52",
   "type": {
@@ -1537,7 +1537,7 @@
  },
  {
   "id": "keychain-53",
-  "name": "Charm | Lil' Hero",
+  "name": "Lil' Hero",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "53",
   "type": {
@@ -1569,7 +1569,7 @@
  },
  {
   "id": "keychain-54",
-  "name": "Charm | Lil' Tusk",
+  "name": "Lil' Tusk",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "54",
   "type": {
@@ -1601,7 +1601,7 @@
  },
  {
   "id": "keychain-55",
-  "name": "Charm | Lil' Goop",
+  "name": "Lil' Goop",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "55",
   "type": {
@@ -1633,7 +1633,7 @@
  },
  {
   "id": "keychain-56",
-  "name": "Charm | Hang Loose",
+  "name": "Hang Loose",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "56",
   "type": {
@@ -1665,7 +1665,7 @@
  },
  {
   "id": "keychain-57",
-  "name": "Charm | Lil' Vino",
+  "name": "Lil' Vino",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "57",
   "type": {
@@ -1697,7 +1697,7 @@
  },
  {
   "id": "keychain-58",
-  "name": "Charm | Lil' Moments",
+  "name": "Lil' Moments",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "58",
   "type": {
@@ -1729,7 +1729,7 @@
  },
  {
   "id": "keychain-59",
-  "name": "Charm | Lil' Boo",
+  "name": "Lil' Boo",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "59",
   "type": {
@@ -1761,7 +1761,7 @@
  },
  {
   "id": "keychain-60",
-  "name": "Charm | Lil' Chirp",
+  "name": "Lil' Chirp",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "60",
   "type": {
@@ -1793,7 +1793,7 @@
  },
  {
   "id": "keychain-61",
-  "name": "Charm | Big Brain",
+  "name": "Big Brain",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "61",
   "type": {
@@ -1825,7 +1825,7 @@
  },
  {
   "id": "keychain-62",
-  "name": "Charm | Biomech",
+  "name": "Biomech",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "62",
   "type": {
@@ -1857,7 +1857,7 @@
  },
  {
   "id": "keychain-63",
-  "name": "Charm | Splatter Cat",
+  "name": "Splatter Cat",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "63",
   "type": {
@@ -1889,7 +1889,7 @@
  },
  {
   "id": "keychain-64",
-  "name": "Charm | Gritty",
+  "name": "Gritty",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "64",
   "type": {
@@ -1921,7 +1921,7 @@
  },
  {
   "id": "keychain-65",
-  "name": "Charm | Fluffy",
+  "name": "Fluffy",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "65",
   "type": {
@@ -1953,7 +1953,7 @@
  },
  {
   "id": "keychain-66",
-  "name": "Charm | Whittle Guy",
+  "name": "Whittle Guy",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "66",
   "type": {
@@ -1985,7 +1985,7 @@
  },
  {
   "id": "keychain-67",
-  "name": "Charm | Lil' Zen",
+  "name": "Lil' Zen",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "67",
   "type": {
@@ -2017,7 +2017,7 @@
  },
  {
   "id": "keychain-68",
-  "name": "Charm | Lil' Facelift",
+  "name": "Lil' Facelift",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "68",
   "type": {
@@ -2049,7 +2049,7 @@
  },
  {
   "id": "keychain-69",
-  "name": "Charm | Lil' Chomper",
+  "name": "Lil' Chomper",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "69",
   "type": {
@@ -2081,7 +2081,7 @@
  },
  {
   "id": "keychain-70",
-  "name": "Charm | Lil' Bloody",
+  "name": "Lil' Bloody",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "70",
   "type": {
@@ -2113,7 +2113,7 @@
  },
  {
   "id": "keychain-71",
-  "name": "Charm | Lil' Dumplin'",
+  "name": "Lil' Dumplin'",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "71",
   "type": {
@@ -2145,7 +2145,7 @@
  },
  {
   "id": "keychain-72",
-  "name": "Charm | Bomb Tag",
+  "name": "Bomb Tag",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "72",
   "type": {
@@ -2177,7 +2177,7 @@
  },
  {
   "id": "keychain-73",
-  "name": "Charm | Glitter Bomb",
+  "name": "Glitter Bomb",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "73",
   "type": {
@@ -2209,7 +2209,7 @@
  },
  {
   "id": "keychain-74",
-  "name": "Charm | Lil' Eco",
+  "name": "Lil' Eco",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "74",
   "type": {
@@ -2241,7 +2241,7 @@
  },
  {
   "id": "keychain-75",
-  "name": "Charm | Hungry Eyes",
+  "name": "Hungry Eyes",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "75",
   "type": {
@@ -2273,7 +2273,7 @@
  },
  {
   "id": "keychain-76",
-  "name": "Charm | Eye of Ball",
+  "name": "Eye of Ball",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "76",
   "type": {
@@ -2305,7 +2305,7 @@
  },
  {
   "id": "keychain-77",
-  "name": "Charm | Lil' Yeti",
+  "name": "Lil' Yeti",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "77",
   "type": {
@@ -2337,7 +2337,7 @@
  },
  {
   "id": "keychain-78",
-  "name": "Charm | 8 Ball IGL",
+  "name": "8 Ball IGL",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "78",
   "type": {
@@ -2369,7 +2369,7 @@
  },
  {
   "id": "keychain-79",
-  "name": "Charm | Flash Bomb",
+  "name": "Flash Bomb",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "79",
   "type": {
@@ -2401,7 +2401,7 @@
  },
  {
   "id": "keychain-80",
-  "name": "Charm | Lil' Ferno",
+  "name": "Lil' Ferno",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "80",
   "type": {
@@ -2433,7 +2433,7 @@
  },
  {
   "id": "keychain-81",
-  "name": "Charm | Butane Buddy",
+  "name": "Butane Buddy",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "81",
   "type": {
@@ -2465,7 +2465,7 @@
  },
  {
   "id": "keychain-82",
-  "name": "Charm | Dr. Brian",
+  "name": "Dr. Brian",
   "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
   "def_index": "82",
   "type": {

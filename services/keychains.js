@@ -27,7 +27,7 @@ const parseItem = item => {
 
     return {
         id: `keychain-${item.object_id}`,
-        name: `${$t("CSGO_Tool_Keychain")} | ${$t(item.loc_name)}`,
+        name: $t(item.loc_name),
         description: $t("csgo_tool_keychain_desc"),
         def_index: item.object_id,
         type: {
