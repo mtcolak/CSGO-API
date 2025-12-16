@@ -115,7 +115,6 @@ const parseItem = (item, items) => {
         description: getDescription(translatedDescription, paintKits, pattern),
         weapon: {
             id: weapon,
-            weapon_id: weaponIDMapping[weapon],
             name: translatedName,
         },
         category: {
@@ -132,6 +131,8 @@ const parseItem = (item, items) => {
             // https://github.com/ByMykel/CSGO-API/issues/158
             name: $t(paintKits[pattern]?.description_tag)?.toString(),
         },
+        def_index: weaponIDMapping[weapon],
+        paint_index: paintKits[pattern]?.paint_index,
         min_float: paintKits[pattern]?.wear_remap_min,
         max_float: paintKits[pattern]?.wear_remap_max,
         rarity: {
@@ -141,7 +142,6 @@ const parseItem = (item, items) => {
         },
         stattrak: isStatTrak,
         souvenir: souvenirSkins?.[`skin-${item.object_id}`] ?? false,
-        paint_index: paintKits[pattern]?.paint_index,
         wears: getWears(paintKits[pattern]?.wear_remap_min, paintKits[pattern]?.wear_remap_max).map(
             wearKey => ({ id: wearKey, name: $t(wearKey) })
         ),
@@ -192,7 +192,6 @@ export const getSkins = async () => {
             description: $t(knife.item_description),
             weapon: {
                 id: knife.item_name,
-                weapon_id: weaponIDMapping[knife.name],
                 name: $t(knife.item_name),
             },
             category: {
@@ -204,6 +203,7 @@ export const getSkins = async () => {
                 name: $t("CSGO_Type_Knife"),
             },
             pattern: null,
+            def_index: weaponIDMapping[knife.name],
             min_float: null,
             max_float: null,
             rarity: {
