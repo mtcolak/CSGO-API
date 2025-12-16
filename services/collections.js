@@ -1,7 +1,6 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
-import { getRarityColor } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 const isCollection = item => item.is_collection !== undefined;
@@ -48,17 +47,12 @@ const parseItem = item => {
         name: item.name_force ? $t(item.name_force) : $t(item.name),
         description: item.name_force ? $t(`${item.name_force}_desc`) : $t(`${item.name}_desc`),
         crates: (cratesByCollections?.[item.name.replace("#CSGO_", "")] ?? []).map(i => ({
-            ...i,
+            id: i.id,
             name: $t(i.name),
         })),
         contains: skinsByCollections?.[item.name.replace("#CSGO_", "")].map(i => ({
-            ...i,
+            id: i.id,
             name: i.name instanceof Object ? `${$t(i.name.weapon)} | ${$t(i.name.pattern)}` : $t(i.name),
-            rarity: {
-                id: i.rarity,
-                name: $t(i.rarity),
-                color: getRarityColor(i.rarity),
-            },
         })),
         image,
 
@@ -87,13 +81,8 @@ const parseItemSelfOpening = item => {
         name: $t(item.item_name),
         crates: [],
         contains: (skinsByCollections?.[item.name] ?? []).map(i => ({
-            ...i,
-            name: $t(i.name),
-            rarity: {
-                id: i.rarity,
-                name: $t(i.rarity),
-                color: getRarityColor(i.rarity),
-            },
+            id: i.id,
+            name: i.name instanceof Object ? `${$t(i.name.weapon)} | ${$t(i.name.pattern)}` : $t(i.name),
         })),
         image,
 

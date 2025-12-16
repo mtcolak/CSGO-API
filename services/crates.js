@@ -147,11 +147,7 @@ const parseItem = (item, prefabs) => {
         contains: (skinsByCrates?.[item.tags?.ItemSet?.tag_value] ?? skinsByCrates?.[keyLootList] ?? []).map(
             i => ({
                 id: i.id,
-                name: i.name instanceof Object ? `${$t(i.name.weapon)} | ${$t(i.name.pattern)}` : $t(i.name),
-                paint_index: i.paint_index,
-                def_index: i.def_index,
-                sticker_index: i.sticker_index,
-                music_kit_index: i.music_kit_index
+                name: i.name instanceof Object ? `${$t(i.name.weapon)} | ${$t(i.name.pattern)}` : $t(i.name)
             })
         ),
         contains_rare: (skinsByCrates?.[`rare--${keyLootList}`] ?? []).map(i => ({
@@ -160,8 +156,6 @@ const parseItem = (item, prefabs) => {
                 item_name: $t(i.name.weapon),
                 pattern: $t(i.name.pattern),
             }),
-            paint_index: i.paint_index,
-            def_index: i.def_index
         })),
         special_notes: specialNotes?.[`crate-${item.object_id}`],
         market_hash_name: getMarketHashName(item),
