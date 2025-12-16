@@ -146,6 +146,7 @@ const parseItem = (item, prefabs) => {
         },
         contains: (skinsByCrates?.[item.tags?.ItemSet?.tag_value] ?? skinsByCrates?.[keyLootList] ?? []).map(
             i => ({
+                id: i.id,
                 name: i.name instanceof Object ? `${$t(i.name.weapon)} | ${$t(i.name.pattern)}` : $t(i.name),
                 paint_index: i.paint_index,
                 def_index: i.def_index,
@@ -154,6 +155,7 @@ const parseItem = (item, prefabs) => {
             })
         ),
         contains_rare: (skinsByCrates?.[`rare--${keyLootList}`] ?? []).map(i => ({
+            id: i.id,
             name: $tc(i.name?.tKey ?? JSON.stringify(i.name), {
                 item_name: $t(i.name.weapon),
                 pattern: $t(i.name.pattern),
