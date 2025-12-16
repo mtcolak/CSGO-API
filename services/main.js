@@ -359,6 +359,7 @@ export const loadyCratesBySkins = () => {
 
                 if (crateItem != null) {
                     acc[item.id].push({
+                        def_index: crateItem.object_id,
                         id: `crate-${crateItem.object_id}`,
                         name: crateItem.item_name,
                         image:

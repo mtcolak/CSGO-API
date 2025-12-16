@@ -5,6 +5,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4017",
     "id": "crate-4017",
     "name": "Huntsman Weapon Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
@@ -268,6 +269,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4001",
     "id": "crate-4001",
     "name": "CS:GO Weapon Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKg0MSz_nUDvPb-OPFvdKTFDzbAkbp16bY5Gn6wkx9ysj7Xntf9IC6WZgA-Sswnnj45WXo"
@@ -399,6 +401,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4002",
     "id": "crate-4002",
     "name": "eSports 2013 Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHEV7KaobPdud6HEWjXGmbYl6LIwHn2ywhgh5GzXzdmsc3yRalAkD5R3FvlK7Ed7JoXDRQ"
@@ -530,6 +533,7 @@
   "description": "This item was granted during Operation Bravo to celebrate the Operation's community maps.",
   "crates": [
    {
+    "def_index": "4003",
     "id": "crate-4003",
     "name": "Operation Bravo Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
@@ -733,6 +737,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4004",
     "id": "crate-4004",
     "name": "CS:GO Weapon Case 2",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
@@ -900,6 +905,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4005",
     "id": "crate-4005",
     "name": "eSports 2013 Winter Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
@@ -1067,6 +1073,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4009",
     "id": "crate-4009",
     "name": "Winter Offensive Weapon Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
@@ -1246,6 +1253,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4010",
     "id": "crate-4010",
     "name": "CS:GO Weapon Case 3",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKi0JS0pCZYvaCvOPI0eaHKWjGVmbovs7ZrHH_nl0oj5mXSzNqqdS7BaAc-SswnOWLoN2Y"
@@ -1413,6 +1421,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4011",
     "id": "crate-4011",
     "name": "Operation Phoenix Weapon Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
@@ -1592,6 +1601,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4018",
     "id": "crate-4018",
     "name": "Operation Breakout Weapon Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqWxdv_b8O_w5eKXBWWXHw-smtrBvTHDmwEsl4jvWn4z_I3qWZwV1X5ZwW6dU5RcRF1o0"
@@ -1783,6 +1793,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4019",
     "id": "crate-4019",
     "name": "eSports 2014 Summer Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
@@ -2010,6 +2021,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4029",
     "id": "crate-4029",
     "name": "Operation Vanguard Weapon Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
@@ -2201,6 +2213,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4061",
     "id": "crate-4061",
     "name": "Chroma Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
@@ -2392,6 +2405,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4089",
     "id": "crate-4089",
     "name": "Chroma 2 Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
@@ -2809,6 +2823,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4666",
     "id": "crate-4666",
     "name": "Berlin 2019 Vertigo Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH-aWHHOZxuE457c9S36yxBtz5miEyd3_dy2VZgMmC8YjR-VZ4EawkdGzYrzltQHWipUFk3vMwHfqeQ"
@@ -2904,41 +2919,49 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4023",
     "id": "crate-4023",
     "name": "ESL One Cologne 2014 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2nZqJoMv6cQDHClOolteIwHyi2kBwj4GSGy9_6IyqRbAZzXpZwEO4Ns0LtwNzjZev8p1uJf7PEg0g"
    },
    {
+    "def_index": "4032",
     "id": "crate-4032",
     "name": "DreamHack 2014 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2nZqJoMv6cQDeTkrgktLg7Fyrhx0wh5zvRzNurcnOQbAYoDZYhQ7UL5kbrwNbhNuz8p1uJaNjkAo0"
    },
    {
+    "def_index": "4080",
     "id": "crate-4080",
     "name": "ESL One Katowice 2015 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvyOBwtfNnQGfhxUtx6z6BnNmpcSjBawAnA5F0QLJfs0Lrw9XvP-jn7wbfiY1CxX2okGoXuS0T9AvV"
    },
    {
+    "def_index": "4133",
     "id": "crate-4133",
     "name": "ESL One Cologne 2015 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iZz-hzou9mASjjzE9-tm_Smd2vcy6SZ1QlWJNxTO8NthPqwdbmPu627geP2okTmyrgznQe2HY2Zgc"
    },
    {
+    "def_index": "4178",
     "id": "crate-4178",
     "name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtkLvaWHGmfj713tLJqSXDikBx16mvVz9uvcHmRPFIhC5ZyRLIKtBTpl9PmMb_r5FHAy9USwmSsHgY"
    },
    {
+    "def_index": "4227",
     "id": "crate-4227",
     "name": "MLG Columbus 2016 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsB2mWxPx4v69rTHi2k08ht2WEw979cH_EaFUiX5UlR7YOthTtkIfnMry3tQHXjo0Q02yg2cWmvhnM"
    },
    {
+    "def_index": "4396",
     "id": "crate-4396",
     "name": "Krakow 2017 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_mdCGKCz-E457U5HnDiw0xy52jdnI6hcC7CbQFxDsRzQuMIsBDtl4CzNLu27gSL2pUFk3vwmWSPLA"
    },
    {
+    "def_index": "4463",
     "id": "crate-4463",
     "name": "Boston 2018 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_mdCGKCz-E4teNsHHq2wkR-sW3SzIuqeX-VPAYiWMYkEbQDukK_mteyZuq04laLj5UFk3t9bA-WVQ"
@@ -3183,41 +3206,49 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4025",
     "id": "crate-4025",
     "name": "ESL One Cologne 2014 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2gfa9obqCVXzWUmbp057k8FijixRt1t2jRydqqIymebVRxXpt0FOYN4xm_wYH5d7S1vukvMDk"
    },
    {
+    "def_index": "4034",
     "id": "crate-4034",
     "name": "DreamHack 2014 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2gfa9obqXAVjKTkbomsuBrHXDmxEol6j6Hm4r_I3vBaAVxXJdyQLEI5EK4loH5d7S15UcFkRI"
    },
    {
+    "def_index": "4082",
     "id": "crate-4082",
     "name": "ESL One Katowice 2015 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvz_t9ta8-THDlxkVx4TjRmdv4cymQZgVxWZZ1Te4JtBC5xoaxM-_g51fe2NoX02yg2RYsHAfT"
    },
    {
+    "def_index": "4232",
     "id": "crate-4232",
     "name": "MLG Columbus 2016 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsAHKbxKAhsbM6Hii2zRh_sTjUnoqvcCjEZwR1X5ckQ7RftES_wYDuYum37lbYlcsbmhoSWKPo"
    },
    {
+    "def_index": "4280",
     "id": "crate-4280",
     "name": "Cologne 2016 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-dG2yVj7lw47cwH3-ylEgmt2rSnNygInvGbwFxA8AjFucDuhjqm9GzMOzj4gLAy9US1XJ3_FA"
    },
    {
+    "def_index": "4350",
     "id": "crate-4350",
     "name": "Atlanta 2017 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-dG2yVj-gvs7JoGirqxE9ysmTQy96hcCiSbFIkCcB2F-YIsUW6k4DvMe3m4wXAy9USYq_ZvCQ"
    },
    {
+    "def_index": "4402",
     "id": "crate-4402",
     "name": "Krakow 2017 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_6GBWLexLgjsbY7GH-yxx5w4m_Vm9aqdyqVZlB0DJBwFu9b5hKxkYbvY-3j4hue1dxjrN-rUg"
    },
    {
+    "def_index": "4469",
     "id": "crate-4469",
     "name": "Boston 2018 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_6GBWLemOou4-UwSnHnxBxwsm3Tn9-oInvEaVV1DpMiQ7ZctRC4kNKyMenm5Rue1dy5x8oQzw"
@@ -3748,66 +3779,79 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4006",
     "id": "crate-4006",
     "name": "DreamHack 2013 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
    },
    {
+    "def_index": "4013",
     "id": "crate-4013",
     "name": "EMS One 2014 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
    },
    {
+    "def_index": "4022",
     "id": "crate-4022",
     "name": "ESL One Cologne 2014 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2qfbd5cr6XCD-VkroktrVoHi2wlBhx5mXXz4r8d3yVbQ5zAsF3RuYD5hO9kdXhKaq8sLHIAjYS"
    },
    {
+    "def_index": "4031",
     "id": "crate-4031",
     "name": "DreamHack 2014 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2qfbd5cr7CDTTIkLsg4-A-Fii3wU8k4TjUyov4dniWbVAmWJt3R-MI5xm_xta0Kaq8sO_IzfuM"
    },
    {
+    "def_index": "4079",
     "id": "crate-4079",
     "name": "ESL One Katowice 2015 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvxftlpLMnSS23wE504Grcm4mgJ3OfPAMlDpRxRLZZ5EK4lIfjPu3j4ATegtlGnzK-0H3UToJFDg"
    },
    {
+    "def_index": "4131",
     "id": "crate-4131",
     "name": "ESL One Cologne 2015 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iU1P1i4q9sTC2ylER05j7QnomsJHiQag4nApJwRu8DsULqloKxYrnl7wyP3t9G02yg2YmRsS6G"
    },
    {
+    "def_index": "4176",
     "id": "crate-4176",
     "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtpNeOHXCmUk7935rI_GXDlx010627Xztf8dC7Cagd1W8dwQuUJsUa-koa2NOLj-UWA3M6kNEKU"
    },
    {
+    "def_index": "4225",
     "id": "crate-4225",
     "name": "MLG Columbus 2016 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsCnKD1bw4s-c7FyrmlkR05W3dytmgeHKSbg9xDMMkFrIL4RC6wILkN-7g5leIg5UFk3uYze73pw"
    },
    {
+    "def_index": "4274",
     "id": "crate-4274",
     "name": "Cologne 2016 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-XG3SEk6B34uA_THmxkx92sTiBmNmrIirFaAQmX8BxTbEJ4UHqw4DuPri24gCNlcsbmh_qWnC9"
    },
    {
+    "def_index": "4344",
     "id": "crate-4344",
     "name": "Atlanta 2017 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-XG3SEk6Au4ec5HS3rw0p052qHn4mhJHjFbQckAsByROVc4xS8m4LmZbvj5ACNlcsbmgzIAi55"
    },
    {
+    "def_index": "4542",
     "id": "crate-4542",
     "name": "London 2018 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_SGHXPCj79ysbYwHi23k093tzvRy9isIi_GP1N0WZMjQeJZsxe8w4fnYbjitQTAy9USfZHe1a8"
    },
    {
+    "def_index": "4592",
     "id": "crate-4592",
     "name": "Katowice 2019 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsCnKD1bw45rA7GnHrk0hx42TXno79d3zCaVNzApBzReJet0W_lYazNLjj5gLfiZUFk3vpn6VvvA"
    },
    {
+    "def_index": "4662",
     "id": "crate-4662",
     "name": "Berlin 2019 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_SGHXPCj7oj47Y4HyiwkUhy5j6Gzt2qcXrBPVBzA5Z4FOJY5hW7xNTvZeixsgDAy9USl0sSteY"
@@ -4023,61 +4067,73 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4006",
     "id": "crate-4006",
     "name": "DreamHack 2013 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
    },
    {
+    "def_index": "4013",
     "id": "crate-4013",
     "name": "EMS One 2014 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
    },
    {
+    "def_index": "4137",
     "id": "crate-4137",
     "name": "ESL One Cologne 2015 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iE0-9_vq9oGC_gwBkk4TyDzNqrcinGOwQmAsRyEeUCu0awx9bjN-uxtAzdj4pN02yg2dPFwHIG"
    },
    {
+    "def_index": "4182",
     "id": "crate-4182",
     "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZt5MvGaACnAxbcmsbBoTSvrlkgm5DzcyNr6eH2TZw8jXMAlQLFZthm5xoayYe20-UWA3F5WW8hg"
    },
    {
+    "def_index": "4231",
     "id": "crate-4231",
     "name": "MLG Columbus 2016 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsGnWRyOA46OQ_S36ywB5w427Um9__cnyTOgMmDZMlE-VZsRS7ktHlNu7m5A3fiJUFk3vtXhyvnQ"
    },
    {
+    "def_index": "4279",
     "id": "crate-4279",
     "name": "Cologne 2016 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-HHGaZz6AvtLE-HHjilxx3tWXVn9n_eHyRa1BzCsElQbIIsxmwx4DjMb7htAPclcsbmlu8ougM"
    },
    {
+    "def_index": "4349",
     "id": "crate-4349",
     "name": "Atlanta 2017 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-HHGaZz6Am6bVtF362xBhy6j7Uy9evIi6Ub1VzCZRxR-YP5xm7xoa2ZO-24Q2KlcsbmrTvx_5P"
    },
    {
+    "def_index": "4401",
     "id": "crate-4401",
     "name": "Krakow 2017 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH-SBD26ej7wn6OA9H3qxxU4k5mjUntj7dSmUbVMpW5tyRLENshW_k9TuMuOx41HAy9USulmIlu0"
    },
    {
+    "def_index": "4468",
     "id": "crate-4468",
     "name": "Boston 2018 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH-SBD26ej7olsrQ5HS3qxBlz5D7Qyd_9dC2VOlUgCJojRuZY4xS6x4fiN-Ow4VPAy9USQH44qjM"
    },
    {
+    "def_index": "4545",
     "id": "crate-4545",
     "name": "London 2018 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH-SBD26ej-witLhtSnq1kE526jyDy9yhJHmTbgBxApV4FLQOtBGwxoW1Yr_r5wLAy9USI1Aa0as"
    },
    {
+    "def_index": "4595",
     "id": "crate-4595",
     "name": "Katowice 2019 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsGnWRyOA45-JsTnvnlE93tWWHntj8d3iXPw5zC5EiEeBcuxO6x4fkYeixtVfeipUFk3vbEfzb_w"
    },
    {
+    "def_index": "4664",
     "id": "crate-4664",
     "name": "Berlin 2019 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH-SBD26ej-9y5rI8HHzqlEly4G3QzI6qJHPDPw8mWMAjRLRctkTpwdPjY-nh7wLAy9US6FlZaBQ"
@@ -4281,76 +4337,91 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4006",
     "id": "crate-4006",
     "name": "DreamHack 2013 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
    },
    {
+    "def_index": "4013",
     "id": "crate-4013",
     "name": "EMS One 2014 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
    },
    {
+    "def_index": "4024",
     "id": "crate-4024",
     "name": "ESL One Cologne 2014 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2jYbZsJ_XdV2XBlehyteM4HXi1lk124W3UydugdyiROwEoXMRxE-AIsxK5kdG1ZfSiuVL9KRVRdw"
    },
    {
+    "def_index": "4033",
     "id": "crate-4033",
     "name": "DreamHack 2014 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2jYbZsJ_XdCDCWxbontuA-Gi_gzEVw5mTQwtb6dSqTbA8oC8F2QuEDsRe7moLkN_SiuVLrQkv3xg"
    },
    {
+    "def_index": "4081",
     "id": "crate-4081",
     "name": "ESL One Katowice 2015 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvzOdkseZsAXqwxEt_5W7SnN34cH6XOw8lWJIiFuACtETrkdLjNujqtgPcjN9AmS3gznQeEFP9n20"
    },
    {
+    "def_index": "4132",
     "id": "crate-4132",
     "name": "ESL One Cologne 2015 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1idyPx3t-QnTC3lxk4k52_UwtavJ3qRa1ciD5V1R-cO5hnsl4LuN-Lm7gyPgopNnDK-0H0AmNuWng"
    },
    {
+    "def_index": "4177",
     "id": "crate-4177",
     "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtgKeKSCWLelexy5LlvSXjqwk5352SEnNmsJ36TbQ9zW5YkRe9Z5hm5xIblZeqx7hue1dxO7GJJCg"
    },
    {
+    "def_index": "4226",
     "id": "crate-4226",
     "name": "MLG Columbus 2016 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsA26CwOlz_uNrTXuxzUki5TnUzougJXyRbQIkDZckFLMOuhLpxoXkMuPl4FCP2ohbjXKpAQ1eHv4"
    },
    {
+    "def_index": "4275",
     "id": "crate-4275",
     "name": "Cologne 2016 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-eB3WRxus44rNoG37jxRh04G2HyYn7InyWaAdzC8B5TbQLsUHtx9yyY7-w5VePiJUFk3tIqaFIzQ"
    },
    {
+    "def_index": "4345",
     "id": "crate-4345",
     "name": "Atlanta 2017 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-eB3WRxus4tbU-G3q3zBwhtWyEmdivInPFOgMnWZB0QucM50KxwIbgMeLmsgCL2JUFk3s3nspkuw"
    },
    {
+    "def_index": "4397",
     "id": "crate-4397",
     "name": "Krakow 2017 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_2aHGaXxKB1tbg5HH_nxE5zsW7TzI2peS7EaAN2CpJ0TbVbsRLukdHjZuLrsQXZlcsbmlwpRn79"
    },
    {
+    "def_index": "4464",
     "id": "crate-4464",
     "name": "Boston 2018 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_2aHGaXxKAl5eI6Sn3rwB93tWTQz9qocC_GPQMlXpQmQbYCsxfpl9OyZum2tVDblcsbmhcGw3AW"
    },
    {
+    "def_index": "4541",
     "id": "crate-4541",
     "name": "London 2018 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_2aHGaXxKAm4LhtFnnik0Qm4W3RytiqJS_DO1cnC5NzFOIPtRftxNG2NOzisVbZlcsbmjApZVCi"
    },
    {
+    "def_index": "4591",
     "id": "crate-4591",
     "name": "Katowice 2019 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsA26CwOlz_uAxTXvqwxl05j7QntyvcimRa1UmX8dzTLFfu0LqkYLvYb-wslTc34hbjXKpsgcPS04"
    },
    {
+    "def_index": "4661",
     "id": "crate-4661",
     "name": "Berlin 2019 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_2aHGaXxKAn4OI5Hnqywkki4T7WzoyrIn6WPVInC5pzTe4N4BHukYLuN-3ntQfflcsbmlnJCBZK"
@@ -4554,11 +4625,13 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4006",
     "id": "crate-4006",
     "name": "DreamHack 2013 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
    },
    {
+    "def_index": "4013",
     "id": "crate-4013",
     "name": "EMS One 2014 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
@@ -4762,11 +4835,13 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4006",
     "id": "crate-4006",
     "name": "DreamHack 2013 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
    },
    {
+    "def_index": "4013",
     "id": "crate-4013",
     "name": "EMS One 2014 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
@@ -4970,11 +5045,13 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4006",
     "id": "crate-4006",
     "name": "DreamHack 2013 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
    },
    {
+    "def_index": "4013",
     "id": "crate-4013",
     "name": "EMS One 2014 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
@@ -5178,6 +5255,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4006",
     "id": "crate-4006",
     "name": "DreamHack 2013 Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
@@ -5393,91 +5471,109 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4028",
     "id": "crate-4028",
     "name": "ESL One Cologne 2014 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2hfqF_MPGAHSnIxLYi6bc9Fnrjlx90sT6Byt6qc3PCZ1NzA8ZxTeUOtEK_ktWzP-vn-UWA3B_cRugF"
    },
    {
+    "def_index": "4037",
     "id": "crate-4037",
     "name": "DreamHack 2014 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2hfqF_MPGAHSmVk74n4rFtHXvixB535mmAydytcC7EZwEjX5ZyRbUItxO-w4ezZOO3-UWA3FVu4DJF"
    },
    {
+    "def_index": "4085",
     "id": "crate-4085",
     "name": "ESL One Katowice 2015 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvzvhzovFoXDr9k0h26z-Bm9_8cn_Gb1chCJF0Q-cKu0G9xtS2NrnitlaIg9pDmHqqjjQJsHjDVQj_1A"
    },
    {
+    "def_index": "4135",
     "id": "crate-4135",
     "name": "ESL One Cologne 2015 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1if1-tkoOB6XGewlBkltWvcz9mqcS3FawQnX5VyE-FfsETulNzuZrvj7wOI2IgRn33-kGoXuaDtvDHd"
    },
    {
+    "def_index": "4180",
     "id": "crate-4180",
     "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtiNvWBHmaD0qB14eQ7Fnu2kBt-tzyAmY2uJHjGbQ9zXpFyQu4JuxCxxoWzYujltAzWlcsbmgdwiYOH"
    },
    {
+    "def_index": "4229",
     "id": "crate-4229",
     "name": "MLG Columbus 2016 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsAXGV0_53o_InGSqywxsmsjzSn9b7JXOfaw8pW8F5E7MPtBa-kNC1P-iz4wzcjogRnjK-0H0D3guCcQ"
    },
    {
+    "def_index": "4277",
     "id": "crate-4277",
     "name": "Cologne 2016 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-cGGKC0e9lo69oSn_rwh5xtmmHz92oIHKRbwF1A5pyTOYPsBa-k9HgZr-341bag9kT02yg2RFtcI4d"
    },
    {
+    "def_index": "4347",
     "id": "crate-4347",
     "name": "Atlanta 2017 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-cGGKC0e9lo688Fn3hwh4jtzzVz9n8JXqSalIkWZB5EbEMthG_w9ziNbzn4VTZ2o8X02yg2WaaSON0"
    },
    {
+    "def_index": "4399",
     "id": "crate-4399",
     "name": "Krakow 2017 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_-FC3WAwP1l_uQ9Tn-wlB934G_Tz9agInmSPAQpC5F1ReYJ4RPqkNa2Zri35VDW2YtbjXKp_KKsY4E"
    },
    {
+    "def_index": "4466",
     "id": "crate-4466",
     "name": "Boston 2018 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_-FC3WAwP1l_rE5GnuywERw4GyEzdaoc3qVP1QgCJMkQLEM5ELumtfuY7i34AWMiNlbjXKpg6q8eoQ"
    },
    {
+    "def_index": "4543",
     "id": "crate-4543",
     "name": "London 2018 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_-FC3WAwP1l_rg8Hii3xU4k5GzVw4r9dnORaw5yA5dxEbJYtRbqwIfgP-rq5wHc2otbjXKpw2xpipc"
    },
    {
+    "def_index": "4593",
     "id": "crate-4593",
     "name": "Katowice 2019 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsAXGV0_53o_InTC3qlxl24GzSyNuqIn-QZlUjW5J3R-EIs0Wwkd3vP7jh4FSMit8TzDK-0H2AZVR1nA"
    },
    {
+    "def_index": "4663",
     "id": "crate-4663",
     "name": "Berlin 2019 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_-FC3WAwP1l_rE5HSvjw0t2tm7UzYv7ICiVPwMhC8B5Redb4RDrxNHkYbjrsgfWi4pbjXKpWgdI9Xk"
    },
    {
+    "def_index": "4812",
     "id": "crate-4812",
     "name": "Stockholm 2021 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_-FC3WAwP1l_uA4G3jlkUxw6z7QzYuvcH3CPVMkDZYlRuECuhHpwdfuMuiz5lHWjY5bjXKp2XQFSpU"
    },
    {
+    "def_index": "4838",
     "id": "crate-4838",
     "name": "Antwerp 2022 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-cGGKC0e9lo69rG3CyxR4h4GyBzd6rcHqWOlAhXJB0R7ZY4xm7mtDgZOPr4gLYiY4R02yg2Tiu-RW9"
    },
    {
+    "def_index": "4863",
     "id": "crate-4863",
     "name": "Rio 2022 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6t7JeKDD3SDj-pz47A8SXnqw0t_5DvVzoyveSnDbQR2XsZzRLZfsBW9xtfvMuOxtgPAy9USE77L80k"
    },
    {
+    "def_index": "4896",
     "id": "crate-4896",
     "name": "Paris 2023 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSL-aWHHeR0v04s-BvHijgkxx1tmiDyt2qeXOVaA50WMYjQ7UN40Wxm9HgYbzhtVDe3pUFk3swwkQ4BA"
    },
    {
+    "def_index": "4929",
     "id": "crate-4929",
     "name": "Copenhagen 2024 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6t7JeKDD3SDj-wjteAxH3zrwksksmjUyoysJ36fZw4kC5NzFOILsRG5kta2NevjslPAy9USrECBPak"
@@ -5681,51 +5777,61 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4027",
     "id": "crate-4027",
     "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2taqZhJb7GCmXDwLp057U8SSiwkxt1tz_Sw46qJC6RZgcpXJJwQrVf5xe7lIfnKaq8sA1qTP9C"
    },
    {
+    "def_index": "4036",
     "id": "crate-4036",
     "name": "DreamHack 2014 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2taqZhJb7AWWPFwrZy5rY4THq2xEV2tjzcwtutIi-fbwInX5Z1QbZfsBjtkILuKaq8sCWS9maH"
    },
    {
+    "def_index": "4084",
     "id": "crate-4084",
     "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvwux0vOQnF3_mxRx34zjdztf9dH-QPAcnCZJ3Q7MP4UTtlNzvNb-x4wHaithGzDK-0H0u36KbMw"
    },
    {
+    "def_index": "4134",
     "id": "crate-4134",
     "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iTw-x6ta8_HXjgzUl05ziHm4r7dy7FOlUkXsYmRe4MthfqxN2zNu3h7gfXi49N02yg2UbpOSb2"
    },
    {
+    "def_index": "4179",
     "id": "crate-4179",
     "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtuIvKfCynBxOp16bZtSXu1w0hy62rWnIz4IijDO1MhD8MmFrIOsBWwk4ezY7ix-UWA3MFLe-ZR"
    },
    {
+    "def_index": "4228",
     "id": "crate-4228",
     "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsDWWSzes44-JvGi-2zUQi5DiBm4z4cSrEOAUhDsB2QrRe5hGwwdbuZrnl7wCKjpUFk3tWzbEgYA"
    },
    {
+    "def_index": "4276",
     "id": "crate-4276",
     "name": "Cologne 2016 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-QDGWcxKBzsuBqGX3gwxly6mjRz4qhd3LBbw8jX8MiF-JYtRC8xNLlY-jlsQbelcsbmrqh8sbQ"
    },
    {
+    "def_index": "4346",
     "id": "crate-4346",
     "name": "Atlanta 2017 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-QDGWcxKAm4eNsHy_lkxhx52XSytmsIyiQaVcoXJJzR-4IskPrk93lY-nh4w2KlcsbmtkBg_k4"
    },
    {
+    "def_index": "4398",
     "id": "crate-4398",
     "name": "Krakow 2017 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_ORDGuVj7h0s7Q5GHvgxB5062XTztmuIHKVZlQjDJEhReUDthi7xoWxMerk4VDAy9UScHnfGeo"
    },
    {
+    "def_index": "4465",
     "id": "crate-4465",
     "name": "Boston 2018 Cobblestone Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_ORDGuVj-gi57M5TXzqx0pwsj_UzIv4dHufOAEmApZ1E-8P5BXsxIHnY-O2sQPAy9USiW38NTw"
@@ -6126,61 +6232,73 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4026",
     "id": "crate-4026",
     "name": "ESL One Cologne 2014 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2taadlJb7AWTOTwLhw6Lk9HijlwB5262TVnIyvJ3mTOARxCpp0FuIIsUXpm4LvKaq8sPTeGzME"
    },
    {
+    "def_index": "4035",
     "id": "crate-4035",
     "name": "DreamHack 2014 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2taadlJb7CVzbImL0g6bFqGi-3zR5z4m2Bm4mgcniXaQd1A8QmEOUI4Ba9l4HjKaq8sAL7emp8"
    },
    {
+    "def_index": "4083",
     "id": "crate-4083",
     "name": "ESL One Katowice 2015 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvwu91uOQnSnq3wR4msm7RyIyveHqTbFUgXMB1TLQLs0K5wIG2N-PjsQCM2I9BzDK-0H1by-7mfw"
    },
    {
+    "def_index": "4136",
     "id": "crate-4136",
     "name": "ESL One Cologne 2015 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iTwO1-ta9qFiq2lEQj426Gytb4eHmUawQkCZV5FuENshbukdziNrmxtALbi98T02yg2ZvtbtKo"
    },
    {
+    "def_index": "4181",
     "id": "crate-4181",
     "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtuIfObCynDw-gh6LYxGyjrkUsl52SHm939cC-eaw8hDcByELNesxa_x4LiMO2z-UWA3LPI9PnM"
    },
    {
+    "def_index": "4230",
     "id": "crate-4230",
     "name": "MLG Columbus 2016 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsDWaTyes4trFvHSrml013tT6Ewt2teX3GPwZ0WcEmTbUJ4RK6ktSzZezj7wfWgpUFk3tvzWKpPw"
    },
    {
+    "def_index": "4278",
     "id": "crate-4278",
     "name": "Cologne 2016 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-QD2SYxKAg4rI6SXC1lkh1sj6DytasdymVbVJzDsBxQ-9cukS-k9WzPrux71bZlcsbmhZVpERH"
    },
    {
+    "def_index": "4348",
     "id": "crate-4348",
     "name": "Atlanta 2017 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-QD2SYxKAgteI_HSvjzE90tm7Wztj_IC7BZg8hXpIhFrFcsBjpx9fgZeux5lSLlcsbmomGOWpb"
    },
    {
+    "def_index": "4400",
     "id": "crate-4400",
     "name": "Krakow 2017 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_OSDW-Vj-oktbg-Ti22zURxsmnXm4v7I3zBbwApCJIjEbJYu0PtldXlP-vi5QfAy9USAyhRW9o"
    },
    {
+    "def_index": "4467",
     "id": "crate-4467",
     "name": "Boston 2018 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_OSDW-Vj7t04-dsTijhw0l062yHmNr8JC-fOAYmWMR4FO9e5BXtxNKzMuPh5gbAy9USzSLZmlM"
    },
    {
+    "def_index": "4544",
     "id": "crate-4544",
     "name": "London 2018 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_OSDW-Vj-t1suVtGXCwzUh34m-Dn9n_cXLFZgUkApZ1QuVc4US8kdTuPurn4ATAy9USZV4vkGA"
    },
    {
+    "def_index": "4594",
     "id": "crate-4594",
     "name": "Katowice 2019 Cache Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsDWaTyes4trU8Hy21whl3tznSzdqscC-VOw5xDpV1TeAJtRa4kd3mPr6x7wDWiZUFk3sPJWbqoA"
@@ -6963,6 +7081,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4091",
     "id": "crate-4091",
     "name": "Falchion Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fpWwI7Pb-P6Y5dvPEDGSSlrsh57U8HHHiwx5yt2-Dwo7_JSnCOw8oCJF0W6dU5dgrLNA1"
@@ -7178,6 +7297,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4138",
     "id": "crate-4138",
     "name": "Shadow Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fpGxet6H-O_Q6dfXCDzfJl7ci6bZoG3zjx0xz4ziEztj8IiiRa1QkWZdwW6dU5RegDbP-"
@@ -7393,6 +7513,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4186",
     "id": "crate-4186",
     "name": "Revolver Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
@@ -7620,6 +7741,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4187",
     "id": "crate-4187",
     "name": "Operation Wildfire Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHMVu6r9MaA6ePPAWjbGwrwm47dtTnu2kUl14mzUnomudnqQaQ4iApF5TPlK7Ee3MsZV-w"
@@ -7835,56 +7957,67 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4546",
     "id": "crate-4546",
     "name": "London 2018 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_6GBWLewrt35LI8GHnlk0om42_Wn92vInmQPQJyDpYlFrMPtha_w9K2N-3n5hue1dz59svyCw"
    },
    {
+    "def_index": "4596",
     "id": "crate-4596",
     "name": "Katowice 2019 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsAHKbxKAn4eBsTC3mlk53tWqDnNv4di6SaAUjX5NxFuZcuxLrldDkMbzl5QbWlcsbmtmiS4Eu"
    },
    {
+    "def_index": "4665",
     "id": "crate-4665",
     "name": "Berlin 2019 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_6GBWLexbt1s-NsH3DgkU1-sWnSnt2pcXzCPQAhCcZxReMJ5kXqx4eyNOjrtRue1dxZghH5iQ"
    },
    {
+    "def_index": "4814",
     "id": "crate-4814",
     "name": "Stockholm 2021 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_6GBWLekOhz4rVtSy2ylxhysWvSmNurJSiQZlB1A8N0F-cP4ELrw9HmNeOxshue1dwR-YfRbg"
    },
    {
+    "def_index": "4840",
     "id": "crate-4840",
     "name": "Antwerp 2022 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-dG2yVj7oi4rhtSXiwkRwk5W_VzI2rdniTbVUhWJBxTeBe5kS5lYfmYe3h4lfAy9USZI7vLEE"
    },
    {
+    "def_index": "4865",
     "id": "crate-4865",
     "name": "Rio 2022 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6p4K_XdWTCVmO0m6bQ7THzlwx8i52WHnIqrcy-Wa1B1C8RxTLEO4Rm_l4XlNfSiuVKkZ-_svg"
    },
    {
+    "def_index": "4898",
     "id": "crate-4898",
     "name": "Paris 2023 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSLuWYCymRlbYgsuI8HX7rlhhxt2_Umdj9JXLGagcnDpIhE-MD5xe8wdXiMOjk-UWA3JoAHXbP"
    },
    {
+    "def_index": "4931",
     "id": "crate-4931",
     "name": "Copenhagen 2024 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6p4K_XdXmHElrogtLkxGXHgl0lw62-EyIyhcyiTZwUlXJV1TeUP40HpxNG0PvSiuVK0aQmXQA"
    },
    {
+    "def_index": "4972",
     "id": "crate-4972",
     "name": "Shanghai 2024 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1ie1OVz_rA6H3-2kUQltTvRn46qeHmUbw92X5B0FLFe4xW6lYfjPrzjsQDYiINbjXKpXYSSkrU"
    },
    {
+    "def_index": "5125",
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1ie1OVz_rY9S37kwh8h52_Qy92qcnmTOA8lDZNxQLQDsRe6mtW0ZezmtFPX2NpbjXKpvhIYpf8"
    },
    {
+    "def_index": "5224",
     "id": "crate-5224",
     "name": "Budapest 2025 Nuke Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1ie1OVz_uA7SS_ilEUm5mnXntv9JymQZlAhDZp3TLUD4BC-mtzjNLvns1Tb2YlbjXKp2Yke3b8"
@@ -8124,56 +8257,67 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4540",
     "id": "crate-4540",
     "name": "London 2018 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_mdCGKCz-E44LZtTS_mwE9xt2XSm42hd33DPwNxXJd3Q-8I5EbrxoKzMuPh4QePjpUFk3uQG3tvkw"
    },
    {
+    "def_index": "4590",
     "id": "crate-4590",
     "name": "Katowice 2019 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsB2mWxPx4v69tGivkkUgk5GqHm9j6J3_CaVApCJt2E-8MuxPtl4exZr_m5VPcjY9B02yg2SOGx-2Z"
    },
    {
+    "def_index": "4660",
     "id": "crate-4660",
     "name": "Berlin 2019 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_mdCGKCz-E44LFoHXzqxk9_5W3SyturcnmVPVcnWcAjQLFfsxbqkIDjNuzgsQDbiJUFk3uBV19lLA"
    },
    {
+    "def_index": "4809",
     "id": "crate-4809",
     "name": "Stockholm 2021 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_mdCGKCz-E4tOM-GH7jlBhxtz-Hz9yveC6fbQYhX8MlRO4Os0bqw4LkM-i07gHfiJUFk3ucTvvj4w"
    },
    {
+    "def_index": "4835",
     "id": "crate-4835",
     "name": "Antwerp 2022 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-aAGGV0-B5_uNrTi-ywxkk5W7TzI2scimSbFB1CMd1QOcPsha7wdezNeiz7lHb3oNbjXKpZMl3KNA"
    },
    {
+    "def_index": "4860",
     "id": "crate-4860",
     "name": "Rio 2022 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV61jJvWBAGjembol5rc9GyvqxEQjtTnSmNqpdnyRawElD8NyFuFeuxS_w4XnM-mwsxue1dyMXtmjQw"
    },
    {
+    "def_index": "4893",
     "id": "crate-4893",
     "name": "Paris 2023 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSKf6VC3WezqAgsrhsFyixwE4m52jUytysI3vBbQ51DJImQ-NbtxO5w9LjY-Lh5ADclcsbmj4tCmqX"
    },
    {
+    "def_index": "4926",
     "id": "crate-4926",
     "name": "Copenhagen 2024 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV61jJvWBAGjekL9wsudvHHnhzUkm4W2Az96vcX6UZ1N1X5RwROIKsELuwIDuN7y04xue1dxm9sz2hg"
    },
    {
+    "def_index": "4967",
     "id": "crate-4967",
     "name": "Shanghai 2024 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iZz-hzou9mAS3ql0ght2SHn9z6JXKQPQIlXpImF7ZfukTqk4GzM7_n4laK399GyijgznQeCDcguis"
    },
    {
+    "def_index": "5120",
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iZz-hzou9mAXixxUl3t2uAnIysdC2Ub1IoD8dxReAK40Ptl4K2MLzi5VPW3tlGzH_gznQeA9NN0rg"
    },
    {
+    "def_index": "5219",
     "id": "crate-5219",
     "name": "Budapest 2025 Inferno Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iZz-hzou9mASjrkx5y4mSGntaodS_DbFR1WJMmELML5hbrloDhNLy34VHWi48XmX_gznQe8eXZM-w"
@@ -8413,6 +8557,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": 4668,
     "id": "crate-4668",
     "name": "The X-Ray Collection",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjs-Fj-fg2jy8auqXMJuvf3afJsdfXFC2GTxLcm6bQ9S3q2zE1y4zzSyYmrJSrGPwQkDowwG7DTNlIwTA"
@@ -8448,6 +8593,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4233",
     "id": "crate-4233",
     "name": "Chroma 3 Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
@@ -8675,6 +8821,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4236",
     "id": "crate-4236",
     "name": "Gamma Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
@@ -8902,6 +9049,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4281",
     "id": "crate-4281",
     "name": "Gamma 2 Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
@@ -9129,6 +9277,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4288",
     "id": "crate-4288",
     "name": "Glove Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHcVuPaoafU1JqiVWWSVkux15OQ8Giiylk0k5mvTnIqpd3PCaQIhWMYkE_lK7EcNeCKW-w"
@@ -9356,6 +9505,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4351",
     "id": "crate-4351",
     "name": "Spectrum Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
@@ -9583,6 +9733,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4352",
     "id": "crate-4352",
     "name": "Operation Hydra Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHUVt_b6PfY1JfOSXDXJxbgjtLFqHnDqx0Qmtm_Vzdf4ICmUZlJ2C5F2TPlK7EdjN0FcPg"
@@ -9810,6 +9961,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4403",
     "id": "crate-4403",
     "name": "Spectrum 2 Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
@@ -10066,6 +10218,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4471",
     "id": "crate-4471",
     "name": "Clutch Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHsVtqr8a_dsdKTAWDWVxLgjsrAwHSvgwEQk4m-ByYuqIC2eO1VyD5QiR_lK7EcxQQPYQA"
@@ -10293,6 +10446,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4482",
     "id": "crate-4482",
     "name": "Horizon Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
@@ -11963,6 +12117,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4548",
     "id": "crate-4548",
     "name": "Danger Zone Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
@@ -12190,6 +12345,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4598",
     "id": "crate-4598",
     "name": "Prisma Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
@@ -12417,6 +12573,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4620",
     "id": "crate-4620",
     "name": "Shattered Web Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3EVvKD6MKU_cKPKXWHFxLkls7FsSnDqwUl_sWTczoqheHifbwMmD5F1RvlK7Ec_KL6Q_A"
@@ -12644,6 +12801,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4669",
     "id": "crate-4669",
     "name": "CS20 Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3YVvfD9aqVveKaQDDKSl7134bg_HH3hlBty6z7Vn9v6eXmeZgBxWJd0EflK7Efs4hZiKQ"
@@ -12871,31 +13029,37 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4811",
     "id": "crate-4811",
     "name": "Stockholm 2021 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_SGHXPCj-gg4-M4Sn-wxR9x4j6HmN-gcC_CPVIhCMB2QOZZthTqm9TuMujm5Q3Ay9USPT9sqvk"
    },
    {
+    "def_index": "4837",
     "id": "crate-4837",
     "name": "Antwerp 2022 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-XG3SEk6Al5OI7Ti3kkxgh5jyDwtivcSiWPA4iC8EjR-4L4BLpx9a2Yruz4wOPlcsbmmhLqoY-"
    },
    {
+    "def_index": "4862",
     "id": "crate-4862",
     "name": "Rio 2022 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6B4M-TBQGHFkrpw5-BqF3qyxk8isGncy9j8InrBPwIoAsF1QecN4BC9lIbgM-P8p1uJqWKKNS0"
    },
    {
+    "def_index": "4970",
     "id": "crate-4970",
     "name": "Shanghai 2024 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iU1P1i4q9oTSvrxUR0t2XQwt-oeXjEOAN1AptzF-UC50W-xoLjNb7r4gXa3ohC02yg2bIwV8Dw"
    },
    {
+    "def_index": "5123",
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iU1P1i4q9tTnnklkwk6zyGn437In-UZlQlAsQhR-dZ4RixlNDhNO3q41CIjooW02yg2fk_M8Eg"
    },
    {
+    "def_index": "5222",
     "id": "crate-5222",
     "name": "Budapest 2025 Dust II Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iU1P1i4q8_HH-wkExx4Tndy9_4eX-QOgEnCpYiR7RZ5BHulN3vZezi5QCN2osX02yg2TQeOBRN"
@@ -13147,41 +13311,49 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4810",
     "id": "crate-4810",
     "name": "Stockholm 2021 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_2aHGaXxKB0s7dtHiu3lkl1sTyEyN_7eHmTaA92Dsd4TbQP5hGxxNWzZei05FTalcsbmo3RwBXU"
    },
    {
+    "def_index": "4836",
     "id": "crate-4836",
     "name": "Antwerp 2022 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-eB3WRxus45udtF3C2wh92sjzcw42teHKXZgNyCcclQbML4EOxwIW1YuO05wTagpUFk3vrzNKexg"
    },
    {
+    "def_index": "4861",
     "id": "crate-4861",
     "name": "Rio 2022 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6lkMvGUCynAmL5w4bk5F3_qzUwjtW6BmIr7InnCZgMhXJV5ReVctEKxkNfvZOmx-UWA3EHNY_eN"
    },
    {
+    "def_index": "4894",
     "id": "crate-4894",
     "name": "Paris 2023 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSLfmBD2CVj75z6LM_S322w0l04G7QmYypcX-TZlAoCcN2RLEMukXsk4LvMO2wsVDAy9USqEumK38"
    },
    {
+    "def_index": "4927",
     "id": "crate-4927",
     "name": "Copenhagen 2024 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6lkMvGUCynAxLxw5rQ-TnywwUQj5GnVnNj9dCjFb1cjWZJ1TO4Itxm6ldbvY--x-UWA3At843U9"
    },
    {
+    "def_index": "4968",
     "id": "crate-4968",
     "name": "Shanghai 2024 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1idyPx3t-QnFy-2lh9x5miEz9ioIHOSbgFzCcMmFrVeshSwxNO2P-Pi4QHZj9pGyjK-0H36I6RBSg"
    },
    {
+    "def_index": "5121",
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1idyPx3t-QnHH2xkUQk62uBntitdn3DPAdyCJR4RedY5kS_m4W2MLjq51De2YwWzzK-0H0bzeKCgA"
    },
    {
+    "def_index": "5220",
     "id": "crate-5220",
     "name": "Budapest 2025 Mirage Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1idyPx3t-QnSSzmkB5_5G3czt6udHzBZ1UlXpN4TLMPtES7xobnMbzmslTW3YhGzTK-0H1MalVC1A"
@@ -13433,6 +13605,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4695",
     "id": "crate-4695",
     "name": "Prisma 2 Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
@@ -13660,6 +13833,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4698",
     "id": "crate-4698",
     "name": "Fracture Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3QV7aD7OP01IfbGDzPCmbsm4LU5GnvkzUsi4WvUmIqtci_CPQNyApsjE_lK7EfrhW545A"
@@ -13887,6 +14061,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4717",
     "id": "crate-4717",
     "name": "Operation Broken Fang Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3UVu6P-MPQ0dKbCVzLGx7wgtbM6S3jhw0V25m-EnNj7JS7GaQ4nD8QiRflK7EfH0YGFHg"
@@ -14604,41 +14779,49 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4813",
     "id": "crate-4813",
     "name": "Stockholm 2021 Ancient Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_GdDW6Vz_o44rg5F3y2xBx0sWjRz9aucSmTOAUiCZt5TOYMu0S_k9W2MOnk4AaKiZUFk3u4B9Q2Rw"
    },
    {
+    "def_index": "4839",
     "id": "crate-4839",
     "name": "Antwerp 2022 Ancient Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-SAGSZxOBi_uNsFi3kkU905W_SwtipJXqWZg8jW5YkEe9btxfpktLkZL-x5wKMi4hbjXKpvT4lPfc"
    },
    {
+    "def_index": "4864",
     "id": "crate-4864",
     "name": "Rio 2022 Ancient Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6VjI_mWAHPel7wu5bBqHnrkxEt14zuByd-pd3yfagYgCZB4QuMPtBHsl4bnZu-25Bue1dy_oUuJtA"
    },
    {
+    "def_index": "4897",
     "id": "crate-4897",
     "name": "Paris 2023 Ancient Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSIf6QB2Ke1aAltrFtG3nkxxx14DyDnomudCiUOA52W8R3Ru5euhWwkNGzY7_rsgKNlcsbmthZYkok"
    },
    {
+    "def_index": "4930",
     "id": "crate-4930",
     "name": "Copenhagen 2024 Ancient Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6VjI_mWAHPew-1w5-RvTC3lwUoj4G2AyougcirDbwMgDpAlQrIN4EPukNzlYuvg7hue1dxsvyYF4A"
    },
    {
+    "def_index": "4971",
     "id": "crate-4971",
     "name": "Shanghai 2024 Ancient Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iRz-1_te99ASvjlEomsmiBn9-oeHOTbVB0CpAjQbZf4Ra_m4W1Mbzm71ON3d1MmCngznQeaU350-c"
    },
    {
+    "def_index": "5124",
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iRz-1_te99AXy1wEpxtWnVnIr6JC_CaQQoX5MjF7QMsxC7w4XnP-y2sgCIjohFyCngznQep6hFES4"
    },
    {
+    "def_index": "5223",
     "id": "crate-5223",
     "name": "Budapest 2025 Ancient Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iRz-1_te99AX23l0l-4WTWy9yrJH2ROA9yA5R0EOVZtha9w9WzNLy24FGKitlGxSrgznQe9a3peFc"
@@ -14890,6 +15073,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4747",
     "id": "crate-4747",
     "name": "Snakebite Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3oVvvT4bfI4dvTLCGTCmLl16ec7TX_mk08k42iHwtqscy-WPVUmCZJ4R_lK7Ed8Q6OYtw"
@@ -15391,31 +15575,37 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4815",
     "id": "crate-4815",
     "name": "Stockholm 2021 Vertigo Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH-aWHHOZxuE457ExHy3lw0114TzSm4qodXKTagQnA8FwEOdesUW5lNPnZb7r41HX2JUFk3sAS6M-4w"
    },
    {
+    "def_index": "4841",
     "id": "crate-4841",
     "name": "Antwerp 2022 Vertigo Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-FC3WEyOl5_uM_F3zhlEhzsj_QyoyscnuSZ1IoXpUhTOcDuxjtl9TnMeLgswbe2d5bjXKpW0kdc8A"
    },
    {
+    "def_index": "4866",
     "id": "crate-4866",
     "name": "Rio 2022 Vertigo Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV7JoMuSaCWjelu0k47hsHXznxBxw5W6Gm4mhcnqTPFIhDJFwF-IN5EO9m4buZevqsxue1dxAqsnDRA"
    },
    {
+    "def_index": "4899",
     "id": "crate-4899",
     "name": "Paris 2023 Vertigo Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSNvWBGm6XzqBysbM_TCzhlEVz5WyAnNarJXyWPFclW8NwFOEPshLpm9LjMbyw5AbYlcsbmueqdWue"
    },
    {
+    "def_index": "4932",
     "id": "crate-4932",
     "name": "Copenhagen 2024 Vertigo Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV7JoMuSaCWjemOtysrU8H3iyx08msTnWyYr4JHOTb1MhDcEjQ-II4BC6k9C0ZuqztRue1dzI2NbPyg"
    },
    {
+    "def_index": "4973",
     "id": "crate-4973",
     "name": "Shanghai 2024 Vertigo Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iGxPxiueZmASy3wU9y5z-HyN2pcHqVZ1dzA5IhFuAK5hexlNDjP--04QfWiIhHmH7gznQe8uF5Wjg"
@@ -15667,26 +15857,31 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4882",
     "id": "crate-4882",
     "name": "Anubis Collection Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15EzlSA7OjYLv7ydL_f2jZ-o7daKQCzeWkugh4OcwHXjmwkh-4jzXw4uqJHiROARzX8AjFuUN5Ba8jJS5YMSRiKqp"
    },
    {
+    "def_index": "4895",
     "id": "crate-4895",
     "name": "Paris 2023 Anubis Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSIf6GDG6Dj-t047Q_GXrrwBlz5W2Bnt6scHvCblAhDpUkTOEDuhO4m4LiZe3i5gTAy9USL1dHC6A"
    },
    {
+    "def_index": "4928",
     "id": "crate-4928",
     "name": "Copenhagen 2024 Anubis Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6VjNfKaHSmUkLd36bkxHSrqxBsmtT6EzIn6cCjDOw4nX8F1FOJc4xLsk4HuN-uz-UWA3HCx5SQN"
    },
    {
+    "def_index": "4969",
     "id": "crate-4969",
     "name": "Shanghai 2024 Anubis Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iRz_t0ufInTXHizBh26m7Ryt_7dy2WP1clC5YjELQMtkTpxoHnNeyx4gLbjo5NyDK-0H3Lvu_stA"
    },
    {
+    "def_index": "5122",
     "id": "crate-5122",
     "name": "Austin 2025 Anubis Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iRz_t0ufInTHvlkR8k42_cnI3_dC3EagJyWMByTOcC50awlYXhM-jq4FGP2ogQyDK-0H3Nl39_xA"
@@ -15938,6 +16133,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4790",
     "id": "crate-4790",
     "name": "Operation Riptide Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
@@ -16165,6 +16361,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4818",
     "id": "crate-4818",
     "name": "Dreams & Nightmares Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
@@ -16392,6 +16589,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4846",
     "id": "crate-4846",
     "name": "Recoil Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnMVu6b-avA-JqSSCjSWwuhz47U9TCzlxh9yt2WGnNqgIi-fbgUkWMNxFPlK7EdIJF6a2Q"
@@ -16619,6 +16817,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4880",
     "id": "crate-4880",
     "name": "Revolution Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnAVvfb6aqduc_TFVjTCxbx05OU4S3jilE9w4DzRnImtIy2Sa1JzDJEhRPlK7EcO4U8gfA"
@@ -16846,6 +17045,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "4904",
     "id": "crate-4904",
     "name": "Kilowatt Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnEVvqf_a6VoIfGSXz7Hlbwg57QwSS_mxhl15jiGyN37c3_GZw91W8BwRflK7EfKsa2sfw"
@@ -17073,6 +17273,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "7003",
     "id": "crate-7003",
     "name": "Gallery Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnYVuPD5baE6IfTFCmSRme0j5eU5SXrjkRwmt2rWnoqhdnjEPQQiDpRxTflK7EePRV2-Kg"
@@ -17300,6 +17501,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "7007",
     "id": "crate-7007",
     "name": "Fever Case",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frncVtqv7MPE8JaHHCj_Dl-wk4-NtFirikURy4jiGwo2udHqVaAEjDZp3EflK7EeSMnMs4w"
@@ -17527,6 +17729,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "5176",
     "id": "crate-5176",
     "name": "Sealed Genesis Terminal",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnRk7P6he6FpbqWXCzSVkL4h6bExTHuwx0wk6mjUmdn_Iy2TbAUkCZslQu8CtBTrkNz5d7S1oNprwEg"
@@ -17963,6 +18166,7 @@
   "description": null,
   "crates": [
    {
+    "def_index": "5221",
     "id": "crate-5221",
     "name": "Budapest 2025 Overpass Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1if1-tkoOB6XGewx0534DvSy4yqeCjDOlVyX5R3QLNftUG8wIbkYbi04wONjYkUnyT-kGoXuX5b0_qi"
@@ -19458,11 +19662,13 @@
   "description": null,
   "crates": [
    {
+    "def_index": "5126",
     "id": "crate-5126",
     "name": "Austin 2025 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iE0-9_vq9sHS3qlkUl62TTw9z8dC6TPAV2DMEmFuVcsxPuwd3jNePh4VCLiItB02yg2VepJYOn"
    },
    {
+    "def_index": "5225",
     "id": "crate-5225",
     "name": "Budapest 2025 Train Souvenir Package",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iE0-9_vq87G3HhwU1x4WrTz9evdnmXbwAkXJZzTbRYsxnrm9LiP-q2tAzb2ItH02yg2d3fjhEF"
