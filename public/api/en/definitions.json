@@ -7,6 +7,11 @@
    "id": 22,
    "name": "Sticker"
   },
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
   "image": "econ/tools/sticker",
   "i18n": {
    "name": "#CSGO_Tool_Sticker",
@@ -21,10 +26,50 @@
    "id": 21,
    "name": "Charm"
   },
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
   "image": "econ/tools/keychain",
   "i18n": {
    "name": "#CSGO_Tool_Keychain",
    "description": "#CSGO_Tool_Keychain_Desc"
+  }
+ },
+ {
+  "def_index": 58,
+  "name": null,
+  "description": "This Music Kit will replace all of the music in the game and is shareable with anyone you are playing with. It also includes an MVP Anthem that plays for everyone in the match when you are MVP.\\n\\nThe Music Kit replaces the following music:\\n- Main Menu\\n- Round Start and End\\n- Map Objective\\n- Ten Second Warning\\n- Death Camera",
+  "type": {
+   "id": 25,
+   "name": "MusicKit"
+  },
+  "rarity": {
+   "id": "rarity_default",
+   "name": "Default",
+   "color": "#ded6cc"
+  },
+  "image": "econ/tools/music_kit",
+  "i18n": {
+   "name": "#CSGO_MusicKit",
+   "description": "#CSGO_MusicKit_Desc"
+  }
+ },
+ {
+  "def_index": 1348,
+  "name": null,
+  "description": null,
+  "type": {},
+  "rarity": {
+   "id": "rarity_default",
+   "name": "Default",
+   "color": "#ded6cc"
+  },
+  "image": "econ/tools/spray",
+  "i18n": {
+   "name": "#CSGO_Spray",
+   "description": "#CSGO_Spray_Desc"
   }
  },
  {

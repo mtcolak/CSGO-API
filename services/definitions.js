@@ -65,6 +65,30 @@ export const getDefinitions = async () => {
                     color: getRarityColor("rarity_common")
                 },
                 image: "econ/tools/keychain" // Approximated
+            },
+            {
+                def_index: 58,
+                name_token: '#CSGO_MusicKit',
+                description_token: '#CSGO_MusicKit_Desc',
+                type: { id: ITEM_TYPES.MusicKit, name: ITEM_TYPE_NAMES[ITEM_TYPES.MusicKit] },
+                rarity: {
+                    id: "rarity_default",
+                    name: $t("rarity_default"),
+                    color: getRarityColor("rarity_default")
+                },
+                image: "econ/tools/music_kit" // Approximated
+            },
+            {
+                def_index: 1348,
+                name_token: '#CSGO_Spray',
+                description_token: '#CSGO_Spray_Desc',
+                type: { id: ITEM_TYPES.Spray, name: ITEM_TYPE_NAMES[ITEM_TYPES.Spray] },
+                rarity: {
+                    id: "rarity_default",
+                    name: $t("rarity_default"),
+                    color: getRarityColor("rarity_default")
+                },
+                image: "econ/tools/spray" // Approximated
             }
         ];
 
@@ -74,7 +98,7 @@ export const getDefinitions = async () => {
             name: $t(i.name_token),
             description: $t(i.description_token),
             type: i.type,
-            rarity_id: i.rarity_id,
+            rarity: i.rarity,
             image: i.image,
             i18n: {
                 name: i.name_token,

@@ -661,6 +661,7 @@ const getItemFromKey = key => {
             image:
                 state.cdnImages[pin.image_inventory.toLowerCase()] ??
                 getImageUrl(pin.image_inventory.toLowerCase()),
+            def_index: pin.object_id,
         };
     }
 
@@ -673,6 +674,7 @@ const getItemFromKey = key => {
             image:
                 state.cdnImages[`econ/characters/${agent.name.toLocaleLowerCase()}`] ??
                 getImageUrl(`econ/characters/${agent.name.toLocaleLowerCase()}`),
+            def_index: agent.object_id,
         };
     }
 
@@ -696,6 +698,8 @@ const getItemFromKey = key => {
             image:
                 state.cdnImages[`econ/stickers/${sticker.sticker_material.toLowerCase()}`] ??
                 getImageUrl(`econ/stickers/${sticker.sticker_material.toLowerCase()}`),
+            def_index: 1209,
+            sticker_index: sticker.object_id,
         };
     }
 
@@ -708,6 +712,8 @@ const getItemFromKey = key => {
             image:
                 state.cdnImages[`econ/patches/${patch.patch_material}`] ??
                 getImageUrl(`econ/patches/${patch.patch_material}`),
+            def_index: 1209,
+            sticker_index: patch.object_id,
         };
     }
 
@@ -725,6 +731,7 @@ const getItemFromKey = key => {
                 image:
                     state.cdnImages[`econ/stickers/${graffiti.sticker_material}_${index}`] ??
                     getImageUrl(`econ/stickers/${graffiti.sticker_material}_${index}`),
+                def_index: graffiti.object_id,
             }));
         }
 
@@ -735,6 +742,7 @@ const getItemFromKey = key => {
             image:
                 state.cdnImages[`econ/stickers/${graffiti.sticker_material}`] ??
                 getImageUrl(`econ/stickers/${graffiti.sticker_material}`),
+            def_index: graffiti.object_id,
         };
     }
 
@@ -748,6 +756,8 @@ const getItemFromKey = key => {
             image:
                 state.cdnImages[kit.image_inventory.toLowerCase()] ??
                 getImageUrl(kit.image_inventory.toLowerCase()),
+            def_index: 58, // Default def_index for music kits
+            music_kit_index: kit.object_id,
         };
     }
 
@@ -760,6 +770,8 @@ const getItemFromKey = key => {
             image:
                 state.cdnImages[keychain.image_inventory.toLowerCase()] ??
                 getImageUrl(keychain.image_inventory.toLowerCase()),
+            def_index: 1355,
+            keychain_index: keychain.object_id,
         };
     }
 
@@ -836,6 +848,7 @@ const getItemFromKey = key => {
             paint_index,
             phase,
             image,
+            def_index: items[type]?.object_id,
         };
     }
 
