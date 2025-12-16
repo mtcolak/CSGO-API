@@ -1,9 +1,9 @@
 [
  {
-  "id": "key-generic_valve_key",
+  "id": "key-0",
   "name": "CS:GO Case Key",
   "description": "This key will open any Valve Series Weapon Case. Non-Valve Series cases (e.g. eSports Case) require their own key to open.",
-  "def_index": "generic_valve_key",
+  "def_index": "0",
   "type": {
    "id": 50,
    "name": "Key"
