@@ -1,7 +1,7 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, $tc, languageData } from "./translations.js";
 import { state } from "./main.js";
-import { getCollectibleRarity, getRarityColor } from "../utils/index.js";
+import { getCollectibleRarity, getRarityColor, ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 const isCollectible = item => {
@@ -22,60 +22,27 @@ const isCollectible = item => {
     return false;
 };
 
-const getType = collectible => {
-    if (collectible.image_inventory.includes("service_medal")) {
-        return "Service Medal";
-    }
+const getType = item => {
+    if (item.image_inventory?.includes("service_medal")) return ITEM_TYPES.Medal;
+    if (item.item_name?.startsWith("#CSGO_Collectible_Pin")) return ITEM_TYPES.Pin;
+    if (item.attributes?.["tournament event id"]) return ITEM_TYPES.Trophy;
 
-    if (collectible.item_name.startsWith("#CSGO_Collectible_Map")) {
-        return "Map Contributor Coin";
+    if (item.item_name?.startsWith("#CSGO_TournamentPass")) {
+        return item.item_name.endsWith("_charge") ? ITEM_TYPES.SouvenirToken : ITEM_TYPES.Pass;
     }
+    if (item.item_name?.startsWith("#CSGO_Ticket_")) return ITEM_TYPES.Pass;
 
-    if (collectible.item_name.startsWith("#CSGO_TournamentJournal")) {
-        return "Pick'Em Coin";
-    }
-
-    if (collectible.item_name.startsWith("#CSGO_Collectible_Pin")) {
-        return "Pin";
+    if (item.item_name?.startsWith("#CSGO_Collectible_CommunitySeason")) {
+        return item.prefab === "valve season_tiers" ? ITEM_TYPES.Star : ITEM_TYPES.Coin;
     }
 
     if (
-        collectible.item_name.startsWith("#CSGO_TournamentPass") &&
-        collectible.item_name.endsWith("_charge")
+        item.prefab === "collectible_untradable_coin" ||
+        item.prefab === "premier_season_coin" ||
+        item.item_name?.startsWith("#CSGO_Collectible_Map") ||
+        item.item_name?.startsWith("#CSGO_TournamentJournal")
     ) {
-        return "Souvenir Token";
-    }
-
-    if (collectible.item_name.startsWith("#CSGO_TournamentPass")) {
-        return "Tournament Pass";
-    }
-
-    if (collectible.item_name.startsWith("#CSGO_Ticket_")) {
-        return "Operation Pass";
-    }
-
-    if (collectible.item_name.startsWith("#CSGO_Collectible_CommunitySeason")) {
-        if (collectible?.prefab === "valve season_tiers") {
-            return "Stars for Operation";
-        }
-
-        return "Operation Coin";
-    }
-
-    if (collectible?.attributes["tournament event id"] !== undefined) {
-        if (collectible.item_name.includes("PickEm")) {
-            return "Old Pick'Em Trophy";
-        }
-
-        if (collectible.item_name.includes("Fantasy")) {
-            return "Fantasy Trophy";
-        }
-
-        return "Tournament Finalist Trophy";
-    }
-
-    if (collectible.prefab === "premier_season_coin") {
-        return "Premier Season Coin";
+        return ITEM_TYPES.Coin;
     }
 
     return null;
@@ -90,7 +57,7 @@ const getMarketHashName = item => {
     }
 
     if (
-        ["Pin", "Souvenir Token", "Tournament Pass", "Operation Pass"].includes(getType(item)) &&
+        [ITEM_TYPES.Pin, ITEM_TYPES.SouvenirToken, ITEM_TYPES.Pass].includes(getType(item)) &&
         !isAttendance
     ) {
         return $t(item.item_name, true);
@@ -105,15 +72,16 @@ const parseItem = item => {
     const image = cdnImages[item.image_inventory] ?? getImageUrl(item.image_inventory);
 
     const rarity = item.item_rarity ? `rarity_${item.item_rarity}` : getCollectibleRarity(item?.prefab);
+    const name = isAttendance
+        ? $tc("collectible_genuine", {
+              genuine: $t("genuine"),
+              item_name: $t(item.item_name),
+          })
+        : $t(item.item_name);
 
     return {
         id: `collectible-${item.object_id}`,
-        name: isAttendance
-            ? $tc("collectible_genuine", {
-                  genuine: $t("genuine"),
-                  item_name: $t(item.item_name),
-              })
-            : $t(item.item_name),
+        name,
         description: item.item_description
             ? $t(item.item_description)
             : item.item_description_prefab
@@ -125,10 +93,10 @@ const parseItem = item => {
             name: $t(rarity),
             color: getRarityColor(rarity),
         },
-        type: getType(item) ? { id: getType(item), name: getType(item) } : null,
+        type: getType(item) ? { id: getType(item), name: ITEM_TYPE_NAMES[getType(item)] } : null,
         genuine: isAttendance,
         premier_season: item.attributes?.["premier season"],
-        market_hash_name: getMarketHashName(item),
+        market_hash_name: getMarketHashName(item) || name,
         image,
 
         // Return original attributes from item_game.json

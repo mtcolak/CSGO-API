@@ -823,6 +823,12 @@ export const ITEM_TYPES = {
     Collectible: 60,
     Pass: 61,
     Gift: 62,
+    Pin: 63,
+    Medal: 64,
+    Coin: 65,
+    Trophy: 66,
+    SouvenirToken: 67,
+    Star: 68,
 
     // Non-Marketable
     Equipment: 99
