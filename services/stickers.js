@@ -204,7 +204,7 @@ const parseItem = item => {
             id: getType(item),
             name: getType(item)
         },
-        market_hash_name: getMarketHashName(item),
+        market_hash_name: getMarketHashName(item) || `Sticker | ${$t(item.item_name)}`,
         effect: getEffect(item),
         tournament: item.tournament_event_id
             ? {
