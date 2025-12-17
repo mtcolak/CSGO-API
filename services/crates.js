@@ -176,7 +176,7 @@ const parseItem = (item, prefabs) => {
             }),
         })),
         special_notes: specialNotes?.[`crate-${item.object_id}`],
-        market_hash_name: getMarketHashName(item),
+        market_hash_name: getMarketHashName(item) || $t(item.item_name),
         rental: !!item.attributes["can open for rental"],
         image,
         model_player: item.model_player ?? null,

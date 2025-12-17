@@ -199,8 +199,8 @@ export const getSkins = async () => {
                 name: $t("sfui_invpanel_filter_melee"),
             },
             type: {
-                id: "CSGO_Type_Knife",
-                name: $t("CSGO_Type_Knife"),
+                "id": 10,
+                "name": "Knife"
             },
             pattern: null,
             def_index: weaponIDMapping[knife.name],

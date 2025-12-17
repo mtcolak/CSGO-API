@@ -34308,7 +34308,7 @@
    }
   ],
   "contains_rare": [],
-  "market_hash_name": null,
+  "market_hash_name": "Shattered Web Sticker Collection",
   "rental": false,
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_shattered_web_capsule.f80ef75b7761dc78254bfe65d6641c526f0fd69f.png",
   "model_player": null,
@@ -34524,7 +34524,7 @@
    }
   ],
   "contains_rare": [],
-  "market_hash_name": null,
+  "market_hash_name": "Metal Skill Group Patch Collection",
   "rental": false,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack02_png.png",
   "model_player": "models/props/crates/patch_envelope02.vmdl",
@@ -39054,7 +39054,7 @@
    }
   ],
   "contains_rare": [],
-  "market_hash_name": null,
+  "market_hash_name": "Recoil Sticker Collection",
   "rental": false,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_recoil_capsule_png.png",
   "model_player": null,
@@ -39150,7 +39150,7 @@
    }
   ],
   "contains_rare": [],
-  "market_hash_name": null,
+  "market_hash_name": "Broken Fang Sticker Collection",
   "rental": false,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_broken_fang_capsule_png.png",
   "model_player": null,
@@ -40375,7 +40375,7 @@
    }
   ],
   "contains_rare": [],
-  "market_hash_name": null,
+  "market_hash_name": "Riptide Surf Shop Sticker Collection",
   "rental": false,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule_png.png",
   "model_player": null,
@@ -40579,7 +40579,7 @@
    }
   ],
   "contains_rare": [],
-  "market_hash_name": null,
+  "market_hash_name": "Operation Riptide Sticker Collection",
   "rental": false,
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_op_riptide_capsule.67fd73ae623ea83bc7f75991fa69b2dee8feca49.png",
   "model_player": null,
@@ -41184,7 +41184,7 @@
    }
   ],
   "contains_rare": [],
-  "market_hash_name": null,
+  "market_hash_name": "Operation Riptide Patch Collection",
   "rental": false,
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/weapon_cases/crate_patch_pack03.e3c82f4119dc4319f24f7c646874e0d75b66c098.png",
   "model_player": "models/props/crates/patch_envelope03.vmdl",
@@ -51573,7 +51573,7 @@
    }
   ],
   "contains_rare": [],
-  "market_hash_name": null,
+  "market_hash_name": "Rio 2022 Storage Unit with Paper Stickers",
   "rental": false,
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/tools/casket_rio2022_0.1f7758a6fea36f8b8801bcb2c3abe04e6c98d6fb.png",
   "model_player": null,
@@ -52185,7 +52185,7 @@
    }
   ],
   "contains_rare": [],
-  "market_hash_name": null,
+  "market_hash_name": "Rio 2022 Storage Unit with Glitter Stickers",
   "rental": false,
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/tools/casket_rio2022_1.4884ab38a77eb1047490decdb29164eaffe162eb.png",
   "model_player": null,
