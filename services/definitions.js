@@ -4,25 +4,6 @@ import { LANGUAGES_URL } from "../constants.js";
 import { ITEM_TYPES, ITEM_TYPE_NAMES, getRarityColor } from "../utils/index.js";
 import { $t } from "./translations.js";
 
-const getCrateType = (typeObj) => {
-    const typeStr = typeObj?.id || typeObj;
-    let id;
-    switch (typeStr) {
-        case "Weapon Case": id = ITEM_TYPES.WeaponCase; break;
-        case "Sticker Capsule": id = ITEM_TYPES.StickerCapsule; break;
-        case "Souvenir Package": id = ITEM_TYPES.SouvenirPackage; break;
-        case "Graffiti Box": id = ITEM_TYPES.GraffitiBox; break;
-        case "Pin Capsule": id = ITEM_TYPES.PinCapsule; break;
-        case "Autograph Capsule": id = ITEM_TYPES.AutographCapsule; break;
-        case "Patch Capsule": id = ITEM_TYPES.PatchCapsule; break;
-        case "Music Kit Box": id = ITEM_TYPES.MusicKitBox; break;
-        case "Self-Opening Case": id = ITEM_TYPES.SelfOpeningCase; break;
-        case "Terminal": id = ITEM_TYPES.Terminal; break;
-        default: id = ITEM_TYPES.Container; break;
-    }
-    return { id, name: ITEM_TYPE_NAMES[id] };
-};
-
 const readJson = (filePath) => {
     if (!fs.existsSync(filePath)) return [];
     try {
@@ -131,7 +112,7 @@ export const getDefinitions = async () => {
             def_index: Number(i.def_index),
             name: i.name,
             description: i.description,
-            type: getCrateType(i.type),
+            type: i.type,
             rarity: i.rarity,
             image: i.image,
             i18n: {

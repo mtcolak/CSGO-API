@@ -1,7 +1,7 @@
 import { createRequire } from "module";
 
 import { saveDataJson } from "../utils/saveDataJson.js";
-import { getRarityColor } from "../utils/index.js";
+import { getRarityColor, ITEM_TYPES } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 import { $t, $tc, languageData } from "./translations.js";
@@ -123,6 +123,22 @@ const getMarketHashName = item => {
     return $t(item.item_name, true).replace("Holo/Foil", "Holo-Foil");
 };
 
+const crateTypes = {
+    "Weapon Case": { id: ITEM_TYPES.WeaponCase, name: "Weapon Case" },
+    "Sticker Capsule": { id: ITEM_TYPES.StickerCapsule, name: "Sticker Capsule" },
+    "Souvenir Package": { id: ITEM_TYPES.SouvenirPackage, name: "Souvenir Package" },
+    "Graffiti Box": { id: ITEM_TYPES.GraffitiBox, name: "Graffiti Box" },
+    "Pin Capsule": { id: ITEM_TYPES.PinCapsule, name: "Pin Capsule" },
+    "Patch Capsule": { id: ITEM_TYPES.PatchCapsule, name: "Patch Capsule" },
+    "Music Kit Box": { id: ITEM_TYPES.MusicKitBox, name: "Music Kit Box" },
+    "Autograph Capsule": { id: ITEM_TYPES.AutographCapsule, name: "Autograph Capsule" },
+    "Self-Opening Case": { id: ITEM_TYPES.SelfOpeningCase, name: "Self-Opening Case" },
+    "Terminal": { id: ITEM_TYPES.Terminal, name: "Terminal" },
+    "Storage Unit": { id: ITEM_TYPES.StorageUnit, name: "Storage Unit" },
+    "Tool": { id: ITEM_TYPES.Tool, name: "Tool" },
+    "Souvenir Highlight": { id: ITEM_TYPES.SouvenirPackage, name: "Souvenir Highlight" }
+};
+
 const parseItem = (item, prefabs) => {
     const { skinsByCrates, revolvingLootLists, cdnImages } = state;
 
@@ -132,12 +148,14 @@ const parseItem = (item, prefabs) => {
     const attributeValue = item.attributes?.["set supply crate series"]?.value ?? null;
     const keyLootList = lootListName ?? revolvingLootLists[attributeValue] ?? null;
 
+    const typeKey = getCrateType(item);
+
     let crate = {
         id: `crate-${item.object_id}`,
         name: $t(item.item_name),
         description: $t(item.item_description) ?? $t(item.item_description_prefab),
         def_index: item.object_id,
-        type: getCrateType(item) ? { id: getCrateType(item), name: getCrateType(item) } : null,
+        type: typeKey ? crateTypes[typeKey] : null,
         first_sale_date: getFirstSaleDate(item, prefabs),
         rarity: {
             id: "rarity_common",
@@ -199,10 +217,7 @@ const parseItem = (item, prefabs) => {
                     name: `${$t("highlight")} ${$t("rarity_common")}`,
                     color: "#ffd7aa", // Highlight Base Grade Container
                 },
-                type: {
-                    id: "Souvenir Highlight",
-                    name: "Souvenir Highlight"
-                },
+                type: crateTypes["Souvenir Highlight"],
                 market_hash_name: $t(`${item.item_name}^highlight`, true),
             },
         ];

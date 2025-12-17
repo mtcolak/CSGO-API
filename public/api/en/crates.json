@@ -5,7 +5,7 @@
   "description": "When used, a random player in your match will get a random item as a gift from you.",
   "def_index": "1210",
   "type": {
-   "id": "Tool",
+   "id": 52,
    "name": "Tool"
   },
   "first_sale_date": "2013/12/17",
@@ -36,7 +36,7 @@
   "description": "When used, up to 9 other players in your match will get a random item as a gift from you.",
   "def_index": "1211",
   "type": {
-   "id": "Tool",
+   "id": 52,
    "name": "Tool"
   },
   "first_sale_date": "2013/12/16",
@@ -67,7 +67,7 @@
   "description": "When used, up to 25 viewers watching your match will get a random item as a gift from you.",
   "def_index": "1215",
   "type": {
-   "id": "Tool",
+   "id": 52,
    "name": "Tool"
   },
   "first_sale_date": "2013/12/16",
@@ -98,7 +98,7 @@
   "description": null,
   "def_index": "4001",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2013/09/20",
@@ -426,7 +426,7 @@
   "description": "A portion of the proceeds from the key used to unlock this will help support CS:GO professional tournament prize pools.",
   "def_index": "4002",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2014/07/09",
@@ -755,7 +755,7 @@
   "description": null,
   "def_index": "4003",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2013/09/20",
@@ -1107,7 +1107,7 @@
   "description": null,
   "def_index": "4004",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2013/09/20",
@@ -1447,7 +1447,7 @@
   "description": "A portion of the proceeds from the key used to unlock this will help support CS:GO professional tournament prize pools.",
   "def_index": "4005",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2014/07/09",
@@ -1788,7 +1788,7 @@
   "description": null,
   "def_index": "4006",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -2187,7 +2187,7 @@
   "description": null,
   "def_index": "4007",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2014/01/29",
@@ -2278,7 +2278,7 @@
   "description": null,
   "def_index": "4009",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2013/12/18",
@@ -2622,7 +2622,7 @@
   "description": null,
   "def_index": "4010",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2013/09/20",
@@ -2962,7 +2962,7 @@
   "description": null,
   "def_index": "4011",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2014/2/19",
@@ -3306,7 +3306,7 @@
   "description": null,
   "def_index": "4012",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2014/01/29",
@@ -3401,7 +3401,7 @@
   "description": null,
   "def_index": "4013",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -3796,7 +3796,7 @@
   "description": "This capsule contains a single EMS One Katowice 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
   "def_index": "4014",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2014/03/02",
@@ -3896,7 +3896,7 @@
   "description": "This capsule contains a single EMS One Katowice 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
   "def_index": "4015",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2014/03/02",
@@ -3996,7 +3996,7 @@
   "description": "This capsule contains a single community-designed sticker. A portion of the proceeds is shared equally among the included creators.",
   "def_index": "4016",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2014/06/11",
@@ -4096,7 +4096,7 @@
   "description": null,
   "def_index": "4017",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2014/06/11",
@@ -4250,7 +4250,7 @@
   "description": null,
   "def_index": "4018",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2014/06/23",
@@ -4394,7 +4394,7 @@
   "description": "A portion of the proceeds from the key used to unlock this will help support CS:GO professional tournament prize pools.",
   "def_index": "4019",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2014/07/09",
@@ -4755,7 +4755,7 @@
   "description": "This capsule contains a single ESL One Cologne 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
   "def_index": "4020",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2014/08/01",
@@ -4847,7 +4847,7 @@
   "description": "This capsule contains a single ESL One Cologne 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
   "def_index": "4021",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2014/08/01",
@@ -4955,7 +4955,7 @@
   "description": null,
   "def_index": "4022",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -5050,7 +5050,7 @@
   "description": null,
   "def_index": "4023",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -5105,7 +5105,7 @@
   "description": null,
   "def_index": "4024",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -5196,7 +5196,7 @@
   "description": null,
   "def_index": "4025",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -5263,7 +5263,7 @@
   "description": null,
   "def_index": "4026",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -5346,7 +5346,7 @@
   "description": null,
   "def_index": "4027",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -5437,7 +5437,7 @@
   "description": null,
   "def_index": "4028",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -5528,7 +5528,7 @@
   "description": null,
   "def_index": "4029",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2014/11/5",
@@ -5877,7 +5877,7 @@
   "description": "This capsule contains a single DreamHack 2014 participant Holo or Foil sticker. A portion of the proceeds is shared equally among the included organizations.",
   "def_index": "4030",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2014/11/20",
@@ -5961,7 +5961,7 @@
   "description": null,
   "def_index": "4031",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -6056,7 +6056,7 @@
   "description": null,
   "def_index": "4032",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -6111,7 +6111,7 @@
   "description": null,
   "def_index": "4033",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -6202,7 +6202,7 @@
   "description": null,
   "def_index": "4034",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -6269,7 +6269,7 @@
   "description": null,
   "def_index": "4035",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -6352,7 +6352,7 @@
   "description": null,
   "def_index": "4036",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -6443,7 +6443,7 @@
   "description": null,
   "def_index": "4037",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -6534,7 +6534,7 @@
   "description": null,
   "def_index": "4061",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2015/1/8",
@@ -6863,7 +6863,7 @@
   "description": null,
   "def_index": "4079",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -6958,7 +6958,7 @@
   "description": null,
   "def_index": "4080",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -7013,7 +7013,7 @@
   "description": null,
   "def_index": "4081",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -7104,7 +7104,7 @@
   "description": null,
   "def_index": "4082",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -7171,7 +7171,7 @@
   "description": null,
   "def_index": "4083",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -7254,7 +7254,7 @@
   "description": null,
   "def_index": "4084",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -7345,7 +7345,7 @@
   "description": null,
   "def_index": "4085",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -7436,7 +7436,7 @@
   "description": "This capsule contains a single ESL One Katowice 2015 participant Holo or Foil sticker. A portion of the proceeds is shared equally among the included organizations.",
   "def_index": "4086",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/02/26",
@@ -7536,7 +7536,7 @@
   "description": "This capsule contains a single ESL One Katowice 2015 participant Holo or Foil sticker. A portion of the proceeds is shared equally among the included organizations.",
   "def_index": "4087",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/02/26",
@@ -7636,7 +7636,7 @@
   "description": null,
   "def_index": "4089",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2015/4/15",
@@ -7969,7 +7969,7 @@
   "description": "This capsule contains a variety of stickers from the community artist ENFU.",
   "def_index": "4090",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/04/22",
@@ -8061,7 +8061,7 @@
   "description": null,
   "def_index": "4091",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2015/4/15",
@@ -8214,7 +8214,7 @@
   "description": "This capsule contains a single ESL One Cologne 2015 participant Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4109",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -8282,7 +8282,7 @@
   "description": "This capsule contains a single ESL One Cologne 2015 participant Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4110",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -8350,7 +8350,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Group A teams at ESL One Cologne 2015: Ninjas in Pyjamas, Team SoloMid, Renegades, Counter Logic Gaming.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4111",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -8462,7 +8462,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Group B teams at ESL One Cologne 2015: Team EnVyUs, Luminosity Gaming, Team Kinguin, Flipsid3 Tactics.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4112",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -8574,7 +8574,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Group C teams at ESL One Cologne 2015: Fnatic, Natus Vincere, Titan, Team eBettle.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4113",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -8686,7 +8686,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Group D teams at ESL One Cologne 2015: Virtus.Pro, mousesports, Cloud9 G2A, Team Immunity.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4114",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -8798,7 +8798,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Fnatic at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4115",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -8850,7 +8850,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Luminosity Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4116",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -8902,7 +8902,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Natus Vincere at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4117",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -8954,7 +8954,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Ninjas in Pyjamas at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4118",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9006,7 +9006,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team EnVyUs at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4119",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9058,7 +9058,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Titan at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4120",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9110,7 +9110,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team SoloMid at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4121",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9162,7 +9162,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Virtus.Pro at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4122",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9214,7 +9214,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from mousesports at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4123",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9266,7 +9266,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Renegades at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4124",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9318,7 +9318,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team Immunity at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4125",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9370,7 +9370,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team eBettle at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4126",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9422,7 +9422,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team Kinguin at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4127",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9474,7 +9474,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Flipsid3 Tactics at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4128",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9526,7 +9526,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Counter Logic Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4129",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9578,7 +9578,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Cloud9 G2A at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4130",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/8/10",
@@ -9630,7 +9630,7 @@
   "description": null,
   "def_index": "4131",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -9725,7 +9725,7 @@
   "description": null,
   "def_index": "4132",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -9816,7 +9816,7 @@
   "description": null,
   "def_index": "4133",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -9871,7 +9871,7 @@
   "description": null,
   "def_index": "4134",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -9962,7 +9962,7 @@
   "description": null,
   "def_index": "4135",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -10053,7 +10053,7 @@
   "description": null,
   "def_index": "4136",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -10136,7 +10136,7 @@
   "description": null,
   "def_index": "4137",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -10227,7 +10227,7 @@
   "description": null,
   "def_index": "4138",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2015/9/15",
@@ -10380,7 +10380,7 @@
   "description": "This capsule contains a single DreamHack Cluj-Napoca 2015 participant Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4156",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -10448,7 +10448,7 @@
   "description": "This capsule contains a single DreamHack Cluj-Napoca 2015 participant Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4157",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -10516,7 +10516,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Challengers teams at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4158",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -10708,7 +10708,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Legends teams at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4159",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -10900,7 +10900,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Ninjas in Pyjamas at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4160",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -10952,7 +10952,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team Dignitas at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4161",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11004,7 +11004,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Counter Logic Gaming at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4162",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11056,7 +11056,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Vexed Gaming at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4163",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11108,7 +11108,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Flipsid3 Tactics at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4164",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11160,7 +11160,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team Liquid at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4165",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11212,7 +11212,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from mousesports at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4166",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11264,7 +11264,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Natus Vincere at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4167",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11316,7 +11316,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Virtus.Pro at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4168",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11368,7 +11368,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Cloud9 at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4169",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11420,7 +11420,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from G2 Esports at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4170",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11472,7 +11472,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Titan at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4171",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11524,7 +11524,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team SoloMid at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4172",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11576,7 +11576,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team EnVyUs at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4173",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11628,7 +11628,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Fnatic at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4174",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11680,7 +11680,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Luminosity Gaming at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4175",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2015/10/20",
@@ -11732,7 +11732,7 @@
   "description": null,
   "def_index": "4176",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -11827,7 +11827,7 @@
   "description": null,
   "def_index": "4177",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -11918,7 +11918,7 @@
   "description": null,
   "def_index": "4178",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -11973,7 +11973,7 @@
   "description": null,
   "def_index": "4179",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -12064,7 +12064,7 @@
   "description": null,
   "def_index": "4180",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -12155,7 +12155,7 @@
   "description": null,
   "def_index": "4181",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -12238,7 +12238,7 @@
   "description": null,
   "def_index": "4182",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -12329,7 +12329,7 @@
   "description": "This capsule contains a variety of stickers from the community artist ninjasia.",
   "def_index": "4183",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/12/01",
@@ -12409,7 +12409,7 @@
   "description": "This capsule contains a variety of stickers from the community artist Slid3.",
   "def_index": "4184",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/12/01",
@@ -12501,7 +12501,7 @@
   "description": "This capsule contains a variety of stickers from the community artist ThePolymath.",
   "def_index": "4185",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2015/12/01",
@@ -12577,7 +12577,7 @@
   "description": null,
   "def_index": "4186",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2015-11-30",
@@ -12938,7 +12938,7 @@
   "description": null,
   "def_index": "4187",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2016-01-19",
@@ -13091,7 +13091,7 @@
   "description": "This capsule contains a single MLG Columbus 2016 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4205",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13195,7 +13195,7 @@
   "description": "This capsule contains a single MLG Columbus 2016 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4206",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13299,7 +13299,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Challengers teams at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4207",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13491,7 +13491,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Legends teams at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4208",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13683,7 +13683,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Ninjas in Pyjamas at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4209",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13735,7 +13735,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Splyce at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4210",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13787,7 +13787,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Counter Logic Gaming at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4211",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13839,7 +13839,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Gambit Gaming at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4212",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13891,7 +13891,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Flipsid3 Tactics at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4213",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13943,7 +13943,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team Liquid at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4214",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -13995,7 +13995,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from mousesports at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4215",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14047,7 +14047,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Natus Vincere at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4216",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14099,7 +14099,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Virtus.Pro at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4217",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14151,7 +14151,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Cloud9 at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4218",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14203,7 +14203,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from G2 Esports at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4219",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14255,7 +14255,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from FaZe Clan at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4220",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14307,7 +14307,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Astralis at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4221",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14359,7 +14359,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team EnVyUs at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4222",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14411,7 +14411,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Fnatic at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4223",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14463,7 +14463,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Luminosity Gaming at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4224",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-03-10",
@@ -14515,7 +14515,7 @@
   "description": null,
   "def_index": "4225",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -14610,7 +14610,7 @@
   "description": null,
   "def_index": "4226",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -14701,7 +14701,7 @@
   "description": null,
   "def_index": "4227",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -14756,7 +14756,7 @@
   "description": null,
   "def_index": "4228",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -14847,7 +14847,7 @@
   "description": null,
   "def_index": "4229",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -14938,7 +14938,7 @@
   "description": null,
   "def_index": "4230",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -15021,7 +15021,7 @@
   "description": null,
   "def_index": "4231",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -15112,7 +15112,7 @@
   "description": null,
   "def_index": "4232",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -15179,7 +15179,7 @@
   "description": null,
   "def_index": "4233",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2016-04-19",
@@ -15520,7 +15520,7 @@
   "description": "This box contains a single community-designed graffiti pattern. A portion of the proceeds is shared equally among the included creators.",
   "def_index": "4234",
   "type": {
-   "id": "Graffiti Box",
+   "id": 33,
    "name": "Graffiti Box"
   },
   "first_sale_date": "2016/06/20",
@@ -15624,7 +15624,7 @@
   "description": "This capsule contains a single Series 1 collectible pin. Collectible pins can be displayed on your profile.",
   "def_index": "4235",
   "type": {
-   "id": "Pin Capsule",
+   "id": 34,
    "name": "Pin Capsule"
   },
   "first_sale_date": "2016/06/01",
@@ -15700,7 +15700,7 @@
   "description": null,
   "def_index": "4236",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2016-06-10",
@@ -16001,7 +16001,7 @@
   "description": "This capsule contains a single Cologne 2016 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4254",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16105,7 +16105,7 @@
   "description": "This capsule contains a single Cologne 2016 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4255",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16209,7 +16209,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Challengers teams at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4256",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16401,7 +16401,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Legends teams at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4257",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16593,7 +16593,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4258",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16645,7 +16645,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from OpTic Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4259",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16697,7 +16697,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Counter Logic Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4260",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16749,7 +16749,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Gambit Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4261",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16801,7 +16801,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Flipsid3 Tactics at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4262",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16853,7 +16853,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team Liquid at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4263",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16905,7 +16905,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4264",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -16957,7 +16957,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4265",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -17009,7 +17009,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Virtus.Pro at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4266",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -17061,7 +17061,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from SK Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4267",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -17113,7 +17113,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from G2 Esports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4268",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -17165,7 +17165,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from FaZe Clan at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4269",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -17217,7 +17217,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Astralis at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4270",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -17269,7 +17269,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team EnVyUs at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4271",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -17321,7 +17321,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Fnatic at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4272",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -17373,7 +17373,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team Dignitas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4273",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2016-06-24",
@@ -17425,7 +17425,7 @@
   "description": null,
   "def_index": "4274",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -17520,7 +17520,7 @@
   "description": null,
   "def_index": "4275",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -17611,7 +17611,7 @@
   "description": null,
   "def_index": "4276",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -17702,7 +17702,7 @@
   "description": null,
   "def_index": "4277",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -17793,7 +17793,7 @@
   "description": null,
   "def_index": "4278",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -17876,7 +17876,7 @@
   "description": null,
   "def_index": "4279",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -17967,7 +17967,7 @@
   "description": null,
   "def_index": "4280",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -18034,7 +18034,7 @@
   "description": null,
   "def_index": "4281",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2016-08-08",
@@ -18335,7 +18335,7 @@
   "description": "This capsule contains a variety of stickers from the community artist Guardian Gear.",
   "def_index": "4282",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2016/08/16",
@@ -18423,7 +18423,7 @@
   "description": "This capsule contains a variety of stickers from the community artist apёl7.",
   "def_index": "4283",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2016/08/16",
@@ -18511,7 +18511,7 @@
   "description": "This capsule contains a single Series 2 collectible pin. Collectible pins can be displayed on your profile.",
   "def_index": "4284",
   "type": {
-   "id": "Pin Capsule",
+   "id": 34,
    "name": "Pin Capsule"
   },
   "first_sale_date": "2016/09/28",
@@ -18587,7 +18587,7 @@
   "description": null,
   "def_index": "4285",
   "type": {
-   "id": "Graffiti Box",
+   "id": 33,
    "name": "Graffiti Box"
   },
   "first_sale_date": "2016/08/24",
@@ -18691,7 +18691,7 @@
   "description": "This capsule contains a variety of graffiti from Perfect World to commemorate the launch of Counter-Strike: Global Offensive in mainland China.",
   "def_index": "4286",
   "type": {
-   "id": "Graffiti Box",
+   "id": 33,
    "name": "Graffiti Box"
   },
   "first_sale_date": "2017/09/14",
@@ -18795,7 +18795,7 @@
   "description": "This box contains a variety of StatTrak™ music kits from \\\"Radicals\\\" artists.",
   "def_index": "4287",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2016/08/16",
@@ -18855,7 +18855,7 @@
   "description": null,
   "def_index": "4288",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2016-11-02",
@@ -19056,7 +19056,7 @@
   "description": "This capsule contains a single Atlanta 2017 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4323",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19160,7 +19160,7 @@
   "description": "This capsule contains a single Atlanta 2017 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4324",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19264,7 +19264,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Challengers teams at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4325",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19456,7 +19456,7 @@
   "description": "This capsule contains a single Foil sticker autographed by one of the players from Legends teams at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4326",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19648,7 +19648,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Astralis at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4327",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19700,7 +19700,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team EnVyUs at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4328",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19752,7 +19752,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from FaZe Clan at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4329",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19804,7 +19804,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Flipsid3 Tactics at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4330",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19856,7 +19856,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Fnatic at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4331",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19908,7 +19908,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from G2 Esports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4332",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -19960,7 +19960,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Gambit Gaming at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4333",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20012,7 +20012,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4334",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20064,7 +20064,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from HellRaisers at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4335",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20116,7 +20116,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4336",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20168,7 +20168,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4337",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20220,7 +20220,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4338",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20272,7 +20272,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from OpTic Gaming at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4339",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20324,7 +20324,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from SK Gaming at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4340",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20376,7 +20376,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Team Liquid at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4341",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20428,7 +20428,7 @@
   "description": "This capsule contains a single sticker autographed by one of the players from Virtus.Pro at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4342",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-01-10",
@@ -20480,7 +20480,7 @@
   "description": null,
   "def_index": "4344",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -20575,7 +20575,7 @@
   "description": null,
   "def_index": "4345",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -20666,7 +20666,7 @@
   "description": null,
   "def_index": "4346",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -20757,7 +20757,7 @@
   "description": null,
   "def_index": "4347",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -20848,7 +20848,7 @@
   "description": null,
   "def_index": "4348",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -20931,7 +20931,7 @@
   "description": null,
   "def_index": "4349",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -21022,7 +21022,7 @@
   "description": null,
   "def_index": "4350",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -21089,7 +21089,7 @@
   "description": null,
   "def_index": "4351",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2017-03-01",
@@ -21430,7 +21430,7 @@
   "description": null,
   "def_index": "4352",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2017-04-21",
@@ -21631,7 +21631,7 @@
   "description": "This capsule contains a single Krakow 2017 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4391",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017-07-05",
@@ -21735,7 +21735,7 @@
   "description": "This capsule contains a single Krakow 2017 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4392",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017-07-05",
@@ -21839,7 +21839,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Challengers teams at Krakow 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4393",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-07-05",
@@ -22351,7 +22351,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Legends teams at Krakow 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4394",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-07-05",
@@ -22863,7 +22863,7 @@
   "description": null,
   "def_index": "4396",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -22918,7 +22918,7 @@
   "description": null,
   "def_index": "4397",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -23009,7 +23009,7 @@
   "description": null,
   "def_index": "4398",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -23100,7 +23100,7 @@
   "description": null,
   "def_index": "4399",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -23191,7 +23191,7 @@
   "description": null,
   "def_index": "4400",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -23274,7 +23274,7 @@
   "description": null,
   "def_index": "4401",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -23365,7 +23365,7 @@
   "description": null,
   "def_index": "4402",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -23432,7 +23432,7 @@
   "description": null,
   "def_index": "4403",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2017-09-06",
@@ -23773,7 +23773,7 @@
   "description": "This capsule contains a variety of stickers from Perfect World to commemorate the launch of Counter-Strike: Global Offensive in mainland China.",
   "def_index": "4404",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017/09/15",
@@ -23865,7 +23865,7 @@
   "description": "This capsule contains a variety of stickers from Perfect World to commemorate the launch of Counter-Strike: Global Offensive in mainland China.",
   "def_index": "4405",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017/09/15",
@@ -23957,7 +23957,7 @@
   "description": "This capsule contains a single Boston 2018 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4456",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -24061,7 +24061,7 @@
   "description": "This capsule contains a single Boston 2018 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4457",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -24165,7 +24165,7 @@
   "description": "This capsule contains a single Boston 2018 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4458",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -24275,7 +24275,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Legends teams at Boston 2018.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4459",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -24787,7 +24787,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Returning Challengers teams at Boston 2018.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4460",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -25299,7 +25299,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Minor Challengers teams at Boston 2018.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4461",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -25817,7 +25817,7 @@
   "description": null,
   "def_index": "4463",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -25872,7 +25872,7 @@
   "description": null,
   "def_index": "4464",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -25963,7 +25963,7 @@
   "description": null,
   "def_index": "4465",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -26054,7 +26054,7 @@
   "description": null,
   "def_index": "4466",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -26145,7 +26145,7 @@
   "description": null,
   "def_index": "4467",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -26228,7 +26228,7 @@
   "description": null,
   "def_index": "4468",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -26319,7 +26319,7 @@
   "description": null,
   "def_index": "4469",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -26386,7 +26386,7 @@
   "description": "This capsule contains a variety of stickers from the community Workshop.",
   "def_index": "4470",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017/12/11",
@@ -26474,7 +26474,7 @@
   "description": null,
   "def_index": "4471",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2017-12-20",
@@ -26675,7 +26675,7 @@
   "description": "This capsule contains a single Boston 2018 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4474",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -26779,7 +26779,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Minor Challengers with Flash Gaming teams at Boston 2018.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4475",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -27291,7 +27291,7 @@
   "description": "This capsule contains a variety of stickers from the community artist Slid3.",
   "def_index": "4477",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019/06/10",
@@ -27391,7 +27391,7 @@
   "description": "This capsule contains a single Boston 2018 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4478",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -27487,7 +27487,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Legends teams at Boston 2018.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4479",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2017-12-18",
@@ -27939,7 +27939,7 @@
   "description": "This capsule contains a single Series 3 collectible pin. Collectible pins can be displayed on your profile.",
   "def_index": "4481",
   "type": {
-   "id": "Pin Capsule",
+   "id": 34,
    "name": "Pin Capsule"
   },
   "first_sale_date": "2018/03/01",
@@ -28015,7 +28015,7 @@
   "description": null,
   "def_index": "4482",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2018-06-07",
@@ -28324,7 +28324,7 @@
   "description": "This capsule contains a single London 2018 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4533",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2018-09-04",
@@ -28428,7 +28428,7 @@
   "description": "This capsule contains a single London 2018 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4534",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2018-09-04",
@@ -28532,7 +28532,7 @@
   "description": "This capsule contains a single London 2018 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4535",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2018-09-04",
@@ -28636,7 +28636,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Legends teams at London 2018.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4536",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2018-09-04",
@@ -29148,7 +29148,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Returning Challengers teams at London 2018.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4537",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2018-09-04",
@@ -29660,7 +29660,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Minor Challengers teams at London 2018.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4538",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2018-09-04",
@@ -30172,7 +30172,7 @@
   "description": null,
   "def_index": "4540",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -30275,7 +30275,7 @@
   "description": null,
   "def_index": "4541",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -30366,7 +30366,7 @@
   "description": null,
   "def_index": "4542",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -30461,7 +30461,7 @@
   "description": null,
   "def_index": "4543",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -30552,7 +30552,7 @@
   "description": null,
   "def_index": "4544",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -30635,7 +30635,7 @@
   "description": null,
   "def_index": "4545",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -30726,7 +30726,7 @@
   "description": null,
   "def_index": "4546",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -30829,7 +30829,7 @@
   "description": "This capsule contains a variety of stickers from the community artist daniDem.",
   "def_index": "4547",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2018/11/15",
@@ -30933,7 +30933,7 @@
   "description": null,
   "def_index": "4548",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2018-11-29",
@@ -31242,7 +31242,7 @@
   "description": "This capsule contains a single Katowice 2019 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4584",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019-02-04",
@@ -31346,7 +31346,7 @@
   "description": "This capsule contains a single Katowice 2019 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4585",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019-02-04",
@@ -31434,7 +31434,7 @@
   "description": "This capsule contains a single Katowice 2019 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4586",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019-02-04",
@@ -31554,7 +31554,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Legends teams at Katowice 2019.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4587",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2019-02-04",
@@ -32066,7 +32066,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Returning Challengers teams at Katowice 2019.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4588",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2019-02-04",
@@ -32458,7 +32458,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Minor Challengers teams at Katowice 2019.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4589",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2019-02-04",
@@ -33090,7 +33090,7 @@
   "description": null,
   "def_index": "4590",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -33193,7 +33193,7 @@
   "description": null,
   "def_index": "4591",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -33284,7 +33284,7 @@
   "description": null,
   "def_index": "4592",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -33379,7 +33379,7 @@
   "description": null,
   "def_index": "4593",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -33470,7 +33470,7 @@
   "description": null,
   "def_index": "4594",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -33553,7 +33553,7 @@
   "description": null,
   "def_index": "4595",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -33644,7 +33644,7 @@
   "description": null,
   "def_index": "4596",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -33747,7 +33747,7 @@
   "description": "This capsule contains a variety of stickers from 343 Industries.",
   "def_index": "4597",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019/11/25",
@@ -33847,7 +33847,7 @@
   "description": null,
   "def_index": "4598",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2019-03-05",
@@ -34156,7 +34156,7 @@
   "description": "This capsule contains a variety of stickers from community artists 2Minds, OniLolz, and Zaphk.",
   "def_index": "4599",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019/04/15",
@@ -34260,7 +34260,7 @@
   "description": "This collection contains a variety of stickers celebrating Operation Shattered Web.",
   "def_index": "4600",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019/10/1",
@@ -34328,7 +34328,7 @@
   "description": "This pack contains a variety of embroidered patches. Patches can be applied to any agent you own.",
   "def_index": "4610",
   "type": {
-   "id": "Patch Capsule",
+   "id": 35,
    "name": "Patch Capsule"
   },
   "first_sale_date": "2020/02/24",
@@ -34444,7 +34444,7 @@
   "description": "This patch collection contains a variety of embroidered patches. Patches can be applied to any agent you own.",
   "def_index": "4614",
   "type": {
-   "id": "Patch Capsule",
+   "id": 35,
    "name": "Patch Capsule"
   },
   "first_sale_date": "2020/02/24",
@@ -34544,7 +34544,7 @@
   "description": "This pack contains a variety of embroidered patches commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. Patches can be applied to any agent you own.",
   "def_index": "4615",
   "type": {
-   "id": "Patch Capsule",
+   "id": 35,
    "name": "Patch Capsule"
   },
   "first_sale_date": "2020/03/23",
@@ -34620,7 +34620,7 @@
   "description": "This capsule contains a variety of stickers from the Warhammer 40,000 series.",
   "def_index": "4616",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2020/05/28",
@@ -34720,7 +34720,7 @@
   "description": null,
   "def_index": "4620",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2019-06-12",
@@ -35029,7 +35029,7 @@
   "description": "This capsule contains a single Berlin 2019 participant Holo or Foil sticker.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4654",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019-08-08",
@@ -35133,7 +35133,7 @@
   "description": "This capsule contains a single Berlin 2019 participant Holo or Foil sticker.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4655",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019-08-08",
@@ -35213,7 +35213,7 @@
   "description": "This capsule contains a single Berlin 2019 participant Holo or Foil sticker.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4656",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019-08-08",
@@ -35341,7 +35341,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Legends teams at Berlin 2019.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4657",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2019-08-08",
@@ -35853,7 +35853,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Returning Challengers teams at Berlin 2019.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4658",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2019-08-08",
@@ -36185,7 +36185,7 @@
   "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Minor Challengers teams at Berlin 2019.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4659",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2019-08-08",
@@ -36877,7 +36877,7 @@
   "description": null,
   "def_index": "4660",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -36980,7 +36980,7 @@
   "description": null,
   "def_index": "4661",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -37071,7 +37071,7 @@
   "description": null,
   "def_index": "4662",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -37166,7 +37166,7 @@
   "description": null,
   "def_index": "4663",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -37257,7 +37257,7 @@
   "description": null,
   "def_index": "4664",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -37348,7 +37348,7 @@
   "description": null,
   "def_index": "4665",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -37451,7 +37451,7 @@
   "description": null,
   "def_index": "4666",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -37506,7 +37506,7 @@
   "description": "This package contains a single custom painted P250 showing its internals with an X-Ray. P250 is a low-recoil firearm with a high rate of fire, which is a relatively inexpensive choice against armored opponents.",
   "def_index": "4668",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2019/10/02",
@@ -37542,7 +37542,7 @@
   "description": "Celebrating the 20th Anniversary of Counter-Strike, this weapon case contains a variety of weapon finishes from Steam Community Workshop and features the Classic Knife as the rare special item, a classic of the Counter-Strike series.",
   "def_index": "4669",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2019-10-14",
@@ -37699,7 +37699,7 @@
   "description": "Celebrating the 20th Anniversary of Counter-Strike, this capsule contains a variety of stickers from Steam Community Workshop.",
   "def_index": "4670",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019/10/16",
@@ -37811,7 +37811,7 @@
   "description": "This capsule contains a single collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. Collectible pins can be displayed on your profile.",
   "def_index": "4693",
   "type": {
-   "id": "Pin Capsule",
+   "id": 34,
    "name": "Pin Capsule"
   },
   "first_sale_date": "2020/03/23",
@@ -37891,7 +37891,7 @@
   "description": "This capsule contains a variety of stickers commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series.",
   "def_index": "4694",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2020/03/23",
@@ -37975,7 +37975,7 @@
   "description": null,
   "def_index": "4695",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2020-03-24",
@@ -38284,7 +38284,7 @@
   "description": "This box contains a variety of music kits from various composers.",
   "def_index": "4696",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2020/04/22",
@@ -38344,7 +38344,7 @@
   "description": "This box contains a variety of StatTrak™ music kits from various composers.",
   "def_index": "4697",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2020/04/22",
@@ -38404,7 +38404,7 @@
   "description": null,
   "def_index": "4698",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2020-07-13",
@@ -38713,7 +38713,7 @@
   "description": null,
   "def_index": "4717",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2020-10-14",
@@ -38914,7 +38914,7 @@
   "description": null,
   "def_index": "4719",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2019/10/1",
@@ -39074,7 +39074,7 @@
   "description": "This collection contains a variety of stickers celebrating Operation Broken Fang.",
   "def_index": "4729",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2020/11/9",
@@ -39170,7 +39170,7 @@
   "description": "This capsule contains a single Paper, Holographic, Foil, or Gold 2020 RMR participant sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4743",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021-01-19",
@@ -39330,7 +39330,7 @@
   "description": "This capsule contains a single Paper, Holographic, Foil, or Gold 2020 RMR participant sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4744",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021-01-19",
@@ -39490,7 +39490,7 @@
   "description": "This capsule contains a single Paper, Holographic, Foil, or Gold 2020 RMR participant sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4745",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021-01-19",
@@ -39650,7 +39650,7 @@
   "description": "This capsule contains a variety of poorly drawn stickers from community artists HH110011HH and Hoxton.",
   "def_index": "4746",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021/02/14",
@@ -39762,7 +39762,7 @@
   "description": null,
   "def_index": "4747",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2021-03-26",
@@ -39963,7 +39963,7 @@
   "description": "This box contains a variety of music kits from \\\"Tacticians\\\" artists.",
   "def_index": "4754",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2021/07/20",
@@ -40019,7 +40019,7 @@
   "description": "This box contains a variety of StatTrak™ music kits from \\\"Tacticians\\\" artists.",
   "def_index": "4755",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2021/07/20",
@@ -40075,7 +40075,7 @@
   "description": null,
   "def_index": "4779",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021/08/01",
@@ -40395,7 +40395,7 @@
   "description": "This capsule contains a variety of stickers from Steam Workshop artists.",
   "def_index": "4782",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021/09/02",
@@ -40511,7 +40511,7 @@
   "description": "This collection contains a variety of stickers celebrating Operation Riptide.",
   "def_index": "4783",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021/09/21",
@@ -40599,7 +40599,7 @@
   "description": "This capsule contains a variety of stickers from Steam Workshop artists and was released in February 2022.",
   "def_index": "4784",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2022/02/20",
@@ -40719,7 +40719,7 @@
   "description": "This capsule contains a variety of stickers from Electronic Arts.",
   "def_index": "4789",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021/10/07",
@@ -40819,7 +40819,7 @@
   "description": null,
   "def_index": "4790",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2021-09-08",
@@ -41120,7 +41120,7 @@
   "description": "This patch collection contains a variety of embroidered patches commemorating Operation Riptide. Patches can be applied to any agent you own.",
   "def_index": "4795",
   "type": {
-   "id": "Patch Capsule",
+   "id": 35,
    "name": "Patch Capsule"
   },
   "first_sale_date": "2021/09/01",
@@ -41204,7 +41204,7 @@
   "description": "This capsule contains a single Stockholm 2021 participant High Grade, Holo, Foil, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4803",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021-10-10",
@@ -41380,7 +41380,7 @@
   "description": "This capsule contains a single Stockholm 2021 participant High Grade, Holo, Foil, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4804",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021-10-10",
@@ -41556,7 +41556,7 @@
   "description": "This capsule contains a single Stockholm 2021 participant High Grade, Holo, Foil, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4805",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2021-10-10",
@@ -41732,7 +41732,7 @@
   "description": "This pack contains a single Stockholm 2021 participant High Grade, or Gold embroidered patch.\\n\\n50% of the proceeds from the sale of this pack support the included organizations.\\n\\nPatches can be applied to any agent you own.",
   "def_index": "4806",
   "type": {
-   "id": "Patch Capsule",
+   "id": 35,
    "name": "Patch Capsule"
   },
   "first_sale_date": "2021-10-10",
@@ -41836,7 +41836,7 @@
   "description": "This pack contains a single Stockholm 2021 participant High Grade, or Gold embroidered patch.\\n\\n50% of the proceeds from the sale of this pack support the included organizations.\\n\\nPatches can be applied to any agent you own.",
   "def_index": "4807",
   "type": {
-   "id": "Patch Capsule",
+   "id": 35,
    "name": "Patch Capsule"
   },
   "first_sale_date": "2021-10-10",
@@ -41940,7 +41940,7 @@
   "description": "This pack contains a single Stockholm 2021 participant High Grade, or Gold embroidered patch.\\n\\n50% of the proceeds from the sale of this pack support the included organizations.\\n\\nPatches can be applied to any agent you own.",
   "def_index": "4808",
   "type": {
-   "id": "Patch Capsule",
+   "id": 35,
    "name": "Patch Capsule"
   },
   "first_sale_date": "2021-10-10",
@@ -42044,7 +42044,7 @@
   "description": null,
   "def_index": "4809",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -42147,7 +42147,7 @@
   "description": null,
   "def_index": "4810",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -42254,7 +42254,7 @@
   "description": null,
   "def_index": "4811",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -42361,7 +42361,7 @@
   "description": null,
   "def_index": "4812",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -42452,7 +42452,7 @@
   "description": null,
   "def_index": "4813",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -42559,7 +42559,7 @@
   "description": null,
   "def_index": "4814",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -42662,7 +42662,7 @@
   "description": null,
   "def_index": "4815",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -42769,7 +42769,7 @@
   "description": "This capsule contains a single High Grade, Holo, or Gold sticker autographed by one of the Champions players at Stockholm 2021.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4816",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2021-10-10",
@@ -42861,7 +42861,7 @@
   "description": "This capsule contains a single High Grade, Holo, or Gold sticker autographed by one of the Finalists players at Stockholm 2021.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4817",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": "2021-10-10",
@@ -43313,7 +43313,7 @@
   "description": null,
   "def_index": "4818",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2021-11-17",
@@ -43614,7 +43614,7 @@
   "description": "This capsule contains a single Antwerp 2022 Legends participant High Grade, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4832",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -43790,7 +43790,7 @@
   "description": "This capsule contains a single Antwerp 2022 Challengers participant High Grade, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4833",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -43966,7 +43966,7 @@
   "description": "This capsule contains a single Antwerp 2022 Contenders participant High Grade, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4834",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -44142,7 +44142,7 @@
   "description": null,
   "def_index": "4835",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -44245,7 +44245,7 @@
   "description": null,
   "def_index": "4836",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -44352,7 +44352,7 @@
   "description": null,
   "def_index": "4837",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -44459,7 +44459,7 @@
   "description": null,
   "def_index": "4838",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -44550,7 +44550,7 @@
   "description": null,
   "def_index": "4839",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -44657,7 +44657,7 @@
   "description": null,
   "def_index": "4840",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -44760,7 +44760,7 @@
   "description": null,
   "def_index": "4841",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -44867,7 +44867,7 @@
   "description": "This capsule contains a single High Grade, Glitter, Holo, or Gold sticker autographed by one of the Legends players at Antwerp 2022.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4842",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -45539,7 +45539,7 @@
   "description": "This capsule contains a single High Grade, Glitter, Holo, or Gold sticker autographed by one of the Challengers players at Antwerp 2022.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4843",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -46211,7 +46211,7 @@
   "description": "This capsule contains a single High Grade, Glitter, Holo, or Gold sticker autographed by one of the Contenders players at Antwerp 2022.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4844",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -46883,7 +46883,7 @@
   "description": "This capsule contains a single High Grade, Glitter, Holo, or Gold sticker autographed by one of the Champions players at Antwerp 2022.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4845",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -46995,7 +46995,7 @@
   "description": null,
   "def_index": "4846",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2022-05-30",
@@ -47196,7 +47196,7 @@
   "description": "This capsule contains a variety of stickers from Steam Workshop artists celebrating CS:GO's 10th birthday.",
   "def_index": "4847",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2022/06/15",
@@ -47488,7 +47488,7 @@
   "description": "This box contains a variety of music kits from \\\"Initiators\\\" artists.",
   "def_index": "4848",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2022/08/15",
@@ -47544,7 +47544,7 @@
   "description": "This box contains a variety of StatTrak™ music kits from \\\"Initiators\\\" artists.",
   "def_index": "4849",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2022/08/15",
@@ -47600,7 +47600,7 @@
   "description": "This capsule contains a single Rio 2022 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4857",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -47776,7 +47776,7 @@
   "description": "This capsule contains a single Rio 2022 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4858",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -47952,7 +47952,7 @@
   "description": "This capsule contains a single Rio 2022 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4859",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -48128,7 +48128,7 @@
   "description": null,
   "def_index": "4860",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -48231,7 +48231,7 @@
   "description": null,
   "def_index": "4861",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -48338,7 +48338,7 @@
   "description": null,
   "def_index": "4862",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -48445,7 +48445,7 @@
   "description": null,
   "def_index": "4863",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -48536,7 +48536,7 @@
   "description": null,
   "def_index": "4864",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -48643,7 +48643,7 @@
   "description": null,
   "def_index": "4865",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -48746,7 +48746,7 @@
   "description": null,
   "def_index": "4866",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -48853,7 +48853,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Legends players at Rio 2022.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4867",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -49525,7 +49525,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Challengers players at Rio 2022.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4868",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -50197,7 +50197,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Contenders players at Rio 2022.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4869",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -50869,7 +50869,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Champions players at Rio 2022.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4870",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -50981,7 +50981,7 @@
   "description": "This is a Storage Unit containing every Paper player autograph and every Paper sticker commemorating IEM Rio 2022 CS:GO Major Championship.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.",
   "def_index": "4871",
   "type": {
-   "id": "Storage Unit",
+   "id": 53,
    "name": "Storage Unit"
   },
   "first_sale_date": null,
@@ -51593,7 +51593,7 @@
   "description": "This is a Storage Unit containing every Glitter player autograph and every Glitter sticker commemorating IEM Rio 2022 CS:GO Major Championship.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.",
   "def_index": "4872",
   "type": {
-   "id": "Storage Unit",
+   "id": 53,
    "name": "Storage Unit"
   },
   "first_sale_date": null,
@@ -52205,7 +52205,7 @@
   "description": "This capsule contains a variety of stickers from Steam Workshop artists and was released in February 2023.",
   "def_index": "4879",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2023/01/05",
@@ -52321,7 +52321,7 @@
   "description": null,
   "def_index": "4880",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2023-01-31",
@@ -52522,7 +52522,7 @@
   "description": null,
   "def_index": "4882",
   "type": {
-   "id": "Self-Opening Case",
+   "id": 38,
    "name": "Self-Opening Case"
   },
   "first_sale_date": "2023/04/24",
@@ -52629,7 +52629,7 @@
   "description": "This capsule contains a single Paris 2023 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4890",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -52805,7 +52805,7 @@
   "description": "This capsule contains a single Paris 2023 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4891",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -52981,7 +52981,7 @@
   "description": "This capsule contains a single Paris 2023 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4892",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -53157,7 +53157,7 @@
   "description": null,
   "def_index": "4893",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -53260,7 +53260,7 @@
   "description": null,
   "def_index": "4894",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -53367,7 +53367,7 @@
   "description": null,
   "def_index": "4895",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -53474,7 +53474,7 @@
   "description": null,
   "def_index": "4896",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -53565,7 +53565,7 @@
   "description": null,
   "def_index": "4897",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -53672,7 +53672,7 @@
   "description": null,
   "def_index": "4898",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -53775,7 +53775,7 @@
   "description": null,
   "def_index": "4899",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -53882,7 +53882,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Legends players at Paris 2023.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4900",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -54554,7 +54554,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Challengers players at Paris 2023.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4901",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -55226,7 +55226,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Contenders players at Paris 2023.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4902",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -55898,7 +55898,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Champions players at Paris 2023.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4903",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -56010,7 +56010,7 @@
   "description": null,
   "def_index": "4904",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2024-01-16",
@@ -56167,7 +56167,7 @@
   "description": "This capsule contains a variety of stickers from Steam Workshop artists and was released in February 2024.",
   "def_index": "4905",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2024-01-25",
@@ -56283,7 +56283,7 @@
   "description": "This box contains a variety of music kits from \\\"NIGHTMODE\\\" artists.",
   "def_index": "4914",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2024/01/24",
@@ -56339,7 +56339,7 @@
   "description": "This box contains a variety of StatTrak™ music kits from \\\"NIGHTMODE\\\" artists.",
   "def_index": "4915",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2024/01/24",
@@ -56395,7 +56395,7 @@
   "description": "This capsule contains a single Copenhagen 2024 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4923",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -56571,7 +56571,7 @@
   "description": "This capsule contains a single Copenhagen 2024 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4924",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -56747,7 +56747,7 @@
   "description": "This capsule contains a single Copenhagen 2024 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4925",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -56923,7 +56923,7 @@
   "description": null,
   "def_index": "4926",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -57026,7 +57026,7 @@
   "description": null,
   "def_index": "4927",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -57133,7 +57133,7 @@
   "description": null,
   "def_index": "4928",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -57240,7 +57240,7 @@
   "description": null,
   "def_index": "4929",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -57331,7 +57331,7 @@
   "description": null,
   "def_index": "4930",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -57438,7 +57438,7 @@
   "description": null,
   "def_index": "4931",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -57541,7 +57541,7 @@
   "description": null,
   "def_index": "4932",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -57648,7 +57648,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Legends players at Copenhagen 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4937",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -58320,7 +58320,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Challengers players at Copenhagen 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4938",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -58992,7 +58992,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Contenders players at Copenhagen 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4939",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -59664,7 +59664,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Champions players at Copenhagen 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4940",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -59776,7 +59776,7 @@
   "description": "This box contains a variety of music kits from various composers.",
   "def_index": "4946",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2024-08-15",
@@ -59840,7 +59840,7 @@
   "description": "This box contains a variety of StatTrak™ music kits from various composers.",
   "def_index": "4947",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2024-08-15",
@@ -59904,7 +59904,7 @@
   "description": "This capsule contains a single Shanghai 2024 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4964",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -60080,7 +60080,7 @@
   "description": "This capsule contains a single Shanghai 2024 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4965",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -60256,7 +60256,7 @@
   "description": "This capsule contains a single Shanghai 2024 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4966",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -60432,7 +60432,7 @@
   "description": null,
   "def_index": "4967",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -60535,7 +60535,7 @@
   "description": null,
   "def_index": "4968",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -60642,7 +60642,7 @@
   "description": null,
   "def_index": "4969",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -60749,7 +60749,7 @@
   "description": null,
   "def_index": "4970",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -60856,7 +60856,7 @@
   "description": null,
   "def_index": "4971",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -60963,7 +60963,7 @@
   "description": null,
   "def_index": "4972",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -61066,7 +61066,7 @@
   "description": null,
   "def_index": "4973",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -61173,7 +61173,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Legends players at Shanghai 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4978",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -61845,7 +61845,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Challengers players at Shanghai 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4979",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -62517,7 +62517,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Contenders players at Shanghai 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4980",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -63189,7 +63189,7 @@
   "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Champions players at Shanghai 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "4981",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -63301,7 +63301,7 @@
   "description": "This capsule contains a single Austin 2025 Legends participant Paper, Foil, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5117",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -63477,7 +63477,7 @@
   "description": "This capsule contains a single Austin 2025 Challengers participant Paper, Foil, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5118",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -63653,7 +63653,7 @@
   "description": "This capsule contains a single Austin 2025 Contenders participant Paper, Foil, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5119",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -63957,7 +63957,7 @@
   "description": null,
   "def_index": "5120",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -64060,7 +64060,7 @@
   "description": null,
   "def_index": "5120",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -64163,7 +64163,7 @@
   "description": null,
   "def_index": "5121",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -64270,7 +64270,7 @@
   "description": null,
   "def_index": "5121",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -64377,7 +64377,7 @@
   "description": null,
   "def_index": "5122",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -64484,7 +64484,7 @@
   "description": null,
   "def_index": "5122",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -64591,7 +64591,7 @@
   "description": null,
   "def_index": "5123",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -64698,7 +64698,7 @@
   "description": null,
   "def_index": "5123",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -64805,7 +64805,7 @@
   "description": null,
   "def_index": "5124",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -64912,7 +64912,7 @@
   "description": null,
   "def_index": "5124",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -65019,7 +65019,7 @@
   "description": null,
   "def_index": "5125",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -65122,7 +65122,7 @@
   "description": null,
   "def_index": "5125",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -65225,7 +65225,7 @@
   "description": null,
   "def_index": "5126",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -65320,7 +65320,7 @@
   "description": null,
   "def_index": "5126",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -65415,7 +65415,7 @@
   "description": "This capsule contains a single Paper, Foil, Holo, or Gold sticker autographed by one of the Legends players at Austin 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5131",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -66087,7 +66087,7 @@
   "description": "This capsule contains a single Paper, Foil, Holo, or Gold sticker autographed by one of the Challengers players at Austin 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5132",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -66759,7 +66759,7 @@
   "description": "This capsule contains a single Paper, Foil, Holo, or Gold sticker autographed by one of the Contenders players at Austin 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5133",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -68071,7 +68071,7 @@
   "description": "This capsule contains a single Paper, Foil, Holo, or Gold sticker autographed by one of the Champions players at Austin 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5134",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -68183,7 +68183,7 @@
   "description": null,
   "def_index": "5176",
   "type": {
-   "id": "Terminal",
+   "id": 39,
    "name": "Terminal"
   },
   "first_sale_date": null,
@@ -68283,7 +68283,7 @@
   "description": "This capsule contains a single Budapest 2025 Legends participant Paper, Embroidered, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5216",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -68459,7 +68459,7 @@
   "description": "This capsule contains a single Budapest 2025 Challengers participant Paper, Embroidered, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5217",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -68635,7 +68635,7 @@
   "description": "This capsule contains a single Budapest 2025 Contenders participant Paper, Embroidered, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5218",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": null,
@@ -68939,7 +68939,7 @@
   "description": null,
   "def_index": "5219",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -69042,7 +69042,7 @@
   "description": null,
   "def_index": "5219",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -69145,7 +69145,7 @@
   "description": null,
   "def_index": "5220",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -69252,7 +69252,7 @@
   "description": null,
   "def_index": "5220",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -69359,7 +69359,7 @@
   "description": null,
   "def_index": "5221",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -69454,7 +69454,7 @@
   "description": null,
   "def_index": "5221",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -69549,7 +69549,7 @@
   "description": null,
   "def_index": "5222",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -69656,7 +69656,7 @@
   "description": null,
   "def_index": "5222",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -69763,7 +69763,7 @@
   "description": null,
   "def_index": "5223",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -69870,7 +69870,7 @@
   "description": null,
   "def_index": "5223",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -69977,7 +69977,7 @@
   "description": null,
   "def_index": "5224",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -70080,7 +70080,7 @@
   "description": null,
   "def_index": "5224",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -70183,7 +70183,7 @@
   "description": null,
   "def_index": "5225",
   "type": {
-   "id": "Souvenir Package",
+   "id": 32,
    "name": "Souvenir Package"
   },
   "first_sale_date": null,
@@ -70278,7 +70278,7 @@
   "description": null,
   "def_index": "5225",
   "type": {
-   "id": "Souvenir Highlight",
+   "id": 32,
    "name": "Souvenir Highlight"
   },
   "first_sale_date": null,
@@ -70373,7 +70373,7 @@
   "description": "This capsule contains a single Paper, Embroidered, Holo, or Gold sticker autographed by one of the Legends players at Budapest 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5230",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -71045,7 +71045,7 @@
   "description": "This capsule contains a single Paper, Embroidered, Holo, or Gold sticker autographed by one of the Challengers players at Budapest 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5231",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -71717,7 +71717,7 @@
   "description": "This capsule contains a single Paper, Embroidered, Holo, or Gold sticker autographed by one of the Contenders players at Budapest 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5232",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -73029,7 +73029,7 @@
   "description": "This capsule contains a single Paper, Embroidered, Holo, or Gold sticker autographed by one of the Champions players at Budapest 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "def_index": "5233",
   "type": {
-   "id": "Autograph Capsule",
+   "id": 37,
    "name": "Autograph Capsule"
   },
   "first_sale_date": null,
@@ -73060,7 +73060,7 @@
   "description": null,
   "def_index": "7003",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2024-07-01",
@@ -73217,7 +73217,7 @@
   "description": null,
   "def_index": "7007",
   "type": {
-   "id": "Weapon Case",
+   "id": 30,
    "name": "Weapon Case"
   },
   "first_sale_date": "2025-02-04",
@@ -73530,7 +73530,7 @@
   "description": "Embrace Chaos with the Warhammer 40,000 Traitor Astartes Sticker Capsule, released in May 2025.",
   "def_index": "7011",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2025-05-22",
@@ -73634,7 +73634,7 @@
   "description": "Unleash the might of the Emperor's finest with the Warhammer 40,000 Adeptus Astartes Sticker Capsule, released in May 2025.",
   "def_index": "7013",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2025-05-22",
@@ -73738,7 +73738,7 @@
   "description": "Stand resolute with the Emperor's faithful with the Forces of the Warhammer 40,000 Imperium Sticker Capsule, released in May 2025.",
   "def_index": "7015",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2025-05-22",
@@ -73842,7 +73842,7 @@
   "description": "Bring forth the terror of the Xenos with the Warhammer 40,000 Xenos Sticker Capsule, released in May 2025.",
   "def_index": "7017",
   "type": {
-   "id": "Sticker Capsule",
+   "id": 31,
    "name": "Sticker Capsule"
   },
   "first_sale_date": "2025-05-22",
@@ -73946,7 +73946,7 @@
   "description": "This box contains music kits from various artists and was released in August 2025.",
   "def_index": "7019",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2025-06-27",
@@ -74018,7 +74018,7 @@
   "description": "This box contains StatTrak™ music kits from various artists and was released in July 2025.",
   "def_index": "7021",
   "type": {
-   "id": "Music Kit Box",
+   "id": 36,
    "name": "Music Kit Box"
   },
   "first_sale_date": "2025-06-27",
