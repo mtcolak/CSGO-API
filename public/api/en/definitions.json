@@ -39,7 +39,7 @@
  },
  {
   "def_index": 58,
-  "name": null,
+  "name": "Music Kit",
   "description": "This Music Kit will replace all of the music in the game and is shareable with anyone you are playing with. It also includes an MVP Anthem that plays for everyone in the match when you are MVP.\\n\\nThe Music Kit replaces the following music:\\n- Main Menu\\n- Round Start and End\\n- Map Objective\\n- Ten Second Warning\\n- Death Camera",
   "type": {
    "id": 25,
@@ -52,14 +52,14 @@
   },
   "image": "econ/tools/music_kit",
   "i18n": {
-   "name": "#CSGO_MusicKit",
+   "name": "#CSGO_Type_MusicKit",
    "description": "#CSGO_MusicKit_Desc"
   }
  },
  {
   "def_index": 1348,
-  "name": null,
-  "description": null,
+  "name": "Sealed Graffiti",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
   "type": {},
   "rarity": {
    "id": "rarity_default",
@@ -68,8 +68,8 @@
   },
   "image": "econ/tools/spray",
   "i18n": {
-   "name": "#CSGO_Spray",
-   "description": "#CSGO_Spray_Desc"
+   "name": "#CSGO_Tool_Spray",
+   "description": "#CSGO_Tool_Spray_Desc"
   }
  },
  {

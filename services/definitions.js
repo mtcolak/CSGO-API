@@ -49,7 +49,7 @@ export const getDefinitions = async () => {
             },
             {
                 def_index: 58,
-                name_token: '#CSGO_MusicKit',
+                name_token: '#CSGO_Type_MusicKit',
                 description_token: '#CSGO_MusicKit_Desc',
                 type: { id: ITEM_TYPES.MusicKit, name: ITEM_TYPE_NAMES[ITEM_TYPES.MusicKit] },
                 rarity: {
@@ -61,8 +61,8 @@ export const getDefinitions = async () => {
             },
             {
                 def_index: 1348,
-                name_token: '#CSGO_Spray',
-                description_token: '#CSGO_Spray_Desc',
+                name_token: '#CSGO_Tool_Spray',
+                description_token: '#CSGO_Tool_Spray_Desc',
                 type: { id: ITEM_TYPES.Spray, name: ITEM_TYPE_NAMES[ITEM_TYPES.Spray] },
                 rarity: {
                     id: "rarity_default",
