@@ -27,8 +27,9 @@ export const getPaintKits = async () => {
         const dopplerPhase = getDopplerPhase(paint_index);
 
         return {
+            id: `paint-${paint_index}`,
             paint_index: paint_index,
-            name: $t(nameTag),
+            name: String($t(nameTag)),
             description: $t(descriptionTag),
             wear: {
                 wearReMapMin: wear_remap_min,
