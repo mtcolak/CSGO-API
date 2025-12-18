@@ -834,9 +834,6 @@ export const ITEM_TYPES = {
 
     // Non-Marketable
     Equipment: 99,
-
-    // Out of list
-    PaintKit: 9999,
 };
 
 export const ITEM_TYPE_NAMES = Object.fromEntries(

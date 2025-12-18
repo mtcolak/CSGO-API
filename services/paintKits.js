@@ -1,7 +1,7 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
-import { getDopplerPhase, ItemIdPacker, ITEM_TYPES } from "../utils/index.js";
+import { getDopplerPhase } from "../utils/index.js";
 
 export const getPaintKits = async () => {
     const { paintKits } = state;
@@ -27,7 +27,7 @@ export const getPaintKits = async () => {
         const dopplerPhase = getDopplerPhase(paint_index);
 
         return {
-            id: ItemIdPacker.pack(ITEM_TYPES.PaintKit, paint_index),
+            id: `paint-${paint_index}`,
             paint_index: paint_index,
             name: String($t(nameTag)),
             description: $t(descriptionTag),
