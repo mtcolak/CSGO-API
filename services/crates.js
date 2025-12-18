@@ -1,7 +1,7 @@
 import { createRequire } from "module";
 
 import { saveDataJson } from "../utils/saveDataJson.js";
-import { getRarityColor, ITEM_TYPES } from "../utils/index.js";
+import { getRarityColor, ITEM_TYPES, ItemIdPacker, getCrateType, crateTypes } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 import { $t, $tc, languageData } from "./translations.js";
@@ -45,57 +45,7 @@ const isCrate = item => {
     return true;
 };
 
-const getCrateType = item => {    
-    if (item.prefab?.includes("weapon_case_selfopening_collection") && item.prefab?.includes("volatile_pricing")) {
-        return "Terminal";
-    }
 
-    if (item.prefab?.includes("weapon_case_selfopening_collection")) {
-        return "Self-Opening Case";
-    }
-
-    if (item.prefab === "weapon_case" || item.name =='crate_xray_p250') {
-        return "Weapon Case";
-    }
-
-    if (item.prefab === "weapon_case_souvenirpkg" || item.prefab.includes("souvenir_crate")) {
-        return "Souvenir Package";
-    }
-
-    if (item.item_name.startsWith("#CSGO_storageunit")) {
-        return "Storage Unit";
-    }
-
-    if (item.prefab.includes("sticker_capsule") || item?.tags?.StickerCapsule !== undefined) {
-        return "Sticker Capsule";
-    }
-
-    if (item.prefab === "graffiti_box") {
-        return "Graffiti Box";
-    }
-
-    if (item.name.startsWith("crate_pins")) {
-        return "Pin Capsule";
-    }
-
-    if (item.name.startsWith("crate_signature")) {
-        return "Autograph Capsule";
-    }
-
-    if (item.image_inventory.includes("patch")) {
-        return "Patch Capsule";
-    }
-
-    if (item.name.startsWith("crate_musickit")) {
-        return "Music Kit Box";
-    }
-
-    if (item.prefab.includes("csgo_tool")) {
-        return "Tool";
-    }
-
-    return null;
-};
 
 const getFirstSaleDate = (item, prefabs) => {
     if (item.first_sale_date !== undefined) {
@@ -123,21 +73,7 @@ const getMarketHashName = item => {
     return $t(item.item_name, true).replace("Holo/Foil", "Holo-Foil");
 };
 
-const crateTypes = {
-    "Weapon Case": { id: ITEM_TYPES.WeaponCase, name: "Weapon Case" },
-    "Sticker Capsule": { id: ITEM_TYPES.StickerCapsule, name: "Sticker Capsule" },
-    "Souvenir Package": { id: ITEM_TYPES.SouvenirPackage, name: "Souvenir Package" },
-    "Graffiti Box": { id: ITEM_TYPES.GraffitiBox, name: "Graffiti Box" },
-    "Pin Capsule": { id: ITEM_TYPES.PinCapsule, name: "Pin Capsule" },
-    "Patch Capsule": { id: ITEM_TYPES.PatchCapsule, name: "Patch Capsule" },
-    "Music Kit Box": { id: ITEM_TYPES.MusicKitBox, name: "Music Kit Box" },
-    "Autograph Capsule": { id: ITEM_TYPES.AutographCapsule, name: "Autograph Capsule" },
-    "Self-Opening Case": { id: ITEM_TYPES.SelfOpeningCase, name: "Self-Opening Case" },
-    "Terminal": { id: ITEM_TYPES.Terminal, name: "Terminal" },
-    "Storage Unit": { id: ITEM_TYPES.StorageUnit, name: "Storage Unit" },
-    "Tool": { id: ITEM_TYPES.Tool, name: "Tool" },
-    "Souvenir Highlight": { id: ITEM_TYPES.SouvenirPackage, name: "Souvenir Highlight" }
-};
+
 
 const parseItem = (item, prefabs) => {
     const { skinsByCrates, revolvingLootLists, cdnImages } = state;
@@ -151,7 +87,7 @@ const parseItem = (item, prefabs) => {
     const typeKey = getCrateType(item);
 
     let crate = {
-        id: `crate-${item.object_id}`,
+        id: ItemIdPacker.pack(crateTypes[typeKey].id, item.object_id),
         name: $t(item.item_name),
         description: $t(item.item_description) ?? $t(item.item_description_prefab),
         def_index: item.object_id,
@@ -210,7 +146,7 @@ const parseItem = (item, prefabs) => {
             crate,
             {
                 ...crate,
-                id: `crate-${item.object_id}_highlight`,
+                id: ItemIdPacker.pack(crateTypes["Souvenir Highlight"].id, item.object_id),
                 name: $t(`${item.item_name}^highlight`),
                 rarity: {
                     id: "rarity_common_highlight",

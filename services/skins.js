@@ -9,6 +9,8 @@ import {
     getRarityColor,
     weaponIDMapping,
     ITEM_TYPE_NAMES,
+    ITEM_TYPES,
+    ItemIdPacker,
 } from "../utils/index.js";
 
 import { createRequire } from "module";
@@ -105,7 +107,7 @@ const parseItem = (item, items) => {
             : Object.keys(items[weapon].used_by_classes)[0];
 
     return {
-        id: `skin-${item.object_id}`,
+        id: ItemIdPacker.pack(getType(weapon), weaponIDMapping[weapon], paintKits[pattern]?.paint_index),
         name: isNotWeapon(weapon)
             ? $tc("rare_special", {
                   item_name: translatedName,
@@ -141,17 +143,17 @@ const parseItem = (item, items) => {
             color: getRarityColor(rarity),
         },
         stattrak: isStatTrak,
-        souvenir: souvenirSkins?.[`skin-${item.object_id}`] ?? false,
+        souvenir: souvenirSkins?.[ItemIdPacker.pack(getType(weapon), weaponIDMapping[weapon], paintKits[pattern]?.paint_index)] ?? false,
         wears: getWears(paintKits[pattern]?.wear_remap_min, paintKits[pattern]?.wear_remap_max).map(
             wearKey => ({ id: wearKey, name: $t(wearKey) })
         ),
         collections:
-            collectionsBySkins?.[`skin-${item.object_id}`]?.map(i => ({
+            collectionsBySkins?.[ItemIdPacker.pack(getType(weapon), weaponIDMapping[weapon], paintKits[pattern]?.paint_index)]?.map(i => ({
                 ...i,
                 name: $t(i.name),
             })) ?? [],
         crates:
-            cratesBySkins?.[`skin-${item.object_id}`]?.map(i => ({
+            cratesBySkins?.[ItemIdPacker.pack(getType(weapon), weaponIDMapping[weapon], paintKits[pattern]?.paint_index)]?.map(i => ({
                 ...i,
                 name: $t(i.name),
             })) ?? [],
@@ -185,7 +187,7 @@ export const getSkins = async () => {
             .filter(([, item]) => isSkin(item.icon_path))
             .map(([key, item]) => parseItem({ ...item, object_id: key }, items)),
         ...knives.map(knife => ({
-            id: `skin-vanilla-${knife.name}`,
+            id: ItemIdPacker.pack(ITEM_TYPES.Knife, weaponIDMapping[knife.name], 0),
             name: $tc("rare_special_vanilla", {
                 item_name: $t(knife.item_name),
             }),

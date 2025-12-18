@@ -1,6 +1,6 @@
 [
  {
-  "id": "key-0",
+  "id": "14073748835532800",
   "name": "CS:GO Case Key",
   "description": "This key will open any Valve Series Weapon Case. Non-Valve Series cases (e.g. eSports Case) require their own key to open.",
   "def_index": "0",
@@ -43,7 +43,7 @@
   }
  },
  {
-  "id": "key-1204",
+  "id": "14073769035300864",
   "name": "eSports Key",
   "description": "This key opens any eSports Case.\\n\\nA portion of the proceeds from the sale of this key will go towards one of the established community-run CS:GO tournaments. Stay tuned for further announcements.",
   "def_index": "1204",
@@ -81,7 +81,7 @@
   }
  },
  {
-  "id": "key-1212",
+  "id": "14073769169518592",
   "name": "CS:GO Capsule Key",
   "description": "This key will open any Valve Series Capsule.",
   "def_index": "1212",
@@ -114,7 +114,7 @@
   }
  },
  {
-  "id": "key-1214",
+  "id": "14073769203073024",
   "name": "Winter Offensive Case Key",
   "description": "This key only opens Winter Offensive Cases",
   "def_index": "1214",
@@ -142,7 +142,7 @@
   }
  },
  {
-  "id": "key-1303",
+  "id": "14073770696245248",
   "name": "Operation Phoenix Case Key",
   "description": "This key only opens Operation Phoenix Cases",
   "def_index": "1303",
@@ -170,7 +170,7 @@
   }
  },
  {
-  "id": "key-1304",
+  "id": "14073770713022464",
   "name": "Community Sticker Capsule 1 Key",
   "description": "This key opens the Community Sticker Capsule 1.\\n\\nA portion of the proceeds from the sale of this key will go to the sticker creators.",
   "def_index": "1304",
@@ -198,7 +198,7 @@
   }
  },
  {
-  "id": "key-1305",
+  "id": "14073770729799680",
   "name": "Huntsman Case Key",
   "description": "This key only opens Huntsman Cases",
   "def_index": "1305",
@@ -226,7 +226,7 @@
   }
  },
  {
-  "id": "key-1309",
+  "id": "14073770796908544",
   "name": "Operation Breakout Case Key",
   "description": "This key only opens Operation Breakout Cases",
   "def_index": "1309",
@@ -254,7 +254,7 @@
   }
  },
  {
-  "id": "key-1322",
+  "id": "14073771015012352",
   "name": "Operation Vanguard Case Key",
   "description": "This key only opens Operation Vanguard Cases",
   "def_index": "1322",
@@ -282,7 +282,7 @@
   }
  },
  {
-  "id": "key-1323",
+  "id": "14073771031789568",
   "name": "Chroma Case Key",
   "description": "This key only opens Chroma Cases",
   "def_index": "1323",
@@ -310,7 +310,7 @@
   }
  },
  {
-  "id": "key-1325",
+  "id": "14073771065344000",
   "name": "Chroma 2 Case Key",
   "description": "This key only opens Chroma 2 Cases",
   "def_index": "1325",
@@ -338,7 +338,7 @@
   }
  },
  {
-  "id": "key-1330",
+  "id": "14073771149230080",
   "name": "Falchion Case Key",
   "description": "This key only opens Falchion Cases",
   "def_index": "1330",
@@ -366,7 +366,7 @@
   }
  },
  {
-  "id": "key-1333",
+  "id": "14073771199561728",
   "name": "Shadow Case Key",
   "description": "This key only opens Shadow Cases",
   "def_index": "1333",
@@ -394,7 +394,7 @@
   }
  },
  {
-  "id": "key-1334",
+  "id": "14073771216338944",
   "name": "Revolver Case Key",
   "description": "This key only opens Revolver Cases",
   "def_index": "1334",
@@ -422,7 +422,7 @@
   }
  },
  {
-  "id": "key-1347",
+  "id": "14073771434442752",
   "name": "Chroma 3 Case Key",
   "description": "This key only opens Chroma 3 cases",
   "def_index": "1347",
@@ -450,7 +450,7 @@
   }
  },
  {
-  "id": "key-1350",
+  "id": "14073771484774400",
   "name": "Gamma Case Key",
   "description": "This key only opens Gamma cases",
   "def_index": "1350",
@@ -478,7 +478,7 @@
   }
  },
  {
-  "id": "key-1351",
+  "id": "14073771501551616",
   "name": "Gamma 2 Case Key",
   "description": "This key only opens Gamma 2 cases",
   "def_index": "1351",
@@ -506,7 +506,7 @@
   }
  },
  {
-  "id": "key-1356",
+  "id": "14073771585437696",
   "name": "Glove Case Key",
   "description": "This key only opens Glove cases",
   "def_index": "1356",
@@ -534,7 +534,7 @@
   }
  },
  {
-  "id": "key-1364",
+  "id": "14073771719655424",
   "name": "Spectrum Case Key",
   "description": "This key only opens Spectrum cases",
   "def_index": "1364",
@@ -562,7 +562,7 @@
   }
  },
  {
-  "id": "key-1365",
+  "id": "14073771736432640",
   "name": "Operation Hydra Case Key",
   "description": "This key only opens Operation Hydra cases",
   "def_index": "1365",
@@ -590,7 +590,7 @@
   }
  },
  {
-  "id": "key-1366",
+  "id": "14073771753209856",
   "name": "Spectrum 2 Case Key",
   "description": "This key only opens Spectrum 2 cases",
   "def_index": "1366",
@@ -618,7 +618,7 @@
   }
  },
  {
-  "id": "key-1373",
+  "id": "14073771870650368",
   "name": "Clutch Case Key",
   "description": "This key only opens Clutch cases",
   "def_index": "1373",
@@ -646,7 +646,7 @@
   }
  },
  {
-  "id": "key-1374",
+  "id": "14073771887427584",
   "name": "Horizon Case Key",
   "description": "This key only opens Horizon cases",
   "def_index": "1374",
@@ -674,7 +674,7 @@
   }
  },
  {
-  "id": "key-1375",
+  "id": "14073771904204800",
   "name": "Danger Zone Case Key",
   "description": "This key only opens Danger Zone cases",
   "def_index": "1375",
@@ -702,7 +702,7 @@
   }
  },
  {
-  "id": "key-1383",
+  "id": "14073772038422528",
   "name": "Prisma Case Key",
   "description": "This key only opens Prisma cases",
   "def_index": "1383",
@@ -730,7 +730,7 @@
   }
  },
  {
-  "id": "key-1384",
+  "id": "14073772055199744",
   "name": "Shattered Web Case Key",
   "description": "This key only opens Shattered Web cases",
   "def_index": "1384",
@@ -758,7 +758,7 @@
   }
  },
  {
-  "id": "key-1385",
+  "id": "14073772071976960",
   "name": "CS20 Case Key",
   "description": "This key only opens CS20 cases",
   "def_index": "1385",
@@ -786,7 +786,7 @@
   }
  },
  {
-  "id": "key-1386",
+  "id": "14073772088754176",
   "name": "Prisma 2 Case Key",
   "description": "This key only opens Prisma 2 cases",
   "def_index": "1386",
@@ -814,7 +814,7 @@
   }
  },
  {
-  "id": "key-1387",
+  "id": "14073772105531392",
   "name": "Fracture Case Key",
   "description": "This key only opens Fracture cases",
   "def_index": "1387",
@@ -842,7 +842,7 @@
   }
  },
  {
-  "id": "key-1388",
+  "id": "14073772122308608",
   "name": "Operation Broken Fang Case Key",
   "description": "This key only opens Operation Broken Fang cases",
   "def_index": "1388",
@@ -870,7 +870,7 @@
   }
  },
  {
-  "id": "key-1389",
+  "id": "14073772139085824",
   "name": "Snakebite Case Key",
   "description": "This key only opens Snakebite cases",
   "def_index": "1389",
@@ -898,7 +898,7 @@
   }
  },
  {
-  "id": "key-1390",
+  "id": "14073772155863040",
   "name": "Operation Riptide Case Key",
   "description": "This key only opens Operation Riptide cases",
   "def_index": "1390",
@@ -926,7 +926,7 @@
   }
  },
  {
-  "id": "key-1391",
+  "id": "14073772172640256",
   "name": "Dreams & Nightmares Case Key",
   "description": "This key only opens Dreams & Nightmares cases",
   "def_index": "1391",
@@ -954,7 +954,7 @@
   }
  },
  {
-  "id": "key-1392",
+  "id": "14073772189417472",
   "name": "Recoil Case Key",
   "description": "This key only opens Recoil cases",
   "def_index": "1392",
@@ -982,7 +982,7 @@
   }
  },
  {
-  "id": "key-1393",
+  "id": "14073772206194688",
   "name": "Revolution Case Key",
   "description": "This key only opens Revolution cases",
   "def_index": "1393",
@@ -1010,7 +1010,7 @@
   }
  },
  {
-  "id": "key-1394",
+  "id": "14073772222971904",
   "name": "Kilowatt Case Key",
   "description": "This key only opens Kilowatt cases",
   "def_index": "1394",
@@ -1038,7 +1038,7 @@
   }
  },
  {
-  "id": "key-7000",
+  "id": "14073866276044800",
   "name": "Operation Wildfire Case Key",
   "description": "This key only opens Operation Wildfire Cases",
   "def_index": "7000",
@@ -1066,7 +1066,7 @@
   }
  },
  {
-  "id": "key-7002",
+  "id": "14073866309599232",
   "name": "Gallery Case Key",
   "description": "This key only opens Gallery cases",
   "def_index": "7002",
@@ -1094,7 +1094,7 @@
   }
  },
  {
-  "id": "key-7008",
+  "id": "14073866410262528",
   "name": "Fever Case Key",
   "description": "This key only opens Fever cases",
   "def_index": "7008",

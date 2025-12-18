@@ -799,6 +799,7 @@ export const ITEM_TYPES = {
     Graffiti: 23,
     Patch: 24,
     MusicKit: 25,
+    StickerSlab: 26,
 
     // Containers
     WeaponCase: 30,
@@ -832,9 +833,132 @@ export const ITEM_TYPES = {
     Star: 68,
 
     // Non-Marketable
-    Equipment: 99
+    Equipment: 99,
+
+    // Out of list
+    PaintKit: 9999,
 };
 
 export const ITEM_TYPE_NAMES = Object.fromEntries(
     Object.entries(ITEM_TYPES).map(([key, value]) => [value, key])
 );
+
+export const ItemIdPacker = {
+    MAX_TYPE: 65535n,
+    MAX_DEF_INDEX: 16777215n,
+    MAX_SUB_INDEX: 16777215n,
+
+    /**
+     * Packs type, defIndex and subIndex into a string
+     * @param {number} type - Type
+     * @param {number} defIndex - DefIndex
+     * @param {number} subIndex - SubIndex
+     * @returns {string} - Packed string
+     */
+    pack: (type, defIndex, subIndex = 0) => {
+        if (type === null || type === undefined || type === "") {
+            throw new Error("ItemIdPacker: 'type' cannot be null or undefined!");
+        }
+        if (defIndex === null || defIndex === undefined || defIndex === "") {
+            throw new Error("ItemIdPacker: 'defIndex' cannot be null or undefined!");
+        }
+
+        const bType = BigInt(type);
+        const bDefIndex = BigInt(defIndex);
+        const bSubIndex = BigInt(subIndex ?? 0);
+        if (bType > ItemIdPacker.MAX_TYPE || 
+            bDefIndex > ItemIdPacker.MAX_DEF_INDEX || 
+            bSubIndex > ItemIdPacker.MAX_SUB_INDEX) {
+            throw new Error("ItemIdPacker: One of the values exceeds the bit limit!");
+        }
+
+        const packed = ((bType & 0xFFFFn) << 48n) | ((bDefIndex & 0xFFFFFFn) << 24n) | (bSubIndex & 0xFFFFFFn);
+        
+        return packed.toString();
+    },
+
+    /**
+     * Parsed string to int64 object
+     * @param {string} packedString - Parsed string
+     * @returns {object} - Parsed object { type, defIndex, subIndex }
+     */
+    unpack: (packedString) => {
+        if (!packedString) return null;
+
+        const packed = BigInt(packedString);
+
+        return {
+            type: Number((packed >> 48n) & 0xFFFFn),
+            defIndex: Number((packed >> 24n) & 0xFFFFFFn),
+            subIndex: Number(packed & 0xFFFFFFn)
+        };
+    }
+};
+
+export const getCrateType = item => {    
+    if (item.prefab?.includes("weapon_case_selfopening_collection") && item.prefab?.includes("volatile_pricing")) {
+        return "Terminal";
+    }
+
+    if (item.prefab?.includes("weapon_case_selfopening_collection")) {
+        return "Self-Opening Case";
+    }
+
+    if (item.prefab === "weapon_case" || item.name =='crate_xray_p250') {
+        return "Weapon Case";
+    }
+
+    if (item.prefab === "weapon_case_souvenirpkg" || item.prefab?.includes("souvenir_crate")) {
+        return "Souvenir Package";
+    }
+
+    if (item.item_name?.startsWith("#CSGO_storageunit")) {
+        return "Storage Unit";
+    }
+
+    if (item.prefab?.includes("sticker_capsule") || item?.tags?.StickerCapsule !== undefined) {
+        return "Sticker Capsule";
+    }
+
+    if (item.prefab === "graffiti_box") {
+        return "Graffiti Box";
+    }
+
+    if (item.name?.startsWith("crate_pins")) {
+        return "Pin Capsule";
+    }
+
+    if (item.name?.startsWith("crate_signature")) {
+        return "Autograph Capsule";
+    }
+
+    if (item.image_inventory?.includes("patch")) {
+        return "Patch Capsule";
+    }
+
+    if (item.name?.startsWith("crate_musickit")) {
+        return "Music Kit Box";
+    }
+
+    if (item.prefab?.includes("csgo_tool")) {
+        return "Tool";
+    }
+
+    return null;
+};
+
+export const crateTypes = {
+    "Weapon Case": { id: ITEM_TYPES.WeaponCase, name: "Weapon Case" },
+    "Sticker Capsule": { id: ITEM_TYPES.StickerCapsule, name: "Sticker Capsule" },
+    "Souvenir Package": { id: ITEM_TYPES.SouvenirPackage, name: "Souvenir Package" },
+    "Graffiti Box": { id: ITEM_TYPES.GraffitiBox, name: "Graffiti Box" },
+    "Pin Capsule": { id: ITEM_TYPES.PinCapsule, name: "Pin Capsule" },
+    "Patch Capsule": { id: ITEM_TYPES.PatchCapsule, name: "Patch Capsule" },
+    "Music Kit Box": { id: ITEM_TYPES.MusicKitBox, name: "Music Kit Box" },
+    "Autograph Capsule": { id: ITEM_TYPES.AutographCapsule, name: "Autograph Capsule" },
+    "Self-Opening Case": { id: ITEM_TYPES.SelfOpeningCase, name: "Self-Opening Case" },
+    "Terminal": { id: ITEM_TYPES.Terminal, name: "Terminal" },
+    "Storage Unit": { id: ITEM_TYPES.StorageUnit, name: "Storage Unit" },
+    "Tool": { id: ITEM_TYPES.Tool, name: "Tool" },
+    "Souvenir Highlight": { id: ITEM_TYPES.SouvenirPackage, name: "Souvenir Highlight" }
+};

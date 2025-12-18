@@ -1,7 +1,7 @@
 import { createRequire } from "module";
 
 import { saveDataJson } from "../utils/saveDataJson.js";
-import { getRarityColor } from "../utils/index.js";
+import { getRarityColor, ITEM_TYPES, ItemIdPacker } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 import { $t, languageData } from "./translations.js";
@@ -158,7 +158,7 @@ const parseItem = item => {
     }
 
     return {
-        id: `sticker_slab-${item.object_id}`,
+        id: ItemIdPacker.pack(ITEM_TYPES.StickerSlab, 1355, item.object_id),
         name: `${$t("keychain_kc_sticker_display_case")} | ${$t(item.item_name)}`,
         description: getDescription(),
         def_index: item.object_id,
@@ -175,12 +175,12 @@ const parseItem = item => {
               },
         special_notes: specialNotes?.[`sticker-${item.object_id}`],
         crates:
-            cratesBySkins?.[`sticker-${item.object_id}`]?.map(i => ({
+            cratesBySkins?.[ItemIdPacker.pack(ITEM_TYPES.Sticker, 1209, item.object_id)]?.map(i => ({
                 ...i,
                 name: $t(i.name),
             })) ?? [],
         collections:
-            collectionsByStickers?.[`sticker-${item.object_id}`]?.map(i => ({
+            collectionsByStickers?.[ItemIdPacker.pack(ITEM_TYPES.Sticker, 1209, item.object_id)]?.map(i => ({
                 ...i,
                 name: $t(i.name),
             })) ?? [],

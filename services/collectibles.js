@@ -1,7 +1,7 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, $tc, languageData } from "./translations.js";
 import { state } from "./main.js";
-import { getCollectibleRarity, getRarityColor, ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
+import { getCollectibleRarity, getRarityColor, ITEM_TYPES, ITEM_TYPE_NAMES, ItemIdPacker } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 const isCollectible = item => {
@@ -80,7 +80,7 @@ const parseItem = item => {
         : $t(item.item_name);
 
     return {
-        id: `collectible-${item.object_id}`,
+        id: ItemIdPacker.pack(getType(item) ?? ITEM_TYPES.Collectible, item.object_id),
         name,
         description: item.item_description
             ? $t(item.item_description)

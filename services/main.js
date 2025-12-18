@@ -9,6 +9,12 @@ import {
     isExclusive,
     isNotWeapon,
     knives,
+    weaponIDMapping,
+    ItemIdPacker,
+    ITEM_TYPES,
+    getType,
+    getCrateType,
+    crateTypes,
 } from "../utils/index.js";
 import { rareSpecial } from "../utils/rareSpecial.js";
 
@@ -240,6 +246,7 @@ export const loadSkinsByCrates = () => {
 
     function extractItems(key, lootLists) {
         const currentObject = lootLists[key];
+        if (!currentObject) return {};
         let items = {};
 
         for (const subKey in currentObject) {
@@ -303,14 +310,20 @@ export const loadSkinsByCrates = () => {
                 return items;
             }
 
-            items[item] = Object.keys(extractItems(item, clientLootLists)).map(getItemFromKey);
+            items[item] = Object.keys(extractItems(item, clientLootLists)).map(getItemFromKey).filter(Boolean);
 
             if (item.includes("_stattrak_") && item.includes("musickit")) {
-                items[item] = items[item].map(item => ({
-                    ...item,
-                    id: `${item.id}_st`,
-                    name: `${item.name}_stattrak`,
-                }));
+                try {
+                    items[item] = items[item].map(i => ({
+                        ...i,
+                        id: i.music_kit_index 
+                            ? ItemIdPacker.pack(ITEM_TYPES.MusicKit, i.music_kit_index, 1) 
+                            : i.id,
+                        name: `${i.name}_stattrak`,
+                    }));
+                } catch (e) {
+                    console.error("Error in loadSkinsByCrates StatTrak logic", e);
+                }
             }
 
             return items;
@@ -358,9 +371,12 @@ export const loadyCratesBySkins = () => {
                     );
 
                 if (crateItem != null) {
+                    const typeKey = getCrateType(crateItem);
+                    const typeId = typeKey ? crateTypes[typeKey].id : ITEM_TYPES.WeaponCase;
+                    
                     acc[item.id].push({
                         def_index: crateItem.object_id,
-                        id: `crate-${crateItem.object_id}`,
+                        id: ItemIdPacker.pack(typeId, crateItem.object_id),
                         name: crateItem.item_name,
                         image:
                             state.cdnImages[crateItem?.image_inventory?.toLowerCase()] ??
@@ -652,11 +668,13 @@ const getItemFromKey = key => {
         musicDefinitionsObj,
         keychainDefinitionsObj,
     } = state;
+    
+    try {
 
     if (key.includes("Commodity Pin")) {
         const pin = items[key];
         return {
-            id: `collectible-${pin.object_id}`,
+            id: ItemIdPacker.pack(ITEM_TYPES.Collectible, pin.object_id),
             name: pin.item_name,
             rarity: `rarity_${pin.item_rarity}`,
             image:
@@ -669,7 +687,7 @@ const getItemFromKey = key => {
     if (key.startsWith("customplayer_")) {
         const agent = items[key];
         return {
-            id: `agent-${agent.object_id}`,
+            id: ItemIdPacker.pack(ITEM_TYPES.Agent, agent.object_id),
             name: agent.item_name,
             rarity: `rarity_${agent.item_rarity}_character`,
             image:
@@ -693,7 +711,7 @@ const getItemFromKey = key => {
     if (type === "sticker") {
         const sticker = stickerKitsObj[name];
         return {
-            id: `${type}-${sticker.object_id}`,
+            id: ItemIdPacker.pack(ITEM_TYPES.Sticker, 1209, sticker.object_id),
             name: sticker.item_name,
             rarity: `rarity_${sticker.item_rarity}`,
             image:
@@ -707,7 +725,7 @@ const getItemFromKey = key => {
     if (type === "patch") {
         const patch = stickerKitsObj[name];
         return {
-            id: `${type}-${patch.object_id}`,
+            id: ItemIdPacker.pack(ITEM_TYPES.Patch, patch.object_id),
             name: patch.item_name,
             rarity: `rarity_${patch.item_rarity}`,
             image:
@@ -726,7 +744,7 @@ const getItemFromKey = key => {
 
         if (variationsIndex.length > 0) {
             return variationsIndex.map(index => ({
-                id: `graffiti-${graffiti.object_id}_${index}`,
+                id: ItemIdPacker.pack(ITEM_TYPES.Graffiti, graffiti.object_id, index),
                 name: graffiti.item_name,
                 rarity: `rarity_${graffiti.item_rarity}`,
                 image:
@@ -737,7 +755,7 @@ const getItemFromKey = key => {
         }
 
         return {
-            id: `graffiti-${graffiti.object_id}`,
+            id: ItemIdPacker.pack(ITEM_TYPES.Graffiti, graffiti.object_id),
             name: graffiti.item_name,
             rarity: `rarity_${graffiti.item_rarity}`,
             image:
@@ -751,7 +769,7 @@ const getItemFromKey = key => {
         const kit = musicDefinitionsObj[name];
         const exclusive = isExclusive(kit.name);
         return {
-            id: `music_kit-${kit.object_id}`,
+            id: ItemIdPacker.pack(ITEM_TYPES.MusicKit, kit.object_id),
             name: exclusive ? kit.loc_name : kit.coupon_name,
             rarity: "rarity_rare",
             image:
@@ -765,7 +783,7 @@ const getItemFromKey = key => {
     if (type === "keychain") {
         const keychain = keychainDefinitionsObj[name];
         return {
-            id: `keychain-${keychain.object_id}`,
+            id: ItemIdPacker.pack(ITEM_TYPES.Charm, 1355, keychain.object_id),
             name: keychain.loc_name,
             rarity: `rarity_${keychain.item_rarity}`,
             image:
@@ -809,7 +827,7 @@ const getItemFromKey = key => {
         // Not the best way to add vanilla knives.
         if (name === "vanilla") {
             const knife = knives.find(k => k.name == type);
-            id = `skin-vanilla-${type}`;
+            id = ItemIdPacker.pack(ITEM_TYPES.Knife, weaponIDMapping[type], 0);
             itemName = {
                 tKey: "rare_special_vanilla",
                 weapon: knife.item_name,
@@ -827,7 +845,7 @@ const getItemFromKey = key => {
                 return null;
             }
 
-            id = `skin-${weaponIcons[0]}`;
+            id = ItemIdPacker.pack(getType(type), weaponIDMapping[type], paintKits[name.toLowerCase()]?.paint_index);
             itemName = {
                 ...(isNotWeapon(type) && { tKey: "rare_special" }),
                 weapon: translatedName.replace("#", ""),
@@ -854,6 +872,10 @@ const getItemFromKey = key => {
     }
 
     console.error(`Unknown item type: ${type}`);
+    } catch (e) {
+        console.error(`Error in getItemFromKey for key: ${key}`, e);
+        return null;
+    }
 };
 
 export const getManifestId = async () => {

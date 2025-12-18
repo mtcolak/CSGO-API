@@ -2,7 +2,7 @@ import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
 import { getImageUrl } from "../constants.js";
-import { ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
+import { ITEM_TYPES, ITEM_TYPE_NAMES, ItemIdPacker } from "../utils/index.js";
 
 const isKey = item => {
     if (item.item_name === undefined) {
@@ -92,7 +92,7 @@ const parseItem = item => {
         }));
 
     return {
-        id: `key-${item.object_id}`,
+        id: ItemIdPacker.pack(ITEM_TYPES.Key, item.object_id),
         name: $t(item.item_name),
         description: $t(item.item_description) ?? $t(item.item_description_prefab),
         def_index: item.object_id,

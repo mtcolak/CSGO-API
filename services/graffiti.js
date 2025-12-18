@@ -1,7 +1,7 @@
 import { createRequire } from "module";
 
 import { saveDataJson } from "../utils/saveDataJson.js";
-import { getGraffitiVariations, getRarityColor, ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
+import { getGraffitiVariations, getRarityColor, ITEM_TYPES, ITEM_TYPE_NAMES, ItemIdPacker } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 import { $t, languageData } from "./translations.js";
@@ -62,7 +62,7 @@ const parseItemSealedGraffiti = item => {
         return variationsIndex.map(index => {
             const colorKey = `attrib_spraytintvalue_${index}`;
             return {
-                id: `graffiti-${item.object_id}_${index}`,
+                id: ItemIdPacker.pack(ITEM_TYPES.Graffiti, item.object_id, index),
                 name: `${$t("csgo_tool_spray")} | ${$t(item.item_name)} (${$t(colorKey)})`,
                 description: getDescription(item),
                 def_index: item.object_id,
@@ -78,7 +78,7 @@ const parseItemSealedGraffiti = item => {
                 },
                 special_notes: specialNotes?.[`graffiti-${item.object_id}`],
                 crates:
-                    cratesBySkins?.[`graffiti-${item.object_id}`]?.map(i => ({
+                    cratesBySkins?.[ItemIdPacker.pack(ITEM_TYPES.Graffiti, item.object_id, index)]?.map(i => ({
                         ...i,
                         name: $t(i.name),
                     })) ?? [],
@@ -97,7 +97,7 @@ const parseItemSealedGraffiti = item => {
     }
 
     return {
-        id: `graffiti-${item.object_id}`,
+        id: ItemIdPacker.pack(ITEM_TYPES.Graffiti, item.object_id),
         name: `${$t("csgo_tool_spray")} | ${$t(item.item_name)}`,
         description: getDescription(item),
         def_index: item.object_id,

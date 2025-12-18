@@ -1,6 +1,7 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
+import { ItemIdPacker, ITEM_TYPES } from "../utils/index.js";
 
 const parseItem = item => {
     const { cdnImages } = state;
@@ -12,7 +13,7 @@ const parseItem = item => {
     const highlightNameRaw = $t(`highlightreel_${tournament}_${highlightType}`, true);
 
     return {
-        id: `highlight-${item.highlight_reel}`,
+        id: ItemIdPacker.pack(ITEM_TYPES.Charm, item.highlight_reel),
         def_index: item.highlight_reel,
         // TODO: translate Souvenir Charm to other languages
         name: `Souvenir Charm | ${keychainName} | ${highlightName}`,

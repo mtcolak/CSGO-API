@@ -1,7 +1,7 @@
 import fs from "fs";
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { LANGUAGES_URL } from "../constants.js";
-import { ITEM_TYPES, ITEM_TYPE_NAMES, getRarityColor } from "../utils/index.js";
+import { ITEM_TYPES, ITEM_TYPE_NAMES, getRarityColor, ItemIdPacker } from "../utils/index.js";
 import { $t } from "./translations.js";
 
 const readJson = (filePath) => {
@@ -25,6 +25,7 @@ export const getDefinitions = async () => {
         const STATIC_ITEMS = [
             {
                 def_index: 1209,
+                id: ItemIdPacker.pack(ITEM_TYPES.Sticker, 1209),
                 name_token: '#CSGO_Tool_Sticker',
                 description_token: '#CSGO_Tool_Sticker_Desc',
                 type: { id: ITEM_TYPES.Sticker, name: ITEM_TYPE_NAMES[ITEM_TYPES.Sticker] },
@@ -37,6 +38,7 @@ export const getDefinitions = async () => {
             },
             {
                 def_index: 1355,
+                id: ItemIdPacker.pack(ITEM_TYPES.Charm, 1355),
                 name_token: '#CSGO_Tool_Keychain',
                 description_token: '#CSGO_Tool_Keychain_Desc',
                 type: { id: ITEM_TYPES.Charm, name: ITEM_TYPE_NAMES[ITEM_TYPES.Charm] },
@@ -49,6 +51,7 @@ export const getDefinitions = async () => {
             },
             {
                 def_index: 58,
+                id: ItemIdPacker.pack(ITEM_TYPES.MusicKit, 58),
                 name_token: '#CSGO_Type_MusicKit',
                 description_token: '#CSGO_MusicKit_Desc',
                 type: { id: ITEM_TYPES.MusicKit, name: ITEM_TYPE_NAMES[ITEM_TYPES.MusicKit] },
@@ -61,9 +64,10 @@ export const getDefinitions = async () => {
             },
             {
                 def_index: 1348,
+                id: ItemIdPacker.pack(ITEM_TYPES.Graffiti, 1348),
                 name_token: '#CSGO_Tool_Spray',
                 description_token: '#CSGO_Tool_Spray_Desc',
-                type: { id: ITEM_TYPES.Spray, name: ITEM_TYPE_NAMES[ITEM_TYPES.Spray] },
+                type: { id: ITEM_TYPES.Graffiti, name: ITEM_TYPE_NAMES[ITEM_TYPES.Graffiti] },
                 rarity: {
                     id: "rarity_default",
                     name: $t("rarity_default"),
@@ -75,6 +79,7 @@ export const getDefinitions = async () => {
 
         // 1. Static Definitions
         definitions.push(...STATIC_ITEMS.map(i => ({
+            id: i.id,
             def_index: i.def_index,
             name: $t(i.name_token),
             description: $t(i.description_token),
@@ -90,6 +95,7 @@ export const getDefinitions = async () => {
         // 2. Base Weapons
         const baseWeapons = readJson(`${basePath}/base_weapons.json`);
         definitions.push(...baseWeapons.map(i => ({
+            id: i.id,
             def_index: i.def_index,
             name: i.name,
             description: i.description,
@@ -109,6 +115,7 @@ export const getDefinitions = async () => {
         // 3. Crates
         const crates = readJson(`${basePath}/crates.json`);
         definitions.push(...crates.map(i => ({
+            id: i.id,
             def_index: Number(i.def_index),
             name: i.name,
             description: i.description,
@@ -124,6 +131,7 @@ export const getDefinitions = async () => {
         // 4. Agents
         const agents = readJson(`${basePath}/agents.json`);
         definitions.push(...agents.map(i => ({
+            id: i.id,
             def_index: Number(i.def_index) || 0, // Some items might have non-numeric? Agents should have def_index.
             name: i.name,
             description: i.description,
@@ -139,6 +147,7 @@ export const getDefinitions = async () => {
         // 5. Patches
         const patches = readJson(`${basePath}/patches.json`);
         definitions.push(...patches.map(i => ({
+            id: i.id,
             def_index: Number(i.def_index) || 0,
             name: i.name,
             description: i.description,
@@ -154,6 +163,7 @@ export const getDefinitions = async () => {
         // 6. Collectibles
         const collectibles = readJson(`${basePath}/collectibles.json`);
         definitions.push(...collectibles.map(i => ({
+            id: i.id,
             def_index: Number(i.def_index) || 0,
             name: i.name,
             description: i.description,
@@ -169,6 +179,7 @@ export const getDefinitions = async () => {
         // 7. Tools
         const tools = readJson(`${basePath}/tools.json`);
         definitions.push(...tools.map(i => ({
+            id: i.id,
             def_index: Number(i.def_index) || 0,
             name: i.name,
             description: i.description,

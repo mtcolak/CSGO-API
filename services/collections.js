@@ -2,6 +2,7 @@ import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
 import { getImageUrl } from "../constants.js";
+import { ITEM_TYPES, ItemIdPacker } from "../utils/index.js";
 
 const isCollection = item => item.is_collection !== undefined;
 

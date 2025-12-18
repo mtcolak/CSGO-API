@@ -2,7 +2,7 @@ import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { getImageUrl } from "../constants.js";
 import { state } from "./main.js";
-import { ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
+import { ITEM_TYPES, ITEM_TYPE_NAMES, ItemIdPacker } from "../utils/index.js";
 
 export const getTools = () => {
     const { cdnImages } = state;
@@ -10,7 +10,7 @@ export const getTools = () => {
 
     const tools = [
         {
-            id: "tool-1",
+            id: ItemIdPacker.pack(ITEM_TYPES.NameTag, 1200),
             name: $t("csgo_tool_name_tag"),
             description: $t("csgo_tool_name_tag_desc"),
             image: cdnImages["econ/tools/tag"] ?? getImageUrl("econ/tools/tag"),
@@ -30,7 +30,7 @@ export const getTools = () => {
             },
         },
         {
-            id: "tool-2",
+            id: ItemIdPacker.pack(ITEM_TYPES.StorageUnit, 1201),
             name: $t("csgo_tool_casket_tag"),
             description: $t("csgo_tool_casket_tag_desc"),
             image: cdnImages["econ/tools/casket"] ?? getImageUrl("econ/tools/casket"),
@@ -50,7 +50,7 @@ export const getTools = () => {
             },
         },
         {
-            id: "tool-3",
+            id: ItemIdPacker.pack(ITEM_TYPES.Tool, 1324),
             name: $t("csgo_tool_stattrak_swap"),
             description: $t("csgo_tool_stattrak_swap_desc"),
             image: cdnImages["econ/tools/stattrak_swap_tool"] ?? getImageUrl("econ/tools/stattrak_swap_tool"),
@@ -70,7 +70,7 @@ export const getTools = () => {
             },
         },
         {
-            id: "tool-4",
+            id: ItemIdPacker.pack(ITEM_TYPES.Tool, 65),
             name: $t("csgo_removekeychainTool_title"),
             description: $t("csgo_removekeychaintool_desc"),
             image:

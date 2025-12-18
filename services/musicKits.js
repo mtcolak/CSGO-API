@@ -1,7 +1,7 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
-import { getRarityColor, isExclusive, ITEM_TYPES, ITEM_TYPE_NAMES } from "../utils/index.js";
+import { getRarityColor, isExclusive, ITEM_TYPES, ITEM_TYPE_NAMES, ItemIdPacker } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
 const getDescription = (item, isStattrak) => {
@@ -41,7 +41,7 @@ const parseItem = item => {
 
     if (!kitsOnlyStattrak.includes(item.name)) {
         const normalMusicKit = {
-            id: `music_kit-${item.object_id}`,
+            id: ItemIdPacker.pack(ITEM_TYPES.MusicKit, item.object_id),
             name: exclusive || valve ? $t(item.loc_name) : $t(item.coupon_name),
             description: $t(item.loc_description),
             def_index: item.object_id,
@@ -76,7 +76,7 @@ const parseItem = item => {
 
     if ($t(`${item.coupon_name}_stattrak`)) {
         const stattrakMusicKit = {
-            id: `music_kit-${item.object_id}_st`,
+            id: ItemIdPacker.pack(ITEM_TYPES.MusicKit, item.object_id, 1),
             name: $t(`${item.coupon_name}_stattrak`),
             description: $t(item.loc_description),
             def_index: item.object_id,

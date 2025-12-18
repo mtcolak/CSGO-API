@@ -1,10 +1,10 @@
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, languageData } from "./translations.js";
 import { getImageUrl } from "../constants.js";
-import { weaponIDMapping } from "../utils/index.js";
+import { weaponIDMapping, ItemIdPacker } from "../utils/index.js";
 import { state } from "./main.js";
 
-import { getType, ITEM_TYPE_NAMES } from "../utils/index.js";
+import { getType, ITEM_TYPE_NAMES, ITEM_TYPES } from "../utils/index.js";
 
 export const getBaseWeapons = async () => {
     const { items, cdnImages } = state;
@@ -36,7 +36,7 @@ export const getBaseWeapons = async () => {
             const descriptionKey = item.item_description ?? item.item_description_prefab;
 
             return {
-                id: `base_weapon-${weapon}`,
+                id: ItemIdPacker.pack(getType(weapon), defIndex),
                 name: $t(nameKey),
                 description: $t(descriptionKey),
                 def_index: defIndex,
