@@ -32,8 +32,8 @@ export const getPaintKits = async () => {
             name: String($t(nameTag)),
             description: $t(descriptionTag),
             wear: {
-                wearReMapMin: wear_remap_min,
-                wearReMapMax: wear_remap_max,
+                wear_remap_min: wear_remap_min,
+                wear_remap_max: wear_remap_max,
             },
             style: {
                 id: style_id,
