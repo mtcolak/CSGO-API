@@ -80,6 +80,26 @@
   }
  },
  {
+  "id": "6755476767244288",
+  "def_index": 4609,
+  "name": "Patch",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.",
+  "type": {
+   "id": 24,
+   "name": "Patch"
+  },
+  "rarity": {
+   "id": "rarity_default",
+   "name": "Default",
+   "color": "#ded6cc"
+  },
+  "image": "econ/tools/patch",
+  "i18n": {
+   "name": "#CSGO_Tool_Patch",
+   "description": "#CSGO_Tool_Patch_Desc"
+  }
+ },
+ {
   "id": "281474993487872",
   "def_index": 1,
   "name": "Desert Eagle",
@@ -6470,123 +6490,123 @@
   }
  },
  {
-  "id": "6755476347813888",
+  "id": "8725801184788480",
   "def_index": 4584,
-  "name": "Patch | Metal Distinguished Master Guardian",
-  "description": "<i>Individuals must bend, adapt, and work together to achieve the Skill Group of DMG. Keep climbing.</i>",
+  "name": "Katowice 2019 Legends (Holo/Foil)",
+  "description": "This capsule contains a single Katowice 2019 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 31,
+   "name": "Sticker Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1f4vX8JqdpdvPDWT7Gmesis-A8Ti_lkRgitWncyNv_dX_DbAYgXsN1F-ZctUGm0oqwU0igiTw",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_uJzt-RnSzr9lx50smWGzoytdH_EPAcnC5clRudZ5xG7xtPvMLyztlaK3tpFxC-v2jQJsHiLvWrj0Q",
   "i18n": {
-   "name": "#PatchKit_patch_dmg1",
-   "description": "#PatchKit_desc_patch_dmg"
+   "name": "#CSGO_crate_sticker_pack_katowice2019_legends",
+   "description": "#CSGO_crate_sticker_pack_katowice2019_legends_desc"
   }
  },
  {
-  "id": "6755476364591104",
+  "id": "8725801201565696",
   "def_index": 4585,
-  "name": "Patch | Metal Legendary Eagle",
-  "description": "<i>This Legendary Eagle patch includes a pair of golden wings.</i>",
+  "name": "Katowice 2019 Returning Challengers (Holo/Foil)",
+  "description": "This capsule contains a single Katowice 2019 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 31,
+   "name": "Sticker Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1X6vWrZqBsMumWD2CcxLw46Oc6Hiiyxk126z7Rztf_IniTPwIoDJMkQuVYtkTtmobhZrmxtQfZ3ZUFk3sJGZSG8Q",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u1-se1lSie0kA80_W6Bz46qIimTOwUhCZcjQeEIuxLslte1Yeq05gbXjI5Hn375hyNA7nl1o7FVMdlnavk",
   "i18n": {
-   "name": "#PatchKit_patch_legendaryeagle",
-   "description": "#PatchKit_desc_patch_legendaryeagle"
+   "name": "#CSGO_crate_sticker_pack_katowice2019_challengers",
+   "description": "#CSGO_crate_sticker_pack_katowice2019_challengers_desc"
   }
  },
  {
-  "id": "6755476381368320",
+  "id": "8725801218342912",
   "def_index": 4586,
-  "name": "Patch | Metal Legendary Eagle Master",
-  "description": "<i>You're nearing the top, but those awaiting your challenge will show no mercy.</i>",
+  "name": "Katowice 2019 Minor Challengers (Holo/Foil)",
+  "description": "This capsule contains a single Katowice 2019 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 31,
+   "name": "Sticker Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1X6vWrZqBsMumWD2CcxON3o_VsXXv9xB5z52yDmNr7Ii7DOwAnWZIkRLUIsBK_kYXkY7vm4AHY2INMxC332DQJsHg-8A9cWA",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u15vvVsQS22hw5p4Grcn9n8dijCPQIpCpVwQ7UM4xDtktbgP76241HY2t4XzH77j3xLujErvbgSeY4OMA",
   "i18n": {
-   "name": "#PatchKit_patch_legendaryeaglemaster1",
-   "description": "#PatchKit_desc_patch_legendaryeaglemaster"
+   "name": "#CSGO_crate_sticker_pack_katowice2019_contenders",
+   "description": "#CSGO_crate_sticker_pack_katowice2019_contenders_desc"
   }
  },
  {
-  "id": "6755476398145536",
+  "id": "10414651095384064",
   "def_index": 4587,
-  "name": "Patch | Metal Silver Demon",
-  "description": "<i>\\\"Silver Hell\\\" isn't a place, it's a state of mind. And you can leave at any time.</i>",
+  "name": "Katowice 2019 Legends Autograph Capsule",
+  "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Legends teams at Katowice 2019.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 37,
+   "name": "Autograph Capsule"
   },
   "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1I5v64bbZSJPWeAWnekr51s-U-H3i3kE8h4DiBmYr6IyrEbQEoA8BwQbZe4UXsx9SxMuPl5hue1dwfmtuzGA",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA",
   "i18n": {
-   "name": "#PatchKit_patch_silver_demon",
-   "description": "#PatchKit_desc_patch_silver_demon"
+   "name": "#CSGO_crate_signature_pack_katowice2019_group_legends",
+   "description": "#CSGO_crate_signature_pack_katowice2019_group_legends_desc"
   }
  },
  {
-  "id": "6755476414922752",
+  "id": "10414651112161280",
   "def_index": 4588,
-  "name": "Patch | Metal Supreme Master",
-  "description": "<i>A winged defuser is flanked by six stars on this SMFC patch.</i>",
+  "name": "Katowice 2019 Returning Challengers Autograph Capsule",
+  "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Returning Challengers teams at Katowice 2019.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 37,
+   "name": "Autograph Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1I-uK8baloLfGAGmKCj-0j5LlrG3Dnxkpz5WnRmdirdnuSaVMlA5R5Q-MOukG4xILgMbvm4lPAy9USsZqlN38",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq7lBErtjOCn53qb37FagcmXpB3TOMDuhK-lNHmNOzn4ATd3ohAmST_jC5L73k-4L0DVKc7uvqAmYi2foA",
   "i18n": {
-   "name": "#PatchKit_patch_suprememaster",
-   "description": "#PatchKit_desc_patch_suprememaster"
+   "name": "#CSGO_crate_signature_pack_katowice2019_group_challengers",
+   "description": "#CSGO_crate_signature_pack_katowice2019_group_challengers_desc"
   }
  },
  {
-  "id": "6755476431699968",
+  "id": "10414651128938496",
   "def_index": 4589,
-  "name": "Patch | Alyx",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Katowice 2019 Minor Challengers Autograph Capsule",
+  "description": "This capsule contains a single High Grade, Foil, or Gold sticker autographed by one of the players from Minor Challengers teams at Katowice 2019.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 37,
+   "name": "Autograph Capsule"
   },
   "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7v63cOo9IafKCz_ImO1y6eQ6HyjhxEx-4D7Qy9yodC3FP1ByCJQiF7Zc4Bi6jJS5YMq2p9Gg",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_alyx",
-   "description": "#PatchKit_desc_patch_hlalyx_alyx"
+   "name": "#CSGO_crate_signature_pack_katowice2019_group_contenders",
+   "description": "#CSGO_crate_signature_pack_katowice2019_group_contenders_desc"
   }
  },
  {
@@ -6609,203 +6629,197 @@
   }
  },
  {
-  "id": "6755476465254400",
+  "id": "9007276278939648",
   "def_index": 4591,
-  "name": "Patch | Sustenance!",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Katowice 2019 Mirage Souvenir Package",
+  "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Package"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk5_evbKd_IfKsCXWVxOA4tLlqFijlzRkksW-EzourdnuROFAoA8YmFLYD4Be-wYXlYbi3sVOPiZUFk3uqfkegrA",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsA26CwOlz_uAxTXvqwxl05j7QntyvcimRa1UmX8dzTLFfu0LqkYLvYb-wslTc34hbjXKpsgcPS04",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_headcrab_green",
-   "description": "#PatchKit_desc_patch_hlalyx_headcrab_green"
+   "name": "#CSGO_crate_katowice2019_promo_de_mirage"
   }
  },
  {
-  "id": "6755476482031616",
+  "id": "9007276295716864",
   "def_index": 4592,
-  "name": "Patch | Vortigaunt",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Katowice 2019 Dust II Souvenir Package",
+  "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Package"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk-f28fOo6dKnHDzfDw-wmtbgwSyvjzU5z4miHyNascXuQPAQnXsB3R-Jf4RTpjJS5YChkLk42",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsCnKD1bw45rA7GnHrk0hx42TXno79d3zCaVNzApBzReJet0W_lYazNLjj5gLfiZUFk3vpn6VvvA",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_vort",
-   "description": "#PatchKit_desc_patch_hlalyx_vort"
+   "name": "#CSGO_crate_katowice2019_promo_de_dust2"
   }
  },
  {
-  "id": "6755476498808832",
+  "id": "9007276312494080",
   "def_index": 4593,
-  "name": "Patch | Headcrab Glyph",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Katowice 2019 Overpass Souvenir Package",
+  "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Package"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk5_evbKd_IfKsGmKRzaAk4edtGHvgwxgk4TmBydb6cS3EPFB1DpElEOACtRnsldzlNezm5APWlcsbmoVHyQYA",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsAXGV0_53o_InTC3qlxl24GzSyNuqIn-QZlUjW5J3R-EIs0Wwkd3vP7jh4FSMit8TzDK-0H2AZVR1nA",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_headcrab_teal",
-   "description": "#PatchKit_desc_patch_hlalyx_headcrab_teal"
+   "name": "#CSGO_crate_katowice2019_promo_de_overpass"
   }
  },
  {
-  "id": "6755476515586048",
+  "id": "9007276329271296",
   "def_index": 4594,
-  "name": "Patch | Copper Lambda",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Katowice 2019 Cache Souvenir Package",
+  "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Package"
   },
   "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk4_OjaqBsH_OcHneV06Ahs7BtF3CwlB8m5mnSmYuhIniWOAJ0DcN4RrNc4RLpl9axNbuz5FaKlcsbmtzt-Ahg",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsDWaTyes4trU8Hy21whl3tznSzdqscC-VOw5xDpV1TeAJtRa4kd3mPr6x7wDWiZUFk3sPJWbqoA",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_lambda_copper",
-   "description": "#PatchKit_desc_patch_hlalyx_lambda_copper"
+   "name": "#CSGO_crate_katowice2019_promo_de_cache"
   }
  },
  {
-  "id": "6755476532363264",
+  "id": "9007276346048512",
   "def_index": 4595,
-  "name": "Patch | Health",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Katowice 2019 Train Souvenir Package",
+  "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Package"
   },
   "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk5_everB-bqGRWDWRxLgh4uVtHn-wwkkmsG_RwtuvdXjEaAJ1Ccd2Qe5c50a-wdX5d7S1dTB33K0",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsGnWRyOA45-JsTnvnlE93tWWHntj8d3iXPw5zC5EiEeBcuxO6x4fkYeixtVfeipUFk3vbEfzb_w",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_hearts",
-   "description": "#PatchKit_desc_patch_hlalyx_hearts"
+   "name": "#CSGO_crate_katowice2019_promo_de_train"
   }
  },
  {
-  "id": "6755476549140480",
+  "id": "9007276362825728",
   "def_index": 4596,
-  "name": "Patch | Combine Helmet",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Katowice 2019 Nuke Souvenir Package",
+  "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Package"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7P2jaq1jJc-VHGie1aBzsbRqGCrkxksj527Xzdb7dnzCPVJ0WZYiQ-ZbtkaxkIfgY7-z4ATalcsbmnCm9C27",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsAHKbxKAn4eBsTC3mlk53tWqDnNv4di6SaAUjX5NxFuZcuxLrldDkMbzl5QbWlcsbmtmiS4Eu",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_combine_front",
-   "description": "#PatchKit_desc_patch_hlalyx_combine_front"
+   "name": "#CSGO_crate_katowice2019_promo_de_nuke"
   }
  },
  {
-  "id": "6755476565917696",
+  "id": "8725801402892288",
   "def_index": 4597,
-  "name": "Patch | Black Mesa",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Halo Capsule",
+  "description": "This capsule contains a variety of stickers from 343 Industries.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 31,
+   "name": "Sticker Capsule"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7f6va69gJeOSQDbJlu8jsrY-GnzrkBhysm_Wz4n4cnuUaFAjCcMhTOBeuhCxx9PjML_8p1uJz6ZAS7w",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5_OiZ5tuIeCAG2uVj-wjtrBtHn7rwER1sD7RyYv7dnufOlUgA5VzQLMMsUPsltK0N7_n4lbAy9USMaDJrr4",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_blackmesa",
-   "description": "#PatchKit_desc_patch_hlalyx_blackmesa"
+   "name": "#CSGO_crate_sticker_pack_halo_capsule",
+   "description": "#CSGO_crate_sticker_pack_halo_capsule_desc"
   }
  },
  {
-  "id": "6755476582694912",
+  "id": "8444326442958848",
   "def_index": 4598,
-  "name": "Patch | CMB",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Prisma Case",
+  "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 30,
+   "name": "Weapon Case"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7P-sJvRpd_aRCzDFlbYn5eNsHnC2wh9xtWjSwt6gJ33EbQQiCMAlR7QJtUam0oqw7KIRemc",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_cmb",
-   "description": "#PatchKit_desc_patch_hlalyx_cmb"
+   "name": "#CSGO_crate_community_22",
+   "description": "#CSGO_crate_community_22_desc"
   }
  },
  {
-  "id": "6755476599472128",
+  "id": "8725801436446720",
   "def_index": 4599,
-  "name": "Patch | Lambda",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Feral Predators Capsule",
+  "description": "This capsule contains a variety of stickers from community artists 2Minds, OniLolz, and Zaphk.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 31,
+   "name": "Sticker Capsule"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk4_OjaqBsH_-BD2mXxKAn4bM7GyrkzBt24j-DzNf9cH3BbldxCZYmQORcuxTqlNLvNeO25ATdlcsbmhK3ee7M",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6fe8aahSMOKWCmaEzvxlj-JoXzqmmRhpsDjXn9eqd3jCO1UoDpYmFLYM4xi-ltDjZL_nswaIidgTxSqrjn8auzErvbjuFFEefw",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_lambda_orange",
-   "description": "#PatchKit_desc_patch_hlalyx_lambda_orange"
+   "name": "#CSGO_crate_sticker_pack_feral_predators_capsule",
+   "description": "#CSGO_crate_sticker_pack_feral_predators_capsule_desc"
   }
  },
  {
-  "id": "6755476616249344",
+  "id": "8725801453223936",
   "def_index": 4600,
-  "name": "Patch | City 17",
-  "description": "Half-Life: Alyx Commemorative Patch",
+  "name": "Shattered Web Sticker Collection",
+  "description": "This collection contains a variety of stickers celebrating Operation Shattered Web.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 31,
+   "name": "Sticker Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMHOb5Fps7Mjk603kSSL5kpfs5Dpk7KP5JvY4IfaXXGXJwLku5eI4F3Drwh52sjiHnIuheXyUagcmXJV5Q-IOuxem0oqwmQWNv24",
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_shattered_web_capsule.f80ef75b7761dc78254bfe65d6641c526f0fd69f.png",
   "i18n": {
-   "name": "#PatchKit_patch_hlalyx_c17",
-   "description": "#PatchKit_desc_patch_hlalyx_c17"
+   "name": "#CSGO_crate_sticker_pack_shattered_web",
+   "description": "#CSGO_crate_sticker_pack_shattered_web_desc"
   }
  },
  {
@@ -7302,23 +7316,23 @@
   }
  },
  {
-  "id": "6755478243639296",
+  "id": "10133177964167168",
   "def_index": 4697,
-  "name": "Patch | Metal The Global Elite",
-  "description": "<i>Congratulations, you've arrived. Now the real challenge begins.</i>",
+  "name": "StatTrak™ Masterminds Music Kit Box",
+  "description": "This box contains a variety of StatTrak™ music kits from various composers.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 36,
+   "name": "Music Kit Box"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1c4_2saahoLPmHCzXewOgj4OdtHnvllx9z62vdzdivcnKWb1MkCJZ4EOZetxi6l4W2MunjtBue1dzqB6mDjg",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj5_0ruQhb4iqnt_DFP6uCjYappM8-AGmaE1fx3u95qTjmggBEi_T-EzIqqeSmQO1JxA5MiTbFYtBa5wNflM-PmsQffiogTmCn4jn9M7y11o7FVUoJ_7e8",
   "i18n": {
-   "name": "#PatchKit_patch_globalelite1",
-   "description": "#PatchKit_desc_patch_globalelite"
+   "name": "#CSGO_crate_musickit_masterminds_stattrak_capsule",
+   "description": "#CSGO_crate_musickit_masterminds_stattrak_capsule_desc"
   }
  },
  {
@@ -9266,123 +9280,123 @@
   }
  },
  {
-  "id": "6755482270171136",
+  "id": "10414656967409664",
   "def_index": 4937,
-  "name": "Patch | Abandon Hope",
-  "description": "<i>All ye who dare enter...</i>",
+  "name": "Copenhagen 2024 Legends Autograph Capsule",
+  "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Legends players at Copenhagen 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 37,
+   "name": "Autograph Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff_CBa4fahZptlL-CWQDTCkeom4OBsGnvhwhh_4jvTyNmpdH3DbgIjXsF5QLEDsxC6xNfuMen8p1uJiUkB4-0",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF6teZsQS2g2xkkt2-AyN6sJX7BOgB1DpImF-UL4EG4xoC1Yr-35lbYjIhEzymshy9XrnE8aQftiTI",
   "i18n": {
-   "name": "#PatchKit_patch_op11_abandon_hope",
-   "description": "#PatchKit_desc_patch_op11_abandon_hope"
+   "name": "#CSGO_crate_signature_pack_cph2024_group_legends",
+   "description": "#CSGO_crate_signature_pack_cph2024_group_legends_desc"
   }
  },
  {
-  "id": "6755482286948352",
+  "id": "10414656984186880",
   "def_index": 4938,
-  "name": "Patch | Anchors Aweigh",
-  "description": "<i>Staying still in stormy seas...</i>",
+  "name": "Copenhagen 2024 Challengers Autograph Capsule",
+  "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Challengers players at Copenhagen 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 37,
+   "name": "Autograph Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff_CxY5_28JvRveanCVmGVkL0h4eA9FnjnkUh34D6Aztf6cirCaFMgX5NwF-IKuhCm0oqwCL20S6I",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF1uOBlQyy9khg1oHOAyN_6cCiTbVVxC5dyQeMO4xa-xoHhYrjgsVPa399FzCn_iylMuilt_a9cBuAzgFZD",
   "i18n": {
-   "name": "#PatchKit_patch_op11_anchor",
-   "description": "#PatchKit_desc_patch_op11_anchor"
+   "name": "#CSGO_crate_signature_pack_cph2024_group_challengers",
+   "description": "#CSGO_crate_signature_pack_cph2024_group_challengers_desc"
   }
  },
  {
-  "id": "6755482303725568",
+  "id": "10414657000964096",
   "def_index": 4939,
-  "name": "Patch | Cruising Ray",
-  "description": "<i>Glides below the waves...</i>",
+  "name": "Copenhagen 2024 Contenders Autograph Capsule",
+  "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Contenders players at Copenhagen 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 37,
+   "name": "Autograph Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff_jBO5uGnZqMjdfWQXDCWw7514LA8Gnrml0p2sGvQmd74dXLFblciCcR4EOIK5Bawl8qnab1NUpWw_Q",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF1v-99Sie3kA80_W3QmNuvICmeOwMmWMMlTe5bsxa8x9TkP-nrtVTc349Cm3793SgY7yZ1o7FVloVngOw",
   "i18n": {
-   "name": "#PatchKit_patch_op11_cruising",
-   "description": "#PatchKit_desc_patch_op11_cruising"
+   "name": "#CSGO_crate_signature_pack_cph2024_group_contenders",
+   "description": "#CSGO_crate_signature_pack_cph2024_group_contenders_desc"
   }
  },
  {
-  "id": "6755482320502784",
+  "id": "10414657017741312",
   "def_index": 4940,
-  "name": "Patch | Bayonet Frog",
-  "description": "<i>Don't give up 'till you croak...</i>",
+  "name": "Copenhagen 2024 Champions Autograph Capsule",
+  "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Champions players at Copenhagen 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 37,
+   "name": "Autograph Capsule"
   },
   "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff-zBU6M29Y6FhJeScACnBwrl357ltH37ilk1ysW_Sn46rd3vBaVMkXsAhRuELsEO_mtHhN7jr-UWA3NmFk7rK",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF1uOBkXyC8mw5psDjTwt-vI3rDPwMlWJd0ROMP5xPskdLmNe7n5AeI2YJBmST9iyoavzErvbi0sb1FJQ",
   "i18n": {
-   "name": "#PatchKit_patch_op11_frog_skeleton",
-   "description": "#PatchKit_desc_patch_op11_frog_skeleton"
+   "name": "#CSGO_crate_signature_pack_cph2024_group_champions",
+   "description": "#CSGO_crate_signature_pack_cph2024_group_champions_desc"
   }
  },
  {
-  "id": "6755482421166080",
+  "id": "10133182141693952",
   "def_index": 4946,
-  "name": "Patch | Sunset Wave",
-  "description": "<i>A new day on the ocean...</i>",
+  "name": "Masterminds 2 Music Kit Box",
+  "description": "This box contains a variety of music kits from various composers.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 36,
+   "name": "Music Kit Box"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff7jdV_Pe6V7NsNvXdVmXCl7ku4OJvG33jw012sG3Ty9f8cHifaQMkC5AhQ7UJtRbskoDhZPSiuVLgrX2oow",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj5_0ruQhb4iqnt_DFP6uCjYappM6KsDWaA0vt6ta89TnCxxU4i5T7Rm4r9In6UZlMgD8BxFuID4BK4k9XmMuOz5wTZjo0X02yg2fDM43am",
   "i18n": {
-   "name": "#PatchKit_patch_op11_sunset_wave",
-   "description": "#PatchKit_desc_patch_op11_sunset_wave"
+   "name": "#CSGO_crate_musickit_masterminds2_capsule",
+   "description": "#CSGO_crate_musickit_masterminds2_capsule_desc"
   }
  },
  {
-  "id": "6755482437943296",
+  "id": "10133182158471168",
   "def_index": 4947,
-  "name": "Patch | Aquatic Offensive",
-  "description": "<i>Fish on the Go</i>",
+  "name": "StatTrak™ Masterminds 2 Music Kit Box",
+  "description": "This box contains a variety of StatTrak™ music kits from various composers.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 36,
+   "name": "Music Kit Box"
   },
   "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff-ytI582pZ-o1dabFDTLGx7ok4LIxSX7ll04itWTXz9uqJX-XZgAnApVxE-APsEXpjJS5YCx9RrN3",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj5_0ruQhb4iqnt_DFP6uCjYappM6KsHXOR1fpksepWTCijhggrtnPdn96hICqQbVclX8B3FOEIs0W5xty1YunqtVbfio5EzSWq2i9Au35s_a9cBvugeEAI",
   "i18n": {
-   "name": "#PatchKit_patch_op11_fish_go",
-   "description": "#PatchKit_desc_patch_op11_fish_go"
+   "name": "#CSGO_crate_musickit_masterminds2_stattrak_capsule",
+   "description": "#CSGO_crate_musickit_masterminds2_stattrak_capsule_desc"
   }
  },
  {
@@ -9659,203 +9673,196 @@
   }
  },
  {
-  "id": "6755485290070016",
+  "id": "8725810127044608",
   "def_index": 5117,
-  "name": "Patch | Entropiq | Stockholm 2021",
-  "description": null,
+  "name": "Austin 2025 Legends Sticker Capsule",
+  "description": "This capsule contains a single Austin 2025 Legends participant Paper, Foil, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 31,
+   "name": "Sticker Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0kIKu-CELvqb7a6FocKHCWGHGmbd157cxGS_iw01w62vdzo38c37DPAMhC4wwG7D6jwTPag",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJvORuSie3hlN1sDjSz4r8c3mXZlAkWZEmQbNesRG6lN3uZriw4w2Pi44QmX2tiytA8G81tB5pi67Y",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_ent",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_sticker_pack_aus2025_legends",
+   "description": "#CSGO_crate_sticker_pack_aus2025_legends_desc"
   }
  },
  {
-  "id": "6755485306847232",
+  "id": "8725810143821824",
   "def_index": 5118,
-  "name": "Patch | Entropiq (Gold) | Stockholm 2021",
-  "description": null,
+  "name": "Austin 2025 Challengers Sticker Capsule",
+  "description": "This capsule contains a single Austin 2025 Challengers participant Paper, Foil, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 31,
+   "name": "Sticker Capsule"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0kILf-i1X67yoaaE7JaPHDDbDmeghtrI9Hy-wlEgk62vVm9qhdS_FOlNxWMZwRe4OrFDmxaGTJkbA",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-loQyW2mxoioS7Ly9-pcCiebFd2C5NyRbFZtES4mtfhYe634FeKj4tGniiviS1OuChqsfFCD_Tcz9djFA",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_ent_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_sticker_pack_aus2025_challengers",
+   "description": "#CSGO_crate_sticker_pack_aus2025_challengers_desc"
   }
  },
  {
-  "id": "6755485323624448",
+  "id": "8725810160599040",
   "def_index": 5119,
-  "name": "Patch | GODSENT | Stockholm 2021",
-  "description": null,
+  "name": "Austin 2025 Contenders Sticker Capsule",
+  "description": "This capsule contains a single Austin 2025 Contenders participant Paper, Foil, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 31,
+   "name": "Sticker Capsule"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2kZKuryQKu6WqaqBsdfHLDTLFwrci6LUxSyrgxkwjtmWEzo6oInmeaw8mXowwG7DUZbS00A",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-5nWyy9kRg1oHOBzon6ciqfaQRxXMRwRrZY4xm8wNPmN-2w7gPa3o5NzX76jykc5iht_a9cBn7eB-5Y",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_god",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_sticker_pack_aus2025_contenders",
+   "description": "#CSGO_crate_sticker_pack_aus2025_contenders_desc"
   }
  },
  {
-  "id": "6755485340401664",
+  "id": "9007285154086912",
   "def_index": 5120,
-  "name": "Patch | GODSENT (Gold) | Stockholm 2021",
+  "name": "Austin 2025 Inferno Souvenir Highlight Package",
   "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Highlight"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_common_highlight",
+   "name": "Highlight Base Grade",
+   "color": "#ffd7aa"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2kZLf-i1X67z-MfE8JPSRXjHIk7Yg6OAxHS3ixEl-sj-Ew437JHLBbgYgWcR2TLIIrFDmxbgUuf9f",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iZz-hzou9mAXixxUl3t2uAnIysdC2Ub1IoD8dxReAK40Ptl4K2MLzi5VPW3tlGzH_gznQeA9NN0rg",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_god_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_aus2025_promo_de_inferno"
   }
  },
  {
-  "id": "6755485357178880",
+  "id": "9007285170864128",
   "def_index": 5121,
-  "name": "Patch | Virtus.Pro | Stockholm 2021",
+  "name": "Austin 2025 Mirage Souvenir Highlight Package",
   "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Highlight"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common_highlight",
+   "name": "Highlight Base Grade",
+   "color": "#ffd7aa"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLnjti0_3QMuvT3bKI5I6TFXzaVxO8vsbRvH36ywxlxsm7Vm9__eC2SaAQiFNIuEkJTKxEc",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1idyPx3t-QnHH2xkUQk62uBntitdn3DPAdyCJR4RedY5kS_m4W2MLjq51De2YwWzzK-0H0bzeKCgA",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_vp",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_aus2025_promo_de_mirage"
   }
  },
  {
-  "id": "6755485373956096",
+  "id": "9007285187641344",
   "def_index": 5122,
-  "name": "Patch | Virtus.Pro (Gold) | Stockholm 2021",
+  "name": "Austin 2025 Anubis Souvenir Highlight Package",
   "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Highlight"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_common_highlight",
+   "name": "Highlight Base Grade",
+   "color": "#ffd7aa"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLnjqnn8i5fofarOPM1eKKRVz7Gwrcu5OA4Si_hxkl_sDvSydr7J3jFOwIjDpIjQbUU8k7vJC0VIFo",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iRz_t0ufInTHvlkR8k42_cnI3_dC3EagJyWMByTOcC50awlYXhM-jq4FGP2ogQyDK-0H3Nl39_xA",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_vp_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_aus2025_promo_de_anubis"
   }
  },
  {
-  "id": "6755485390733312",
+  "id": "9007285204418560",
   "def_index": 5123,
-  "name": "Patch | Copenhagen Flames | Stockholm 2021",
+  "name": "Austin 2025 Dust II Souvenir Highlight Package",
   "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Highlight"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common_highlight",
+   "name": "Highlight Base Grade",
+   "color": "#ffd7aa"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLykYblsyNYt_P5PvBuJaHBXmbCx7gn4rM6TH6ww0R_52nUytqhIC2SPQQlXJJuBbldUoP1g7g",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iU1P1i4q9tTnnklkwk6zyGn437In-UZlQlAsQhR-dZ4RixlNDhNO3q41CIjooW02yg2fk_M8Eg",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_cope",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_aus2025_promo_de_dust2"
   }
  },
  {
-  "id": "6755485407510528",
+  "id": "9007285221195776",
   "def_index": 5124,
-  "name": "Patch | Copenhagen Flames (Gold) | Stockholm 2021",
+  "name": "Austin 2025 Ancient Souvenir Highlight Package",
   "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Highlight"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_common_highlight",
+   "name": "Highlight Base Grade",
+   "color": "#ffd7aa"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLykYblwiVU4_bgOfA7cvGSCDXDlOxw6OQ-GXjrkxgj6m7VnNytIyiWZw8kDMMhEeIJsw74zIM8ma-DMw",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iRz-1_te99AXy1wEpxtWnVnIr6JC_CaQQoX5MjF7QMsxC7w4XnP-y2sgCIjohFyCngznQep6hFES4",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_cope_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_aus2025_promo_de_ancient"
   }
  },
  {
-  "id": "6755485424287744",
+  "id": "9007285237972992",
   "def_index": 5125,
-  "name": "Patch | FaZe Clan | Stockholm 2021",
+  "name": "Austin 2025 Nuke Souvenir Highlight Package",
   "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Highlight"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_common_highlight",
+   "name": "Highlight Base Grade",
+   "color": "#ffd7aa"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL3n4zls3cKu6r3bKFod_HHX2GWk7Z36LYwTH3kw04l4zmGm9b7dS3GalchDZduBbldtOacHsM",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1ie1OVz_rY9S37kwh8h52_Qy92qcnmTOA8lDZNxQLQDsRe6mtW0ZezmtFPX2NpbjXKpvhIYpf8",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_faze",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_aus2025_promo_de_nuke"
   }
  },
  {
-  "id": "6755485441064960",
+  "id": "9007285254750208",
   "def_index": 5126,
-  "name": "Patch | FaZe Clan (Gold) | Stockholm 2021",
+  "name": "Austin 2025 Train Souvenir Highlight Package",
   "description": null,
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 32,
+   "name": "Souvenir Highlight"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_common_highlight",
+   "name": "Highlight Base Grade",
+   "color": "#ffd7aa"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL3n4zlwiVU4_bgPfVrd_aWXWXFkbYjs7BqGyjll0V-t23WzN2oI3ifaFAiC8EhF-IDtA74zIOliW6gRg",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iE0-9_vq9sHS3qlkUl62TTw9z8dC6TPAV2DMEmFuVcsxPuwd3jNePh4VCLiItB02yg2VepJYOn",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_faze_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_crate_aus2025_promo_de_train"
   }
  },
  {
@@ -11112,103 +11119,103 @@
   }
  },
  {
-  "id": "6755485088743424",
+  "id": "5629585181900800",
   "def_index": 5105,
-  "name": "Patch | Movistar Riders | Stockholm 2021",
-  "description": null,
+  "name": "Ground Rebel  | Elite Crew",
+  "description": "An expert in local knowledge for Elite Crew's urban operations, Ground Rebels are known for keeping an ear to the ground.\\n\\n<i>That's the signal.</i>",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 20,
+   "name": "Agent"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
+   "id": "rarity_rare_character",
+   "name": "Distinguished",
    "color": "#4b69ff"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLjl5LlsyRY66f3PfY0c_GRWTORx7935bloGnCywxt2tmWAnNr6InrCbAApApduBbldmfUTFdQ",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPfdVmHAxOgj4uNtGyqxxRki52jSyoqseHiRalRyWcdzE-APuxK8xNbmYvSiuVLQnSKAnQ",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_ride",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_CustomPlayer_tm_leet_variantg",
+   "description": "#CSGO_CustomPlayer_tm_leet_variantg_Desc"
   }
  },
  {
-  "id": "6755485105520640",
+  "id": "5629585198678016",
   "def_index": 5106,
-  "name": "Patch | Movistar Riders (Gold) | Stockholm 2021",
-  "description": null,
+  "name": "Osiris | Elite Crew",
+  "description": "Osiris earned his nickname from passing judgement, often too quickly, on his marks. His reasoning is simple: \\\"When your time is as valuable as mine, why make small talk?\\\" \\n\\nConfident, skilled, and quick to act, Osiris takes pleasure in dispatching targets with unrivaled efficiency.\\n\\n<i>Any objections?</i>",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 20,
+   "name": "Agent"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
+   "id": "rarity_mythical_character",
+   "name": "Exceptional",
    "color": "#8847ff"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLjl5LlwiVU4_bgOfc9dqnLWj7Gkrhz47JqGnjjxkhy5zvXntv9dX-ROlN0ApZzEO8DsQ74zINR3-HELA",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPjdDDXEk7p35uAxTHDqxRh25DuDzI2sdC7BOwZ1W5BwRe4O4BfsktKxZPSiuVIisGC3vg",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_ride_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_CustomPlayer_tm_leet_varianth",
+   "description": "#CSGO_CustomPlayer_tm_leet_varianth_Desc"
   }
  },
  {
-  "id": "6755485122297856",
+  "id": "5629585215455232",
   "def_index": 5107,
-  "name": "Patch | Heroic | Stockholm 2021",
-  "description": null,
+  "name": "Prof. Shahmat | Elite Crew",
+  "description": "After graduating Magna Cum Laude, Prof. Shahmat began teaching to impart knowledge. With every class Shahmat realized his pupils didn't have the same revolutionary desires that he did. \\n\\nRecognizing that his mind was beginning to dull, he decided to seek a new challenge—mastering the art of war.\\n\\n<i>Watch and learn.</i>",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 20,
+   "name": "Agent"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
+   "id": "rarity_legendary_character",
+   "name": "Superior",
+   "color": "#d32ce6"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL5m4Tvs3ADt6eoOfw8daLHV2KTxLp14rJtTHnrwRgh5Tzdw92sdCqXaFMjWMduBbld3UTbDwQ",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPndCDCTk74k4LA5GX_mxR4mtWSDmYz9cy6ROAQoCMB1E-AK5BG9wNziNPSiuVKTaodKjw",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_hero",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_CustomPlayer_tm_leet_varianti",
+   "description": "#CSGO_CustomPlayer_tm_leet_varianti_Desc"
   }
  },
  {
-  "id": "6755485139075072",
+  "id": "5629585232232448",
   "def_index": 5108,
-  "name": "Patch | Heroic (Gold) | Stockholm 2021",
-  "description": null,
+  "name": "The Elite Mr. Muhlik | Elite Crew",
+  "description": "First appeared operating as an 'Acquisitions Consultant' for arms industry magnates, Mr. Muhlik quickly worked his way on to many Most Wanted lists worldwide. Unconfirmed reports suggest he is the last surviving heir to a recently-deposed Middle Eastern monarch. \\n\\nWith evidence of elite military training, international private education, and numerous international bank accounts, it's suspected Mr. Muhlik is maneuvering to rebuild sovereign power over his family's historical lands.\\n\\n<i>Pressure and time.</i>",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 20,
+   "name": "Agent"
   },
   "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
+   "id": "rarity_ancient_character",
+   "name": "Master",
+   "color": "#eb4b4b"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL5m4TvwiVU4_bgaqZsJPLADTWRkOp1srA9TXy1lBwh42rUm92pJHPGbgJ1D5MhR7MMtA74zIPbIJgQTw",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPbdDTORmbsl5LQ-F3DlwE1y6jnWytqucnmfawMmWJEkFuQJskKwmoexM_SiuVLDZa0BGw",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_hero_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_CustomPlayer_tm_leet_variantf",
+   "description": "#CSGO_CustomPlayer_tm_leet_variantf_Desc"
   }
  },
  {
-  "id": "6755485155852288",
+  "id": "5629585249009664",
   "def_index": 5109,
-  "name": "Patch | MOUZ | Stockholm 2021",
-  "description": null,
+  "name": "Jungle Rebel | Elite Crew",
+  "description": "Elite Crew's wetland and jungle based ground rebel. Deadly in the shade(s). \\n\\n<i>It's dark and I'm wearing sunglasses.</i>",
   "type": {
-   "id": 24,
-   "name": "Patch"
+   "id": 20,
+   "name": "Agent"
   },
   "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
+   "id": "rarity_rare_character",
+   "name": "Distinguished",
    "color": "#4b69ff"
   },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL8kYP6sycD7fD7a_Q4cKiSCzTGlbgh4OU5F3-wxhwi4j-Aydahcy3Cb1N0WZJuBbld0Pe4EaI",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPrdWDWRlrch5LU6H3-wzEoj5Dncn9evcXuTOAZyW5p4QuJc50TqwdPlPvSiuVKlREwxsg",
   "i18n": {
-   "name": "#StickerKit_stockh2021_team_mouz",
-   "description": "#EventItemDesc_stockh2021_patch_team"
+   "name": "#CSGO_CustomPlayer_tm_leet_variantj",
+   "description": "#CSGO_CustomPlayer_tm_leet_variantj_Desc"
   }
  },
  {
@@ -11649,1478 +11656,6 @@
   "i18n": {
    "name": "#CSGO_CustomPlayer_ctm_sas_variantg",
    "description": "#CSGO_CustomPlayer_ctm_sas_variantg_Desc"
-  }
- },
- {
-  "id": "18295949822525440",
-  "def_index": 4550,
-  "name": "Operation Shattered Web Challenge Coin",
-  "description": "Participated in Operation Shattered Web.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_bronze.bd29c48e488af38942382c4bcbf0d6e72c8f46bc.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
-   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1_Desc"
-  }
- },
- {
-  "id": "18295949839302656",
-  "def_index": 4551,
-  "name": "Silver Operation Shattered Web Coin",
-  "description": "Participated in Operation Shattered Web.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_silver.62da8a3efdda11528458dc10a1429334b99911ff.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
-   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2_Desc"
-  }
- },
- {
-  "id": "18295949856079872",
-  "def_index": 4552,
-  "name": "Gold Operation Shattered Web Coin",
-  "description": "Participated in Operation Shattered Web.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_gold.90815e31d99a91500e86c353858cef17b395979f.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
-   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3_Desc"
-  }
- },
- {
-  "id": "18295949872857088",
-  "def_index": 4553,
-  "name": "Diamond Operation Shattered Web Coin",
-  "description": "Completed Operation Shattered Web.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_platinum.a374bf46df20431a179364cde272c2fefe267fa0.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
-   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4_Desc"
-  }
- },
- {
-  "id": "17170049982791680",
-  "def_index": 4554,
-  "name": "Katowice 2019 Viewer Pass",
-  "description": "This is a sealed IEM 2019 Katowice CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Katowice 2019 Coin tracking your progress throughout the event, full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flair, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_common",
-   "name": "Base Grade",
-   "color": "#b0c3d9"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSc5EJ6447372b3SB76m5vfr3IKts2-abd-bqfLX2bHkb0ktbIwFnixx050sm6Gwtyocy7DaFd0XsB2RrUL5hDswYX5d7S14eSvCp4",
-  "i18n": {
-   "name": "#CSGO_TournamentPass_katowice2019",
-   "description": "#CSGO_TournamentPass_katowice2019_Desc"
-  }
- },
- {
-  "id": "18295949906411520",
-  "def_index": 4555,
-  "name": "Katowice 2019 Coin",
-  "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/katowice_pickem_2019_bronze.b8a28687e87ca18d6e735174669449b27f48a66a.png",
-  "i18n": {
-   "name": "#CSGO_TournamentJournal_katowice2019"
-  }
- },
- {
-  "id": "18295949923188736",
-  "def_index": 4556,
-  "name": "Katowice 2019 Silver Coin",
-  "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/katowice_pickem_2019_silver.62b2974d29fb77fda30d3944ab97c6d1fa98de47.png",
-  "i18n": {
-   "name": "#CSGO_TournamentJournal_katowice2019_Silver"
-  }
- },
- {
-  "id": "18295949939965952",
-  "def_index": 4557,
-  "name": "Katowice 2019 Gold Coin",
-  "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/katowice_pickem_2019_gold.8a79640c4900d8f0698eec591ba87a954cdf1acb.png",
-  "i18n": {
-   "name": "#CSGO_TournamentJournal_katowice2019_Gold"
-  }
- },
- {
-  "id": "18295949956743168",
-  "def_index": 4558,
-  "name": "Katowice 2019 Diamond Coin",
-  "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/katowice_pickem_2019_crystal.b41f10b8e16b48f51a5b26d6b4a29fc1e9b5f3d6.png",
-  "i18n": {
-   "name": "#CSGO_TournamentJournal_katowice2019_Crystal"
-  }
- },
- {
-  "id": "6755475928383488",
-  "def_index": 4559,
-  "name": "Patch | Longevity",
-  "description": "<i>This red and white patch features an artistic take on the \\\"CSGO\\\" logo</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VXoTxr0iJ_05GwJtqGtOfA9ePbFXjCSmL5y6Oc7HSjnk0p2sTvdztv6JX2SZgQoCJdzW6dU5dfsORGo",
-  "i18n": {
-   "name": "#PatchKit_patch_longevity",
-   "description": "#PatchKit_desc_patch_longevity"
-  }
- },
- {
-  "id": "6755475945160704",
-  "def_index": 4560,
-  "name": "Patch | Wildfire",
-  "description": "<i>This patch features iconography from Operation Wildfire, which launched on February 17th, 2016</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81U7uTRn3l4Tls3QCtqqrPfw5eabBDWbJlu0l6bE7Hi-2zBh-sjndmNn9dHqVPVJ0CJNuBbldVZUXflY",
-  "i18n": {
-   "name": "#PatchKit_patch_wildfire",
-   "description": "#PatchKit_desc_patch_wildfire"
-  }
- },
- {
-  "id": "6755475961937920",
-  "def_index": 4561,
-  "name": "Patch | Vigilance",
-  "description": "<i>A patch for the lurker; a teammate who keeps a careful watch</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81U_uRhT9n5jj-GwM66f-bPxod6OVWGGVw7Yv4blsTHHlzUol5W2Hyt2pJCiWbwB0WJF0W6dU5RxiNRHw",
-  "i18n": {
-   "name": "#PatchKit_patch_vigilance",
-   "description": "#PatchKit_desc_patch_vigilance"
-  }
- },
- {
-  "id": "6755475978715136",
-  "def_index": 4562,
-  "name": "Patch | Bloodhound",
-  "description": "<i>This patch features iconography from Operation Bloodhound, which launched on May 26th, 2015</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VvrThL1lpn18yYVtqH4P_drcaXLVzWUk-p05rBtTHHqzBl-5zjWzIusdXOWbQcjApd0RPlK7EcjJZsQqQ",
-  "i18n": {
-   "name": "#PatchKit_patch_bloodhound",
-   "description": "#PatchKit_desc_patch_bloodhound"
-  }
- },
- {
-  "id": "6755475995492352",
-  "def_index": 4563,
-  "name": "Patch | Bravo",
-  "description": "<i>This patch features iconography from Operation Bravo, which launched on September 19th, 2013</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81Vv1QAv-0MG5_CRatqL9Pv09dPLDWWHHlusg4uI8GXqywUt_4ziHmYysJSiQZwM-SswnHOUMTFo",
-  "i18n": {
-   "name": "#PatchKit_patch_bravo",
-   "description": "#PatchKit_desc_patch_bravo"
-  }
- },
- {
-  "id": "6755476012269568",
-  "def_index": 4564,
-  "name": "Patch | Breakout",
-  "description": "<i>This patch features iconography from Operation Breakout, which launched on July 1st, 2014</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81Vv1RBz6kYP0sycN6_asP_Y8eKLGXT7Clrwn5bBrHX22wRsm52jVnNepIn7CZgZzX5puBbldbqdgS9s",
-  "i18n": {
-   "name": "#PatchKit_patch_breakout",
-   "description": "#PatchKit_desc_patch_breakout"
-  }
- },
- {
-  "id": "6755476029046784",
-  "def_index": 4565,
-  "name": "Patch | Danger Zone",
-  "description": "<i>This patch features iconography from Danger Zone, which launched on December 6th, 2018</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81V3mTxr0jIzv8ycVvaT_PqJvI6fEWGPJlrsn4uNvGH2wkRkk4WrXwo2pI3vEa1AnDZpwEflK7EfVzBVKyw",
-  "i18n": {
-   "name": "#PatchKit_patch_dangerzone",
-   "description": "#PatchKit_desc_patch_dangerzone"
-  }
- },
- {
-  "id": "6755476045824000",
-  "def_index": 4566,
-  "name": "Patch | Hydra",
-  "description": "<i>This patch features iconography from Operation Hydra, which launched on May 23rd, 2017</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81VH-RQ_w0JKwpCBdu_P3OqY6JvHKV2XIlLcjtOcwTHvgwkx-5zvWzYr9JXKUagM-SswnBsU963w",
-  "i18n": {
-   "name": "#PatchKit_patch_hydra",
-   "description": "#PatchKit_desc_patch_hydra"
-  }
- },
- {
-  "id": "6755476062601216",
-  "def_index": 4567,
-  "name": "Patch | Payback",
-  "description": "<i>This patch features iconography from Operation Payback, which launched on April 25th, 2013</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81UnmWB_wnZ2urCcMvvarOKY_dqKWCDDFk-sl5bk9SS-3wkkl5G7Xwt2pJ3rDPwFxCYwwG7Ccb2moTA",
-  "i18n": {
-   "name": "#PatchKit_patch_payback",
-   "description": "#PatchKit_desc_patch_payback"
-  }
- },
- {
-  "id": "6755476079378432",
-  "def_index": 4568,
-  "name": "Patch | Phoenix",
-  "description": "<i>This patch features iconography from Operation Phoenix, which launched on February 20th, 2014</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81UnvThj_l46urnYK7qGvOfY5cqjEWWTHwrty6ORoGnzjl0VytT6By9n_cnOQPAUoAowwG7C8k9YQ6w",
-  "i18n": {
-   "name": "#PatchKit_patch_phoenix",
-   "description": "#PatchKit_desc_patch_phoenix"
-  }
- },
- {
-  "id": "6755476096155648",
-  "def_index": 4569,
-  "name": "Patch | Shattered Web",
-  "description": "<i>This patch features iconography from Operation Shattered Web, which launched on November 18th, 2019</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81UrvQAnlm4Tl-TVe7byraqE5dPKWWDWSw-8v4LM7SX7klh52sjvQz4yqc37Bb1AjCsR1FOIOrFDmxTcxy8-I",
-  "i18n": {
-   "name": "#PatchKit_patch_shatteredweb",
-   "description": "#PatchKit_desc_patch_shatteredweb"
-  }
- },
- {
-  "id": "6755476112932864",
-  "def_index": 4570,
-  "name": "Patch | Vanguard",
-  "description": "<i>This patch features iconography from Operation Vanguard, which launched on November 11th, 2014</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMCvGqkZ04IT81U_mTxrkn4Tks3FdvKKtO_I6efOSV2TIw7hw4eAwGXHqwR4j5GWGn46sdnvBO1coCsBuBbldD_DO2RU",
-  "i18n": {
-   "name": "#PatchKit_patch_vanguard",
-   "description": "#PatchKit_desc_patch_vanguard"
-  }
- },
- {
-  "id": "6755476129710080",
-  "def_index": 4571,
-  "name": "Patch | Metal Silver",
-  "description": "<i>A patch for those taking their first step on the road to Global.</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1I5v64bbYjc_bLDWORmb0h6OQ5SSviwhx04GSBzon_Jy3EbgNzDcdyQOBcs0Kwwcqnab3fxfXCfA",
-  "i18n": {
-   "name": "#PatchKit_patch_silver",
-   "description": "#PatchKit_desc_patch_silver"
-  }
- },
- {
-  "id": "6755476146487296",
-  "def_index": 4572,
-  "name": "Patch | Metal Gold Nova I",
-  "description": "<i>Made it out of Silver? There's still work to do.</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1c4P6qZqt7IaHdWmTCwr905rI8GXCwk0x24j_RytqtICmWOwQoW5tzQrNbshTpx9e2PvSiuVJgbtDEaQ",
-  "i18n": {
-   "name": "#PatchKit_patch_goldnova1",
-   "description": "#PatchKit_desc_patch_goldnova1"
-  }
- },
- {
-  "id": "6755476196818944",
-  "def_index": 4575,
-  "name": "Patch | Metal Gold Nova Master",
-  "description": "<i>And you thought Silver was hard to get out of...</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1c4P6qZqt7If2SHXOV06Aj4uMwFn_gw0x1t2zSmN76d3-Waw8nD5V3TOALsxO6ltPnNOix7gTelcsbmhVplCMW",
-  "i18n": {
-   "name": "#PatchKit_patch_goldnovamaster",
-   "description": "#PatchKit_desc_patch_goldnovamaster"
-  }
- },
- {
-  "id": "6755476213596160",
-  "def_index": 4576,
-  "name": "Patch | Metal Master Guardian I",
-  "description": "<i>Escaped Gold Nova? Good, you're learning.</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1W7uG6bbZqNfGBCm6Rz784tbA_HnrnwBx2sWrVw9z_dn3FPwAlXpZ2TONfu0a6m9fuNbvr5Qbb3ZUFk3sHmpsRiw",
-  "i18n": {
-   "name": "#PatchKit_patch_masterguardian1",
-   "description": "#PatchKit_desc_patch_masterguardian1"
-  }
- },
- {
-  "id": "6755476247150592",
-  "def_index": 4578,
-  "name": "Patch | Metal Master Guardian Elite",
-  "description": "<i>Expertly crafted, the silver thread on this MGE patch jumps off the navy background.</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1W7uG6bbZqNfGBCm6Rz-t6ufVsAS3hxU4l4m3czNn_dHyVawIjWMQkFLVbtES4ldPlZOK041fdg4gUyi7gznQeOYOZIq4",
-  "i18n": {
-   "name": "#PatchKit_patch_masterguardianelite",
-   "description": "#PatchKit_desc_patch_masterguardianelite"
-  }
- },
- {
-  "id": "6755476263927808",
-  "def_index": 4579,
-  "name": "Patch | Metal Distinguished Master Guardian ★",
-  "description": "<i>Individuals must bend, adapt, and work together to achieve the Skill Group of DMG. Keep climbing.</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1f4vXgO6JpcKHLD2PJwLt0teA8GyvlzElz4jiHyY3_cS7FPFcjCpAmF-5ftQ74zINXl2BmzQ",
-  "i18n": {
-   "name": "#PatchKit_patch_dmg",
-   "description": "#PatchKit_desc_patch_dmg"
-  }
- },
- {
-  "id": "6755476297482240",
-  "def_index": 4581,
-  "name": "Patch | Metal Legendary Eagle Master ★",
-  "description": "<i>You're nearing the top, but those awaiting your challenge will show no mercy.</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1X6vWrZqBsMumWD2CcxON3o_VsXWe1xkx1sm3Rzt6gd3zGalMiDMYkQLFbs0O6m9ThM-7r5wfeiYkRnyj9kGoXuYZUHYQE",
-  "i18n": {
-   "name": "#PatchKit_patch_legendaryeaglemaster",
-   "description": "#PatchKit_desc_patch_legendaryeaglemaster"
-  }
- },
- {
-  "id": "6755476314259456",
-  "def_index": 4582,
-  "name": "Patch | Metal Supreme Master First Class",
-  "description": "<i>This Supreme patch features a heart-shaped globe and red and blue details.</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1I-uK8balobvSQCjWUxb5ztuA4H3GyzR9x52XXm9v9JynBZ1QnCJUhTLMK5hO6w4f5d7S18KYemJo",
-  "i18n": {
-   "name": "#PatchKit_patch_supreme",
-   "description": "#PatchKit_desc_patch_supreme"
-  }
- },
- {
-  "id": "6755476331036672",
-  "def_index": 4583,
-  "name": "Patch | Metal The Global Elite ★",
-  "description": "<i>Congratulations, you've arrived. Now the real challenge begins.</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESE7l95-IDm5Uz3UlLhn4Lj9R1c4_2saahoLPmHCymUluol4eU6Hn23lkkmsW3TyoyucS_FbANzD8Z4R7NZtRG5m9SzMeLl-UWA3FRqEhOi",
-  "i18n": {
-   "name": "#PatchKit_patch_globalelite",
-   "description": "#PatchKit_desc_patch_globalelite"
-  }
- },
- {
-  "id": "17170052415488000",
-  "def_index": 4699,
-  "name": "Operation Broken Fang Premium Pass",
-  "description": "The Operation Broken Fang event ran from December 3rd, 2020 to April 30th, 2021. This pass no longer grants access to an Operation, but may be redeemed for a commemorative Operation Broken Fang Coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_common",
-   "name": "Base Grade",
-   "color": "#b0c3d9"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSY9VNn9ZP95VfYEE3Ojpfz7mwO7aqva6VvcKnAWj7Cxbsh4eA7THuyzBtw5zyDzd6pcy_EawR2DpJ5W6dU5fjXvhDG",
-  "i18n": {
-   "name": "#CSGO_Ticket_CommunitySeasonTen2020",
-   "description": "#CSGO_Ticket_CommunitySeasonTen2020_Desc"
-  }
- },
- {
-  "id": "18295952339107840",
-  "def_index": 4700,
-  "name": "Operation Broken Fang Challenge Coin",
-  "description": "Participated in Operation Broken Fang.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_10_bronze.6ac83c3514ccabca6d9a8e0b0025550b810875bf.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
-   "description": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1_Desc"
-  }
- },
- {
-  "id": "18295956382416896",
-  "def_index": 4941,
-  "name": "Thera Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Thera'",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_thera.53f2464347cbf44cfa828c274ded01743086d8a7.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_MapTokenThera",
-   "description": "#CSGO_Collectible_MapTokenThera_Desc"
-  }
- },
- {
-  "id": "18295956399194112",
-  "def_index": 4942,
-  "name": "Mills Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Mills'",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_mills.99c67b42972fee9e6ceb3ea270a6d7ad417fe8e6.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_MapTokenMills",
-   "description": "#CSGO_Collectible_MapTokenMills_Desc"
-  }
- },
- {
-  "id": "18295956415971328",
-  "def_index": 4943,
-  "name": "Assembly Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Assembly'",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_assembly.edb3b3eec553e4058146c0501fb24417ce6d87bb.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_MapTokenAssembly",
-   "description": "#CSGO_Collectible_MapTokenAssembly_Desc"
-  }
- },
- {
-  "id": "18295956432748544",
-  "def_index": 4944,
-  "name": "Memento Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Memento'",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_memento.c3e3db7169b0e04b45913249bea9133cfe79e6c0.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_MapTokenMemento",
-   "description": "#CSGO_Collectible_MapTokenMemento_Desc"
-  }
- },
- {
-  "id": "18295956449525760",
-  "def_index": 4945,
-  "name": "Pool Day Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Pool Day'",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_poolday.515d7fcb460f36eb7aca51bae54c127d3b9c3f25.png",
-  "i18n": {
-   "name": "#CSGO_Collectible_MapTokenPoolDay",
-   "description": "#CSGO_Collectible_MapTokenPoolDay_Desc"
-  }
- },
- {
-  "id": "6755482454720512",
-  "def_index": 4948,
-  "name": "Patch | Elder God",
-  "description": "<i>Cthulhu approves those who defuse...</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff_jZT-v6mfepvc6jLW2bIlblysuJvHnq3xxgksDvUw9qqdX2QawMjXMAjFLQItBCxjJS5YJvHw0W8",
-  "i18n": {
-   "name": "#PatchKit_patch_op11_cthulhu",
-   "description": "#PatchKit_desc_patch_op11_cthulhu"
-  }
- },
- {
-  "id": "6755482471497728",
-  "def_index": 4949,
-  "name": "Patch | Meal Time",
-  "description": "<i>Hungry for victory...</i>",
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWbwMuyMESY9Qcku5f1_lrvfhLhz8ff8Cda4826YalobqCRWWbDx7cms-JvHivnwUlw5DzRz47_c3PDa1UkWJIkQ7YJ4Bm6x935d7S1gepkPKk",
-  "i18n": {
-   "name": "#PatchKit_patch_op11_meal_time",
-   "description": "#PatchKit_desc_patch_op11_meal_time"
-  }
- },
- {
-  "id": "6755484652535808",
-  "def_index": 5079,
-  "name": "Patch | Ninjas in Pyjamas | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL_l4aurScI7fT3bPdud_OSDD-Ww7Yg4rI6FnDhl0sh5zzQzNapdnrFZw8pCIwwG7DvyWcnQA",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_nip",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484669313024",
-  "def_index": 5080,
-  "name": "Patch | Ninjas in Pyjamas (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL_l4bf-i1X67z-PKBsdKKWXGKWxLh14uU7H3ywzRh-4GrVy4mqeC2RaAcoA8N0E7UOrFDmxQJtO4ls",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_nip_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484686090240",
-  "def_index": 5081,
-  "name": "Patch | FURIA | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL3i4TpsycJt_H3OfJud6KXXjDCmOxw5eA4Ti_glBh2t2zdmY3_cCnBPA90A5BuBbldNogRk78",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_furi",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484702867456",
-  "def_index": 5082,
-  "name": "Patch | FURIA (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL3i4TpwiVU4_bgbadrePbEV2LAkbol57M7HyuxwEgl4T6DytqpJ3mSaAQnXpAiR-AMsA74zIPNcyT0ug",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_furi_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484719644672",
-  "def_index": 5083,
-  "name": "Patch | Natus Vincere | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL_n4Dps3YPuaqravM_JqPCXmTHkb5y57Q7TCiykx5x42iHw4ygd3jEalIiXpVuBbldGhcflIY",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_navi",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484736421888",
-  "def_index": 5084,
-  "name": "Patch | Natus Vincere (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL_n4DpwiVU4_bgaf1veKLHXTbAxb90tLQ8F3jrxBt25TvRmdyhd3-QaQUkWZYjQuMItw74zIMRBpLkHw",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_navi_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484753199104",
-  "def_index": 5085,
-  "name": "Patch | Vitality | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLnl4LhsyYJv6v6OfBrcaSXXTGUxOsv5OM_TCrnzU9w6j_WzditdSqfbw90AsFuBbldgoQSbaY",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_vita",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484769976320",
-  "def_index": 5086,
-  "name": "Patch | Vitality (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLnl4LhwiVU4_bgOfw4dfXLXDeVkLkvtrE9Gn7hwhsmsGvXyIn9cCiebVNxDcN4F7EOug74zIMrxPtu3w",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_vita_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484786753536",
-  "def_index": 5087,
-  "name": "Patch | Team Liquid | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL9l4euq3QDv6b2afdvdamVWjCTw70n5-I6G3zkw0py4WSEytehdS7BbQ4nDYwwG7Di3eEuiA",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_liq",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484803530752",
-  "def_index": 5088,
-  "name": "Patch | Team Liquid (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL9l4ff-i1X67z6afZreaKRWjTBkux1trgxHXzmxE50sW_UyYyhI3KTZwcjX5AkRLUIrFDmxZtoVW-C",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_liq_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484820307968",
-  "def_index": 5089,
-  "name": "Patch | Gambit Gaming | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2n5vis3IOtqL-OaFucqWXWmHGxLki4rM9HyiwwkkisW6Bwtr8eX3FOFQkDsduBbldHPSJ-ys",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_gamb",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484837085184",
-  "def_index": 5090,
-  "name": "Patch | Gambit Gaming (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2n5viwiVU4_bgaqZrdaSQXGKVwrp34OBvF3ngxEx_5WTTydyhd36VOw9yApR4F7IPuw74zIOcnsryQw",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_gamb_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484853862400",
-  "def_index": 5091,
-  "name": "Patch | G2 Esports | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2zNjlqXMPuab8bKZocqaSDTXDxL0us7EwHyq3kER15jzcn9j6JHyXO1UjFNIuEm7Z1Zb4",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_g2",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484870639616",
-  "def_index": 5092,
-  "name": "Patch | G2 Esports (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL2zKnn8i5foaarP_A8dqOXXTbEw7sl6bMwSXDrxUR2sGXUw47_ICmWO1QlWJclFrIU8k7vhwpRCOc",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_g2_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484887416832",
-  "def_index": 5093,
-  "name": "Patch | Evil Geniuses | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0iJqu_yZetqH8Pv0-cqLHWTTDkrdw4rBqSn21wEwmt2SEw9_9cimXPQ5zAowwG7DvZvWQhQ",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_evl",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484904194048",
-  "def_index": 5094,
-  "name": "Patch | Evil Geniuses (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0iJrf-i1X67z4MKVuIabKD2WWk-0n5bBvS33nlkxytT6Dnt6pJC7GPAJyWcElEORcrFDmxYQdl7dV",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_evl_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484920971264",
-  "def_index": 5095,
-  "name": "Patch | Team Spirit | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLijp_ys3oDtvH9a_I5JPWVCjLClL4h5-BqFivkkUV1tzvXntqgICnFPAMjCpBuBbldr2R2d1M",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_spir",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484937748480",
-  "def_index": 5096,
-  "name": "Patch | Team Spirit (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLijp_ywiVU4_bgMaBsIfSVWGSVx-gl5bA_TX_ql0ki4zyDmIqsd3PEbwMkC8R4ReBctQ74zIORz4w_CQ",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_spir_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484954525696",
-  "def_index": 5097,
-  "name": "Patch | Astralis | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLwjYLysyMLtqP-OqI6c_XGVzORx70nsuVvTirnwUwlsW_WzIz4JS2XPFIiW8FuBbld3_hfrUA",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_astr",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484971302912",
-  "def_index": 5098,
-  "name": "Patch | Astralis (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLwjYLywiVU4_bgPfNpJabDDDbHlLpw6LFqHH3mkRkj4znXm46sIHKQbg4lX8R3RbEC5w74zIPq8fQiLQ",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_astr_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755484988080128",
-  "def_index": 5099,
-  "name": "Patch | paiN Gaming | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLhn5_us3YOuqqsPvQ_dPPDWWORkb4nsbVvFnG1wxxy6m6HnImtdn3EPQ4pXMNuBbld4NXHA5o",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_pain",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755485004857344",
-  "def_index": 5100,
-  "name": "Patch | paiN Gaming (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLhn5_uwiVU4_bgaaJpcKaXD2WRk7sntLk8HHvjxR9-sGyEytetJy7Cbw90CZR1RecMtg74zIM9QXiDXw",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_pain_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755485021634560",
-  "def_index": 5101,
-  "name": "Patch | ENCE | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0kJXls3YC6ab3OvM8dfPFXDWWx7kvsbE6H3-xxUl0tjnQytn9IC-VP1IiCMFuBbldC5lyLX4",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_ence",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755485038411776",
-  "def_index": 5102,
-  "name": "Patch | ENCE (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSL0kJXlwiVU4_bgafZsdKbKXTWWxb8jteQ4Hy3gxRsl4GTdzIqpci6WagR0CcN2FrFfug74zINXChyBjg",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_ence_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755485055188992",
-  "def_index": 5103,
-  "name": "Patch | BIG | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLzl5Guq3UN6qGrbP05efLFWjLJx-9w5-c7HnG3xx506zzcy9b_cXrFZgZzC4wwG7Cn-IC3tw",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_big",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "6755485071966208",
-  "def_index": 5104,
-  "name": "Patch | BIG (Gold) | Stockholm 2021",
-  "description": null,
-  "type": {
-   "id": 24,
-   "name": "Patch"
-  },
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJW3z0i4VeWb0N6uNnCftwYnpcjk603kSSLzl5Hf-i1X67z8PvxsIvHCWTSRlrYu5LI7SyjkzB4msDjXntapJX6ebgUhCZp3TeULrFDmxa0sX-2F",
-  "i18n": {
-   "name": "#StickerKit_stockh2021_team_big_gold",
-   "description": "#EventItemDesc_stockh2021_patch_team"
-  }
- },
- {
-  "id": "17170059310923776",
-  "def_index": 5110,
-  "name": "Austin 2025 Viewer Pass",
-  "description": "This is a sealed BLAST.tv Austin 2025 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Austin 2025 Coin tracking your progress throughout the event, full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_common",
-   "name": "Base Grade",
-   "color": "#b0c3d9"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nw_DFIoaf4P_08I6DAXDaUkbcj6LJoHiqwxht1sG7VmY6geH-WOFQpW8N1ReAU8k7vEeyWaG4",
-  "i18n": {
-   "name": "#CSGO_TournamentPass_aus2025",
-   "description": "#CSGO_TournamentPass_aus2025_Desc"
-  }
- },
- {
-  "id": "18295959234543616",
-  "def_index": 5111,
-  "name": "Austin 2025 Coin",
-  "description": "This is a commemorative BLAST.tv Austin 2025 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nj8itV0PC8Z6p3Jb7LVjLIlr5y6LVtG3vix09y5GqBmN78dXyRaAQpC5RyTeRc5ETrlNbjKaq8sBKkzPn2",
-  "i18n": {
-   "name": "#CSGO_TournamentJournal_aus2025"
-  }
- },
- {
-  "id": "18295959251320832",
-  "def_index": 5112,
-  "name": "Austin 2025 Silver Coin",
-  "description": "This is a commemorative BLAST.tv Austin 2025 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nj8itV0OGnZLJoMr6XXzPElbontOA_GCuxxBwi5TvSmNr8eXuTa1AnW8R1Q-8P4EO7koflKaq8sJ7gmqUN",
-  "i18n": {
-   "name": "#CSGO_TournamentJournal_aus2025_Silver"
-  }
- },
- {
-  "id": "18295959268098048",
-  "def_index": 5113,
-  "name": "Austin 2025 Gold Coin",
-  "description": "This is a commemorative BLAST.tv Austin 2025 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nj8itV0PWhZKAjcPSXXTCUkuou4bA5SnCwlE5w5znRwt34eHifPQIpApJ2FuEC5ELqmsqnab0HwOPUTg",
-  "i18n": {
-   "name": "#CSGO_TournamentJournal_aus2025_Gold"
-  }
- },
- {
-  "id": "18295959284875264",
-  "def_index": 5114,
-  "name": "Austin 2025 Diamond Coin",
-  "description": "This is a commemorative BLAST.tv Austin 2025 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nj8itV0PG8cbd5IfzdXj6Tlrgjs7cxGHuxlk4jtj_cmIuvIy6UPwd2A5V5QuZbtUO7k9LnP_SiuVImaF0ksw",
-  "i18n": {
-   "name": "#CSGO_TournamentJournal_aus2025_Crystal"
-  }
- },
- {
-  "id": "17170059394809856",
-  "def_index": 5115,
-  "name": "Austin 2025 Viewer Pass + 3 Souvenir Tokens",
-  "description": "This is a sealed BLAST.tv Austin 2025 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Austin 2025 Coin tracking your progress throughout the event, full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Austin 2025 Coin by completing the coin challenges. Earn a Souvenir Token every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Austin 2025 Coin with 3 Souvenir Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_common",
-   "name": "Base Grade",
-   "color": "#b0c3d9"
-  },
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nw_DFI0OKva68jIfGXXTGSw7wh4LI_SnyxwR5wtjvdzYmgJ33CZ1UpCcMmQuNYtBKxlsqnab2J7tioNw",
-  "i18n": {
-   "name": "#CSGO_TournamentPass_aus2025_pack",
-   "description": "#CSGO_TournamentPass_aus2025_pack_Desc"
-  }
- },
- {
-  "id": "18858909271851008",
-  "def_index": 5116,
-  "name": "Austin 2025 Souvenir Package",
-  "description": "This is a sealed BLAST.tv Austin 2025 CS2 Major Championship Souvenir Package.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_common",
-   "name": "Base Grade",
-   "color": "#b0c3d9"
-  },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/aus2025_pass_charge_png.png",
-  "i18n": {
-   "name": "#CSGO_TournamentPass_aus2025_charge",
-   "description": "#CSGO_TournamentPass_aus2025_charge_Desc"
-  }
- },
- {
-  "id": "18577434479689728",
-  "def_index": 5127,
-  "name": "Champion at BLAST.tv Austin 2025",
-  "description": "This championship trophy was awarded to the Champion at the BLAST.tv Austin 2025 CS2 Major Championship.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/trophy_cs2_champions.ff92a67b03564c52b2aa09ff7c4153ae758cb78f.png",
-  "i18n": {
-   "name": "#CSGO_CollectibleCoin_aus2025_Champion",
-   "description": "#CSGO_CollectibleCoin_aus2025_Champion_Desc"
-  }
- },
- {
-  "id": "18577434496466944",
-  "def_index": 5128,
-  "name": "Finalist at BLAST.tv Austin 2025",
-  "description": "This championship trophy was awarded to the Finalist at the BLAST.tv Austin 2025 CS2 Major Championship.",
-  "type": {
-   "id": 60,
-   "name": "Collectible"
-  },
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/trophy_cs2_finalists.bc85f1ccae1da92186fa12c2265435d6d192b377.png",
-  "i18n": {
-   "name": "#CSGO_CollectibleCoin_aus2025_Finalist",
-   "description": "#CSGO_CollectibleCoin_aus2025_Finalist_Desc"
   }
  },
  {
@@ -18264,6 +16799,182 @@
   }
  },
  {
+  "id": "18295949822525440",
+  "def_index": 4550,
+  "name": "Operation Shattered Web Challenge Coin",
+  "description": "Participated in Operation Shattered Web.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_bronze.bd29c48e488af38942382c4bcbf0d6e72c8f46bc.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1_Desc"
+  }
+ },
+ {
+  "id": "18295949839302656",
+  "def_index": 4551,
+  "name": "Silver Operation Shattered Web Coin",
+  "description": "Participated in Operation Shattered Web.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_silver.62da8a3efdda11528458dc10a1429334b99911ff.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2_Desc"
+  }
+ },
+ {
+  "id": "18295949856079872",
+  "def_index": 4552,
+  "name": "Gold Operation Shattered Web Coin",
+  "description": "Participated in Operation Shattered Web.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_gold.90815e31d99a91500e86c353858cef17b395979f.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3_Desc"
+  }
+ },
+ {
+  "id": "18295949872857088",
+  "def_index": 4553,
+  "name": "Diamond Operation Shattered Web Coin",
+  "description": "Completed Operation Shattered Web.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_platinum.a374bf46df20431a179364cde272c2fefe267fa0.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
+   "description": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4_Desc"
+  }
+ },
+ {
+  "id": "17170049982791680",
+  "def_index": 4554,
+  "name": "Katowice 2019 Viewer Pass",
+  "description": "This is a sealed IEM 2019 Katowice CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Katowice 2019 Coin tracking your progress throughout the event, full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flair, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSc5EJ6447372b3SB76m5vfr3IKts2-abd-bqfLX2bHkb0ktbIwFnixx050sm6Gwtyocy7DaFd0XsB2RrUL5hDswYX5d7S14eSvCp4",
+  "i18n": {
+   "name": "#CSGO_TournamentPass_katowice2019",
+   "description": "#CSGO_TournamentPass_katowice2019_Desc"
+  }
+ },
+ {
+  "id": "18295949906411520",
+  "def_index": 4555,
+  "name": "Katowice 2019 Coin",
+  "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/katowice_pickem_2019_bronze.b8a28687e87ca18d6e735174669449b27f48a66a.png",
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_katowice2019"
+  }
+ },
+ {
+  "id": "18295949923188736",
+  "def_index": 4556,
+  "name": "Katowice 2019 Silver Coin",
+  "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/katowice_pickem_2019_silver.62b2974d29fb77fda30d3944ab97c6d1fa98de47.png",
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_katowice2019_Silver"
+  }
+ },
+ {
+  "id": "18295949939965952",
+  "def_index": 4557,
+  "name": "Katowice 2019 Gold Coin",
+  "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/katowice_pickem_2019_gold.8a79640c4900d8f0698eec591ba87a954cdf1acb.png",
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_katowice2019_Gold"
+  }
+ },
+ {
+  "id": "18295949956743168",
+  "def_index": 4558,
+  "name": "Katowice 2019 Diamond Coin",
+  "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/katowice_pickem_2019_crystal.b41f10b8e16b48f51a5b26d6b4a29fc1e9b5f3d6.png",
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_katowice2019_Crystal"
+  }
+ },
+ {
   "id": "17170051123642368",
   "def_index": 4622,
   "name": "Berlin 2019 Viewer Pass",
@@ -18797,6 +17508,46 @@
   "i18n": {
    "name": "#CSGO_Collectible_Pin_alyx_11",
    "description": "#CSGO_Collectible_Pin_alyx_11_desc"
+  }
+ },
+ {
+  "id": "17170052415488000",
+  "def_index": 4699,
+  "name": "Operation Broken Fang Premium Pass",
+  "description": "The Operation Broken Fang event ran from December 3rd, 2020 to April 30th, 2021. This pass no longer grants access to an Operation, but may be redeemed for a commemorative Operation Broken Fang Coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSY9VNn9ZP95VfYEE3Ojpfz7mwO7aqva6VvcKnAWj7Cxbsh4eA7THuyzBtw5zyDzd6pcy_EawR2DpJ5W6dU5fjXvhDG",
+  "i18n": {
+   "name": "#CSGO_Ticket_CommunitySeasonTen2020",
+   "description": "#CSGO_Ticket_CommunitySeasonTen2020_Desc"
+  }
+ },
+ {
+  "id": "18295952339107840",
+  "def_index": 4700,
+  "name": "Operation Broken Fang Challenge Coin",
+  "description": "Participated in Operation Broken Fang.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_10_bronze.6ac83c3514ccabca6d9a8e0b0025550b810875bf.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
+   "description": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1_Desc"
   }
  },
  {
@@ -20320,6 +19071,106 @@
   }
  },
  {
+  "id": "18295956382416896",
+  "def_index": 4941,
+  "name": "Thera Map Coin",
+  "description": "Commemorates authorship of the CS2 Map 'Thera'",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_thera.53f2464347cbf44cfa828c274ded01743086d8a7.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenThera",
+   "description": "#CSGO_Collectible_MapTokenThera_Desc"
+  }
+ },
+ {
+  "id": "18295956399194112",
+  "def_index": 4942,
+  "name": "Mills Map Coin",
+  "description": "Commemorates authorship of the CS2 Map 'Mills'",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_mills.99c67b42972fee9e6ceb3ea270a6d7ad417fe8e6.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMills",
+   "description": "#CSGO_Collectible_MapTokenMills_Desc"
+  }
+ },
+ {
+  "id": "18295956415971328",
+  "def_index": 4943,
+  "name": "Assembly Map Coin",
+  "description": "Commemorates authorship of the CS2 Map 'Assembly'",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_assembly.edb3b3eec553e4058146c0501fb24417ce6d87bb.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenAssembly",
+   "description": "#CSGO_Collectible_MapTokenAssembly_Desc"
+  }
+ },
+ {
+  "id": "18295956432748544",
+  "def_index": 4944,
+  "name": "Memento Map Coin",
+  "description": "Commemorates authorship of the CS2 Map 'Memento'",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_memento.c3e3db7169b0e04b45913249bea9133cfe79e6c0.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenMemento",
+   "description": "#CSGO_Collectible_MapTokenMemento_Desc"
+  }
+ },
+ {
+  "id": "18295956449525760",
+  "def_index": 4945,
+  "name": "Pool Day Map Coin",
+  "description": "Commemorates authorship of the CS2 Map 'Pool Day'",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_poolday.515d7fcb460f36eb7aca51bae54c127d3b9c3f25.png",
+  "i18n": {
+   "name": "#CSGO_Collectible_MapTokenPoolDay",
+   "description": "#CSGO_Collectible_MapTokenPoolDay_Desc"
+  }
+ },
+ {
   "id": "18014481573478400",
   "def_index": 4951,
   "name": "2025 Service Medal",
@@ -21473,6 +20324,182 @@
   "i18n": {
    "name": "#CSGO_Collectible_PremierSeason2Coin",
    "description": "#CSGO_Collectible_PremierSeason2Coin_Desc"
+  }
+ },
+ {
+  "id": "17170059310923776",
+  "def_index": 5110,
+  "name": "Austin 2025 Viewer Pass",
+  "description": "This is a sealed BLAST.tv Austin 2025 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Austin 2025 Coin tracking your progress throughout the event, full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nw_DFIoaf4P_08I6DAXDaUkbcj6LJoHiqwxht1sG7VmY6geH-WOFQpW8N1ReAU8k7vEeyWaG4",
+  "i18n": {
+   "name": "#CSGO_TournamentPass_aus2025",
+   "description": "#CSGO_TournamentPass_aus2025_Desc"
+  }
+ },
+ {
+  "id": "18295959234543616",
+  "def_index": 5111,
+  "name": "Austin 2025 Coin",
+  "description": "This is a commemorative BLAST.tv Austin 2025 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nj8itV0PC8Z6p3Jb7LVjLIlr5y6LVtG3vix09y5GqBmN78dXyRaAQpC5RyTeRc5ETrlNbjKaq8sBKkzPn2",
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_aus2025"
+  }
+ },
+ {
+  "id": "18295959251320832",
+  "def_index": 5112,
+  "name": "Austin 2025 Silver Coin",
+  "description": "This is a commemorative BLAST.tv Austin 2025 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nj8itV0OGnZLJoMr6XXzPElbontOA_GCuxxBwi5TvSmNr8eXuTa1AnW8R1Q-8P4EO7koflKaq8sJ7gmqUN",
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_aus2025_Silver"
+  }
+ },
+ {
+  "id": "18295959268098048",
+  "def_index": 5113,
+  "name": "Austin 2025 Gold Coin",
+  "description": "This is a commemorative BLAST.tv Austin 2025 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nj8itV0PWhZKAjcPSXXTCUkuou4bA5SnCwlE5w5znRwt34eHifPQIpApJ2FuEC5ELqmsqnab0HwOPUTg",
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_aus2025_Gold"
+  }
+ },
+ {
+  "id": "18295959284875264",
+  "def_index": 5114,
+  "name": "Austin 2025 Diamond Coin",
+  "description": "This is a commemorative BLAST.tv Austin 2025 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Austin 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nj8itV0PG8cbd5IfzdXj6Tlrgjs7cxGHuxlk4jtj_cmIuvIy6UPwd2A5V5QuZbtUO7k9LnP_SiuVImaF0ksw",
+  "i18n": {
+   "name": "#CSGO_TournamentJournal_aus2025_Crystal"
+  }
+ },
+ {
+  "id": "17170059394809856",
+  "def_index": 5115,
+  "name": "Austin 2025 Viewer Pass + 3 Souvenir Tokens",
+  "description": "This is a sealed BLAST.tv Austin 2025 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Austin 2025 Coin tracking your progress throughout the event, full access to the Austin 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Austin 2025 Coin by completing the coin challenges. Earn a Souvenir Token every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Austin 2025 Coin with 3 Souvenir Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK760z0E02jy6nw_DFI0OKva68jIfGXXTGSw7wh4LI_SnyxwR5wtjvdzYmgJ33CZ1UpCcMmQuNYtBKxlsqnab2J7tioNw",
+  "i18n": {
+   "name": "#CSGO_TournamentPass_aus2025_pack",
+   "description": "#CSGO_TournamentPass_aus2025_pack_Desc"
+  }
+ },
+ {
+  "id": "18858909271851008",
+  "def_index": 5116,
+  "name": "Austin 2025 Souvenir Package",
+  "description": "This is a sealed BLAST.tv Austin 2025 CS2 Major Championship Souvenir Package.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/aus2025_pass_charge_png.png",
+  "i18n": {
+   "name": "#CSGO_TournamentPass_aus2025_charge",
+   "description": "#CSGO_TournamentPass_aus2025_charge_Desc"
+  }
+ },
+ {
+  "id": "18577434479689728",
+  "def_index": 5127,
+  "name": "Champion at BLAST.tv Austin 2025",
+  "description": "This championship trophy was awarded to the Champion at the BLAST.tv Austin 2025 CS2 Major Championship.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/trophy_cs2_champions.ff92a67b03564c52b2aa09ff7c4153ae758cb78f.png",
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_aus2025_Champion",
+   "description": "#CSGO_CollectibleCoin_aus2025_Champion_Desc"
+  }
+ },
+ {
+  "id": "18577434496466944",
+  "def_index": 5128,
+  "name": "Finalist at BLAST.tv Austin 2025",
+  "description": "This championship trophy was awarded to the Finalist at the BLAST.tv Austin 2025 CS2 Major Championship.",
+  "type": {
+   "id": 60,
+   "name": "Collectible"
+  },
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/trophy_cs2_finalists.bc85f1ccae1da92186fa12c2265435d6d192b377.png",
+  "i18n": {
+   "name": "#CSGO_CollectibleCoin_aus2025_Finalist",
+   "description": "#CSGO_CollectibleCoin_aus2025_Finalist_Desc"
   }
  },
  {

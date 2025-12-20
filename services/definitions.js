@@ -74,7 +74,20 @@ export const getDefinitions = async () => {
                     color: getRarityColor("rarity_default")
                 },
                 image: "econ/tools/spray" // Approximated
-            }
+            },
+            {
+                def_index: 4609,
+                id: ItemIdPacker.pack(ITEM_TYPES.Patch, 4609),
+                name_token: '#CSGO_Tool_Patch',
+                description_token: '#CSGO_Tool_Patch_Desc',
+                type: { id: ITEM_TYPES.Patch, name: ITEM_TYPE_NAMES[ITEM_TYPES.Patch] },
+                rarity: {
+                    id: "rarity_default",
+                    name: $t("rarity_default"),
+                    color: getRarityColor("rarity_default")
+                },
+                image: "econ/tools/patch" // Approximated
+            },
         ];
 
         // 1. Static Definitions
@@ -144,23 +157,7 @@ export const getDefinitions = async () => {
             }
         })));
 
-        // 5. Patches
-        const patches = readJson(`${basePath}/patches.json`);
-        definitions.push(...patches.map(i => ({
-            id: i.id,
-            def_index: Number(i.def_index) || 0,
-            name: i.name,
-            description: i.description,
-            type: { id: ITEM_TYPES.Patch, name: ITEM_TYPE_NAMES[ITEM_TYPES.Patch] },
-            rarity: i.rarity,
-            image: i.image,
-            i18n: {
-                name: i.i18n?.name,
-                description: i.i18n?.description
-            }
-        })));
-
-        // 6. Collectibles
+        // 5. Collectibles
         const collectibles = readJson(`${basePath}/collectibles.json`);
         definitions.push(...collectibles.map(i => ({
             id: i.id,
@@ -176,7 +173,7 @@ export const getDefinitions = async () => {
             }
         })));
 
-        // 7. Tools
+        // 6. Tools
         const tools = readJson(`${basePath}/tools.json`);
         definitions.push(...tools.map(i => ({
             id: i.id,
@@ -195,8 +192,6 @@ export const getDefinitions = async () => {
                 description: i.i18n?.description
             }
         })));
-
-
         
         // Remove duplicates if any (by def_index)
         const uniqueDefinitions = Array.from(
