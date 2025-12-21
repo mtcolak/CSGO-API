@@ -31,7 +31,8 @@ const parseItem = item => {
         id: ItemIdPacker.pack(ITEM_TYPES.Patch, item.object_id),
         name: $t(item.item_name),
         description: $t(item.description_string),
-        def_index: item.object_id,
+        def_index: 4609, // Patches have def_index 4609
+        sticker_index: item.object_id,
         type: {
             id: ITEM_TYPES.Patch,
             name: ITEM_TYPE_NAMES[ITEM_TYPES.Patch]
