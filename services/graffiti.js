@@ -39,11 +39,14 @@ const getMarketHashName = (item, colorKey) => {
     if (colorKey) {
         return `${$t("csgo_tool_spray", true)} | ${$t(item.item_name, true)} (${$t(colorKey, true)})`;
     }
+
+    // Update 12.21.2025 : Removed tournament_event_id check
     // The only sealed graffiti that has a market hash name are the
     // ones from: Atlanta 2017, Krakow 2017,  Boston 2018, London 2018.
-    if (item.tournament_event_id && ![11, 12, 13, 14].includes(item.tournament_event_id)) {
-        return null;
-    }
+    // if (item.tournament_event_id && ![11, 12, 13, 14].includes(item.tournament_event_id)) {
+    //     return null;
+    // }
+
     return `${$t("csgo_tool_spray", true)} | ${$t(item.item_name, true)}`;
 };
 
