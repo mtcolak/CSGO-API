@@ -63,9 +63,10 @@ const parseItemSealedGraffiti = item => {
             const colorKey = `attrib_spraytintvalue_${index}`;
             return {
                 id: ItemIdPacker.pack(ITEM_TYPES.Graffiti, item.object_id, index),
-                name: `${$t("csgo_tool_spray")} | ${$t(item.item_name)} (${$t(colorKey)})`,
+                name: $t(item.item_name),
                 description: getDescription(item),
-                def_index: item.object_id,
+                def_index: 1348,
+                sticker_index: item.object_id,
                 color_index: index,
                 type: {
                     id: ITEM_TYPES.Graffiti,
@@ -98,9 +99,10 @@ const parseItemSealedGraffiti = item => {
 
     return {
         id: ItemIdPacker.pack(ITEM_TYPES.Graffiti, item.object_id),
-        name: `${$t("csgo_tool_spray")} | ${$t(item.item_name)}`,
+        name: $t(item.item_name),
         description: getDescription(item),
-        def_index: item.object_id,
+        def_index: 1348,
+        sticker_index: item.object_id,
         type: {
             id: ITEM_TYPES.Graffiti,
             name: ITEM_TYPE_NAMES[ITEM_TYPES.Graffiti]

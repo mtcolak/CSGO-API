@@ -63,7 +63,7 @@ export const getDefinitions = async () => {
                 image: "econ/tools/music_kit" // Approximated
             },
             {
-                def_index: 1348,
+                def_index: 1348, // SprayKit (Graffiti)
                 id: ItemIdPacker.pack(ITEM_TYPES.Graffiti, 1348),
                 name_token: '#CSGO_Tool_Spray',
                 description_token: '#CSGO_Tool_Spray_Desc',
