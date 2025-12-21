@@ -29,7 +29,7 @@ const parseItem = item => {
 
     return {
         id: ItemIdPacker.pack(ITEM_TYPES.Patch, item.object_id),
-        name: `${$t("csgo_tool_patch")} | ${$t(item.item_name)}`,
+        name: $t(item.item_name),
         description: $t(item.description_string),
         def_index: item.object_id,
         type: {

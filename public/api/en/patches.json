@@ -1,7 +1,7 @@
 [
  {
   "id": "6755475777388544",
-  "name": "Patch | Crazy Banana",
+  "name": "Crazy Banana",
   "description": "<i>Agent for scale</i>",
   "def_index": "4550",
   "type": {
@@ -26,7 +26,7 @@
  },
  {
   "id": "6755475794165760",
-  "name": "Patch | The Boss",
+  "name": "The Boss",
   "description": "<i>Heavy is the agent that wears the crown</i>",
   "def_index": "4551",
   "type": {
@@ -51,7 +51,7 @@
  },
  {
   "id": "6755475810942976",
-  "name": "Patch | Chicken Lover",
+  "name": "Chicken Lover",
   "description": "<i>Thank you for sparing them</i>",
   "def_index": "4552",
   "type": {
@@ -76,7 +76,7 @@
  },
  {
   "id": "6755475827720192",
-  "name": "Patch | Welcome to the Clutch",
+  "name": "Welcome to the Clutch",
   "description": "<i>4K's are the norm to an agent wearing this patch</i>",
   "def_index": "4553",
   "type": {
@@ -101,7 +101,7 @@
  },
  {
   "id": "6755475844497408",
-  "name": "Patch | Dragon",
+  "name": "Dragon",
   "description": "<i>This patch features a dragon flanked on either side by the iconic AK-47</i>",
   "def_index": "4554",
   "type": {
@@ -126,7 +126,7 @@
  },
  {
   "id": "6755475861274624",
-  "name": "Patch | Easy Peasy",
+  "name": "Easy Peasy",
   "description": "<i>This patch somehow made it through quality control misspelling \\\"SQEEZY\\\"</i>",
   "def_index": "4555",
   "type": {
@@ -151,7 +151,7 @@
  },
  {
   "id": "6755475878051840",
-  "name": "Patch | Rage",
+  "name": "Rage",
   "description": "<i>A patch signifying rage, anger, or fury</i>",
   "def_index": "4556",
   "type": {
@@ -176,7 +176,7 @@
  },
  {
   "id": "6755475894829056",
-  "name": "Patch | Howl",
+  "name": "Howl",
   "description": "<i>This patch is worth its weight in red, orange, and gold</i>",
   "def_index": "4557",
   "type": {
@@ -201,7 +201,7 @@
  },
  {
   "id": "6755475911606272",
-  "name": "Patch | Koi",
+  "name": "Koi",
   "description": "<i>This patch features two Koi fish atop swirling blue water</i>",
   "def_index": "4558",
   "type": {
@@ -226,7 +226,7 @@
  },
  {
   "id": "6755475928383488",
-  "name": "Patch | Longevity",
+  "name": "Longevity",
   "description": "<i>This red and white patch features an artistic take on the \\\"CSGO\\\" logo</i>",
   "def_index": "4559",
   "type": {
@@ -251,7 +251,7 @@
  },
  {
   "id": "6755475945160704",
-  "name": "Patch | Wildfire",
+  "name": "Wildfire",
   "description": "<i>This patch features iconography from Operation Wildfire, which launched on February 17th, 2016</i>",
   "def_index": "4560",
   "type": {
@@ -276,7 +276,7 @@
  },
  {
   "id": "6755475961937920",
-  "name": "Patch | Vigilance",
+  "name": "Vigilance",
   "description": "<i>A patch for the lurker; a teammate who keeps a careful watch</i>",
   "def_index": "4561",
   "type": {
@@ -301,7 +301,7 @@
  },
  {
   "id": "6755475978715136",
-  "name": "Patch | Bloodhound",
+  "name": "Bloodhound",
   "description": "<i>This patch features iconography from Operation Bloodhound, which launched on May 26th, 2015</i>",
   "def_index": "4562",
   "type": {
@@ -326,7 +326,7 @@
  },
  {
   "id": "6755475995492352",
-  "name": "Patch | Bravo",
+  "name": "Bravo",
   "description": "<i>This patch features iconography from Operation Bravo, which launched on September 19th, 2013</i>",
   "def_index": "4563",
   "type": {
@@ -351,7 +351,7 @@
  },
  {
   "id": "6755476012269568",
-  "name": "Patch | Breakout",
+  "name": "Breakout",
   "description": "<i>This patch features iconography from Operation Breakout, which launched on July 1st, 2014</i>",
   "def_index": "4564",
   "type": {
@@ -376,7 +376,7 @@
  },
  {
   "id": "6755476029046784",
-  "name": "Patch | Danger Zone",
+  "name": "Danger Zone",
   "description": "<i>This patch features iconography from Danger Zone, which launched on December 6th, 2018</i>",
   "def_index": "4565",
   "type": {
@@ -401,7 +401,7 @@
  },
  {
   "id": "6755476045824000",
-  "name": "Patch | Hydra",
+  "name": "Hydra",
   "description": "<i>This patch features iconography from Operation Hydra, which launched on May 23rd, 2017</i>",
   "def_index": "4566",
   "type": {
@@ -426,7 +426,7 @@
  },
  {
   "id": "6755476062601216",
-  "name": "Patch | Payback",
+  "name": "Payback",
   "description": "<i>This patch features iconography from Operation Payback, which launched on April 25th, 2013</i>",
   "def_index": "4567",
   "type": {
@@ -451,7 +451,7 @@
  },
  {
   "id": "6755476079378432",
-  "name": "Patch | Phoenix",
+  "name": "Phoenix",
   "description": "<i>This patch features iconography from Operation Phoenix, which launched on February 20th, 2014</i>",
   "def_index": "4568",
   "type": {
@@ -476,7 +476,7 @@
  },
  {
   "id": "6755476096155648",
-  "name": "Patch | Shattered Web",
+  "name": "Shattered Web",
   "description": "<i>This patch features iconography from Operation Shattered Web, which launched on November 18th, 2019</i>",
   "def_index": "4569",
   "type": {
@@ -501,7 +501,7 @@
  },
  {
   "id": "6755476112932864",
-  "name": "Patch | Vanguard",
+  "name": "Vanguard",
   "description": "<i>This patch features iconography from Operation Vanguard, which launched on November 11th, 2014</i>",
   "def_index": "4570",
   "type": {
@@ -526,7 +526,7 @@
  },
  {
   "id": "6755476129710080",
-  "name": "Patch | Metal Silver",
+  "name": "Metal Silver",
   "description": "<i>A patch for those taking their first step on the road to Global.</i>",
   "def_index": "4571",
   "type": {
@@ -551,7 +551,7 @@
  },
  {
   "id": "6755476146487296",
-  "name": "Patch | Metal Gold Nova I",
+  "name": "Metal Gold Nova I",
   "description": "<i>Made it out of Silver? There's still work to do.</i>",
   "def_index": "4572",
   "type": {
@@ -576,7 +576,7 @@
  },
  {
   "id": "6755476196818944",
-  "name": "Patch | Metal Gold Nova Master",
+  "name": "Metal Gold Nova Master",
   "description": "<i>And you thought Silver was hard to get out of...</i>",
   "def_index": "4575",
   "type": {
@@ -601,7 +601,7 @@
  },
  {
   "id": "6755476213596160",
-  "name": "Patch | Metal Master Guardian I",
+  "name": "Metal Master Guardian I",
   "description": "<i>Escaped Gold Nova? Good, you're learning.</i>",
   "def_index": "4576",
   "type": {
@@ -626,7 +626,7 @@
  },
  {
   "id": "6755476247150592",
-  "name": "Patch | Metal Master Guardian Elite",
+  "name": "Metal Master Guardian Elite",
   "description": "<i>Expertly crafted, the silver thread on this MGE patch jumps off the navy background.</i>",
   "def_index": "4578",
   "type": {
@@ -651,7 +651,7 @@
  },
  {
   "id": "6755476263927808",
-  "name": "Patch | Metal Distinguished Master Guardian ★",
+  "name": "Metal Distinguished Master Guardian ★",
   "description": "<i>Individuals must bend, adapt, and work together to achieve the Skill Group of DMG. Keep climbing.</i>",
   "def_index": "4579",
   "type": {
@@ -676,7 +676,7 @@
  },
  {
   "id": "6755476297482240",
-  "name": "Patch | Metal Legendary Eagle Master ★",
+  "name": "Metal Legendary Eagle Master ★",
   "description": "<i>You're nearing the top, but those awaiting your challenge will show no mercy.</i>",
   "def_index": "4581",
   "type": {
@@ -701,7 +701,7 @@
  },
  {
   "id": "6755476314259456",
-  "name": "Patch | Metal Supreme Master First Class",
+  "name": "Metal Supreme Master First Class",
   "description": "<i>This Supreme patch features a heart-shaped globe and red and blue details.</i>",
   "def_index": "4582",
   "type": {
@@ -726,7 +726,7 @@
  },
  {
   "id": "6755476331036672",
-  "name": "Patch | Metal The Global Elite ★",
+  "name": "Metal The Global Elite ★",
   "description": "<i>Congratulations, you've arrived. Now the real challenge begins.</i>",
   "def_index": "4583",
   "type": {
@@ -751,7 +751,7 @@
  },
  {
   "id": "6755476347813888",
-  "name": "Patch | Metal Distinguished Master Guardian",
+  "name": "Metal Distinguished Master Guardian",
   "description": "<i>Individuals must bend, adapt, and work together to achieve the Skill Group of DMG. Keep climbing.</i>",
   "def_index": "4584",
   "type": {
@@ -776,7 +776,7 @@
  },
  {
   "id": "6755476364591104",
-  "name": "Patch | Metal Legendary Eagle",
+  "name": "Metal Legendary Eagle",
   "description": "<i>This Legendary Eagle patch includes a pair of golden wings.</i>",
   "def_index": "4585",
   "type": {
@@ -801,7 +801,7 @@
  },
  {
   "id": "6755476381368320",
-  "name": "Patch | Metal Legendary Eagle Master",
+  "name": "Metal Legendary Eagle Master",
   "description": "<i>You're nearing the top, but those awaiting your challenge will show no mercy.</i>",
   "def_index": "4586",
   "type": {
@@ -826,7 +826,7 @@
  },
  {
   "id": "6755476398145536",
-  "name": "Patch | Metal Silver Demon",
+  "name": "Metal Silver Demon",
   "description": "<i>\\\"Silver Hell\\\" isn't a place, it's a state of mind. And you can leave at any time.</i>",
   "def_index": "4587",
   "type": {
@@ -851,7 +851,7 @@
  },
  {
   "id": "6755476414922752",
-  "name": "Patch | Metal Supreme Master",
+  "name": "Metal Supreme Master",
   "description": "<i>A winged defuser is flanked by six stars on this SMFC patch.</i>",
   "def_index": "4588",
   "type": {
@@ -876,7 +876,7 @@
  },
  {
   "id": "6755476431699968",
-  "name": "Patch | Alyx",
+  "name": "Alyx",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4589",
   "type": {
@@ -901,7 +901,7 @@
  },
  {
   "id": "6755476465254400",
-  "name": "Patch | Sustenance!",
+  "name": "Sustenance!",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4591",
   "type": {
@@ -926,7 +926,7 @@
  },
  {
   "id": "6755476482031616",
-  "name": "Patch | Vortigaunt",
+  "name": "Vortigaunt",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4592",
   "type": {
@@ -951,7 +951,7 @@
  },
  {
   "id": "6755476498808832",
-  "name": "Patch | Headcrab Glyph",
+  "name": "Headcrab Glyph",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4593",
   "type": {
@@ -976,7 +976,7 @@
  },
  {
   "id": "6755476515586048",
-  "name": "Patch | Copper Lambda",
+  "name": "Copper Lambda",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4594",
   "type": {
@@ -1001,7 +1001,7 @@
  },
  {
   "id": "6755476532363264",
-  "name": "Patch | Health",
+  "name": "Health",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4595",
   "type": {
@@ -1026,7 +1026,7 @@
  },
  {
   "id": "6755476549140480",
-  "name": "Patch | Combine Helmet",
+  "name": "Combine Helmet",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4596",
   "type": {
@@ -1051,7 +1051,7 @@
  },
  {
   "id": "6755476565917696",
-  "name": "Patch | Black Mesa",
+  "name": "Black Mesa",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4597",
   "type": {
@@ -1076,7 +1076,7 @@
  },
  {
   "id": "6755476582694912",
-  "name": "Patch | CMB",
+  "name": "CMB",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4598",
   "type": {
@@ -1101,7 +1101,7 @@
  },
  {
   "id": "6755476599472128",
-  "name": "Patch | Lambda",
+  "name": "Lambda",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4599",
   "type": {
@@ -1126,7 +1126,7 @@
  },
  {
   "id": "6755476616249344",
-  "name": "Patch | City 17",
+  "name": "City 17",
   "description": "Half-Life: Alyx Commemorative Patch",
   "def_index": "4600",
   "type": {
@@ -1151,7 +1151,7 @@
  },
  {
   "id": "6755478243639296",
-  "name": "Patch | Metal The Global Elite",
+  "name": "Metal The Global Elite",
   "description": "<i>Congratulations, you've arrived. Now the real challenge begins.</i>",
   "def_index": "4697",
   "type": {
@@ -1176,7 +1176,7 @@
  },
  {
   "id": "6755478277193728",
-  "name": "Patch | Metal Master Guardian",
+  "name": "Metal Master Guardian",
   "description": "<i>Escaped Gold Nova? Good, you're learning.</i>",
   "def_index": "4699",
   "type": {
@@ -1201,7 +1201,7 @@
  },
  {
   "id": "6755478293970944",
-  "name": "Patch | Metal Gold Nova",
+  "name": "Metal Gold Nova",
   "description": "<i>Made it out of Silver? There's still work to do.</i>",
   "def_index": "4700",
   "type": {
@@ -1226,7 +1226,7 @@
  },
  {
   "id": "6755482270171136",
-  "name": "Patch | Abandon Hope",
+  "name": "Abandon Hope",
   "description": "<i>All ye who dare enter...</i>",
   "def_index": "4937",
   "type": {
@@ -1251,7 +1251,7 @@
  },
  {
   "id": "6755482286948352",
-  "name": "Patch | Anchors Aweigh",
+  "name": "Anchors Aweigh",
   "description": "<i>Staying still in stormy seas...</i>",
   "def_index": "4938",
   "type": {
@@ -1276,7 +1276,7 @@
  },
  {
   "id": "6755482303725568",
-  "name": "Patch | Cruising Ray",
+  "name": "Cruising Ray",
   "description": "<i>Glides below the waves...</i>",
   "def_index": "4939",
   "type": {
@@ -1301,7 +1301,7 @@
  },
  {
   "id": "6755482320502784",
-  "name": "Patch | Bayonet Frog",
+  "name": "Bayonet Frog",
   "description": "<i>Don't give up 'till you croak...</i>",
   "def_index": "4940",
   "type": {
@@ -1326,7 +1326,7 @@
  },
  {
   "id": "6755482337280000",
-  "name": "Patch | Mad Sushi",
+  "name": "Mad Sushi",
   "description": "<i>Roll the enemy!</i>",
   "def_index": "4941",
   "type": {
@@ -1351,7 +1351,7 @@
  },
  {
   "id": "6755482354057216",
-  "name": "Patch | Giant Squid",
+  "name": "Giant Squid",
   "description": "<i>Draws its prey into the depths...</i>",
   "def_index": "4942",
   "type": {
@@ -1376,7 +1376,7 @@
  },
  {
   "id": "6755482370834432",
-  "name": "Patch | El Pirata",
+  "name": "El Pirata",
   "description": "<i>Small bites; team effort...</i>",
   "def_index": "4943",
   "type": {
@@ -1401,7 +1401,7 @@
  },
  {
   "id": "6755482387611648",
-  "name": "Patch | Death From Below",
+  "name": "Death From Below",
   "description": "<i>Look out above...</i>",
   "def_index": "4944",
   "type": {
@@ -1426,7 +1426,7 @@
  },
  {
   "id": "6755482404388864",
-  "name": "Patch | Dead Men",
+  "name": "Dead Men",
   "description": "<i>Universal sigil of danger...</i>",
   "def_index": "4945",
   "type": {
@@ -1451,7 +1451,7 @@
  },
  {
   "id": "6755482421166080",
-  "name": "Patch | Sunset Wave",
+  "name": "Sunset Wave",
   "description": "<i>A new day on the ocean...</i>",
   "def_index": "4946",
   "type": {
@@ -1476,7 +1476,7 @@
  },
  {
   "id": "6755482437943296",
-  "name": "Patch | Aquatic Offensive",
+  "name": "Aquatic Offensive",
   "description": "<i>Fish on the Go</i>",
   "def_index": "4947",
   "type": {
@@ -1501,7 +1501,7 @@
  },
  {
   "id": "6755482454720512",
-  "name": "Patch | Elder God",
+  "name": "Elder God",
   "description": "<i>Cthulhu approves those who defuse...</i>",
   "def_index": "4948",
   "type": {
@@ -1526,7 +1526,7 @@
  },
  {
   "id": "6755482471497728",
-  "name": "Patch | Meal Time",
+  "name": "Meal Time",
   "description": "<i>Hungry for victory...</i>",
   "def_index": "4949",
   "type": {
@@ -1551,7 +1551,7 @@
  },
  {
   "id": "6755484652535808",
-  "name": "Patch | Ninjas in Pyjamas | Stockholm 2021",
+  "name": "Ninjas in Pyjamas | Stockholm 2021",
   "description": null,
   "def_index": "5079",
   "type": {
@@ -1576,7 +1576,7 @@
  },
  {
   "id": "6755484669313024",
-  "name": "Patch | Ninjas in Pyjamas (Gold) | Stockholm 2021",
+  "name": "Ninjas in Pyjamas (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5080",
   "type": {
@@ -1601,7 +1601,7 @@
  },
  {
   "id": "6755484686090240",
-  "name": "Patch | FURIA | Stockholm 2021",
+  "name": "FURIA | Stockholm 2021",
   "description": null,
   "def_index": "5081",
   "type": {
@@ -1626,7 +1626,7 @@
  },
  {
   "id": "6755484702867456",
-  "name": "Patch | FURIA (Gold) | Stockholm 2021",
+  "name": "FURIA (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5082",
   "type": {
@@ -1651,7 +1651,7 @@
  },
  {
   "id": "6755484719644672",
-  "name": "Patch | Natus Vincere | Stockholm 2021",
+  "name": "Natus Vincere | Stockholm 2021",
   "description": null,
   "def_index": "5083",
   "type": {
@@ -1676,7 +1676,7 @@
  },
  {
   "id": "6755484736421888",
-  "name": "Patch | Natus Vincere (Gold) | Stockholm 2021",
+  "name": "Natus Vincere (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5084",
   "type": {
@@ -1701,7 +1701,7 @@
  },
  {
   "id": "6755484753199104",
-  "name": "Patch | Vitality | Stockholm 2021",
+  "name": "Vitality | Stockholm 2021",
   "description": null,
   "def_index": "5085",
   "type": {
@@ -1726,7 +1726,7 @@
  },
  {
   "id": "6755484769976320",
-  "name": "Patch | Vitality (Gold) | Stockholm 2021",
+  "name": "Vitality (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5086",
   "type": {
@@ -1751,7 +1751,7 @@
  },
  {
   "id": "6755484786753536",
-  "name": "Patch | Team Liquid | Stockholm 2021",
+  "name": "Team Liquid | Stockholm 2021",
   "description": null,
   "def_index": "5087",
   "type": {
@@ -1776,7 +1776,7 @@
  },
  {
   "id": "6755484803530752",
-  "name": "Patch | Team Liquid (Gold) | Stockholm 2021",
+  "name": "Team Liquid (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5088",
   "type": {
@@ -1801,7 +1801,7 @@
  },
  {
   "id": "6755484820307968",
-  "name": "Patch | Gambit Gaming | Stockholm 2021",
+  "name": "Gambit Gaming | Stockholm 2021",
   "description": null,
   "def_index": "5089",
   "type": {
@@ -1826,7 +1826,7 @@
  },
  {
   "id": "6755484837085184",
-  "name": "Patch | Gambit Gaming (Gold) | Stockholm 2021",
+  "name": "Gambit Gaming (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5090",
   "type": {
@@ -1851,7 +1851,7 @@
  },
  {
   "id": "6755484853862400",
-  "name": "Patch | G2 Esports | Stockholm 2021",
+  "name": "G2 Esports | Stockholm 2021",
   "description": null,
   "def_index": "5091",
   "type": {
@@ -1876,7 +1876,7 @@
  },
  {
   "id": "6755484870639616",
-  "name": "Patch | G2 Esports (Gold) | Stockholm 2021",
+  "name": "G2 Esports (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5092",
   "type": {
@@ -1901,7 +1901,7 @@
  },
  {
   "id": "6755484887416832",
-  "name": "Patch | Evil Geniuses | Stockholm 2021",
+  "name": "Evil Geniuses | Stockholm 2021",
   "description": null,
   "def_index": "5093",
   "type": {
@@ -1926,7 +1926,7 @@
  },
  {
   "id": "6755484904194048",
-  "name": "Patch | Evil Geniuses (Gold) | Stockholm 2021",
+  "name": "Evil Geniuses (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5094",
   "type": {
@@ -1951,7 +1951,7 @@
  },
  {
   "id": "6755484920971264",
-  "name": "Patch | Team Spirit | Stockholm 2021",
+  "name": "Team Spirit | Stockholm 2021",
   "description": null,
   "def_index": "5095",
   "type": {
@@ -1976,7 +1976,7 @@
  },
  {
   "id": "6755484937748480",
-  "name": "Patch | Team Spirit (Gold) | Stockholm 2021",
+  "name": "Team Spirit (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5096",
   "type": {
@@ -2001,7 +2001,7 @@
  },
  {
   "id": "6755484954525696",
-  "name": "Patch | Astralis | Stockholm 2021",
+  "name": "Astralis | Stockholm 2021",
   "description": null,
   "def_index": "5097",
   "type": {
@@ -2026,7 +2026,7 @@
  },
  {
   "id": "6755484971302912",
-  "name": "Patch | Astralis (Gold) | Stockholm 2021",
+  "name": "Astralis (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5098",
   "type": {
@@ -2051,7 +2051,7 @@
  },
  {
   "id": "6755484988080128",
-  "name": "Patch | paiN Gaming | Stockholm 2021",
+  "name": "paiN Gaming | Stockholm 2021",
   "description": null,
   "def_index": "5099",
   "type": {
@@ -2076,7 +2076,7 @@
  },
  {
   "id": "6755485004857344",
-  "name": "Patch | paiN Gaming (Gold) | Stockholm 2021",
+  "name": "paiN Gaming (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5100",
   "type": {
@@ -2101,7 +2101,7 @@
  },
  {
   "id": "6755485021634560",
-  "name": "Patch | ENCE | Stockholm 2021",
+  "name": "ENCE | Stockholm 2021",
   "description": null,
   "def_index": "5101",
   "type": {
@@ -2126,7 +2126,7 @@
  },
  {
   "id": "6755485038411776",
-  "name": "Patch | ENCE (Gold) | Stockholm 2021",
+  "name": "ENCE (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5102",
   "type": {
@@ -2151,7 +2151,7 @@
  },
  {
   "id": "6755485055188992",
-  "name": "Patch | BIG | Stockholm 2021",
+  "name": "BIG | Stockholm 2021",
   "description": null,
   "def_index": "5103",
   "type": {
@@ -2176,7 +2176,7 @@
  },
  {
   "id": "6755485071966208",
-  "name": "Patch | BIG (Gold) | Stockholm 2021",
+  "name": "BIG (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5104",
   "type": {
@@ -2201,7 +2201,7 @@
  },
  {
   "id": "6755485088743424",
-  "name": "Patch | Movistar Riders | Stockholm 2021",
+  "name": "Movistar Riders | Stockholm 2021",
   "description": null,
   "def_index": "5105",
   "type": {
@@ -2226,7 +2226,7 @@
  },
  {
   "id": "6755485105520640",
-  "name": "Patch | Movistar Riders (Gold) | Stockholm 2021",
+  "name": "Movistar Riders (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5106",
   "type": {
@@ -2251,7 +2251,7 @@
  },
  {
   "id": "6755485122297856",
-  "name": "Patch | Heroic | Stockholm 2021",
+  "name": "Heroic | Stockholm 2021",
   "description": null,
   "def_index": "5107",
   "type": {
@@ -2276,7 +2276,7 @@
  },
  {
   "id": "6755485139075072",
-  "name": "Patch | Heroic (Gold) | Stockholm 2021",
+  "name": "Heroic (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5108",
   "type": {
@@ -2301,7 +2301,7 @@
  },
  {
   "id": "6755485155852288",
-  "name": "Patch | MOUZ | Stockholm 2021",
+  "name": "MOUZ | Stockholm 2021",
   "description": null,
   "def_index": "5109",
   "type": {
@@ -2326,7 +2326,7 @@
  },
  {
   "id": "6755485172629504",
-  "name": "Patch | MOUZ (Gold) | Stockholm 2021",
+  "name": "MOUZ (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5110",
   "type": {
@@ -2351,7 +2351,7 @@
  },
  {
   "id": "6755485189406720",
-  "name": "Patch | Sharks Esports | Stockholm 2021",
+  "name": "Sharks Esports | Stockholm 2021",
   "description": null,
   "def_index": "5111",
   "type": {
@@ -2376,7 +2376,7 @@
  },
  {
   "id": "6755485206183936",
-  "name": "Patch | Sharks Esports (Gold) | Stockholm 2021",
+  "name": "Sharks Esports (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5112",
   "type": {
@@ -2401,7 +2401,7 @@
  },
  {
   "id": "6755485222961152",
-  "name": "Patch | Tyloo | Stockholm 2021",
+  "name": "Tyloo | Stockholm 2021",
   "description": null,
   "def_index": "5113",
   "type": {
@@ -2426,7 +2426,7 @@
  },
  {
   "id": "6755485239738368",
-  "name": "Patch | Tyloo (Gold) | Stockholm 2021",
+  "name": "Tyloo (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5114",
   "type": {
@@ -2451,7 +2451,7 @@
  },
  {
   "id": "6755485256515584",
-  "name": "Patch | Renegades | Stockholm 2021",
+  "name": "Renegades | Stockholm 2021",
   "description": null,
   "def_index": "5115",
   "type": {
@@ -2476,7 +2476,7 @@
  },
  {
   "id": "6755485273292800",
-  "name": "Patch | Renegades (Gold) | Stockholm 2021",
+  "name": "Renegades (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5116",
   "type": {
@@ -2501,7 +2501,7 @@
  },
  {
   "id": "6755485290070016",
-  "name": "Patch | Entropiq | Stockholm 2021",
+  "name": "Entropiq | Stockholm 2021",
   "description": null,
   "def_index": "5117",
   "type": {
@@ -2526,7 +2526,7 @@
  },
  {
   "id": "6755485306847232",
-  "name": "Patch | Entropiq (Gold) | Stockholm 2021",
+  "name": "Entropiq (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5118",
   "type": {
@@ -2551,7 +2551,7 @@
  },
  {
   "id": "6755485323624448",
-  "name": "Patch | GODSENT | Stockholm 2021",
+  "name": "GODSENT | Stockholm 2021",
   "description": null,
   "def_index": "5119",
   "type": {
@@ -2576,7 +2576,7 @@
  },
  {
   "id": "6755485340401664",
-  "name": "Patch | GODSENT (Gold) | Stockholm 2021",
+  "name": "GODSENT (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5120",
   "type": {
@@ -2601,7 +2601,7 @@
  },
  {
   "id": "6755485357178880",
-  "name": "Patch | Virtus.Pro | Stockholm 2021",
+  "name": "Virtus.Pro | Stockholm 2021",
   "description": null,
   "def_index": "5121",
   "type": {
@@ -2626,7 +2626,7 @@
  },
  {
   "id": "6755485373956096",
-  "name": "Patch | Virtus.Pro (Gold) | Stockholm 2021",
+  "name": "Virtus.Pro (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5122",
   "type": {
@@ -2651,7 +2651,7 @@
  },
  {
   "id": "6755485390733312",
-  "name": "Patch | Copenhagen Flames | Stockholm 2021",
+  "name": "Copenhagen Flames | Stockholm 2021",
   "description": null,
   "def_index": "5123",
   "type": {
@@ -2676,7 +2676,7 @@
  },
  {
   "id": "6755485407510528",
-  "name": "Patch | Copenhagen Flames (Gold) | Stockholm 2021",
+  "name": "Copenhagen Flames (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5124",
   "type": {
@@ -2701,7 +2701,7 @@
  },
  {
   "id": "6755485424287744",
-  "name": "Patch | FaZe Clan | Stockholm 2021",
+  "name": "FaZe Clan | Stockholm 2021",
   "description": null,
   "def_index": "5125",
   "type": {
@@ -2726,7 +2726,7 @@
  },
  {
   "id": "6755485441064960",
-  "name": "Patch | FaZe Clan (Gold) | Stockholm 2021",
+  "name": "FaZe Clan (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5126",
   "type": {
@@ -2751,7 +2751,7 @@
  },
  {
   "id": "6755485457842176",
-  "name": "Patch | PGL | Stockholm 2021",
+  "name": "PGL | Stockholm 2021",
   "description": null,
   "def_index": "5127",
   "type": {
@@ -2776,7 +2776,7 @@
  },
  {
   "id": "6755485474619392",
-  "name": "Patch | PGL (Gold) | Stockholm 2021",
+  "name": "PGL (Gold) | Stockholm 2021",
   "description": null,
   "def_index": "5128",
   "type": {
