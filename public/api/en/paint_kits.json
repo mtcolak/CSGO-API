@@ -24653,6 +24653,766 @@
   }
  },
  {
+  "id": "paint-1356",
+  "paint_index": "1356",
+  "name": "The End",
+  "description": "It has been custom painted using eggplant and white colors with flames, roses, and \\\"the end\\\" in front of the trigger.\\n\\n<i>A tale of two sides</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 1
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_bw_the_end_awp_Tag",
+   "description": "PaintKit_soe_bw_the_end_awp"
+  }
+ },
+ {
+  "id": "paint-1357",
+  "paint_index": "1357",
+  "name": "Trace Lock",
+  "description": "A grayscale pattern of circles has been applied underneath a holographic design.\\n\\n<i>Graphical maps of holographic systems</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.7
+  },
+  "style": {
+   "id": 3,
+   "name": "Spray-Paint"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_ht_white_edges_Tag",
+   "description": "PaintKit_ht_white_edges"
+  }
+ },
+ {
+  "id": "paint-1358",
+  "paint_index": "1358",
+  "name": "Breakthrough",
+  "description": "A grayscale pattern featuring aggressive \\\"zed\\\" designs has been applied over a carbon fiber base.\\n\\n<i>+5 Weapon Handling Speed</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.75
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_zeds_Tag",
+   "description": "PaintKit_hye_zeds"
+  }
+ },
+ {
+  "id": "paint-1359",
+  "paint_index": "1359",
+  "name": "Grip Tape",
+  "description": "A pattern using different sheens of silver paint has been applied. Parts of the grip have been painted using a dark, matte paint to resemble grip tape.\\n\\n<i>Hold tight!</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.75
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_p2000_grips_Tag",
+   "description": "PaintKit_soe_p2000_grips"
+  }
+ },
+ {
+  "id": "paint-1360",
+  "paint_index": "1360",
+  "name": "The Daily Deagle",
+  "description": "A grayscale pattern has been applied.\\n\\n<i>From the pages of your favorite graphic novel</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.58
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_car_wrap_Tag",
+   "description": "PaintKit_hye_car_wrap"
+  }
+ },
+ {
+  "id": "paint-1361",
+  "paint_index": "1361",
+  "name": "Aeolian Light",
+  "description": "A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.65
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_abstract_knot_Tag",
+   "description": "PaintKit_hye_abstract_knot"
+  }
+ },
+ {
+  "id": "paint-1362",
+  "paint_index": "1362",
+  "name": "Creep",
+  "description": "It has been painted with gnarled branches and birds over a silver base.\\n\\n<i>\\\"They're circling...\\\"</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.8
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_aug_creep_Tag",
+   "description": "PaintKit_soe_aug_creep"
+  }
+ },
+ {
+  "id": "paint-1363",
+  "paint_index": "1363",
+  "name": "Dark Chamber",
+  "description": "The grip has been painted with a dark acrylic pour pattern.\\n\\n<i>Old money</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.80339
+  },
+  "style": {
+   "id": 7,
+   "name": "Custom Paint Job"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soch_smoke_grips_Tag",
+   "description": "PaintKit_soch_smoke_grips"
+  }
+ },
+ {
+  "id": "paint-1364",
+  "paint_index": "1364",
+  "name": "Aeolian Dark",
+  "description": "A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.65
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_abstract_knot_m4_Tag",
+   "description": "PaintKit_hye_abstract_knot_m4"
+  }
+ },
+ {
+  "id": "paint-1365",
+  "paint_index": "1365",
+  "name": "Vendetta",
+  "description": "It has been painted with a woodgrain pattern using high gloss paint.\\n\\n<i>Here—an axe for you to grind... - Booth, Arms Dealer</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_bw_blast_Tag",
+   "description": "PaintKit_soe_bw_blast"
+  }
+ },
+ {
+  "id": "paint-1366",
+  "paint_index": "1366",
+  "name": "Snow Splash",
+  "description": "A grayscale pattern featuring sharp, angular designs has been applied.\\n\\n<i>Unflinching</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_mp5_car_wrap4_Tag",
+   "description": "PaintKit_hye_mp5_car_wrap4"
+  }
+ },
+ {
+  "id": "paint-1367",
+  "paint_index": "1367",
+  "name": "Snow Splash",
+  "description": "A grayscale pattern featuring sharp, angular designs has been applied.\\n\\n<i>Unflinching</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 3,
+   "name": "Spray-Paint"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_mp5_car_wrap4_Tag",
+   "description": "PaintKit_hye_mp5_car_wrap4"
+  }
+ },
+ {
+  "id": "paint-1368",
+  "paint_index": "1368",
+  "name": "Currents",
+  "description": "A grayscale pattern highlighted by silver birds has been applied.\\n\\n<i>How's the view up there?</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.65
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_geobirds_Tag",
+   "description": "PaintKit_hye_geobirds"
+  }
+ },
+ {
+  "id": "paint-1369",
+  "paint_index": "1369",
+  "name": "Sleet",
+  "description": "An angular grayscale pattern has been applied.\\n\\n<i>Rich interiors suited for rough exteriors</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.7
+  },
+  "style": {
+   "id": 3,
+   "name": "Spray-Paint"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_car_wrap_3_Tag",
+   "description": "PaintKit_hye_car_wrap_3"
+  }
+ },
+ {
+  "id": "paint-1370",
+  "paint_index": "1370",
+  "name": "Sleet",
+  "description": "An angular grayscale pattern has been applied.\\n\\n<i>Rich interiors suited for rough exteriors</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.7
+  },
+  "style": {
+   "id": 3,
+   "name": "Spray-Paint"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_car_wrap_3_Tag",
+   "description": "PaintKit_hye_car_wrap_3"
+  }
+ },
+ {
+  "id": "paint-1371",
+  "paint_index": "1371",
+  "name": "Zinc",
+  "description": "A grayscale pattern has been applied.\\n\\n<i>A ripple in time</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 3,
+   "name": "Spray-Paint"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_chrome_ripple_Tag",
+   "description": "PaintKit_hye_chrome_ripple"
+  }
+ },
+ {
+  "id": "paint-1372",
+  "paint_index": "1372",
+  "name": "Sans Comic",
+  "description": "A grayscale pattern featuring high gloss silver paint has been applied.\\n\\n<i>\\\"The red light means it's recording\\\"</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.5
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_comic_shapes_Tag",
+   "description": "PaintKit_hye_comic_shapes"
+  }
+ },
+ {
+  "id": "paint-1373",
+  "paint_index": "1373",
+  "name": "Silver Pour",
+  "description": "A grayscale acrylic pour pattern has been applied.\\n\\n<i>In the end it all seems to come together</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.678431
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_acrylic_flow3_Tag",
+   "description": "PaintKit_soe_acrylic_flow3"
+  }
+ },
+ {
+  "id": "paint-1374",
+  "paint_index": "1374",
+  "name": "Bizoom",
+  "description": "A grayscale pattern has been applied.\\n\\n<i>Quickly, please!</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.58
+  },
+  "style": {
+   "id": 3,
+   "name": "Spray-Paint"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_car_wrap_bizon_Tag",
+   "description": "PaintKit_hye_car_wrap_bizon"
+  }
+ },
+ {
+  "id": "paint-1375",
+  "paint_index": "1375",
+  "name": "Dizzy",
+  "description": "A grayscale DDPAT has been applied.\\n\\n<i>Round and round we go</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.65
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_ddpat_swirl_bw_Tag",
+   "description": "PaintKit_soe_ddpat_swirl_bw"
+  }
+ },
+ {
+  "id": "paint-1376",
+  "paint_index": "1376",
+  "name": "Party Animal",
+  "description": "A bright, neon-colored animal print pattern has been applied.\\n\\n<i>You said \\\"a few colors\\\", not \\\"the entire color spectrum\\\"</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_animal_print_90s_Tag",
+   "description": "PaintKit_hye_animal_print_90s"
+  }
+ },
+ {
+  "id": "paint-1377",
+  "paint_index": "1377",
+  "name": "Sleeping Potion",
+  "description": "A purple camo pattern with a pearlescent finish has been applied.\\n\\n<i>A new brew!</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.7
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_purple_Tag",
+   "description": "PaintKit_soe_purple"
+  }
+ },
+ {
+  "id": "paint-1378",
+  "paint_index": "1378",
+  "name": "Exothermic",
+  "description": "A red-colored burst pattern has been applied.\\n\\n<i>\\\"Cool guys don't look at explosions\\\"</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.7
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_firework_patches_Tag",
+   "description": "PaintKit_hye_firework_patches"
+  }
+ },
+ {
+  "id": "paint-1379",
+  "paint_index": "1379",
+  "name": "Calligrafaux",
+  "description": "A red calligraphy design has been applied.\\n\\n<i>Put it in writing</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 1
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_ht_red_edges_fineline_Tag",
+   "description": "PaintKit_ht_red_edges_fineline"
+  }
+ },
+ {
+  "id": "paint-1380",
+  "paint_index": "1380",
+  "name": "Fraise Crane",
+  "description": "A pink and white pattern of cranes and flowers has been applied.\\n\\n<i>Best paired with a glass of sherry</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.65
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_pink_cranes_Tag",
+   "description": "PaintKit_soe_pink_cranes"
+  }
+ },
+ {
+  "id": "paint-1381",
+  "paint_index": "1381",
+  "name": "XoooM",
+  "description": "A yellow pattern has been applied and finished with silver accents.\\n\\n<i>ZZZZZAP!</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_yellow_xm_Tag",
+   "description": "PaintKit_soe_yellow_xm"
+  }
+ },
+ {
+  "id": "paint-1382",
+  "paint_index": "1382",
+  "name": "Earth Mandala",
+  "description": "A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.66
+  },
+  "style": {
+   "id": 3,
+   "name": "Spray-Paint"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_earth_mandala_lc_Tag",
+   "description": "PaintKit_hye_earth_mandala_lc"
+  }
+ },
+ {
+  "id": "paint-1383",
+  "paint_index": "1383",
+  "name": "Sky Mandala",
+  "description": "A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.7
+  },
+  "style": {
+   "id": 3,
+   "name": "Spray-Paint"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_earth_mandala_Tag",
+   "description": "PaintKit_hye_earth_mandala"
+  }
+ },
+ {
+  "id": "paint-1384",
+  "paint_index": "1384",
+  "name": "Banana Leaf",
+  "description": "A yellow and black banana leaf pattern has been applied.\\n\\n<i>Rich in potassium</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_batik_eyes_tec9_Tag",
+   "description": "PaintKit_hye_batik_eyes_tec9"
+  }
+ },
+ {
+  "id": "paint-1385",
+  "paint_index": "1385",
+  "name": "Picnic",
+  "description": "A red pattern of offset X's has been applied.\\n\\n<i>It's a bit much, but isn't that the point? - Imogen, Arms Dealer In Training</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.75
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_red_Tag",
+   "description": "PaintKit_soe_red"
+  }
+ },
+ {
+  "id": "paint-1386",
+  "paint_index": "1386",
+  "name": "Coral Paisley",
+  "description": "A red and orange paisley pattern has been applied.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.65
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_paisley_warm_Tag",
+   "description": "PaintKit_hye_paisley_warm"
+  }
+ },
+ {
+  "id": "paint-1387",
+  "paint_index": "1387",
+  "name": "Warm Blooded",
+  "description": "A tan and red animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.7
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_test_animal_print_45_Tag",
+   "description": "PaintKit_hye_test_animal_print_45"
+  }
+ },
+ {
+  "id": "paint-1388",
+  "paint_index": "1388",
+  "name": "Bee-Tron",
+  "description": "Primarily silver, the grooves of this MP9 have been filled with yellow and red paint.\\n\\n<i>Hold me back!</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.9
+  },
+  "style": {
+   "id": 1,
+   "name": "Solid Color"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soe_yellow_bits_Tag",
+   "description": "PaintKit_soe_yellow_bits"
+  }
+ },
+ {
+  "id": "paint-1389",
+  "paint_index": "1389",
+  "name": "Mauve Aside",
+  "description": "The grip has been painted with a plum-colored acrylic pour pattern.\\n\\n<i>A gentle pour</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.80339
+  },
+  "style": {
+   "id": 7,
+   "name": "Custom Paint Job"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_soch_copper_accent_revolver_Tag",
+   "description": "PaintKit_soch_copper_accent_revolver"
+  }
+ },
+ {
+  "id": "paint-1390",
+  "paint_index": "1390",
+  "name": "Honey Paisley",
+  "description": "It has been painted with a gold-colored paisley pattern over a wine-colored base.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_paisley_desat_Tag",
+   "description": "PaintKit_hye_paisley_desat"
+  }
+ },
+ {
+  "id": "paint-1391",
+  "paint_index": "1391",
+  "name": "Crimson Batik",
+  "description": "A crimson and black banana leaf pattern has been applied.\\n\\n<i>Moving targets</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_batik_eyes_Tag",
+   "description": "PaintKit_hye_batik_eyes"
+  }
+ },
+ {
+  "id": "paint-1392",
+  "paint_index": "1392",
+  "name": "Thermal Currents",
+  "description": "Silver birds have been applied over a wine-colored pattern.\\n\\n<i>How's the view up there?</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.6
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_geobirds_sunrise_Tag",
+   "description": "PaintKit_hye_geobirds_sunrise"
+  }
+ },
+ {
+  "id": "paint-1393",
+  "paint_index": "1393",
+  "name": "Byproduct",
+  "description": "A gold-colored burst pattern has been applied.\\n\\n<i>\\\"Cool guys don't look at explosions\\\"</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.55
+  },
+  "style": {
+   "id": 3,
+   "name": "Spray-Paint"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_firework_patches_famas_Tag",
+   "description": "PaintKit_hye_firework_patches_famas"
+  }
+ },
+ {
+  "id": "paint-1394",
+  "paint_index": "1394",
+  "name": "Safari Print",
+  "description": "A brown animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 0.7
+  },
+  "style": {
+   "id": 2,
+   "name": "Hydrographic"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_hye_animal_print_lc_Tag",
+   "description": "PaintKit_hye_animal_print_lc"
+  }
+ },
+ {
+  "id": "paint-1397",
+  "paint_index": "1397",
+  "name": "Aphrodite",
+  "description": "The receiver and barrel have been painted with metallic paint. The hand guard and butt stock have been painted to resemble Mother of Pearl.\\n\\n<i>From a different plane</i>",
+  "wear": {
+   "wear_remap_min": 0,
+   "wear_remap_max": 1
+  },
+  "style": {
+   "id": 9,
+   "name": "Gunsmith"
+  },
+  "phase": {},
+  "i18n": {
+   "name": "PaintKit_gsch_ak_djiin_Tag",
+   "description": "PaintKit_gsch_ak_djiin"
+  }
+ },
+ {
   "id": "paint-10006",
   "paint_index": "10006",
   "name": "Charred",
